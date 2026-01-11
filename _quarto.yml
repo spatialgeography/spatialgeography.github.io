@@ -69,15 +69,15 @@ website:
         href: blog.xml
       - icon: github
         aria-label: GitHub
-        href: https://github.com/jadeynryan
+        href: https://github.com/spatialgeography
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/jadey-ryan/
       - text: "{{< iconify simple-icons bluesky >}}"
-        href: https://bsky.app/profile/jadeynryan.bsky.social
+        href: https://bsky.app/profile/spatialgeography.bsky.social
       - icon: mastodon
         aria-label: Mastodon
-        href: https://fosstodon.org/@jadeynryan
+        href: https://fosstodon.org/@spatialgeography
         rel: me
       - text: "{{< iconify simple-icons kofi size=1.15em title='Support Me' >}}"
         href: https://ko-fi.com/jadeyryan
@@ -99,7 +99,7 @@ format:
     theme: [flatly, assets/styling/theme.scss]
     toc: true
     toc-depth: 4
-    pagetitle: "{{< meta title >}} | Jadey Ryan"
+    pagetitle: "{{< meta title >}} | Spatial Geography"
     page-layout: article
     smooth-scroll: true
     link-external-newwindow: true

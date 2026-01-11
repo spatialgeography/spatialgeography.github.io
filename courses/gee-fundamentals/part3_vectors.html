@@ -9,7 +9,7 @@
 <meta name="author" content="Pulakesh Pradhan">
 <meta name="dcterms.date" content="2025-01-11">
 
-<title>Module 3: Vectors, Assets &amp; Charts | Jadey Ryan – Spatial Geography</title>
+<title>Part 3: Spatial Operations &amp; Charting | Spatial Geography – Spatial Geography</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -138,11 +138,11 @@ cookieconsent.run({
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<meta property="og:title" content="Module 3: Vectors, Assets &amp; Charts | Jadey Ryan">
+<meta property="og:title" content="Part 3: Spatial Operations &amp; Charting | Spatial Geography">
 <meta property="og:description" content="Spatial Analysis and Geography">
 <meta property="og:site_name" content="Spatial Geography">
 <meta property="og:locale" content="en_EN">
-<meta name="twitter:title" content="Module 3: Vectors, Assets &amp; Charts | Jadey Ryan">
+<meta name="twitter:title" content="Part 3: Spatial Operations &amp; Charting | Spatial Geography">
 <meta name="twitter:description" content="Spatial Analysis and Geography">
 <meta name="twitter:creator" content="@SpatialGeography">
 <meta name="twitter:card" content="summary">
@@ -224,7 +224,7 @@ cookieconsent.run({
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/jadeynryan"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/spatialgeography"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -234,11 +234,11 @@ cookieconsent.run({
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app/profile/jadeynryan.bsky.social"> 
+    <a class="nav-link" href="https://bsky.app/profile/spatialgeography.bsky.social"> 
 <span class="menu-text"><iconify-icon inline="" icon="simple-icons:bluesky"></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://fosstodon.org/@jadeynryan" rel="me"> <i class="bi bi-mastodon" role="img" aria-label="Mastodon">
+    <a class="nav-link" href="https://fosstodon.org/@spatialgeography" rel="me"> <i class="bi bi-mastodon" role="img" aria-label="Mastodon">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -262,23 +262,23 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#featurecollections" id="toc-featurecollections" class="nav-link active" data-scroll-target="#featurecollections">3.1 FeatureCollections</a>
+  <li><a href="#working-with-vectors" id="toc-working-with-vectors" class="nav-link active" data-scroll-target="#working-with-vectors">3.1 Working with Vectors</a>
   <ul>
-  <li><a href="#using-public-datasets" id="toc-using-public-datasets" class="nav-link" data-scroll-target="#using-public-datasets">Using Public Datasets</a></li>
+  <li><a href="#public-vector-datasets" id="toc-public-vector-datasets" class="nav-link" data-scroll-target="#public-vector-datasets">Public Vector Datasets</a></li>
   </ul></li>
-  <li><a href="#uploading-your-own-data" id="toc-uploading-your-own-data" class="nav-link" data-scroll-target="#uploading-your-own-data">3.2 Uploading Your Own Data</a></li>
-  <li><a href="#charting-time-series-analysis" id="toc-charting-time-series-analysis" class="nav-link" data-scroll-target="#charting-time-series-analysis">3.3 Charting: Time Series Analysis</a></li>
+  <li><a href="#using-custom-assets" id="toc-using-custom-assets" class="nav-link" data-scroll-target="#using-custom-assets">3.2 Using Custom Assets</a></li>
+  <li><a href="#generating-charts" id="toc-generating-charts" class="nav-link" data-scroll-target="#generating-charts">3.3 Generating Charts</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/module3_vectors.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-fundamentals/part3_vectors.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Module 3: Vectors, Assets &amp; Charts</h1>
+<h1 class="title">Part 3: Spatial Operations &amp; Charting</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Module</div>
+    <div class="quarto-category">Part</div>
     <div class="quarto-category">Vectors</div>
   </div>
   </div>
@@ -309,55 +309,45 @@ cookieconsent.run({
 </header>
 
 
-<section id="featurecollections" class="level2">
-<h2 class="anchored" data-anchor-id="featurecollections">3.1 FeatureCollections</h2>
-<p>Vector data (Points, Lines, Polygons) are handled as <code>ee.FeatureCollection</code>.</p>
-<section id="using-public-datasets" class="level3">
-<h3 class="anchored" data-anchor-id="using-public-datasets">Using Public Datasets</h3>
-<p>Access administrative boundaries like FAO GAUL or TIGER (US).</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Load Global Administrative Unit Layers (GAUL)</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> india <span class="op">=</span> ee<span class="op">.</span><span class="fu">FeatureCollection</span>(<span class="st">'FAO/GAUL/2015/level0'</span>)</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filter</span>(ee<span class="op">.</span><span class="at">Filter</span><span class="op">.</span><span class="fu">eq</span>(<span class="st">'ADM0_NAME'</span><span class="op">,</span> <span class="st">'India'</span>))<span class="op">;</span></span>
+<section id="working-with-vectors" class="level2">
+<h2 class="anchored" data-anchor-id="working-with-vectors">3.1 Working with Vectors</h2>
+<p>Vector data in GEE is known as <code>ee.FeatureCollection</code>.</p>
+<section id="public-vector-datasets" class="level3">
+<h3 class="anchored" data-anchor-id="public-vector-datasets">Public Vector Datasets</h3>
+<p>You can access global boundaries directly from the Data Catalog.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Load Administrative Boundaries</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> odisha <span class="op">=</span> ee<span class="op">.</span><span class="fu">FeatureCollection</span>(<span class="st">'FAO/GAUL/2015/level1'</span>)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filter</span>(ee<span class="op">.</span><span class="at">Filter</span><span class="op">.</span><span class="fu">eq</span>(<span class="st">'ADM1_NAME'</span><span class="op">,</span> <span class="st">'Orissa'</span>))<span class="op">;</span> <span class="co">// Note: GAUL uses old spelling</span></span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">addLayer</span>(india<span class="op">,</span> {<span class="dt">color</span><span class="op">:</span> <span class="st">'black'</span>}<span class="op">,</span> <span class="st">'India Boundary'</span>)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">addLayer</span>(odisha<span class="op">,</span> {<span class="dt">color</span><span class="op">:</span> <span class="st">'red'</span>}<span class="op">,</span> <span class="st">'Odisha Boundary'</span>)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 </section>
-<section id="uploading-your-own-data" class="level2">
-<h2 class="anchored" data-anchor-id="uploading-your-own-data">3.2 Uploading Your Own Data</h2>
-<ol type="1">
-<li>Go to the <strong>Assets</strong> tab.</li>
-<li>Click <strong>New</strong> &gt; <strong>Table Upload (Shapefile)</strong>.</li>
-<li>Select your <code>.shp</code>, <code>.shx</code>, <code>.dbf</code>, and <code>.prj</code> files.</li>
-<li>Once uploaded, import it into your script using <code>var myData = ee.FeatureCollection('users/username/assetName');</code>.</li>
-</ol>
+<section id="using-custom-assets" class="level2">
+<h2 class="anchored" data-anchor-id="using-custom-assets">3.2 Using Custom Assets</h2>
+<p>For your own study areas: 1. Navigate to the <strong>Assets</strong> tab. 2. Select <strong>New</strong> &gt; <strong>Shapefile</strong>. 3. Upload your files (<code>.shp</code>, <code>.shx</code>, <code>.dbf</code>, <code>.prj</code>). 4. Import the asset into your script using its path.</p>
 </section>
-<section id="charting-time-series-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="charting-time-series-analysis">3.3 Charting: Time Series Analysis</h2>
-<p>Charts allow us to visualize temporal trends. Let’s plot an NDVI time series for a region.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Load MODIS Vegetation Indices (16-day global)</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> modis <span class="op">=</span> ee<span class="op">.</span><span class="fu">ImageCollection</span>(<span class="st">'MODIS/006/MOD13Q1'</span>)</span>
+<section id="generating-charts" class="level2">
+<h2 class="anchored" data-anchor-id="generating-charts">3.3 Generating Charts</h2>
+<p>Charts turn pixel data into insights.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Load Climate Data (TerraClimate)</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> climate <span class="op">=</span> ee<span class="op">.</span><span class="fu">ImageCollection</span>(<span class="st">'IDAHO_EPSCOR/TERRACLIMATE'</span>)</span>
 <span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filterDate</span>(<span class="st">'2020-01-01'</span><span class="op">,</span> <span class="st">'2023-12-31'</span>)</span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">select</span>(<span class="st">'NDVI'</span>)<span class="op">;</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">select</span>(<span class="st">'tmmn'</span>)<span class="op">;</span> <span class="co">// Minimum Temperature</span></span>
 <span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="co">// Define region (e.g., a protected forest)</span></span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> forest <span class="op">=</span> ee<span class="op">.</span><span class="at">Geometry</span><span class="op">.</span><span class="fu">Point</span>([<span class="fl">84.0</span><span class="op">,</span> <span class="fl">21.0</span>])<span class="op">.</span><span class="fu">buffer</span>(<span class="dv">1000</span>)<span class="op">;</span></span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="co">// Create Time Series Chart</span></span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> chart <span class="op">=</span> ui<span class="op">.</span><span class="at">Chart</span><span class="op">.</span><span class="at">image</span><span class="op">.</span><span class="fu">series</span>({</span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  <span class="dt">imageCollection</span><span class="op">:</span> modis<span class="op">,</span></span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>  <span class="dt">region</span><span class="op">:</span> forest<span class="op">,</span></span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>  <span class="dt">reducer</span><span class="op">:</span> ee<span class="op">.</span><span class="at">Reducer</span><span class="op">.</span><span class="fu">mean</span>()<span class="op">,</span></span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>  <span class="dt">scale</span><span class="op">:</span> <span class="dv">250</span></span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>})<span class="op">.</span><span class="fu">setOptions</span>({</span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span><span class="op">:</span> <span class="st">'NDVI Time Series (2020-2023)'</span><span class="op">,</span></span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>  <span class="dt">hAxis</span><span class="op">:</span> {<span class="dt">title</span><span class="op">:</span> <span class="st">'Date'</span>}<span class="op">,</span></span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>  <span class="dt">vAxis</span><span class="op">:</span> {<span class="dt">title</span><span class="op">:</span> <span class="st">'NDVI (x10000)'</span>}<span class="op">,</span></span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>  <span class="dt">lineWidth</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span></span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pointSize</span><span class="op">:</span> <span class="dv">3</span></span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(chart)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<p><a href="../../courses/gee-basics/index.html"><strong>Back to Course Overview</strong></a></p>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="co">// Chart Temperature over Cuttack</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> tempChart <span class="op">=</span> ui<span class="op">.</span><span class="at">Chart</span><span class="op">.</span><span class="at">image</span><span class="op">.</span><span class="fu">series</span>({</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">imageCollection</span><span class="op">:</span> climate<span class="op">,</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>  <span class="dt">region</span><span class="op">:</span> ee<span class="op">.</span><span class="at">Geometry</span><span class="op">.</span><span class="fu">Point</span>([<span class="fl">85.82</span><span class="op">,</span> <span class="fl">20.46</span>])<span class="op">,</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="dt">reducer</span><span class="op">:</span> ee<span class="op">.</span><span class="at">Reducer</span><span class="op">.</span><span class="fu">mean</span>()<span class="op">,</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  <span class="dt">scale</span><span class="op">:</span> <span class="dv">1000</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>})<span class="op">.</span><span class="fu">setOptions</span>({</span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span><span class="op">:</span> <span class="st">'Minimum Temperature Trend (Cuttack)'</span><span class="op">,</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>  <span class="dt">hAxis</span><span class="op">:</span> {<span class="dt">title</span><span class="op">:</span> <span class="st">'Date'</span>}<span class="op">,</span></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>  <span class="dt">vAxis</span><span class="op">:</span> {<span class="dt">title</span><span class="op">:</span> <span class="st">'Min Temp (°C)'</span>}</span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(tempChart)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><a href="../../courses/gee-fundamentals/index.html"><strong>Back to Course Home</strong></a></p>
 
 
 </section>
@@ -792,7 +782,7 @@ cookieconsent.run({
 </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/module3_vectors.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-fundamentals/part3_vectors.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
     <div class="nav-footer-right">
 <p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
 </div>

@@ -35,109 +35,137 @@
     "text": "Welcome to Spatial Geography\nI am Pulakesh Pradhan, a Research Scholar in the Department of Geography at Ravenshaw University.\nMy work focuses on Geospatial Intelligence, Google Earth Engine, and Remote Sensing applications for environmental monitoring. I am the creator of the GEE AI Assistant and run the Spatial Geography YouTube channel.\nI specialize in: - 🛰️ Satellite Image Processing - 🌍 Disaster Management (Flood/Drought) - 💻 Geospatial Tool Development\nFeel free to explore my research, projects, and tutorials!"
   },
   {
-    "objectID": "courses/gee-basics/module2_collections.html",
-    "href": "courses/gee-basics/module2_collections.html",
-    "title": "Module 2: Image Collections & Filtering",
+    "objectID": "courses/gee-fundamentals/part2_collections.html",
+    "href": "courses/gee-fundamentals/part2_collections.html",
+    "title": "Part 2: Image Analysis",
     "section": "",
-    "text": "An ee.ImageCollection is a stack or time-series of images. Examples include: - Sentinel-2 (Optical) - Landsat (Optical/Thermal) - MODIS (Various products)"
+    "text": "Satellite data is organized into ee.ImageCollection. To use it effectively, we filter down to what we need.\n\n\n\nDate: filterDate('start', 'end')\nLocation: filterBounds(geometry)\nAttributes: filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))\n\n// Define Area\nvar studyArea = ee.Geometry.Point([85.82, 20.46]); // Cuttack\n\n// Load Sentinel-2\nvar sentinel = ee.ImageCollection('COPERNICUS/S2_SR')\n  .filterBounds(studyArea)\n  .filterDate('2023-01-01', '2023-06-30')\n  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 10));\n\nprint('Images Found:', sentinel.size());"
   },
   {
-    "objectID": "courses/gee-basics/module2_collections.html#understanding-image-collections",
-    "href": "courses/gee-basics/module2_collections.html#understanding-image-collections",
-    "title": "Module 2: Image Collections & Filtering",
+    "objectID": "courses/gee-fundamentals/part2_collections.html#filtering-image-collections",
+    "href": "courses/gee-fundamentals/part2_collections.html#filtering-image-collections",
+    "title": "Part 2: Image Analysis",
     "section": "",
-    "text": "An ee.ImageCollection is a stack or time-series of images. Examples include: - Sentinel-2 (Optical) - Landsat (Optical/Thermal) - MODIS (Various products)"
+    "text": "Satellite data is organized into ee.ImageCollection. To use it effectively, we filter down to what we need.\n\n\n\nDate: filterDate('start', 'end')\nLocation: filterBounds(geometry)\nAttributes: filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))\n\n// Define Area\nvar studyArea = ee.Geometry.Point([85.82, 20.46]); // Cuttack\n\n// Load Sentinel-2\nvar sentinel = ee.ImageCollection('COPERNICUS/S2_SR')\n  .filterBounds(studyArea)\n  .filterDate('2023-01-01', '2023-06-30')\n  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 10));\n\nprint('Images Found:', sentinel.size());"
   },
   {
-    "objectID": "courses/gee-basics/module2_collections.html#filtering-collections",
-    "href": "courses/gee-basics/module2_collections.html#filtering-collections",
-    "title": "Module 2: Image Collections & Filtering",
-    "section": "2.2 Filtering Collections",
-    "text": "2.2 Filtering Collections\nTo work with these massive datasets, we must filter them by: 1. Time: filterDate() 2. Space: filterBounds() 3. Metadata: filterMetadata() (e.g., cloud cover)\n// Define a region of interest (geometry)\nvar roi = ee.Geometry.Point([85.8245, 20.4625]); // Cuttack\n\n// Load Sentinel-2 Collection\nvar s2 = ee.ImageCollection('COPERNICUS/S2_SR')\n  .filterBounds(roi)\n  .filterDate('2023-01-01', '2023-12-31')\n  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 10)); // Less than 10% clouds\n\nprint('Filtered Collection Size:', s2.size());"
+    "objectID": "courses/gee-fundamentals/part2_collections.html#creating-composites",
+    "href": "courses/gee-fundamentals/part2_collections.html#creating-composites",
+    "title": "Part 2: Image Analysis",
+    "section": "2.2 Creating Composites",
+    "text": "2.2 Creating Composites\nReducing a collection to a single image is called compositing.\n\nMedian Composite\nTaking the median pixel value helps remove transient noise like clouds or shadows.\n// Median Composite\nvar medianImg = sentinel.median();\n\n// Visualization\nvar rgbVis = {\n  bands: ['B4', 'B3', 'B2'],\n  min: 0,\n  max: 3000\n};\n\nMap.centerObject(studyArea, 11);\nMap.addLayer(medianImg.clip(studyArea), rgbVis, 'True Color');"
   },
   {
-    "objectID": "courses/gee-basics/module2_collections.html#reducers-compositing-mosaicking",
-    "href": "courses/gee-basics/module2_collections.html#reducers-compositing-mosaicking",
-    "title": "Module 2: Image Collections & Filtering",
-    "section": "2.3 Reducers: Compositing & Mosaicking",
-    "text": "2.3 Reducers: Compositing & Mosaicking\nHow do we reduce a stack of images into a single image? We use Reducers.\n\nMedian Composite\nA common technique to remove clouds and noise is to take the median value of each pixel across the time series.\n// Create a median composite\nvar medianImage = s2.median();\n\n// Visualization parameters for False Color (NIR, Red, Green)\nvar visParams = {\n  bands: ['B8', 'B4', 'B3'],\n  min: 0,\n  max: 3000\n};\n\nMap.centerObject(roi, 10);\nMap.addLayer(medianImage.clip(roi), visParams, 'Sentinel-2 Median 2023');"
+    "objectID": "courses/gee-fundamentals/part2_collections.html#calculating-indices-ndvi",
+    "href": "courses/gee-fundamentals/part2_collections.html#calculating-indices-ndvi",
+    "title": "Part 2: Image Analysis",
+    "section": "2.3 Calculating Indices (NDVI)",
+    "text": "2.3 Calculating Indices (NDVI)\nVegetation indices are powerful tools for monitoring plant health. \\[ NDVI = \\frac{NIR - Red}{NIR + Red} \\]\n// Compute NDVI\nvar ndvi = medianImg.normalizedDifference(['B8', 'B4']).rename('NDVI');\n\n// Visualize\nvar ndviParams = {\n  min: 0, \n  max: 1, \n  palette: ['brown', 'yellow', 'green']\n};\n\nMap.addLayer(ndvi.clip(studyArea), ndviParams, 'Vegetation Index');\nNext: Part 3 - Spatial Operations"
   },
   {
-    "objectID": "courses/gee-basics/module2_collections.html#ndvi-calculation",
-    "href": "courses/gee-basics/module2_collections.html#ndvi-calculation",
-    "title": "Module 2: Image Collections & Filtering",
-    "section": "2.4 NDVI Calculation",
-    "text": "2.4 NDVI Calculation\nNormalized Difference Vegetation Index (NDVI) is a key metric. \\[ NDVI = \\frac{NIR - Red}{NIR + Red} \\]\n// Calculate NDVI using normalizedDifference\nvar ndvi = medianImage.normalizedDifference(['B8', 'B4']).rename('NDVI');\n\n// Visualize NDVI\nvar ndviVis = {\n  min: 0, \n  max: 1, \n  palette: ['white', 'green']\n};\n\nMap.addLayer(ndvi.clip(roi), ndviVis, 'NDVI');\nNext: Module 3 - Vectors & Charts"
-  },
-  {
-    "objectID": "courses/gee-basics/index.html",
-    "href": "courses/gee-basics/index.html",
-    "title": "End-to-End Google Earth Engine (GEE) Bootcamp",
+    "objectID": "courses/gee-fundamentals/module3_vectors.html",
+    "href": "courses/gee-fundamentals/module3_vectors.html",
+    "title": "Module 3: Vectors, Assets & Charts",
     "section": "",
-    "text": "Welcome to the End-to-End Google Earth Engine Bootcamp! This course is designed to take you from a complete beginner to an advanced user of Google Earth Engine. We cover everything from the JavaScript API basics to complex machine learning workflows.\n\n\n\n\n\nIntroduction to the Code Editor\n\nUnderstanding the Interface\nserver-side vs client-side objects\nBasic JavaScript for GEE\n\nHello World: Your First Script\n\nLoading an image\nMap layers and visualization\n\n\n\n\n\n\nFiltering and Sorting\n\nfilterDate, filterBounds, filterMetadata\nSorting and selecting best pixels\n\nReducers and Composites\n\nCreating cloud-free mosaics\nAnnual/Seasonal composites\n\n\n\n\n\n\nFeatureCollections\n\nImporting Shapefiles (Assets)\nFiltering Client-side vs Server-side\n\nCharting results\n\nTime-series charts\nHistograms\n\n\n\n\n\n\nSupervised Classification\n\nTraining data collection\nRandom Forest Classifier\nAccuracy Assessment\n\nExporting Data\n\nTo Drive, Assets, and Cloud Storage\n\n\n\n\n\n\n\nClick here to begin Module 1"
+    "text": "Vector data (Points, Lines, Polygons) are handled as ee.FeatureCollection.\n\n\nAccess administrative boundaries like FAO GAUL or TIGER (US).\n// Load Global Administrative Unit Layers (GAUL)\nvar india = ee.FeatureCollection('FAO/GAUL/2015/level0')\n  .filter(ee.Filter.eq('ADM0_NAME', 'India'));\n\nMap.addLayer(india, {color: 'black'}, 'India Boundary');"
   },
   {
-    "objectID": "courses/gee-basics/index.html#course-overview",
-    "href": "courses/gee-basics/index.html#course-overview",
-    "title": "End-to-End Google Earth Engine (GEE) Bootcamp",
+    "objectID": "courses/gee-fundamentals/module3_vectors.html#featurecollections",
+    "href": "courses/gee-fundamentals/module3_vectors.html#featurecollections",
+    "title": "Module 3: Vectors, Assets & Charts",
     "section": "",
-    "text": "Welcome to the End-to-End Google Earth Engine Bootcamp! This course is designed to take you from a complete beginner to an advanced user of Google Earth Engine. We cover everything from the JavaScript API basics to complex machine learning workflows.\n\n\n\n\n\nIntroduction to the Code Editor\n\nUnderstanding the Interface\nserver-side vs client-side objects\nBasic JavaScript for GEE\n\nHello World: Your First Script\n\nLoading an image\nMap layers and visualization\n\n\n\n\n\n\nFiltering and Sorting\n\nfilterDate, filterBounds, filterMetadata\nSorting and selecting best pixels\n\nReducers and Composites\n\nCreating cloud-free mosaics\nAnnual/Seasonal composites\n\n\n\n\n\n\nFeatureCollections\n\nImporting Shapefiles (Assets)\nFiltering Client-side vs Server-side\n\nCharting results\n\nTime-series charts\nHistograms\n\n\n\n\n\n\nSupervised Classification\n\nTraining data collection\nRandom Forest Classifier\nAccuracy Assessment\n\nExporting Data\n\nTo Drive, Assets, and Cloud Storage\n\n\n\n\n\n\n\nClick here to begin Module 1"
+    "text": "Vector data (Points, Lines, Polygons) are handled as ee.FeatureCollection.\n\n\nAccess administrative boundaries like FAO GAUL or TIGER (US).\n// Load Global Administrative Unit Layers (GAUL)\nvar india = ee.FeatureCollection('FAO/GAUL/2015/level0')\n  .filter(ee.Filter.eq('ADM0_NAME', 'India'));\n\nMap.addLayer(india, {color: 'black'}, 'India Boundary');"
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Articles & Publications",
+    "objectID": "courses/gee-fundamentals/module3_vectors.html#uploading-your-own-data",
+    "href": "courses/gee-fundamentals/module3_vectors.html#uploading-your-own-data",
+    "title": "Module 3: Vectors, Assets & Charts",
+    "section": "3.2 Uploading Your Own Data",
+    "text": "3.2 Uploading Your Own Data\n\nGo to the Assets tab.\nClick New &gt; Table Upload (Shapefile).\nSelect your .shp, .shx, .dbf, and .prj files.\nOnce uploaded, import it into your script using var myData = ee.FeatureCollection('users/username/assetName');."
+  },
+  {
+    "objectID": "courses/gee-fundamentals/module3_vectors.html#charting-time-series-analysis",
+    "href": "courses/gee-fundamentals/module3_vectors.html#charting-time-series-analysis",
+    "title": "Module 3: Vectors, Assets & Charts",
+    "section": "3.3 Charting: Time Series Analysis",
+    "text": "3.3 Charting: Time Series Analysis\nCharts allow us to visualize temporal trends. Let’s plot an NDVI time series for a region.\n// Load MODIS Vegetation Indices (16-day global)\nvar modis = ee.ImageCollection('MODIS/006/MOD13Q1')\n  .filterDate('2020-01-01', '2023-12-31')\n  .select('NDVI');\n\n// Define region (e.g., a protected forest)\nvar forest = ee.Geometry.Point([84.0, 21.0]).buffer(1000);\n\n// Create Time Series Chart\nvar chart = ui.Chart.image.series({\n  imageCollection: modis,\n  region: forest,\n  reducer: ee.Reducer.mean(),\n  scale: 250\n}).setOptions({\n  title: 'NDVI Time Series (2020-2023)',\n  hAxis: {title: 'Date'},\n  vAxis: {title: 'NDVI (x10000)'},\n  lineWidth: 1,\n  pointSize: 3\n});\n\nprint(chart);\nBack to Course Overview"
+  },
+  {
+    "objectID": "courses/gee-fundamentals/module1_intro.html",
+    "href": "courses/gee-fundamentals/module1_intro.html",
+    "title": "Module 1: Introduction to Google Earth Engine",
     "section": "",
-    "text": "Explore my latest research papers, tutorials, and articles on Geospatial Intelligence.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNASA’s PACE Hyperspectral Data Now Accessible in Google Earth Engine\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nNASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, launched on February 8, 2024, represents a big leap in Earth observation technology\n\n\n\n\n\nJan 10, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGoogle AlphaEarth: All-in-One Optical, Radar, and LiDAR Embeddings at 10m Resolution\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nGoogle’s recently launched Satellite Embedding dataset represents a paradigm shift in how we approach geospatial analysis and Earth observation. Power\n\n\n\n\n\nJan 8, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nThe Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou\n\n\n\n\n\nJan 6, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nAdvanced GIS & Remote Sensing for College Students—Simplified by Google Earth Engine AI Assistant\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nNo Coding? No Problem! Unlock Powerful Geospatial Analysis with the AI-Powered GEE Assistant AI : A New Era in Geospatial Education Remote sensing and\n\n\n\n\n\nJan 4, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nIntroducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nEasily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra\n\n\n\n\n\nJan 2, 2025\n\n1 min\n\n\n\n\nNo matching items"
+    "text": "The Code Editor is an interactive environment for developing Earth Engine applications. It consists of: - Code Editor: The center panel where you write JavaScript code. - Map: The bottom panel where geospatial datasets are visualized. - Console: The right panel for outputting print statements, charts, and errors. - Docs/Assets: The left panel for accessing API documentation and your personal assets."
   },
   {
-    "objectID": "blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/index.html",
-    "href": "blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/index.html",
-    "title": "Google AlphaEarth: All-in-One Optical, Radar, and LiDAR Embeddings at 10m Resolution",
+    "objectID": "courses/gee-fundamentals/module1_intro.html#the-earth-engine-code-editor",
+    "href": "courses/gee-fundamentals/module1_intro.html#the-earth-engine-code-editor",
+    "title": "Module 1: Introduction to Google Earth Engine",
     "section": "",
-    "text": "by Pulakesh Pradhan • 7 min read\nGoogle’s recently launched Satellite Embedding dataset represents a paradigm shift in how we approach geospatial analysis and Earth observation. Power\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Google {AlphaEarth:} {All-in-One} {Optical,} {Radar,} and\n    {LiDAR} {Embeddings} at 10m {Resolution}},\n  date = {2025-01-08},\n  url = {https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Google AlphaEarth: All-in-One Optical,\nRadar, and LiDAR Embeddings at 10m Resolution.” January 8, 2025.\nhttps://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/."
+    "text": "The Code Editor is an interactive environment for developing Earth Engine applications. It consists of: - Code Editor: The center panel where you write JavaScript code. - Map: The bottom panel where geospatial datasets are visualized. - Console: The right panel for outputting print statements, charts, and errors. - Docs/Assets: The left panel for accessing API documentation and your personal assets."
   },
   {
-    "objectID": "blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/index.html",
-    "href": "blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/index.html",
-    "title": "Advanced GIS & Remote Sensing for College Students—Simplified by Google Earth Engine AI Assistant",
+    "objectID": "courses/gee-fundamentals/module1_intro.html#basic-javascript-for-gee",
+    "href": "courses/gee-fundamentals/module1_intro.html#basic-javascript-for-gee",
+    "title": "Module 1: Introduction to Google Earth Engine",
+    "section": "1.2 Basic JavaScript for GEE",
+    "text": "1.2 Basic JavaScript for GEE\nEarth Engine uses JavaScript (and Python) to control the servers. Here are some basics:\n// Variables\nvar city = 'Cuttack';\nvar population = 600000;\n\n// Lists\nvar coordinates = [85.8, 20.4];\n\n// Dictionaries (Objects)\nvar place = {\n  name: 'Cuttack',\n  lat: 20.4,\n  lon: 85.8\n};\n\n// Printing to Console\nprint('City Info:', place);"
+  },
+  {
+    "objectID": "courses/gee-fundamentals/module1_intro.html#server-side-vs-client-side",
+    "href": "courses/gee-fundamentals/module1_intro.html#server-side-vs-client-side",
+    "title": "Module 1: Introduction to Google Earth Engine",
+    "section": "1.3 Server-Side vs Client-Side",
+    "text": "1.3 Server-Side vs Client-Side\nThis is the most crucial concept. - Client-side: Variables in your browser (e.g., standard JS var, for loops). - Server-side: Earth Engine objects (ee.Image, ee.Feature, ee.Number).\nRule of Thumb: Avoid mixing them. Use ee.Algorithms whenever possible.\n// Client-side string\nvar clientString = 'Hello World';\n\n// Server-side string\nvar serverString = ee.String('Hello World');\n\n// Do NOT do this:\n// var result = serverString + ' from GEE'; // Error! \n\n// Do this instead:\nvar result = serverString.cat(ee.String(' from GEE'));\nprint(result);"
+  },
+  {
+    "objectID": "courses/gee-fundamentals/module1_intro.html#your-first-map",
+    "href": "courses/gee-fundamentals/module1_intro.html#your-first-map",
+    "title": "Module 1: Introduction to Google Earth Engine",
+    "section": "1.4 Your First Map",
+    "text": "1.4 Your First Map\nLet’s load a digital elevation model (SRTM) and display it.\n// Load the SRTM image\nvar srtm = ee.Image('CGIAR/SRTM90_V4');\n\n// Define visualization parameters\nvar visParams = {\n  min: 0,\n  max: 3000,\n  palette: ['blue', 'green', 'red']\n};\n\n// Add layer to map\nMap.addLayer(srtm, visParams, 'SRTM Elevation');\nMap.setCenter(85.8, 20.4, 8); // Center on Odisha\nNext: Module 2 - Image Collections"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
     "section": "",
-    "text": "by Pulakesh Pradhan • 4 min read\nNo Coding? No Problem! Unlock Powerful Geospatial Analysis with the AI-Powered GEE Assistant AI : A New Era in Geospatial Education Remote sensing and\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Advanced {GIS} \\& {Remote} {Sensing} for {College}\n    {Students—Simplified} by {Google} {Earth} {Engine} {AI} {Assistant}},\n  date = {2025-01-04},\n  url = {https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Advanced GIS & Remote Sensing for\nCollege Students—Simplified by Google Earth Engine AI Assistant.”\nJanuary 4, 2025. https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/."
+    "text": "I am always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\n\n\npulakesh.mid@gmail.com\n\n\n\n+91 8617812861\n\n\n\nDepartment of Geography\nRavenshaw University, Cuttack, Odisha, India"
   },
   {
-    "objectID": "accessibility.html",
-    "href": "accessibility.html",
-    "title": "Accessibility commitment",
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Us",
     "section": "",
-    "text": "Making sure all content I publish on the web is accessible to anyone and everyone is very important to me. While I’m not an expert on web design or accessibility, I am committed to trying my best.\nThis accessibility commitment was adapted from Silvia Canelón’s excellent blog."
+    "text": "I am always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\n\n\npulakesh.mid@gmail.com\n\n\n\n+91 8617812861\n\n\n\nDepartment of Geography\nRavenshaw University, Cuttack, Odisha, India"
   },
   {
-    "objectID": "accessibility.html#feedback",
-    "href": "accessibility.html#feedback",
-    "title": "Accessibility commitment",
-    "section": "Feedback",
-    "text": "Feedback\nI welcome any feedback on the accessibility and inclusivity of my site and content. Please let me know if you encounter any accessibility barriers or areas for improvement and I’ll do my best to remedy them."
+    "objectID": "blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html",
+    "href": "blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html",
+    "title": "NASA’s PACE Hyperspectral Data Now Accessible in Google Earth Engine",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 7 min read\nNASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, launched on February 8, 2024, represents a big leap in Earth observation technology\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {NASA’s {PACE} {Hyperspectral} {Data} {Now} {Accessible} in\n    {Google} {Earth} {Engine}},\n  date = {2025-01-10},\n  url = {https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “NASA’s PACE Hyperspectral Data Now\nAccessible in Google Earth Engine.” January 10, 2025. https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/."
   },
   {
-    "objectID": "accessibility.html#accessibility-practices",
-    "href": "accessibility.html#accessibility-practices",
-    "title": "Accessibility commitment",
-    "section": "Accessibility practices",
-    "text": "Accessibility practices\nThis site has been designed with the following features in mind:\n\nA color palette that meets WCAG 2.1 AA standards for contrast.\nAlternative text for all informative images.\nReadable font faces, specifically to avoid impostor letter shapes and mirroring.\n\nEach character in [iIl], [ceo], and [db qp] should all be distinct from one another.1\nThis site primarily uses Domine for headings, Atkinson Hyperlegible for body text (developed by the Braille Institute), and Fira Code for code.\n\nA table of contents in the sidebars for easier navigation.\n\nI use Google’s Lighthouse accessibility tests to check the accessibility of my website at each deployment. While I would love a perfect score of 100, I commit to a score of at least 80. The Quarto GitHub has quite a few open GitHub issues with accessibility tags that I have no control over."
+    "objectID": "blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.html",
+    "href": "blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.html",
+    "title": "GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nThe Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {GEE to {Python/R:} {Instantly} Convert {JavaScript} to\n    {Python} (.ipynb) or {R} (Rgee) with {GEE} {AI} {Assistant}},\n  date = {2025-01-06},\n  url = {https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “GEE to Python/R: Instantly Convert\nJavaScript to Python (.ipynb) or R (Rgee) with GEE AI Assistant.”\nJanuary 6, 2025. https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/."
   },
   {
-    "objectID": "accessibility.html#accessibility-tools",
-    "href": "accessibility.html#accessibility-tools",
-    "title": "Accessibility commitment",
-    "section": "Accessibility tools",
-    "text": "Accessibility tools\n\nGoogle Lighthouse Tool\nGoogle Chrome Accessibility Features Reference\nColour Contrast Checker\nViz Palette\nWAVE Web Accessibility Evaluation Tool\nMicrosoft Edge Accessibility Guide"
+    "objectID": "blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.html",
+    "href": "blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.html",
+    "title": "Introducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 4 min read\nEasily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Introducing “{Google} {Earth} {Engine} {AI} {Assistant}” -\n    {Your} {AI-Powered} {Coding} {Partner}},\n  date = {2025-01-02},\n  url = {https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Introducing ‘Google Earth Engine\nAI Assistant’ - Your AI-Powered Coding Partner.” January\n2, 2025. https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/."
   },
   {
-    "objectID": "accessibility.html#footnotes",
-    "href": "accessibility.html#footnotes",
-    "title": "Accessibility commitment",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nAdded the [ceo] and [db qp] tests from Cara Thompson’s amazing data viz design system talk, specifically slide 22: Font inspiration.↩︎"
+    "objectID": "academy.html",
+    "href": "academy.html",
+    "title": "Academy",
+    "section": "",
+    "text": "Welcome to the Spatial Geography Academy.\nJoin our community of learners and experts."
   },
   {
     "objectID": "about.html",
@@ -175,109 +203,172 @@
     "text": "🎤 Invited Resource Person\n\nMaharaja Sriram Chandra Bhanja Deo University\nCenturion University - 10-day online GEE training"
   },
   {
-    "objectID": "academy.html",
-    "href": "academy.html",
-    "title": "Academy",
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility commitment",
     "section": "",
-    "text": "Welcome to the Spatial Geography Academy.\nJoin our community of learners and experts."
+    "text": "Making sure all content I publish on the web is accessible to anyone and everyone is very important to me. While I’m not an expert on web design or accessibility, I am committed to trying my best.\nThis accessibility commitment was adapted from Silvia Canelón’s excellent blog."
   },
   {
-    "objectID": "blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.html",
-    "href": "blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.html",
-    "title": "Introducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner",
+    "objectID": "accessibility.html#feedback",
+    "href": "accessibility.html#feedback",
+    "title": "Accessibility commitment",
+    "section": "Feedback",
+    "text": "Feedback\nI welcome any feedback on the accessibility and inclusivity of my site and content. Please let me know if you encounter any accessibility barriers or areas for improvement and I’ll do my best to remedy them."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-practices",
+    "href": "accessibility.html#accessibility-practices",
+    "title": "Accessibility commitment",
+    "section": "Accessibility practices",
+    "text": "Accessibility practices\nThis site has been designed with the following features in mind:\n\nA color palette that meets WCAG 2.1 AA standards for contrast.\nAlternative text for all informative images.\nReadable font faces, specifically to avoid impostor letter shapes and mirroring.\n\nEach character in [iIl], [ceo], and [db qp] should all be distinct from one another.1\nThis site primarily uses Domine for headings, Atkinson Hyperlegible for body text (developed by the Braille Institute), and Fira Code for code.\n\nA table of contents in the sidebars for easier navigation.\n\nI use Google’s Lighthouse accessibility tests to check the accessibility of my website at each deployment. While I would love a perfect score of 100, I commit to a score of at least 80. The Quarto GitHub has quite a few open GitHub issues with accessibility tags that I have no control over."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-tools",
+    "href": "accessibility.html#accessibility-tools",
+    "title": "Accessibility commitment",
+    "section": "Accessibility tools",
+    "text": "Accessibility tools\n\nGoogle Lighthouse Tool\nGoogle Chrome Accessibility Features Reference\nColour Contrast Checker\nViz Palette\nWAVE Web Accessibility Evaluation Tool\nMicrosoft Edge Accessibility Guide"
+  },
+  {
+    "objectID": "accessibility.html#footnotes",
+    "href": "accessibility.html#footnotes",
+    "title": "Accessibility commitment",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAdded the [ceo] and [db qp] tests from Cara Thompson’s amazing data viz design system talk, specifically slide 22: Font inspiration.↩︎"
+  },
+  {
+    "objectID": "blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/index.html",
+    "href": "blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/index.html",
+    "title": "Advanced GIS & Remote Sensing for College Students—Simplified by Google Earth Engine AI Assistant",
     "section": "",
-    "text": "by Pulakesh Pradhan • 4 min read\nEasily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Introducing “{Google} {Earth} {Engine} {AI} {Assistant}” -\n    {Your} {AI-Powered} {Coding} {Partner}},\n  date = {2025-01-02},\n  url = {https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Introducing ‘Google Earth Engine\nAI Assistant’ - Your AI-Powered Coding Partner.” January\n2, 2025. https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/."
+    "text": "by Pulakesh Pradhan • 4 min read\nNo Coding? No Problem! Unlock Powerful Geospatial Analysis with the AI-Powered GEE Assistant AI : A New Era in Geospatial Education Remote sensing and\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Advanced {GIS} \\& {Remote} {Sensing} for {College}\n    {Students—Simplified} by {Google} {Earth} {Engine} {AI} {Assistant}},\n  date = {2025-01-04},\n  url = {https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Advanced GIS & Remote Sensing for\nCollege Students—Simplified by Google Earth Engine AI Assistant.”\nJanuary 4, 2025. https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/."
   },
   {
-    "objectID": "blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.html",
-    "href": "blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.html",
-    "title": "GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant",
+    "objectID": "blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/index.html",
+    "href": "blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/index.html",
+    "title": "Google AlphaEarth: All-in-One Optical, Radar, and LiDAR Embeddings at 10m Resolution",
     "section": "",
-    "text": "by Pulakesh Pradhan • 3 min read\nThe Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {GEE to {Python/R:} {Instantly} Convert {JavaScript} to\n    {Python} (.ipynb) or {R} (Rgee) with {GEE} {AI} {Assistant}},\n  date = {2025-01-06},\n  url = {https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “GEE to Python/R: Instantly Convert\nJavaScript to Python (.ipynb) or R (Rgee) with GEE AI Assistant.”\nJanuary 6, 2025. https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/."
+    "text": "by Pulakesh Pradhan • 7 min read\nGoogle’s recently launched Satellite Embedding dataset represents a paradigm shift in how we approach geospatial analysis and Earth observation. Power\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Google {AlphaEarth:} {All-in-One} {Optical,} {Radar,} and\n    {LiDAR} {Embeddings} at 10m {Resolution}},\n  date = {2025-01-08},\n  url = {https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Google AlphaEarth: All-in-One Optical,\nRadar, and LiDAR Embeddings at 10m Resolution.” January 8, 2025.\nhttps://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/."
   },
   {
-    "objectID": "blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html",
-    "href": "blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html",
-    "title": "NASA’s PACE Hyperspectral Data Now Accessible in Google Earth Engine",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Articles & Publications",
     "section": "",
-    "text": "by Pulakesh Pradhan • 7 min read\nNASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, launched on February 8, 2024, represents a big leap in Earth observation technology\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {NASA’s {PACE} {Hyperspectral} {Data} {Now} {Accessible} in\n    {Google} {Earth} {Engine}},\n  date = {2025-01-10},\n  url = {https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “NASA’s PACE Hyperspectral Data Now\nAccessible in Google Earth Engine.” January 10, 2025. https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/."
+    "text": "Explore my latest research papers, tutorials, and articles on Geospatial Intelligence.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNASA’s PACE Hyperspectral Data Now Accessible in Google Earth Engine\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nNASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, launched on February 8, 2024, represents a big leap in Earth observation technology\n\n\n\n\n\nJan 10, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGoogle AlphaEarth: All-in-One Optical, Radar, and LiDAR Embeddings at 10m Resolution\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nGoogle’s recently launched Satellite Embedding dataset represents a paradigm shift in how we approach geospatial analysis and Earth observation. Power\n\n\n\n\n\nJan 8, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nThe Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou\n\n\n\n\n\nJan 6, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nAdvanced GIS & Remote Sensing for College Students—Simplified by Google Earth Engine AI Assistant\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nNo Coding? No Problem! Unlock Powerful Geospatial Analysis with the AI-Powered GEE Assistant AI : A New Era in Geospatial Education Remote sensing and\n\n\n\n\n\nJan 4, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nIntroducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nEasily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra\n\n\n\n\n\nJan 2, 2025\n\n1 min\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Us",
+    "objectID": "courses/gee-fundamentals/index.html",
+    "href": "courses/gee-fundamentals/index.html",
+    "title": "Fundamentals of Google Earth Engine",
     "section": "",
-    "text": "I am always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\n\n\npulakesh.mid@gmail.com\n\n\n\n+91 8617812861\n\n\n\nDepartment of Geography\nRavenshaw University, Cuttack, Odisha, India"
+    "text": "Welcome to the Fundamentals of Google Earth Engine! This course is designed to guide you through the essential concepts and practical applications of GEE for environmental monitoring and spatial analysis.\n\n\n\n\n\nIntroduction to the Interface\n\nCode Editor Walkthrough\nUnderstanding Client vs Server Side\nBasic JavaScript for GEE\n\nYour First Script\n\nLoading an Image\nVisualization Parameters\n\n\n\n\n\n\nWorking with Collections\n\nFiltering by Date, Location, and Metadata\nSorting and Reducing (Composites)\n\nVegetation Indices\n\nCalculating NDVI\nBand math\n\n\n\n\n\n\nVector Data Integration\n\nUploading Shapefiles (Assets)\nFiltering FeatureCollections\n\nTime Series Charting\n\nGenerating and Customizing Charts\nAnalyzing Trends over Time\n\n\n\n\n\n\n\nGo to Part 1: The Basics"
   },
   {
-    "objectID": "contact.html#get-in-touch",
-    "href": "contact.html#get-in-touch",
-    "title": "Contact Us",
+    "objectID": "courses/gee-fundamentals/index.html#course-overview",
+    "href": "courses/gee-fundamentals/index.html#course-overview",
+    "title": "Fundamentals of Google Earth Engine",
     "section": "",
-    "text": "I am always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\n\n\npulakesh.mid@gmail.com\n\n\n\n+91 8617812861\n\n\n\nDepartment of Geography\nRavenshaw University, Cuttack, Odisha, India"
+    "text": "Welcome to the Fundamentals of Google Earth Engine! This course is designed to guide you through the essential concepts and practical applications of GEE for environmental monitoring and spatial analysis.\n\n\n\n\n\nIntroduction to the Interface\n\nCode Editor Walkthrough\nUnderstanding Client vs Server Side\nBasic JavaScript for GEE\n\nYour First Script\n\nLoading an Image\nVisualization Parameters\n\n\n\n\n\n\nWorking with Collections\n\nFiltering by Date, Location, and Metadata\nSorting and Reducing (Composites)\n\nVegetation Indices\n\nCalculating NDVI\nBand math\n\n\n\n\n\n\nVector Data Integration\n\nUploading Shapefiles (Assets)\nFiltering FeatureCollections\n\nTime Series Charting\n\nGenerating and Customizing Charts\nAnalyzing Trends over Time\n\n\n\n\n\n\n\nGo to Part 1: The Basics"
   },
   {
-    "objectID": "courses/gee-basics/module1_intro.html",
-    "href": "courses/gee-basics/module1_intro.html",
-    "title": "Module 1: Introduction to Google Earth Engine",
+    "objectID": "courses/gee-fundamentals/module2_collections.html",
+    "href": "courses/gee-fundamentals/module2_collections.html",
+    "title": "Module 2: Image Collections & Filtering",
     "section": "",
-    "text": "The Code Editor is an interactive environment for developing Earth Engine applications. It consists of: - Code Editor: The center panel where you write JavaScript code. - Map: The bottom panel where geospatial datasets are visualized. - Console: The right panel for outputting print statements, charts, and errors. - Docs/Assets: The left panel for accessing API documentation and your personal assets."
+    "text": "An ee.ImageCollection is a stack or time-series of images. Examples include: - Sentinel-2 (Optical) - Landsat (Optical/Thermal) - MODIS (Various products)"
   },
   {
-    "objectID": "courses/gee-basics/module1_intro.html#the-earth-engine-code-editor",
-    "href": "courses/gee-basics/module1_intro.html#the-earth-engine-code-editor",
-    "title": "Module 1: Introduction to Google Earth Engine",
+    "objectID": "courses/gee-fundamentals/module2_collections.html#understanding-image-collections",
+    "href": "courses/gee-fundamentals/module2_collections.html#understanding-image-collections",
+    "title": "Module 2: Image Collections & Filtering",
     "section": "",
-    "text": "The Code Editor is an interactive environment for developing Earth Engine applications. It consists of: - Code Editor: The center panel where you write JavaScript code. - Map: The bottom panel where geospatial datasets are visualized. - Console: The right panel for outputting print statements, charts, and errors. - Docs/Assets: The left panel for accessing API documentation and your personal assets."
+    "text": "An ee.ImageCollection is a stack or time-series of images. Examples include: - Sentinel-2 (Optical) - Landsat (Optical/Thermal) - MODIS (Various products)"
   },
   {
-    "objectID": "courses/gee-basics/module1_intro.html#basic-javascript-for-gee",
-    "href": "courses/gee-basics/module1_intro.html#basic-javascript-for-gee",
-    "title": "Module 1: Introduction to Google Earth Engine",
-    "section": "1.2 Basic JavaScript for GEE",
-    "text": "1.2 Basic JavaScript for GEE\nEarth Engine uses JavaScript (and Python) to control the servers. Here are some basics:\n// Variables\nvar city = 'Cuttack';\nvar population = 600000;\n\n// Lists\nvar coordinates = [85.8, 20.4];\n\n// Dictionaries (Objects)\nvar place = {\n  name: 'Cuttack',\n  lat: 20.4,\n  lon: 85.8\n};\n\n// Printing to Console\nprint('City Info:', place);"
+    "objectID": "courses/gee-fundamentals/module2_collections.html#filtering-collections",
+    "href": "courses/gee-fundamentals/module2_collections.html#filtering-collections",
+    "title": "Module 2: Image Collections & Filtering",
+    "section": "2.2 Filtering Collections",
+    "text": "2.2 Filtering Collections\nTo work with these massive datasets, we must filter them by: 1. Time: filterDate() 2. Space: filterBounds() 3. Metadata: filterMetadata() (e.g., cloud cover)\n// Define a region of interest (geometry)\nvar roi = ee.Geometry.Point([85.8245, 20.4625]); // Cuttack\n\n// Load Sentinel-2 Collection\nvar s2 = ee.ImageCollection('COPERNICUS/S2_SR')\n  .filterBounds(roi)\n  .filterDate('2023-01-01', '2023-12-31')\n  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 10)); // Less than 10% clouds\n\nprint('Filtered Collection Size:', s2.size());"
   },
   {
-    "objectID": "courses/gee-basics/module1_intro.html#server-side-vs-client-side",
-    "href": "courses/gee-basics/module1_intro.html#server-side-vs-client-side",
-    "title": "Module 1: Introduction to Google Earth Engine",
-    "section": "1.3 Server-Side vs Client-Side",
-    "text": "1.3 Server-Side vs Client-Side\nThis is the most crucial concept. - Client-side: Variables in your browser (e.g., standard JS var, for loops). - Server-side: Earth Engine objects (ee.Image, ee.Feature, ee.Number).\nRule of Thumb: Avoid mixing them. Use ee.Algorithms whenever possible.\n// Client-side string\nvar clientString = 'Hello World';\n\n// Server-side string\nvar serverString = ee.String('Hello World');\n\n// Do NOT do this:\n// var result = serverString + ' from GEE'; // Error! \n\n// Do this instead:\nvar result = serverString.cat(ee.String(' from GEE'));\nprint(result);"
+    "objectID": "courses/gee-fundamentals/module2_collections.html#reducers-compositing-mosaicking",
+    "href": "courses/gee-fundamentals/module2_collections.html#reducers-compositing-mosaicking",
+    "title": "Module 2: Image Collections & Filtering",
+    "section": "2.3 Reducers: Compositing & Mosaicking",
+    "text": "2.3 Reducers: Compositing & Mosaicking\nHow do we reduce a stack of images into a single image? We use Reducers.\n\nMedian Composite\nA common technique to remove clouds and noise is to take the median value of each pixel across the time series.\n// Create a median composite\nvar medianImage = s2.median();\n\n// Visualization parameters for False Color (NIR, Red, Green)\nvar visParams = {\n  bands: ['B8', 'B4', 'B3'],\n  min: 0,\n  max: 3000\n};\n\nMap.centerObject(roi, 10);\nMap.addLayer(medianImage.clip(roi), visParams, 'Sentinel-2 Median 2023');"
   },
   {
-    "objectID": "courses/gee-basics/module1_intro.html#your-first-map",
-    "href": "courses/gee-basics/module1_intro.html#your-first-map",
-    "title": "Module 1: Introduction to Google Earth Engine",
-    "section": "1.4 Your First Map",
-    "text": "1.4 Your First Map\nLet’s load a digital elevation model (SRTM) and display it.\n// Load the SRTM image\nvar srtm = ee.Image('CGIAR/SRTM90_V4');\n\n// Define visualization parameters\nvar visParams = {\n  min: 0,\n  max: 3000,\n  palette: ['blue', 'green', 'red']\n};\n\n// Add layer to map\nMap.addLayer(srtm, visParams, 'SRTM Elevation');\nMap.setCenter(85.8, 20.4, 8); // Center on Odisha\nNext: Module 2 - Image Collections"
+    "objectID": "courses/gee-fundamentals/module2_collections.html#ndvi-calculation",
+    "href": "courses/gee-fundamentals/module2_collections.html#ndvi-calculation",
+    "title": "Module 2: Image Collections & Filtering",
+    "section": "2.4 NDVI Calculation",
+    "text": "2.4 NDVI Calculation\nNormalized Difference Vegetation Index (NDVI) is a key metric. \\[ NDVI = \\frac{NIR - Red}{NIR + Red} \\]\n// Calculate NDVI using normalizedDifference\nvar ndvi = medianImage.normalizedDifference(['B8', 'B4']).rename('NDVI');\n\n// Visualize NDVI\nvar ndviVis = {\n  min: 0, \n  max: 1, \n  palette: ['white', 'green']\n};\n\nMap.addLayer(ndvi.clip(roi), ndviVis, 'NDVI');\nNext: Module 3 - Vectors & Charts"
   },
   {
-    "objectID": "courses/gee-basics/module3_vectors.html",
-    "href": "courses/gee-basics/module3_vectors.html",
-    "title": "Module 3: Vectors, Assets & Charts",
+    "objectID": "courses/gee-fundamentals/part1_intro.html",
+    "href": "courses/gee-fundamentals/part1_intro.html",
+    "title": "Part 1: The Basics",
     "section": "",
-    "text": "Vector data (Points, Lines, Polygons) are handled as ee.FeatureCollection.\n\n\nAccess administrative boundaries like FAO GAUL or TIGER (US).\n// Load Global Administrative Unit Layers (GAUL)\nvar india = ee.FeatureCollection('FAO/GAUL/2015/level0')\n  .filter(ee.Filter.eq('ADM0_NAME', 'India'));\n\nMap.addLayer(india, {color: 'black'}, 'India Boundary');"
+    "text": "The Earth Engine Code Editor is where you will spend most of your time. It is divided into four main panels: - Editor: Scripting area (Center) - Map: Visualization area (Bottom) - Console: Output area (Right) - Docs/Assets: Reference and Data area (Left)"
   },
   {
-    "objectID": "courses/gee-basics/module3_vectors.html#featurecollections",
-    "href": "courses/gee-basics/module3_vectors.html#featurecollections",
-    "title": "Module 3: Vectors, Assets & Charts",
+    "objectID": "courses/gee-fundamentals/part1_intro.html#the-code-editor-interface",
+    "href": "courses/gee-fundamentals/part1_intro.html#the-code-editor-interface",
+    "title": "Part 1: The Basics",
     "section": "",
-    "text": "Vector data (Points, Lines, Polygons) are handled as ee.FeatureCollection.\n\n\nAccess administrative boundaries like FAO GAUL or TIGER (US).\n// Load Global Administrative Unit Layers (GAUL)\nvar india = ee.FeatureCollection('FAO/GAUL/2015/level0')\n  .filter(ee.Filter.eq('ADM0_NAME', 'India'));\n\nMap.addLayer(india, {color: 'black'}, 'India Boundary');"
+    "text": "The Earth Engine Code Editor is where you will spend most of your time. It is divided into four main panels: - Editor: Scripting area (Center) - Map: Visualization area (Bottom) - Console: Output area (Right) - Docs/Assets: Reference and Data area (Left)"
   },
   {
-    "objectID": "courses/gee-basics/module3_vectors.html#uploading-your-own-data",
-    "href": "courses/gee-basics/module3_vectors.html#uploading-your-own-data",
-    "title": "Module 3: Vectors, Assets & Charts",
-    "section": "3.2 Uploading Your Own Data",
-    "text": "3.2 Uploading Your Own Data\n\nGo to the Assets tab.\nClick New &gt; Table Upload (Shapefile).\nSelect your .shp, .shx, .dbf, and .prj files.\nOnce uploaded, import it into your script using var myData = ee.FeatureCollection('users/username/assetName');."
+    "objectID": "courses/gee-fundamentals/part1_intro.html#essential-javascript-concepts",
+    "href": "courses/gee-fundamentals/part1_intro.html#essential-javascript-concepts",
+    "title": "Part 1: The Basics",
+    "section": "1.2 Essential JavaScript Concepts",
+    "text": "1.2 Essential JavaScript Concepts\nEarth Engine scripts rely on a few key JavaScript concepts:\n// Defining Variables\nvar regionName = 'Odisha';\nvar districtCount = 30;\n\n// Lists (Arrays)\nvar coords = [85.8, 20.4];\n\n// Objects (Dictionaries)\nvar regionInfo = {\n  name: 'Odisha',\n  capital: 'Bhubaneswar'\n};\n\n// Logging to Console\nprint('Region:', regionInfo);"
   },
   {
-    "objectID": "courses/gee-basics/module3_vectors.html#charting-time-series-analysis",
-    "href": "courses/gee-basics/module3_vectors.html#charting-time-series-analysis",
-    "title": "Module 3: Vectors, Assets & Charts",
-    "section": "3.3 Charting: Time Series Analysis",
-    "text": "3.3 Charting: Time Series Analysis\nCharts allow us to visualize temporal trends. Let’s plot an NDVI time series for a region.\n// Load MODIS Vegetation Indices (16-day global)\nvar modis = ee.ImageCollection('MODIS/006/MOD13Q1')\n  .filterDate('2020-01-01', '2023-12-31')\n  .select('NDVI');\n\n// Define region (e.g., a protected forest)\nvar forest = ee.Geometry.Point([84.0, 21.0]).buffer(1000);\n\n// Create Time Series Chart\nvar chart = ui.Chart.image.series({\n  imageCollection: modis,\n  region: forest,\n  reducer: ee.Reducer.mean(),\n  scale: 250\n}).setOptions({\n  title: 'NDVI Time Series (2020-2023)',\n  hAxis: {title: 'Date'},\n  vAxis: {title: 'NDVI (x10000)'},\n  lineWidth: 1,\n  pointSize: 3\n});\n\nprint(chart);\nBack to Course Overview"
+    "objectID": "courses/gee-fundamentals/part1_intro.html#client-vs-server",
+    "href": "courses/gee-fundamentals/part1_intro.html#client-vs-server",
+    "title": "Part 1: The Basics",
+    "section": "1.3 Client vs Server",
+    "text": "1.3 Client vs Server\nA common point of confusion is the difference between: - Client-side: Things running in your browser (UI, simple math). - Server-side: Objects living on Google’s servers (ee.Image, ee.Feature).\nTip: Use ee objects for data processing and allow the server to handle the heavy lifting.\n// Server-side string\nvar serverMsg = ee.String('Hello Earth Engine');\n\n// Concatenation on the server\nvar fullMsg = serverMsg.cat(' from Spatial Geography');\nprint(fullMsg);"
+  },
+  {
+    "objectID": "courses/gee-fundamentals/part1_intro.html#your-first-script",
+    "href": "courses/gee-fundamentals/part1_intro.html#your-first-script",
+    "title": "Part 1: The Basics",
+    "section": "1.4 Your First Script",
+    "text": "1.4 Your First Script\nLet’s visualize elevation data using the SRTM dataset.\n// Load Data\nvar elevation = ee.Image('CGIAR/SRTM90_V4');\n\n// Visualization Params\nvar viz = {\n  min: 0,\n  max: 2000,\n  palette: ['blue', 'green', 'yellow', 'brown']\n};\n\n// Add to Map\nMap.addLayer(elevation, viz, 'Elevation Model');\nMap.setCenter(84.0, 21.0, 7); // Center Over Odisha\nNext: Part 2 - Image Analysis"
+  },
+  {
+    "objectID": "courses/gee-fundamentals/part3_vectors.html",
+    "href": "courses/gee-fundamentals/part3_vectors.html",
+    "title": "Part 3: Spatial Operations & Charting",
+    "section": "",
+    "text": "Vector data in GEE is known as ee.FeatureCollection.\n\n\nYou can access global boundaries directly from the Data Catalog.\n// Load Administrative Boundaries\nvar odisha = ee.FeatureCollection('FAO/GAUL/2015/level1')\n  .filter(ee.Filter.eq('ADM1_NAME', 'Orissa')); // Note: GAUL uses old spelling\n\nMap.addLayer(odisha, {color: 'red'}, 'Odisha Boundary');"
+  },
+  {
+    "objectID": "courses/gee-fundamentals/part3_vectors.html#working-with-vectors",
+    "href": "courses/gee-fundamentals/part3_vectors.html#working-with-vectors",
+    "title": "Part 3: Spatial Operations & Charting",
+    "section": "",
+    "text": "Vector data in GEE is known as ee.FeatureCollection.\n\n\nYou can access global boundaries directly from the Data Catalog.\n// Load Administrative Boundaries\nvar odisha = ee.FeatureCollection('FAO/GAUL/2015/level1')\n  .filter(ee.Filter.eq('ADM1_NAME', 'Orissa')); // Note: GAUL uses old spelling\n\nMap.addLayer(odisha, {color: 'red'}, 'Odisha Boundary');"
+  },
+  {
+    "objectID": "courses/gee-fundamentals/part3_vectors.html#using-custom-assets",
+    "href": "courses/gee-fundamentals/part3_vectors.html#using-custom-assets",
+    "title": "Part 3: Spatial Operations & Charting",
+    "section": "3.2 Using Custom Assets",
+    "text": "3.2 Using Custom Assets\nFor your own study areas: 1. Navigate to the Assets tab. 2. Select New &gt; Shapefile. 3. Upload your files (.shp, .shx, .dbf, .prj). 4. Import the asset into your script using its path."
+  },
+  {
+    "objectID": "courses/gee-fundamentals/part3_vectors.html#generating-charts",
+    "href": "courses/gee-fundamentals/part3_vectors.html#generating-charts",
+    "title": "Part 3: Spatial Operations & Charting",
+    "section": "3.3 Generating Charts",
+    "text": "3.3 Generating Charts\nCharts turn pixel data into insights.\n// Load Climate Data (TerraClimate)\nvar climate = ee.ImageCollection('IDAHO_EPSCOR/TERRACLIMATE')\n  .filterDate('2020-01-01', '2023-12-31')\n  .select('tmmn'); // Minimum Temperature\n\n// Chart Temperature over Cuttack\nvar tempChart = ui.Chart.image.series({\n  imageCollection: climate,\n  region: ee.Geometry.Point([85.82, 20.46]),\n  reducer: ee.Reducer.mean(),\n  scale: 1000\n}).setOptions({\n  title: 'Minimum Temperature Trend (Cuttack)',\n  hAxis: {title: 'Date'},\n  vAxis: {title: 'Min Temp (°C)'}\n});\n\nprint(tempChart);\nBack to Course Home"
   },
   {
     "objectID": "projects.html",

@@ -8,9 +8,8 @@
 
 <meta name="author" content="Pulakesh Pradhan">
 <meta name="dcterms.date" content="2025-01-11">
-<meta name="description" content="A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications.">
 
-<title>End-to-End Google Earth Engine (GEE) Bootcamp | Jadey Ryan – Spatial Geography</title>
+<title>Part 2: Image Analysis | Spatial Geography – Spatial Geography</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -103,17 +137,44 @@ cookieconsent.run({
   
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="End-to-End Google Earth Engine (GEE) Bootcamp | Jadey Ryan">
-<meta property="og:description" content="A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications.">
-<meta property="og:image" content="https://spatialgeography.github.io/courses/gee-basics/assets/img/gee-logo.png">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Part 2: Image Analysis | Spatial Geography">
+<meta property="og:description" content="Spatial Analysis and Geography">
 <meta property="og:site_name" content="Spatial Geography">
 <meta property="og:locale" content="en_EN">
-<meta name="twitter:title" content="End-to-End Google Earth Engine (GEE) Bootcamp | Jadey Ryan">
-<meta name="twitter:description" content="A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications.">
-<meta name="twitter:image" content="https://spatialgeography.github.io/courses/gee-basics/assets/img/gee-logo.png">
+<meta name="twitter:title" content="Part 2: Image Analysis | Spatial Geography">
+<meta name="twitter:description" content="Spatial Analysis and Geography">
 <meta name="twitter:creator" content="@SpatialGeography">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -192,7 +253,7 @@ cookieconsent.run({
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/jadeynryan"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/spatialgeography"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -202,11 +263,11 @@ cookieconsent.run({
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app/profile/jadeynryan.bsky.social"> 
+    <a class="nav-link" href="https://bsky.app/profile/spatialgeography.bsky.social"> 
 <span class="menu-text"><iconify-icon inline="" icon="simple-icons:bluesky"></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://fosstodon.org/@jadeynryan" rel="me"> <i class="bi bi-mastodon" role="img" aria-label="Mastodon">
+    <a class="nav-link" href="https://fosstodon.org/@spatialgeography" rel="me"> <i class="bi bi-mastodon" role="img" aria-label="Mastodon">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -230,38 +291,30 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#course-overview" id="toc-course-overview" class="nav-link active" data-scroll-target="#course-overview">📚 Course Overview</a>
+  <li><a href="#filtering-image-collections" id="toc-filtering-image-collections" class="nav-link active" data-scroll-target="#filtering-image-collections">2.1 Filtering Image Collections</a>
   <ul>
-  <li><a href="#syllabus" id="toc-syllabus" class="nav-link" data-scroll-target="#syllabus">📋 Syllabus</a>
-  <ul class="collapse">
-  <li><a href="#module-1-getting-started-with-gee" id="toc-module-1-getting-started-with-gee" class="nav-link" data-scroll-target="#module-1-getting-started-with-gee"><strong>Module 1: Getting Started with GEE</strong></a></li>
-  <li><a href="#module-2-working-with-image-collections" id="toc-module-2-working-with-image-collections" class="nav-link" data-scroll-target="#module-2-working-with-image-collections"><strong>Module 2: Working with Image Collections</strong></a></li>
-  <li><a href="#module-3-vector-data-charts" id="toc-module-3-vector-data-charts" class="nav-link" data-scroll-target="#module-3-vector-data-charts"><strong>Module 3: Vector Data &amp; Charts</strong></a></li>
-  <li><a href="#module-4-advanced-analysis" id="toc-module-4-advanced-analysis" class="nav-link" data-scroll-target="#module-4-advanced-analysis"><strong>Module 4: Advanced Analysis</strong></a></li>
+  <li><a href="#common-filters" id="toc-common-filters" class="nav-link" data-scroll-target="#common-filters">Common Filters</a></li>
   </ul></li>
-  <li><a href="#ready-to-start" id="toc-ready-to-start" class="nav-link" data-scroll-target="#ready-to-start">🚀 Ready to start?</a></li>
+  <li><a href="#creating-composites" id="toc-creating-composites" class="nav-link" data-scroll-target="#creating-composites">2.2 Creating Composites</a>
+  <ul>
+  <li><a href="#median-composite" id="toc-median-composite" class="nav-link" data-scroll-target="#median-composite">Median Composite</a></li>
   </ul></li>
+  <li><a href="#calculating-indices-ndvi" id="toc-calculating-indices-ndvi" class="nav-link" data-scroll-target="#calculating-indices-ndvi">2.3 Calculating Indices (NDVI)</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-fundamentals/part2_collections.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">End-to-End Google Earth Engine (GEE) Bootcamp</h1>
+<h1 class="title">Part 2: Image Analysis</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">GEE</div>
-    <div class="quarto-category">Course</div>
-    <div class="quarto-category">Tutorial</div>
+    <div class="quarto-category">Part</div>
+    <div class="quarto-category">Analysis</div>
   </div>
   </div>
 
-<div>
-  <div class="description">
-    A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications.
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -288,80 +341,65 @@ cookieconsent.run({
 </header>
 
 
-<section id="course-overview" class="level2">
-<h2 class="anchored" data-anchor-id="course-overview">📚 Course Overview</h2>
-<p>Welcome to the <strong>End-to-End Google Earth Engine Bootcamp</strong>! This course is designed to take you from a complete beginner to an advanced user of Google Earth Engine. We cover everything from the JavaScript API basics to complex machine learning workflows.</p>
-<section id="syllabus" class="level3">
-<h3 class="anchored" data-anchor-id="syllabus">📋 Syllabus</h3>
-<section id="module-1-getting-started-with-gee" class="level4">
-<h4 class="anchored" data-anchor-id="module-1-getting-started-with-gee"><strong>Module 1: Getting Started with GEE</strong></h4>
-<ul>
-<li><strong><a href="../../courses/gee-basics/module1_intro.html">Introduction to the Code Editor</a></strong>
-<ul>
-<li>Understanding the Interface</li>
-<li>server-side vs client-side objects</li>
-<li>Basic JavaScript for GEE</li>
-</ul></li>
-<li><strong><a href="../../courses/gee-basics/module1_intro.html#hello-world">Hello World: Your First Script</a></strong>
-<ul>
-<li>Loading an image</li>
-<li>Map layers and visualization</li>
-</ul></li>
-</ul>
-</section>
-<section id="module-2-working-with-image-collections" class="level4">
-<h4 class="anchored" data-anchor-id="module-2-working-with-image-collections"><strong>Module 2: Working with Image Collections</strong></h4>
-<ul>
-<li><strong><a href="../../courses/gee-basics/module2_collections.html">Filtering and Sorting</a></strong>
-<ul>
-<li><code>filterDate</code>, <code>filterBounds</code>, <code>filterMetadata</code></li>
-<li>Sorting and selecting best pixels</li>
-</ul></li>
-<li><strong><a href="../../courses/gee-basics/module2_collections.html#reducers">Reducers and Composites</a></strong>
-<ul>
-<li>Creating cloud-free mosaics</li>
-<li>Annual/Seasonal composites</li>
-</ul></li>
-</ul>
-</section>
-<section id="module-3-vector-data-charts" class="level4">
-<h4 class="anchored" data-anchor-id="module-3-vector-data-charts"><strong>Module 3: Vector Data &amp; Charts</strong></h4>
-<ul>
-<li><strong><a href="../../courses/gee-basics/module3_vectors.html">FeatureCollections</a></strong>
-<ul>
-<li>Importing Shapefiles (Assets)</li>
-<li>Filtering Client-side vs Server-side</li>
-</ul></li>
-<li><strong><a href="../../courses/gee-basics/module3_vectors.html#charts">Charting results</a></strong>
-<ul>
-<li>Time-series charts</li>
-<li>Histograms</li>
-</ul></li>
-</ul>
-</section>
-<section id="module-4-advanced-analysis" class="level4">
-<h4 class="anchored" data-anchor-id="module-4-advanced-analysis"><strong>Module 4: Advanced Analysis</strong></h4>
-<ul>
-<li><strong><a href="module4_classification.qmd">Supervised Classification</a></strong>
-<ul>
-<li>Training data collection</li>
-<li>Random Forest Classifier</li>
-<li>Accuracy Assessment</li>
-</ul></li>
-<li><strong><a href="module4_classification.qmd#exports">Exporting Data</a></strong>
-<ul>
-<li>To Drive, Assets, and Cloud Storage</li>
-</ul></li>
-</ul>
-<hr>
+<section id="filtering-image-collections" class="level2">
+<h2 class="anchored" data-anchor-id="filtering-image-collections">2.1 Filtering Image Collections</h2>
+<p>Satellite data is organized into <code>ee.ImageCollection</code>. To use it effectively, we filter down to what we need.</p>
+<section id="common-filters" class="level3">
+<h3 class="anchored" data-anchor-id="common-filters">Common Filters</h3>
+<ol type="1">
+<li><strong>Date</strong>: <code>filterDate('start', 'end')</code></li>
+<li><strong>Location</strong>: <code>filterBounds(geometry)</code></li>
+<li><strong>Attributes</strong>: <code>filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))</code></li>
+</ol>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Define Area</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> studyArea <span class="op">=</span> ee<span class="op">.</span><span class="at">Geometry</span><span class="op">.</span><span class="fu">Point</span>([<span class="fl">85.82</span><span class="op">,</span> <span class="fl">20.46</span>])<span class="op">;</span> <span class="co">// Cuttack</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">// Load Sentinel-2</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> sentinel <span class="op">=</span> ee<span class="op">.</span><span class="fu">ImageCollection</span>(<span class="st">'COPERNICUS/S2_SR'</span>)</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filterBounds</span>(studyArea)</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filterDate</span>(<span class="st">'2023-01-01'</span><span class="op">,</span> <span class="st">'2023-06-30'</span>)</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filter</span>(ee<span class="op">.</span><span class="at">Filter</span><span class="op">.</span><span class="fu">lt</span>(<span class="st">'CLOUDY_PIXEL_PERCENTAGE'</span><span class="op">,</span> <span class="dv">10</span>))<span class="op">;</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="st">'Images Found:'</span><span class="op">,</span> sentinel<span class="op">.</span><span class="fu">size</span>())<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 </section>
-<section id="ready-to-start" class="level3">
-<h3 class="anchored" data-anchor-id="ready-to-start">🚀 Ready to start?</h3>
-<p><a href="../../courses/gee-basics/module1_intro.html"><strong>Click here to begin Module 1</strong></a></p>
+<section id="creating-composites" class="level2">
+<h2 class="anchored" data-anchor-id="creating-composites">2.2 Creating Composites</h2>
+<p>Reducing a collection to a single image is called compositing.</p>
+<section id="median-composite" class="level3">
+<h3 class="anchored" data-anchor-id="median-composite">Median Composite</h3>
+<p>Taking the median pixel value helps remove transient noise like clouds or shadows.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Median Composite</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> medianImg <span class="op">=</span> sentinel<span class="op">.</span><span class="fu">median</span>()<span class="op">;</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">// Visualization</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> rgbVis <span class="op">=</span> {</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">bands</span><span class="op">:</span> [<span class="st">'B4'</span><span class="op">,</span> <span class="st">'B3'</span><span class="op">,</span> <span class="st">'B2'</span>]<span class="op">,</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">min</span><span class="op">:</span> <span class="dv">0</span><span class="op">,</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">max</span><span class="op">:</span> <span class="dv">3000</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>}<span class="op">;</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">centerObject</span>(studyArea<span class="op">,</span> <span class="dv">11</span>)<span class="op">;</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">addLayer</span>(medianImg<span class="op">.</span><span class="fu">clip</span>(studyArea)<span class="op">,</span> rgbVis<span class="op">,</span> <span class="st">'True Color'</span>)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+</section>
+<section id="calculating-indices-ndvi" class="level2">
+<h2 class="anchored" data-anchor-id="calculating-indices-ndvi">2.3 Calculating Indices (NDVI)</h2>
+<p>Vegetation indices are powerful tools for monitoring plant health. <span class="math display">\[ NDVI = \frac{NIR - Red}{NIR + Red} \]</span></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Compute NDVI</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> ndvi <span class="op">=</span> medianImg<span class="op">.</span><span class="fu">normalizedDifference</span>([<span class="st">'B8'</span><span class="op">,</span> <span class="st">'B4'</span>])<span class="op">.</span><span class="fu">rename</span>(<span class="st">'NDVI'</span>)<span class="op">;</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="co">// Visualize</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> ndviParams <span class="op">=</span> {</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">min</span><span class="op">:</span> <span class="dv">0</span><span class="op">,</span> </span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">max</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span> </span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">palette</span><span class="op">:</span> [<span class="st">'brown'</span><span class="op">,</span> <span class="st">'yellow'</span><span class="op">,</span> <span class="st">'green'</span>]</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>}<span class="op">;</span></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">addLayer</span>(ndvi<span class="op">.</span><span class="fu">clip</span>(studyArea)<span class="op">,</span> ndviParams<span class="op">,</span> <span class="st">'Vegetation Index'</span>)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><a href="../../courses/gee-fundamentals/part3_vectors.html"><strong>Next: Part 3 - Spatial Operations</strong></a></p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -794,7 +832,7 @@ cookieconsent.run({
 </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-fundamentals/part2_collections.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
     <div class="nav-footer-right">
 <p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
 </div>

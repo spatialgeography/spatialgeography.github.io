@@ -1,0 +1,56 @@
+---
+title: "Part 3: Spatial Operations & Charting"
+author: "Pulakesh Pradhan"
+date: 2025-01-11
+categories: [Part, Vectors]
+---
+
+## 3.1 Working with Vectors
+
+Vector data in GEE is known as `ee.FeatureCollection`.
+
+### Public Vector Datasets
+You can access global boundaries directly from the Data Catalog.
+
+```javascript
+// Load Administrative Boundaries
+var odisha = ee.FeatureCollection('FAO/GAUL/2015/level1')
+  .filter(ee.Filter.eq('ADM1_NAME', 'Orissa')); // Note: GAUL uses old spelling
+
+Map.addLayer(odisha, {color: 'red'}, 'Odisha Boundary');
+```
+
+## 3.2 Using Custom Assets
+
+For your own study areas:
+1.  Navigate to the **Assets** tab.
+2.  Select **New** > **Shapefile**.
+3.  Upload your files (`.shp`, `.shx`, `.dbf`, `.prj`).
+4.  Import the asset into your script using its path.
+
+## 3.3 Generating Charts
+
+Charts turn pixel data into insights.
+
+```javascript
+// Load Climate Data (TerraClimate)
+var climate = ee.ImageCollection('IDAHO_EPSCOR/TERRACLIMATE')
+  .filterDate('2020-01-01', '2023-12-31')
+  .select('tmmn'); // Minimum Temperature
+
+// Chart Temperature over Cuttack
+var tempChart = ui.Chart.image.series({
+  imageCollection: climate,
+  region: ee.Geometry.Point([85.82, 20.46]),
+  reducer: ee.Reducer.mean(),
+  scale: 1000
+}).setOptions({
+  title: 'Minimum Temperature Trend (Cuttack)',
+  hAxis: {title: 'Date'},
+  vAxis: {title: 'Min Temp (°C)'}
+});
+
+print(tempChart);
+```
+
+[**Back to Course Home**](index.qmd)

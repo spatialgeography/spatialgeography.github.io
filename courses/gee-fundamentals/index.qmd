@@ -1,0 +1,44 @@
+---
+title: "Fundamentals of Google Earth Engine"
+description: "A comprehensive guide to mastering Earth Engine for geospatial analysis using the JavaScript API."
+date: 2025-01-11
+author: "Pulakesh Pradhan"
+categories: [GEE, Course, Tutorial]
+image: assets/img/spatial_logo.png
+---
+
+## 📚 Course Overview
+
+Welcome to the **Fundamentals of Google Earth Engine**! This course is designed to guide you through the essential concepts and practical applications of GEE for environmental monitoring and spatial analysis.
+
+### 📋 Course Structure
+
+#### **Part 1: The Basics**
+- **[Introduction to the Interface](part1_intro.qmd)**
+  - Code Editor Walkthrough
+  - Understanding Client vs Server Side
+  - Basic JavaScript for GEE
+- **[Your First Script](part1_intro.qmd#your-first-script)**
+  - Loading an Image
+  - Visualization Parameters
+
+#### **Part 2: Image Analysis**
+- **[Working with Collections](part2_collections.qmd)**
+  - Filtering by Date, Location, and Metadata
+  - Sorting and Reducing (Composites)
+- **[Vegetation Indices](part2_collections.qmd#indices)**
+  - Calculating NDVI
+  - Band math
+
+#### **Part 3: Spatial Operations**
+- **[Vector Data Integration](part3_vectors.qmd)**
+  - Uploading Shapefiles (Assets)
+  - Filtering FeatureCollections
+- **[Time Series Charting](part3_vectors.qmd#charts)**
+  - Generating and Customizing Charts
+  - Analyzing Trends over Time
+
+---
+
+### 🚀 Start Learning
+[**Go to Part 1: The Basics**](part1_intro.qmd)

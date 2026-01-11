@@ -9,7 +9,7 @@
 <meta name="author" content="Pulakesh Pradhan">
 <meta name="dcterms.date" content="2025-01-11">
 
-<title>Module 1: Introduction to Google Earth Engine | Jadey Ryan – Spatial Geography</title>
+<title>Module 3: Vectors, Assets &amp; Charts | Spatial Geography – Spatial Geography</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -138,11 +138,11 @@ cookieconsent.run({
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<meta property="og:title" content="Module 1: Introduction to Google Earth Engine | Jadey Ryan">
+<meta property="og:title" content="Module 3: Vectors, Assets &amp; Charts | Spatial Geography">
 <meta property="og:description" content="Spatial Analysis and Geography">
 <meta property="og:site_name" content="Spatial Geography">
 <meta property="og:locale" content="en_EN">
-<meta name="twitter:title" content="Module 1: Introduction to Google Earth Engine | Jadey Ryan">
+<meta name="twitter:title" content="Module 3: Vectors, Assets &amp; Charts | Spatial Geography">
 <meta name="twitter:description" content="Spatial Analysis and Geography">
 <meta name="twitter:creator" content="@SpatialGeography">
 <meta name="twitter:card" content="summary">
@@ -224,7 +224,7 @@ cookieconsent.run({
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/jadeynryan"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/spatialgeography"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -234,11 +234,11 @@ cookieconsent.run({
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app/profile/jadeynryan.bsky.social"> 
+    <a class="nav-link" href="https://bsky.app/profile/spatialgeography.bsky.social"> 
 <span class="menu-text"><iconify-icon inline="" icon="simple-icons:bluesky"></iconify-icon></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://fosstodon.org/@jadeynryan" rel="me"> <i class="bi bi-mastodon" role="img" aria-label="Mastodon">
+    <a class="nav-link" href="https://fosstodon.org/@spatialgeography" rel="me"> <i class="bi bi-mastodon" role="img" aria-label="Mastodon">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -262,22 +262,24 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#the-earth-engine-code-editor" id="toc-the-earth-engine-code-editor" class="nav-link active" data-scroll-target="#the-earth-engine-code-editor">1.1 The Earth Engine Code Editor</a></li>
-  <li><a href="#basic-javascript-for-gee" id="toc-basic-javascript-for-gee" class="nav-link" data-scroll-target="#basic-javascript-for-gee">1.2 Basic JavaScript for GEE</a></li>
-  <li><a href="#server-side-vs-client-side" id="toc-server-side-vs-client-side" class="nav-link" data-scroll-target="#server-side-vs-client-side">1.3 Server-Side vs Client-Side</a></li>
-  <li><a href="#your-first-map" id="toc-your-first-map" class="nav-link" data-scroll-target="#your-first-map">1.4 Your First Map</a></li>
+  <li><a href="#featurecollections" id="toc-featurecollections" class="nav-link active" data-scroll-target="#featurecollections">3.1 FeatureCollections</a>
+  <ul>
+  <li><a href="#using-public-datasets" id="toc-using-public-datasets" class="nav-link" data-scroll-target="#using-public-datasets">Using Public Datasets</a></li>
+  </ul></li>
+  <li><a href="#uploading-your-own-data" id="toc-uploading-your-own-data" class="nav-link" data-scroll-target="#uploading-your-own-data">3.2 Uploading Your Own Data</a></li>
+  <li><a href="#charting-time-series-analysis" id="toc-charting-time-series-analysis" class="nav-link" data-scroll-target="#charting-time-series-analysis">3.3 Charting: Time Series Analysis</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/module1_intro.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-fundamentals/module3_vectors.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Module 1: Introduction to Google Earth Engine</h1>
+<h1 class="title">Module 3: Vectors, Assets &amp; Charts</h1>
   <div class="quarto-categories">
     <div class="quarto-category">Module</div>
-    <div class="quarto-category">Basics</div>
+    <div class="quarto-category">Vectors</div>
   </div>
   </div>
 
@@ -307,64 +309,55 @@ cookieconsent.run({
 </header>
 
 
-<section id="the-earth-engine-code-editor" class="level2">
-<h2 class="anchored" data-anchor-id="the-earth-engine-code-editor">1.1 The Earth Engine Code Editor</h2>
-<p>The Code Editor is an interactive environment for developing Earth Engine applications. It consists of: - <strong>Code Editor</strong>: The center panel where you write JavaScript code. - <strong>Map</strong>: The bottom panel where geospatial datasets are visualized. - <strong>Console</strong>: The right panel for outputting print statements, charts, and errors. - <strong>Docs/Assets</strong>: The left panel for accessing API documentation and your personal assets.</p>
-</section>
-<section id="basic-javascript-for-gee" class="level2">
-<h2 class="anchored" data-anchor-id="basic-javascript-for-gee">1.2 Basic JavaScript for GEE</h2>
-<p>Earth Engine uses JavaScript (and Python) to control the servers. Here are some basics:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Variables</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> city <span class="op">=</span> <span class="st">'Cuttack'</span><span class="op">;</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> population <span class="op">=</span> <span class="dv">600000</span><span class="op">;</span></span>
+<section id="featurecollections" class="level2">
+<h2 class="anchored" data-anchor-id="featurecollections">3.1 FeatureCollections</h2>
+<p>Vector data (Points, Lines, Polygons) are handled as <code>ee.FeatureCollection</code>.</p>
+<section id="using-public-datasets" class="level3">
+<h3 class="anchored" data-anchor-id="using-public-datasets">Using Public Datasets</h3>
+<p>Access administrative boundaries like FAO GAUL or TIGER (US).</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Load Global Administrative Unit Layers (GAUL)</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> india <span class="op">=</span> ee<span class="op">.</span><span class="fu">FeatureCollection</span>(<span class="st">'FAO/GAUL/2015/level0'</span>)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filter</span>(ee<span class="op">.</span><span class="at">Filter</span><span class="op">.</span><span class="fu">eq</span>(<span class="st">'ADM0_NAME'</span><span class="op">,</span> <span class="st">'India'</span>))<span class="op">;</span></span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">// Lists</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> coordinates <span class="op">=</span> [<span class="fl">85.8</span><span class="op">,</span> <span class="fl">20.4</span>]<span class="op">;</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">// Dictionaries (Objects)</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> place <span class="op">=</span> {</span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>  <span class="dt">name</span><span class="op">:</span> <span class="st">'Cuttack'</span><span class="op">,</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>  <span class="dt">lat</span><span class="op">:</span> <span class="fl">20.4</span><span class="op">,</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>  <span class="dt">lon</span><span class="op">:</span> <span class="fl">85.8</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>}<span class="op">;</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">// Printing to Console</span></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="st">'City Info:'</span><span class="op">,</span> place)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">addLayer</span>(india<span class="op">,</span> {<span class="dt">color</span><span class="op">:</span> <span class="st">'black'</span>}<span class="op">,</span> <span class="st">'India Boundary'</span>)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="server-side-vs-client-side" class="level2">
-<h2 class="anchored" data-anchor-id="server-side-vs-client-side">1.3 Server-Side vs Client-Side</h2>
-<p>This is the most crucial concept. - <strong>Client-side</strong>: Variables in your browser (e.g., standard JS <code>var</code>, <code>for</code> loops). - <strong>Server-side</strong>: Earth Engine objects (<code>ee.Image</code>, <code>ee.Feature</code>, <code>ee.Number</code>).</p>
-<p><strong>Rule of Thumb</strong>: Avoid mixing them. Use <code>ee.Algorithms</code> whenever possible.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Client-side string</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> clientString <span class="op">=</span> <span class="st">'Hello World'</span><span class="op">;</span></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">// Server-side string</span></span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> serverString <span class="op">=</span> ee<span class="op">.</span><span class="fu">String</span>(<span class="st">'Hello World'</span>)<span class="op">;</span></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="co">// Do NOT do this:</span></span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co">// var result = serverString + ' from GEE'; // Error! </span></span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a><span class="co">// Do this instead:</span></span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> result <span class="op">=</span> serverString<span class="op">.</span><span class="fu">cat</span>(ee<span class="op">.</span><span class="fu">String</span>(<span class="st">' from GEE'</span>))<span class="op">;</span></span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(result)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="your-first-map" class="level2">
-<h2 class="anchored" data-anchor-id="your-first-map">1.4 Your First Map</h2>
-<p>Let’s load a digital elevation model (SRTM) and display it.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Load the SRTM image</span></span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> srtm <span class="op">=</span> ee<span class="op">.</span><span class="fu">Image</span>(<span class="st">'CGIAR/SRTM90_V4'</span>)<span class="op">;</span></span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="co">// Define visualization parameters</span></span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> visParams <span class="op">=</span> {</span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">min</span><span class="op">:</span> <span class="dv">0</span><span class="op">,</span></span>
-<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">max</span><span class="op">:</span> <span class="dv">3000</span><span class="op">,</span></span>
-<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">palette</span><span class="op">:</span> [<span class="st">'blue'</span><span class="op">,</span> <span class="st">'green'</span><span class="op">,</span> <span class="st">'red'</span>]</span>
-<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>}<span class="op">;</span></span>
-<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a><span class="co">// Add layer to map</span></span>
-<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">addLayer</span>(srtm<span class="op">,</span> visParams<span class="op">,</span> <span class="st">'SRTM Elevation'</span>)<span class="op">;</span></span>
-<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">setCenter</span>(<span class="fl">85.8</span><span class="op">,</span> <span class="fl">20.4</span><span class="op">,</span> <span class="dv">8</span>)<span class="op">;</span> <span class="co">// Center on Odisha</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<p><a href="../../courses/gee-basics/module2_collections.html"><strong>Next: Module 2 - Image Collections</strong></a></p>
+<section id="uploading-your-own-data" class="level2">
+<h2 class="anchored" data-anchor-id="uploading-your-own-data">3.2 Uploading Your Own Data</h2>
+<ol type="1">
+<li>Go to the <strong>Assets</strong> tab.</li>
+<li>Click <strong>New</strong> &gt; <strong>Table Upload (Shapefile)</strong>.</li>
+<li>Select your <code>.shp</code>, <code>.shx</code>, <code>.dbf</code>, and <code>.prj</code> files.</li>
+<li>Once uploaded, import it into your script using <code>var myData = ee.FeatureCollection('users/username/assetName');</code>.</li>
+</ol>
+</section>
+<section id="charting-time-series-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="charting-time-series-analysis">3.3 Charting: Time Series Analysis</h2>
+<p>Charts allow us to visualize temporal trends. Let’s plot an NDVI time series for a region.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Load MODIS Vegetation Indices (16-day global)</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> modis <span class="op">=</span> ee<span class="op">.</span><span class="fu">ImageCollection</span>(<span class="st">'MODIS/006/MOD13Q1'</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filterDate</span>(<span class="st">'2020-01-01'</span><span class="op">,</span> <span class="st">'2023-12-31'</span>)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">select</span>(<span class="st">'NDVI'</span>)<span class="op">;</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="co">// Define region (e.g., a protected forest)</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> forest <span class="op">=</span> ee<span class="op">.</span><span class="at">Geometry</span><span class="op">.</span><span class="fu">Point</span>([<span class="fl">84.0</span><span class="op">,</span> <span class="fl">21.0</span>])<span class="op">.</span><span class="fu">buffer</span>(<span class="dv">1000</span>)<span class="op">;</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="co">// Create Time Series Chart</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> chart <span class="op">=</span> ui<span class="op">.</span><span class="at">Chart</span><span class="op">.</span><span class="at">image</span><span class="op">.</span><span class="fu">series</span>({</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  <span class="dt">imageCollection</span><span class="op">:</span> modis<span class="op">,</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>  <span class="dt">region</span><span class="op">:</span> forest<span class="op">,</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>  <span class="dt">reducer</span><span class="op">:</span> ee<span class="op">.</span><span class="at">Reducer</span><span class="op">.</span><span class="fu">mean</span>()<span class="op">,</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>  <span class="dt">scale</span><span class="op">:</span> <span class="dv">250</span></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>})<span class="op">.</span><span class="fu">setOptions</span>({</span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span><span class="op">:</span> <span class="st">'NDVI Time Series (2020-2023)'</span><span class="op">,</span></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>  <span class="dt">hAxis</span><span class="op">:</span> {<span class="dt">title</span><span class="op">:</span> <span class="st">'Date'</span>}<span class="op">,</span></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>  <span class="dt">vAxis</span><span class="op">:</span> {<span class="dt">title</span><span class="op">:</span> <span class="st">'NDVI (x10000)'</span>}<span class="op">,</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>  <span class="dt">lineWidth</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pointSize</span><span class="op">:</span> <span class="dv">3</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>})<span class="op">;</span></span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(chart)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><a href="../../courses/gee-fundamentals/index.html"><strong>Back to Course Overview</strong></a></p>
 
 
 </section>
@@ -799,7 +792,7 @@ cookieconsent.run({
 </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/module1_intro.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-fundamentals/module3_vectors.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
     <div class="nav-footer-right">
 <p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
 </div>

@@ -1,5 +1,5 @@
 ---
-pagetitle: "Jadey Ryan | About"
+pagetitle: "Spatial Geography | About"
 title: "Spatial Geography"
 subtitle: "Exploring the world through Spatial Data Science 🌍"
 image: assets/img/spatial_logo.png

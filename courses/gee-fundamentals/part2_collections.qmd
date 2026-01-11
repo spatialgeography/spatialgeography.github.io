@@ -1,0 +1,71 @@
+---
+title: "Part 2: Image Analysis"
+author: "Pulakesh Pradhan"
+date: 2025-01-11
+categories: [Part, Analysis]
+---
+
+## 2.1 Filtering Image Collections
+
+Satellite data is organized into `ee.ImageCollection`. To use it effectively, we filter down to what we need.
+
+### Common Filters
+1.  **Date**: `filterDate('start', 'end')`
+2.  **Location**: `filterBounds(geometry)`
+3.  **Attributes**: `filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 20))`
+
+```javascript
+// Define Area
+var studyArea = ee.Geometry.Point([85.82, 20.46]); // Cuttack
+
+// Load Sentinel-2
+var sentinel = ee.ImageCollection('COPERNICUS/S2_SR')
+  .filterBounds(studyArea)
+  .filterDate('2023-01-01', '2023-06-30')
+  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 10));
+
+print('Images Found:', sentinel.size());
+```
+
+## 2.2 Creating Composites
+
+Reducing a collection to a single image is called compositing.
+
+### Median Composite
+Taking the median pixel value helps remove transient noise like clouds or shadows.
+
+```javascript
+// Median Composite
+var medianImg = sentinel.median();
+
+// Visualization
+var rgbVis = {
+  bands: ['B4', 'B3', 'B2'],
+  min: 0,
+  max: 3000
+};
+
+Map.centerObject(studyArea, 11);
+Map.addLayer(medianImg.clip(studyArea), rgbVis, 'True Color');
+```
+
+## 2.3 Calculating Indices (NDVI)
+
+Vegetation indices are powerful tools for monitoring plant health.
+$$ NDVI = \frac{NIR - Red}{NIR + Red} $$
+
+```javascript
+// Compute NDVI
+var ndvi = medianImg.normalizedDifference(['B8', 'B4']).rename('NDVI');
+
+// Visualize
+var ndviParams = {
+  min: 0, 
+  max: 1, 
+  palette: ['brown', 'yellow', 'green']
+};
+
+Map.addLayer(ndvi.clip(studyArea), ndviParams, 'Vegetation Index');
+```
+
+[**Next: Part 3 - Spatial Operations**](part3_vectors.qmd)

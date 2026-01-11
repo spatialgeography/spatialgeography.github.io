@@ -1,0 +1,75 @@
+---
+title: "Part 1: The Basics"
+author: "Pulakesh Pradhan"
+date: 2025-01-11
+categories: [Part, Fundamentals]
+---
+
+## 1.1 The Code Editor Interface
+
+The Earth Engine Code Editor is where you will spend most of your time. It is divided into four main panels:
+- **Editor**: Scripting area (Center)
+- **Map**: Visualization area (Bottom)
+- **Console**: Output area (Right)
+- **Docs/Assets**: Reference and Data area (Left)
+
+## 1.2 Essential JavaScript Concepts
+
+Earth Engine scripts rely on a few key JavaScript concepts:
+
+```javascript
+// Defining Variables
+var regionName = 'Odisha';
+var districtCount = 30;
+
+// Lists (Arrays)
+var coords = [85.8, 20.4];
+
+// Objects (Dictionaries)
+var regionInfo = {
+  name: 'Odisha',
+  capital: 'Bhubaneswar'
+};
+
+// Logging to Console
+print('Region:', regionInfo);
+```
+
+## 1.3 Client vs Server
+
+A common point of confusion is the difference between:
+- **Client-side**: Things running in your browser (UI, simple math).
+- **Server-side**: Objects living on Google's servers (`ee.Image`, `ee.Feature`).
+
+*Tip*: Use `ee` objects for data processing and allow the server to handle the heavy lifting.
+
+```javascript
+// Server-side string
+var serverMsg = ee.String('Hello Earth Engine');
+
+// Concatenation on the server
+var fullMsg = serverMsg.cat(' from Spatial Geography');
+print(fullMsg);
+```
+
+## 1.4 Your First Script
+
+Let's visualize elevation data using the SRTM dataset.
+
+```javascript
+// Load Data
+var elevation = ee.Image('CGIAR/SRTM90_V4');
+
+// Visualization Params
+var viz = {
+  min: 0,
+  max: 2000,
+  palette: ['blue', 'green', 'yellow', 'brown']
+};
+
+// Add to Map
+Map.addLayer(elevation, viz, 'Elevation Model');
+Map.setCenter(84.0, 21.0, 7); // Center Over Odisha
+```
+
+[**Next: Part 2 - Image Analysis**](part2_collections.qmd)
