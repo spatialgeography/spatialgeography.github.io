@@ -6,6 +6,11 @@ I develop tools and applications to solve real-world geospatial problems. Here a
 
 ## 🛠️ Google Earth Engine Apps
 
+### [R Shiny TIF Viewer & Clipper](projects/tif-clipper/index.qmd)
+**Status:** Code Available | **Type:** R Shiny App
+An interactive web app to upload, visualize, and clip GeoTIFFs using Shapefiles. Includes full R source code.
+
+
 ### [GEE AI Assistant](https://chromewebstore.google.com/detail/kldhacnbicjpbdiebjjflnhgcmheokkl)
 **Status:** Live | **Type:** Browser Extension
 An AI-powered assistant for Google Earth Engine to help users write code and analyze data more efficiently.
