@@ -1,0 +1,60 @@
+---
+title: "Module 3: Vectors, Assets & Charts"
+author: "Pulakesh Pradhan"
+date: 2025-01-11
+categories: [Module, Vectors]
+---
+
+## 3.1 FeatureCollections
+
+Vector data (Points, Lines, Polygons) are handled as `ee.FeatureCollection`.
+
+### Using Public Datasets
+Access administrative boundaries like FAO GAUL or TIGER (US).
+
+```javascript
+// Load Global Administrative Unit Layers (GAUL)
+var india = ee.FeatureCollection('FAO/GAUL/2015/level0')
+  .filter(ee.Filter.eq('ADM0_NAME', 'India'));
+
+Map.addLayer(india, {color: 'black'}, 'India Boundary');
+```
+
+## 3.2 Uploading Your Own Data
+
+1. Go to the **Assets** tab.
+2. Click **New** > **Table Upload (Shapefile)**.
+3. Select your `.shp`, `.shx`, `.dbf`, and `.prj` files.
+4. Once uploaded, import it into your script using `var myData = ee.FeatureCollection('users/username/assetName');`.
+
+## 3.3 Charting: Time Series Analysis
+
+Charts allow us to visualize temporal trends. Let's plot an NDVI time series for a region.
+
+```javascript
+// Load MODIS Vegetation Indices (16-day global)
+var modis = ee.ImageCollection('MODIS/006/MOD13Q1')
+  .filterDate('2020-01-01', '2023-12-31')
+  .select('NDVI');
+
+// Define region (e.g., a protected forest)
+var forest = ee.Geometry.Point([84.0, 21.0]).buffer(1000);
+
+// Create Time Series Chart
+var chart = ui.Chart.image.series({
+  imageCollection: modis,
+  region: forest,
+  reducer: ee.Reducer.mean(),
+  scale: 250
+}).setOptions({
+  title: 'NDVI Time Series (2020-2023)',
+  hAxis: {title: 'Date'},
+  vAxis: {title: 'NDVI (x10000)'},
+  lineWidth: 1,
+  pointSize: 3
+});
+
+print(chart);
+```
+
+[**Back to Course Overview**](index.qmd)

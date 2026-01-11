@@ -1,0 +1,82 @@
+---
+title: "Module 1: Introduction to Google Earth Engine"
+author: "Pulakesh Pradhan"
+date: 2025-01-11
+categories: [Module, Basics]
+---
+
+## 1.1 The Earth Engine Code Editor
+
+The Code Editor is an interactive environment for developing Earth Engine applications. It consists of:
+- **Code Editor**: The center panel where you write JavaScript code.
+- **Map**: The bottom panel where geospatial datasets are visualized.
+- **Console**: The right panel for outputting print statements, charts, and errors.
+- **Docs/Assets**: The left panel for accessing API documentation and your personal assets.
+
+## 1.2 Basic JavaScript for GEE
+
+Earth Engine uses JavaScript (and Python) to control the servers. Here are some basics:
+
+```javascript
+// Variables
+var city = 'Cuttack';
+var population = 600000;
+
+// Lists
+var coordinates = [85.8, 20.4];
+
+// Dictionaries (Objects)
+var place = {
+  name: 'Cuttack',
+  lat: 20.4,
+  lon: 85.8
+};
+
+// Printing to Console
+print('City Info:', place);
+```
+
+## 1.3 Server-Side vs Client-Side
+
+This is the most crucial concept.
+- **Client-side**: Variables in your browser (e.g., standard JS `var`, `for` loops).
+- **Server-side**: Earth Engine objects (`ee.Image`, `ee.Feature`, `ee.Number`).
+
+**Rule of Thumb**: Avoid mixing them. Use `ee.Algorithms` whenever possible.
+
+```javascript
+// Client-side string
+var clientString = 'Hello World';
+
+// Server-side string
+var serverString = ee.String('Hello World');
+
+// Do NOT do this:
+// var result = serverString + ' from GEE'; // Error! 
+
+// Do this instead:
+var result = serverString.cat(ee.String(' from GEE'));
+print(result);
+```
+
+## 1.4 Your First Map
+
+Let's load a digital elevation model (SRTM) and display it.
+
+```javascript
+// Load the SRTM image
+var srtm = ee.Image('CGIAR/SRTM90_V4');
+
+// Define visualization parameters
+var visParams = {
+  min: 0,
+  max: 3000,
+  palette: ['blue', 'green', 'red']
+};
+
+// Add layer to map
+Map.addLayer(srtm, visParams, 'SRTM Elevation');
+Map.setCenter(85.8, 20.4, 8); // Center on Odisha
+```
+
+[**Next: Module 2 - Image Collections**](module2_collections.qmd)

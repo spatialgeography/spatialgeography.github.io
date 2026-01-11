@@ -1,0 +1,52 @@
+---
+title: "End-to-End Google Earth Engine (GEE) Bootcamp"
+description: "A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications."
+date: 2025-01-11
+author: "Pulakesh Pradhan"
+categories: [GEE, Course, Tutorial]
+image: assets/img/gee-logo.png
+---
+
+## 📚 Course Overview
+
+Welcome to the **End-to-End Google Earth Engine Bootcamp**! This course is designed to take you from a complete beginner to an advanced user of Google Earth Engine. We cover everything from the JavaScript API basics to complex machine learning workflows.
+
+### 📋 Syllabus
+
+#### **Module 1: Getting Started with GEE**
+- **[Introduction to the Code Editor](module1_intro.qmd)**
+  - Understanding the Interface
+  - server-side vs client-side objects
+  - Basic JavaScript for GEE
+- **[Hello World: Your First Script](module1_intro.qmd#hello-world)**
+  - Loading an image
+  - Map layers and visualization
+
+#### **Module 2: Working with Image Collections**
+- **[Filtering and Sorting](module2_collections.qmd)**
+  - `filterDate`, `filterBounds`, `filterMetadata`
+  - Sorting and selecting best pixels
+- **[Reducers and Composites](module2_collections.qmd#reducers)**
+  - Creating cloud-free mosaics
+  - Annual/Seasonal composites
+
+#### **Module 3: Vector Data & Charts**
+- **[FeatureCollections](module3_vectors.qmd)**
+  - Importing Shapefiles (Assets)
+  - Filtering Client-side vs Server-side
+- **[Charting results](module3_vectors.qmd#charts)**
+  - Time-series charts
+  - Histograms
+
+#### **Module 4: Advanced Analysis**
+- **[Supervised Classification](module4_classification.qmd)**
+  - Training data collection
+  - Random Forest Classifier
+  - Accuracy Assessment
+- **[Exporting Data](module4_classification.qmd#exports)**
+  - To Drive, Assets, and Cloud Storage
+
+---
+
+### 🚀 Ready to start?
+[**Click here to begin Module 1**](module1_intro.qmd)
