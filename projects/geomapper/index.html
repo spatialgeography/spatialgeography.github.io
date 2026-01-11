@@ -7,10 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Pulakesh Pradhan">
-<meta name="dcterms.date" content="2025-01-02">
-<meta name="description" content="Easily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra">
+<meta name="dcterms.date" content="2025-01-11">
 
-<title>Spatial Geography | Introducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner – Spatial Geography</title>
+<title>GeoMapper - Advanced Raster Visualization | Spatial Geography – Spatial Geography</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,6 +21,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -104,14 +138,14 @@ cookieconsent.run({
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<meta property="og:title" content="Spatial Geography | Introducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner">
-<meta property="og:description" content="Easily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra">
-<meta property="og:image" content="https://github.com/spatialgeography/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true">
+<meta property="og:title" content="GeoMapper - Advanced Raster Visualization | Spatial Geography">
+<meta property="og:description" content="Spatial Analysis and Geography">
+<meta property="og:image" content="https://spatialgeography.github.io/projects/geomapper/assets/img/spatial_logo.png">
 <meta property="og:site_name" content="Spatial Geography">
 <meta property="og:locale" content="en_EN">
-<meta name="twitter:title" content="Spatial Geography | Introducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner">
-<meta name="twitter:description" content="Easily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra">
-<meta name="twitter:image" content="https://github.com/spatialgeography/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true">
+<meta name="twitter:title" content="GeoMapper - Advanced Raster Visualization | Spatial Geography">
+<meta name="twitter:description" content="Spatial Analysis and Geography">
+<meta name="twitter:image" content="https://spatialgeography.github.io/projects/geomapper/assets/img/spatial_logo.png">
 <meta name="twitter:creator" content="@SpatialGeography">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -234,28 +268,43 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#read-the-full-article" id="toc-read-the-full-article" class="nav-link active" data-scroll-target="#read-the-full-article">Read the full article</a></li>
+  <li><a href="#geomapper" id="toc-geomapper" class="nav-link active" data-scroll-target="#geomapper">🗺️ GeoMapper</a>
+  <ul>
+  <li><a href="#key-features" id="toc-key-features" class="nav-link" data-scroll-target="#key-features">✨ Key Features</a>
+  <ul class="collapse">
+  <li><a href="#easy-data-upload" id="toc-easy-data-upload" class="nav-link" data-scroll-target="#easy-data-upload">📁 <strong>Easy Data Upload</strong></a></li>
+  <li><a href="#advanced-visualization" id="toc-advanced-visualization" class="nav-link" data-scroll-target="#advanced-visualization">🎨 <strong>Advanced Visualization</strong></a></li>
+  <li><a href="#spatial-operations" id="toc-spatial-operations" class="nav-link" data-scroll-target="#spatial-operations">✂️ <strong>Spatial Operations</strong></a></li>
+  <li><a href="#data-analysis" id="toc-data-analysis" class="nav-link" data-scroll-target="#data-analysis">📊 <strong>Data Analysis</strong></a></li>
+  <li><a href="#export-options" id="toc-export-options" class="nav-link" data-scroll-target="#export-options">📥 <strong>Export Options</strong></a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#try-geomapper-embedded" id="toc-try-geomapper-embedded" class="nav-link" data-scroll-target="#try-geomapper-embedded">🖥️ Try GeoMapper (Embedded)</a></li>
+  <li><a href="#source-code" id="toc-source-code" class="nav-link" data-scroll-target="#source-code">💻 Source Code</a>
+  <ul>
+  <li><a href="#installation" id="toc-installation" class="nav-link" data-scroll-target="#installation">Installation</a></li>
+  <li><a href="#full-code" id="toc-full-code" class="nav-link" data-scroll-target="#full-code">Full Code</a></li>
+  <li><a href="#run-locally" id="toc-run-locally" class="nav-link" data-scroll-target="#run-locally">Run Locally</a></li>
+  </ul></li>
+  <li><a href="#use-cases" id="toc-use-cases" class="nav-link" data-scroll-target="#use-cases">📚 Use Cases</a></li>
+  <li><a href="#links" id="toc-links" class="nav-link" data-scroll-target="#links">🔗 Links</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/projects/geomapper/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Introducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner</h1>
+<h1 class="title">GeoMapper - Advanced Raster Visualization</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Google Earth Engine</div>
-    <div class="quarto-category">Geospatial</div>
-    <div class="quarto-category">Tutorial</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">Shiny</div>
+    <div class="quarto-category">GIS</div>
+    <div class="quarto-category">Tool</div>
   </div>
   </div>
 
-<div>
-  <div class="description">
-    Easily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -270,7 +319,7 @@ cookieconsent.run({
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">January 2, 2025</p>
+      <p class="date">January 11, 2025</p>
     </div>
   </div>
   
@@ -282,44 +331,111 @@ cookieconsent.run({
 </header>
 
 
-<p><strong>by Pulakesh Pradhan • 4 min read</strong></p>
-<p>Easily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
+<section id="geomapper" class="level2">
+<h2 class="anchored" data-anchor-id="geomapper">🗺️ GeoMapper</h2>
+<p><strong><a href="https://spatialgeography.shinyapps.io/geomapper/" class="btn btn-primary btn-lg">🚀 Launch GeoMapper</a></strong></p>
+<p>GeoMapper is a powerful web-based tool for visualizing and analyzing GeoTIFF raster data. Built with R Shiny, it provides an intuitive interface for geospatial data exploration and publication-ready map generation.</p>
+<section id="key-features" class="level3">
+<h3 class="anchored" data-anchor-id="key-features">✨ Key Features</h3>
+<section id="easy-data-upload" class="level4">
+<h4 class="anchored" data-anchor-id="easy-data-upload">📁 <strong>Easy Data Upload</strong></h4>
+<ul>
+<li><strong>Drag &amp; Drop</strong> GeoTIFF files directly into the browser</li>
+<li>Support for <strong>multi-band</strong> rasters</li>
+<li>Optional <strong>shapefile</strong> upload for clipping (ZIP format)</li>
+</ul>
+</section>
+<section id="advanced-visualization" class="level4">
+<h4 class="anchored" data-anchor-id="advanced-visualization">🎨 <strong>Advanced Visualization</strong></h4>
+<ul>
+<li><strong>8 Color Palettes</strong>: Viridis, Magma, Inferno, Plasma, Spectral, RdYlGn, Terrain, Topo</li>
+<li><strong>Band Selection</strong>: Choose specific bands from multi-band rasters</li>
+<li><strong>Interactive Map</strong>: Leaflet-based web map with zoom and pan</li>
+<li><strong>Publication Map</strong>: High-quality static maps with proper legends and labels</li>
+</ul>
+</section>
+<section id="spatial-operations" class="level4">
+<h4 class="anchored" data-anchor-id="spatial-operations">✂️ <strong>Spatial Operations</strong></h4>
+<ul>
+<li><strong>Optional Clipping</strong>: Toggle shapefile clipping on/off</li>
+<li><strong>Automatic CRS Alignment</strong>: Handles coordinate system transformations</li>
+<li><strong>Boundary Overlay</strong>: Visualize shapefile boundaries on maps</li>
+</ul>
+</section>
+<section id="data-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="data-analysis">📊 <strong>Data Analysis</strong></h4>
+<ul>
+<li><strong>Statistics Panel</strong>: View min, max, mean, standard deviation</li>
+<li><strong>Metadata Display</strong>: Dimensions, resolution, CRS information</li>
+</ul>
+</section>
+<section id="export-options" class="level4">
+<h4 class="anchored" data-anchor-id="export-options">📥 <strong>Export Options</strong></h4>
+<ul>
+<li><strong>Clipped Raster</strong>: Download processed GeoTIFF</li>
+<li><strong>Publication Map</strong>: Export 300 DPI PNG images ready for papers/presentations</li>
+</ul>
+<hr>
+</section>
+</section>
+</section>
+<section id="try-geomapper-embedded" class="level2">
+<h2 class="anchored" data-anchor-id="try-geomapper-embedded">🖥️ Try GeoMapper (Embedded)</h2>
+<iframe src="https://spatialgeography.shinyapps.io/geomapper/" width="100%" height="900px" style="border:2px solid #1976D2; border-radius:8px;">
+</iframe>
+<hr>
+</section>
+<section id="source-code" class="level2">
+<h2 class="anchored" data-anchor-id="source-code">💻 Source Code</h2>
+<p>Run GeoMapper locally with R and RStudio:</p>
+<section id="installation" class="level3">
+<h3 class="anchored" data-anchor-id="installation">Installation</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Install required packages</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="fu">c</span>(<span class="st">"shiny"</span>, <span class="st">"terra"</span>, <span class="st">"sf"</span>, <span class="st">"leaflet"</span>, <span class="st">"ggplot2"</span>, <span class="st">"viridis"</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="full-code" class="level3">
+<h3 class="anchored" data-anchor-id="full-code">Full Code</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(shiny)</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(terra)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(sf)</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(leaflet)</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(ggplot2)</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(viridis)</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co"># [Full app code available in repository]</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="co"># See: shiny_apps/geomapper/app.R</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="run-locally" class="level3">
+<h3 class="anchored" data-anchor-id="run-locally">Run Locally</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>shiny<span class="sc">::</span><span class="fu">runApp</span>(<span class="st">'path/to/geomapper'</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<hr>
+</section>
+</section>
+<section id="use-cases" class="level2">
+<h2 class="anchored" data-anchor-id="use-cases">📚 Use Cases</h2>
+<ul>
+<li><strong>Environmental Monitoring</strong>: Visualize NDVI, LST, or other environmental indices</li>
+<li><strong>Land Cover Analysis</strong>: Explore multi-spectral satellite imagery</li>
+<li><strong>Research Publications</strong>: Generate high-quality maps for papers</li>
+<li><strong>Education</strong>: Teaching tool for remote sensing and GIS courses</li>
+<li><strong>Quick Data Exploration</strong>: Fast preview of raster datasets</li>
+</ul>
+<hr>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">🔗 Links</h2>
+<ul>
+<li><strong>Live App</strong>: <a href="https://spatialgeography.shinyapps.io/geomapper/">https://spatialgeography.shinyapps.io/geomapper/</a></li>
+<li><strong>Source Code</strong>: <a href="../../shiny_apps/geomapper/app.R">Download app.R</a></li>
+<li><strong>Tutorial</strong>: Coming soon!</li>
+</ul>
+<hr>
+<p><em>Developed by Pulakesh Pradhan | Spatial Geography</em></p>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2025,
-  author = {Pradhan, Pulakesh},
-  title = {Introducing “{Google} {Earth} {Engine} {AI} {Assistant}” -
-    {Your} {AI-Powered} {Coding} {Partner}},
-  date = {2025-01-02},
-  url = {https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/},
-  langid = {en}
-}
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2025" class="csl-entry quarto-appendix-citeas" role="listitem">
-Pradhan, Pulakesh. 2025. <span>“Introducing <span>‘Google Earth Engine
-AI Assistant’</span> - Your AI-Powered Coding Partner.”</span> January
-2, 2025. <a href="https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/">https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/</a>.
-</div></div></section></div></main> <!-- /main -->
-<div class="subscribe">
-
-    <h5> Subscribe to get notified about new content. </h5>
-
-
-
-    <img id="subscribe-thumbnail" style="margin-bottom: 1em;border-radius: 10px;" width="70%" src="../../assets/img/data-whiskeRs-thumbnail.webp" alt="Thumbnail for the data whiskeRs blog. Dark teal color with white text reading data whiskeRs: R code &amp; data science content with a sprinkle of cute cats.">
-
-
-
-    <iframe id="subscribe-iframe" src="https://embeds.beehiiv.com/8136e0e9-2605-4a26-9d6b-ec29a105193a?slim=true" data-test-id="beehiiv-embed" height="80" width="70%" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
-
-
-
-</div>
-
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -749,7 +865,7 @@ AI Assistant’</span> - Your AI-Powered Coding Partner.”</span> January
 </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/projects/geomapper/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
     <div class="nav-footer-right">
 <p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
 </div>

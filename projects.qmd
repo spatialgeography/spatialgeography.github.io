@@ -6,9 +6,9 @@ I develop tools and applications to solve real-world geospatial problems. Here a
 
 ## 🛠️ Google Earth Engine Apps
 
-### [R Shiny TIF Viewer & Clipper](https://55xsd7-spatial-geography.shinyapps.io/tif_clipper/)
+### [GeoMapper - Advanced Raster Tool](https://spatialgeography.shinyapps.io/geomapper/)
 **Status:** Live | **Type:** R Shiny App
-An interactive web app to upload, visualize, and clip GeoTIFFs using Shapefiles. [View Source Code](projects/tif-clipper/index.qmd)
+Drag & drop GeoTIFFs, select bands, apply color palettes, clip with shapefiles, and export publication-quality maps. [View Source Code](projects/geomapper/index.qmd)
 
 
 ### [GEE AI Assistant](https://chromewebstore.google.com/detail/kldhacnbicjpbdiebjjflnhgcmheokkl)

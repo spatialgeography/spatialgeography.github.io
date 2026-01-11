@@ -1,0 +1,97 @@
+---
+title: "GeoMapper - Advanced Raster Visualization"
+author: "Pulakesh Pradhan"
+date: 2025-01-11
+categories: [R, Shiny, GIS, Tool]
+image: assets/img/spatial_logo.png
+---
+
+## 🗺️ GeoMapper
+
+**[🚀 Launch GeoMapper](https://spatialgeography.shinyapps.io/geomapper/){.btn .btn-primary .btn-lg}**
+
+GeoMapper is a powerful web-based tool for visualizing and analyzing GeoTIFF raster data. Built with R Shiny, it provides an intuitive interface for geospatial data exploration and publication-ready map generation.
+
+### ✨ Key Features
+
+#### 📁 **Easy Data Upload**
+- **Drag & Drop** GeoTIFF files directly into the browser
+- Support for **multi-band** rasters
+- Optional **shapefile** upload for clipping (ZIP format)
+
+#### 🎨 **Advanced Visualization**
+- **8 Color Palettes**: Viridis, Magma, Inferno, Plasma, Spectral, RdYlGn, Terrain, Topo
+- **Band Selection**: Choose specific bands from multi-band rasters
+- **Interactive Map**: Leaflet-based web map with zoom and pan
+- **Publication Map**: High-quality static maps with proper legends and labels
+
+#### ✂️ **Spatial Operations**
+- **Optional Clipping**: Toggle shapefile clipping on/off
+- **Automatic CRS Alignment**: Handles coordinate system transformations
+- **Boundary Overlay**: Visualize shapefile boundaries on maps
+
+#### 📊 **Data Analysis**
+- **Statistics Panel**: View min, max, mean, standard deviation
+- **Metadata Display**: Dimensions, resolution, CRS information
+
+#### 📥 **Export Options**
+- **Clipped Raster**: Download processed GeoTIFF
+- **Publication Map**: Export 300 DPI PNG images ready for papers/presentations
+
+---
+
+## 🖥️ Try GeoMapper (Embedded)
+
+<iframe src="https://spatialgeography.shinyapps.io/geomapper/" width="100%" height="900px" style="border:2px solid #1976D2; border-radius:8px;"></iframe>
+
+---
+
+## 💻 Source Code
+
+Run GeoMapper locally with R and RStudio:
+
+### Installation
+```r
+# Install required packages
+install.packages(c("shiny", "terra", "sf", "leaflet", "ggplot2", "viridis"))
+```
+
+### Full Code
+```r
+library(shiny)
+library(terra)
+library(sf)
+library(leaflet)
+library(ggplot2)
+library(viridis)
+
+# [Full app code available in repository]
+# See: shiny_apps/geomapper/app.R
+```
+
+### Run Locally
+```r
+shiny::runApp('path/to/geomapper')
+```
+
+---
+
+## 📚 Use Cases
+
+- **Environmental Monitoring**: Visualize NDVI, LST, or other environmental indices
+- **Land Cover Analysis**: Explore multi-spectral satellite imagery
+- **Research Publications**: Generate high-quality maps for papers
+- **Education**: Teaching tool for remote sensing and GIS courses
+- **Quick Data Exploration**: Fast preview of raster datasets
+
+---
+
+## 🔗 Links
+
+- **Live App**: [https://spatialgeography.shinyapps.io/geomapper/](https://spatialgeography.shinyapps.io/geomapper/)
+- **Source Code**: [Download app.R](../../shiny_apps/geomapper/app.R)
+- **Tutorial**: Coming soon!
+
+---
+
+*Developed by Pulakesh Pradhan | Spatial Geography*

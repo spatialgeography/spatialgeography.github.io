@@ -50,6 +50,8 @@ website:
         href: blog.qmd
       - text: ACADEMY
         href: academy.qmd
+      - text: GEOMAPPER
+        href: https://spatialgeography.shinyapps.io/geomapper/
       - text: UPCOMING CLASSES
         href: upcoming_classes.qmd
       - text: MORE
