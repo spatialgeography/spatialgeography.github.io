@@ -1,6 +1,6 @@
 ---
 title: "R Shiny App: TIF Viewer & Clipper"
-author: "Pulakesh Pradhan"
+author: "Spatial Geography"
 date: 2025-01-11
 categories: [R, Shiny, Tool]
 image: assets/img/spatial_logo.png

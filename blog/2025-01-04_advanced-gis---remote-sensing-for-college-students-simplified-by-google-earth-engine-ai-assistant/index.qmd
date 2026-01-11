@@ -2,12 +2,12 @@
 title: "Advanced GIS & Remote Sensing for College Students—Simplified by Google Earth Engine AI Assistant"
 date: 2025-01-04
 description: "No Coding? No Problem! Unlock Powerful Geospatial Analysis with the AI-Powered GEE Assistant AI : A New Era in Geospatial Education Remote sensing and"
-author: "Pulakesh Pradhan"
+author: "Spatial Geography"
 categories: [Google Earth Engine, Geospatial, Tutorial]
 image: https://github.com/spatialgeography/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
 ---
 
-**by Pulakesh Pradhan • 4 min read**
+**by Spatial Geography • 4 min read**
 
 No Coding? No Problem! Unlock Powerful Geospatial Analysis with the AI-Powered GEE Assistant AI : A New Era in Geospatial Education Remote sensing and
 

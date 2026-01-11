@@ -2,12 +2,12 @@
 title: "NASA’s PACE Hyperspectral Data Now Accessible in Google Earth Engine"
 date: 2025-01-10
 description: "NASA's Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, launched on February 8, 2024, represents a big leap in Earth observation technology"
-author: "Pulakesh Pradhan"
+author: "Spatial Geography"
 categories: [Google Earth Engine, Geospatial, Tutorial]
 image: https://github.com/spatialgeography/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
 ---
 
-**by Pulakesh Pradhan • 7 min read**
+**by Spatial Geography • 7 min read**
 
 NASA's Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, launched on February 8, 2024, represents a big leap in Earth observation technology
 

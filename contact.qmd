@@ -3,30 +3,22 @@ title: "Contact Us"
 about:
   template: trestles
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:pulakesh.mid@gmail.com
-    - icon: whatsapp
-      text: WhatsApp
-      href: https://wa.me/918617812861
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/pulakeshpradhan
-    - icon: geo-alt
-      text: Address
-      href: "https://maps.google.com/?q=Ravenshaw+University"
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@SpatialGeography
+    - icon: github
+      text: GitHub
+      href: https://github.com/spatialgeography
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/spatialgeography.bsky.social
+    - icon: mastodon
+      text: Mastodon
+      href: https://fosstodon.org/@spatialgeography
 ---
 
 ## Get in Touch
 
-I am always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.
+We are always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.
 
-### 📧 Email
-**pulakesh.mid@gmail.com**
-
-### 📞 Phone / WhatsApp
-**+91 8617812861**
-
-### 📍 Address
-**Department of Geography**  
-Ravenshaw University, Cuttack, Odisha, India
+Feel free to connect with us through our social media channels or check out our repositories on GitHub.

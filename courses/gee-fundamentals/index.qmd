@@ -2,7 +2,7 @@
 title: "Fundamentals of Google Earth Engine"
 description: "A comprehensive guide to mastering Earth Engine for geospatial analysis using the JavaScript API."
 date: 2025-01-11
-author: "Pulakesh Pradhan"
+author: "Spatial Geography"
 categories: [GEE, Course, Tutorial]
 image: assets/img/spatial_logo.png
 ---

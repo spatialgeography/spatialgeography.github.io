@@ -1,6 +1,6 @@
 ---
 title: "Part 3: Spatial Operations & Charting"
-author: "Pulakesh Pradhan"
+author: "Spatial Geography"
 date: 2025-01-11
 categories: [Part, Vectors]
 ---

@@ -5,6 +5,6 @@ account: spatialgeography
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 16402986
-bundleId: 11428370
+bundleId: 11428577
 url: https://spatialgeography.shinyapps.io/geomapper/
 version: 1

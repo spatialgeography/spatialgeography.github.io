@@ -2,12 +2,12 @@
 title: "GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant"
 date: 2025-01-06
 description: "The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou"
-author: "Pulakesh Pradhan"
+author: "Spatial Geography"
 categories: [Google Earth Engine, Geospatial, Tutorial]
 image: https://github.com/spatialgeography/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
 ---
 
-**by Pulakesh Pradhan • 3 min read**
+**by Spatial Geography • 3 min read**
 
 The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou
 

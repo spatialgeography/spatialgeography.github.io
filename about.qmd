@@ -1,15 +1,15 @@
 ---
-title: "About Me"
+title: "About Us"
 about:
   template: solana
-  image: assets/img/pulakesh.jpg
+  image: assets/img/spatial_logo.png
 ---
 
-## 👨‍🏫 Bio
+## 👨‍🏫 What We Do
 
-I am **Pulakesh Pradhan**, currently a Research Scholar at the **Department of Geography, Ravenshaw University**. My research interests lie in the applications of **Remote Sensing**, **GIS**, and **Machine Learning** for environmental problem-solving.
+**Spatial Geography** is a leading platform for **Geospatial Intelligence**, **Remote Sensing**, and **GIS** education and tools. We are dedicated to making advanced geospatial technologies accessible to researchers, students, and professionals worldwide.
 
-I am an advocate for open-source geospatial tools and knowledge sharing. Through my YouTube channel, **Spatial Geography**, I aim to make learning Google Earth Engine and other geospatial technologies accessible to everyone.
+Our mission is to foster open-source geospatial knowledge sharing and tool development, with a strong focus on **Google Earth Engine**.
 
 ## 🌟 Reviews
 
@@ -19,7 +19,7 @@ I am an advocate for open-source geospatial tools and knowledge sharing. Through
 > "A new avenue for GEE users"  
 > — **Sasanka Ghosh**
 
-> "It's a great tool! Keep it up Pulakesh."  
+> "It's a great tool! Keep it up."  
 > — **B Goutami**
 
 ## 📺 Featured In

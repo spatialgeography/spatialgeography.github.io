@@ -2,12 +2,12 @@
 title: "Google AlphaEarth: All-in-One Optical, Radar, and LiDAR Embeddings at 10m Resolution"
 date: 2025-01-08
 description: "Google's recently launched Satellite Embedding dataset represents a paradigm shift in how we approach geospatial analysis and Earth observation. Power"
-author: "Pulakesh Pradhan"
+author: "Spatial Geography"
 categories: [Google Earth Engine, Geospatial, Tutorial]
 image: https://github.com/spatialgeography/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
 ---
 
-**by Pulakesh Pradhan • 7 min read**
+**by Spatial Geography • 7 min read**
 
 Google's recently launched Satellite Embedding dataset represents a paradigm shift in how we approach geospatial analysis and Earth observation. Power
 

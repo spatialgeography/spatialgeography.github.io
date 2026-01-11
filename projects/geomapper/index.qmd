@@ -1,6 +1,6 @@
 ---
 title: "GeoMapper - Advanced Raster Visualization"
-author: "Pulakesh Pradhan"
+author: "Spatial Geography"
 date: 2025-01-11
 categories: [R, Shiny, GIS, Tool]
 image: assets/img/spatial_logo.png
@@ -94,4 +94,4 @@ shiny::runApp('path/to/geomapper')
 
 ---
 
-*Developed by Pulakesh Pradhan | Spatial Geography*
+*Developed by Spatial Geography*
