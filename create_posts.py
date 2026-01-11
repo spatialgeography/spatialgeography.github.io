@@ -149,7 +149,7 @@ date: {pub_date}
 description: "{description.replace('"', "'")}"
 author: "Pulakesh Pradhan"
 categories: [Google Earth Engine, Geospatial, Tutorial]
-image: https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
+image: assets/img/spatial_logo.png
 ---
 
 **{meta_line}**

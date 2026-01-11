@@ -4,7 +4,7 @@
 freeze: true
 
 # default author and citation
-author: Jadey Ryan
+author: Pulakesh Pradhan
 citation: true
 
 # align figures to left
@@ -21,21 +21,19 @@ lightbox:
 # html format options
 format:
   html:
-    pagetitle: "data whiskeRs | {{< meta title >}}"
+    pagetitle: "Spatial Geography | {{< meta title >}}"
     include-after-body:
-      - ../assets/html/kofi.html
       - ../assets/html/subscribe.html
 
-# giscus comments https://giscus.app/
-comments:
-    giscus:
-      repo: jadeynryan/jadey-website-giscus
-      repo-id: "R_kgDOKisUNQ"
-      category: Announcements
-      category-id: "DIC_kwDOKisUNc4CaSRD"
-      mapping: pathname
-      reactions-enabled: true
-      loading: lazy
-      input-position: top
-      theme: light
-      language: en
+# comments:
+#     giscus:
+#       repo: spatialgeography/website-comments
+#       repo-id: "your-id-here"
+#       category: Announcements
+#       category-id: "your-cat-id"
+#       mapping: pathname
+#       reactions-enabled: true
+#       loading: lazy
+#       input-position: top
+#       theme: light
+#       language: en
