@@ -1,14 +1,16 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
-<meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<head>
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<meta charset="utf-8" />
+<meta name="generator" content="quarto-1.8.26" />
 
-<meta name="author" content="Pulakesh Pradhan">
-<meta name="dcterms.date" content="2025-01-06">
-<meta name="description" content="The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+<meta name="author" content="Pulakesh Pradhan" />
+<meta name="dcterms.date" content="2025-01-06" />
+<meta name="description" content="The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou" />
 
 <title>data whiskeRs | GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant – Spatial Geography</title>
 <style>
@@ -25,28 +27,7 @@ ul.task-list li input[type="checkbox"] {
 }
 </style>
 
-
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<link href="../../assets/img/spatial_logo.png" rel="icon" type="image/png">
-<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-d640c705e8c17715bca3574aa719063f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-dd0c9f5d1f9cb5c05a5e3a45b0d97b15.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="../../site_libs/quarto-contrib/iconify-1.0.8/iconify-icon.min.js"></script>
+<!-- htmldependencies:E3FAD763 -->
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,7 +55,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LEVV3VZT0E"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LEVV3VZT0E"></script>
 
 <script type="text/plain" cookie-consent="tracking">
 
@@ -104,115 +85,123 @@ cookieconsent.run({
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<meta property="og:title" content="data whiskeRs | GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant">
-<meta property="og:description" content="The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou">
-<meta property="og:image" content="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true">
-<meta property="og:site_name" content="Spatial Geography">
-<meta property="og:locale" content="en_EN">
-<meta name="twitter:title" content="data whiskeRs | GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant">
-<meta name="twitter:description" content="The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou">
-<meta name="twitter:image" content="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true">
-<meta name="twitter:creator" content="@jadeynryan">
-<meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo light-content">
-    <img src="../../assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo dark-content">
+    <a href="/index.html" class="navbar-brand navbar-brand-logo">
+    <img src="/assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo light-content" />
+    <img src="/assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo dark-content" />
     </a>
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="/index.html">
     <span class="navbar-title">Spatial Geography</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
+  aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation"
+  onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="/index.html"> 
 <span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
+    <a class="nav-link" href="/about.html"> 
 <span class="menu-text">ABOUT</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../courses.html"> 
+    <a class="nav-link" href="/courses.qmd"> 
 <span class="menu-text">COURSES</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../blog.html"> 
+    <a class="nav-link" href="/blog.html"> 
 <span class="menu-text">ARTICLES</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../academy.html"> 
+    <a class="nav-link" href="/academy.html"> 
 <span class="menu-text">ACADEMY</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../upcoming_classes.html"> 
+    <a class="nav-link" href="/upcoming_classes.html"> 
 <span class="menu-text">UPCOMING CLASSES</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-more" role="link" data-bs-toggle="dropdown" aria-expanded="false" >
  <span class="menu-text">MORE</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-more">    
         <li>
-    <a class="dropdown-item" href="../../projects.html">
+    <a class="dropdown-item" href="/projects.html">
  <span class="dropdown-text">Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../talks.html">
+    <a class="dropdown-item" href="/talks.html">
  <span class="dropdown-text">Talks</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../cv.html">
+    <a class="dropdown-item" href="/cv.qmd">
  <span class="dropdown-text">CV</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../contact.html"> 
+    <a class="nav-link" href="/contact.html"> 
 <span class="menu-text">CONTACT US</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="../../blog.xml"> <i class="bi bi-rss" role="img" aria-label="rss">
+    <a class="nav-link" href="/blog.xml"> <i 
+  class="bi bi-rss" 
+  role="img" 
+  aria-label="rss" 
+>
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/jadeynryan"> <i class="bi bi-github" role="img" aria-label="GitHub">
+    <a class="nav-link" href="https://github.com/jadeynryan"> <i 
+  class="bi bi-github" 
+  role="img" 
+  aria-label="GitHub" 
+>
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/jadey-ryan/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+    <a class="nav-link" href="https://www.linkedin.com/in/jadey-ryan/"> <i 
+  class="bi bi-linkedin" 
+  role="img" 
+  aria-label="LinkedIn" 
+>
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://bsky.app/profile/jadeynryan.bsky.social"> 
-<span class="menu-text"><iconify-icon inline="" icon="simple-icons:bluesky"></iconify-icon></span></a>
+<span class="menu-text">{{&lt; iconify simple-icons bluesky &gt;}}</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://fosstodon.org/@jadeynryan" rel="me"> <i class="bi bi-mastodon" role="img" aria-label="Mastodon">
+    <a class="nav-link" href="https://fosstodon.org/@jadeynryan" rel="me"> <i 
+  class="bi bi-mastodon" 
+  role="img" 
+  aria-label="Mastodon" 
+>
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://ko-fi.com/jadeyryan"> 
-<span class="menu-text"><iconify-icon inline="" icon="simple-icons:kofi" style="font-size: 1.15em;" support="" me=""></iconify-icon></span></a>
+<span class="menu-text">{{&lt; iconify simple-icons kofi size=1.15em title=&#39;Support Me&#39; &gt;}}</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -226,13 +215,7 @@ cookieconsent.run({
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#read-the-full-article" id="toc-read-the-full-article" class="nav-link active" data-scroll-target="#read-the-full-article">Read the full article</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jadeynryan/jadey_website/blob/main/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/jadeynryan/jadey_website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+        <div id="quarto-toc-target"></div>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -277,39 +260,52 @@ cookieconsent.run({
 
 </header>
 
-
+<nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#read-the-full-article" id="toc-read-the-full-article">Read the full article</a></li>
+  </ul>
+</nav>
 <p><strong>by Pulakesh Pradhan • 3 min read</strong></p>
 <p>The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou</p>
 <section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
+<h3>Read the full article</h3>
 <p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
+<div id="quarto-navigation-envelope" class="hidden">
+<p><span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1zaWRlYmFyLXRpdGxl">Spatial Geography</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXItdGl0bGU=">Spatial Geography</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6SE9NRQ==">HOME</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2luZGV4Lmh0bWw=">/index.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6QUJPVVQ=">ABOUT</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2Fib3V0Lmh0bWw=">/about.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6Q09VUlNFUw==">COURSES</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2NvdXJzZXMucW1k">/courses.qmd</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6QVJUSUNMRVM=">ARTICLES</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2Jsb2cuaHRtbA==">/blog.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6QUNBREVNWQ==">ACADEMY</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2FjYWRlbXkuaHRtbA==">/academy.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6VVBDT01JTkcgQ0xBU1NFUw==">UPCOMING CLASSES</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3VwY29taW5nX2NsYXNzZXMuaHRtbA==">/upcoming_classes.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6TU9SRQ==">MORE</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6UHJvamVjdHM=">Projects</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3Byb2plY3RzLmh0bWw=">/projects.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6VGFsa3M=">Talks</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L3RhbGtzLmh0bWw=">/talks.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6Q1Y=">CV</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2N2LnFtZA==">/cv.qmd</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6Q09OVEFDVCBVUw==">CONTACT US</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2NvbnRhY3QuaHRtbA==">/contact.html</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6L2Jsb2cueG1s">/blog.xml</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6aHR0cHM6Ly9naXRodWIuY29tL2phZGV5bnJ5YW4=">https://github.com/jadeynryan</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL2phZGV5LXJ5YW4v">https://www.linkedin.com/in/jadey-ryan/</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6e3s8IGljb25pZnkgc2ltcGxlLWljb25zIGJsdWVza3kgPn19"><iconify-icon inline icon="simple-icons:bluesky"></iconify-icon></span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6aHR0cHM6Ly9ic2t5LmFwcC9wcm9maWxlL2phZGV5bnJ5YW4uYnNreS5zb2NpYWw=">https://bsky.app/profile/jadeynryan.bsky.social</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6aHR0cHM6Ly9mb3NzdG9kb24ub3JnL0BqYWRleW5yeWFu">https://fosstodon.org/@jadeynryan</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6e3s8IGljb25pZnkgc2ltcGxlLWljb25zIGtvZmkgc2l6ZT0xLjE1ZW0gdGl0bGU9J1N1cHBvcnQgTWUnID59fQ=="><iconify-icon inline icon="simple-icons:kofi" style="font-size: 1.15em;"Support Me></iconify-icon></span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLWludC1uYXZiYXI6aHR0cHM6Ly9rby1maS5jb20vamFkZXlyeWFu">https://ko-fi.com/jadeyryan</span></p>
+<div class="hidden quarto-markdown-envelope-contents" data-render-id="Zm9vdGVyLWxlZnQ=">
+<p>© 2023-2025 Spatial Geography</p>
+</div>
+<div class="hidden quarto-markdown-envelope-contents" data-render-id="Zm9vdGVyLWNlbnRlci0vY29jLnFtZA==">
+<p>Code of conduct</p>
+</div>
+<div class="hidden quarto-markdown-envelope-contents" data-render-id="Zm9vdGVyLWNlbnRlci0vYWNjZXNzaWJpbGl0eS5odG1s">
+<p>Accessibility</p>
+</div>
+<div class="hidden quarto-markdown-envelope-contents" data-render-id="Zm9vdGVyLWNlbnRlci0vbGljZW5zZS5xbWQ=">
+<p>License</p>
+</div>
+<div class="hidden quarto-markdown-envelope-contents" data-render-id="Zm9vdGVyLXJpZ2h0">
+<p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
+</div>
+</div>
+<div id="quarto-meta-markdown" class="hidden">
+<p><span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW1ldGF0aXRsZQ==">data whiskeRs | GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLXR3aXR0ZXJjYXJkdGl0bGU=">data whiskeRs | GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW9nY2FyZHRpdGxl">data whiskeRs | GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW1ldGFzaXRlbmFtZQ==">Spatial Geography</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLXR3aXR0ZXJjYXJkZGVzYw==">The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou</span> <span class="hidden quarto-markdown-envelope-contents" data-render-id="cXVhcnRvLW9nY2FyZGRkZXNj">The Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou</span></p>
+</div>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2025,
-  author = {Pradhan, Pulakesh},
-  title = {GEE to {Python/R:} {Instantly} Convert {JavaScript} to
-    {Python} (.ipynb) or {R} (Rgee) with {GEE} {AI} {Assistant}},
-  date = {2025-01-06},
-  url = {https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/},
-  langid = {en}
-}
-</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2025" class="csl-entry quarto-appendix-citeas" role="listitem">
-Pradhan, Pulakesh. 2025. <span>“GEE to Python/R: Instantly Convert
-JavaScript to Python (.ipynb) or R (Rgee) with GEE AI Assistant.”</span>
-January 6, 2025. <a href="https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/">https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/</a>.
-</div></div></section></div></main> <!-- /main -->
-<script type="text/javascript" src="https://storage.ko-fi.com/cdn/widget/Widget_2.js"></script><script type="text/javascript">kofiwidget2.init('Support me', '#0b7366', 'F1F3TKSJB');kofiwidget2.draw();</script>
+</main> <!-- /main -->
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me', '#0b7366', 'F1F3TKSJB');kofiwidget2.draw();</script>
 <div class="subscribe">
     <h5> Subscribe to get notified about new content. </h5>
 
-    <img id="subscribe-thumbnail" style="margin-bottom: 1em;border-radius: 10px;" width="70%" src="../../assets/img/data-whiskeRs-thumbnail.webp" alt="Thumbnail for the data whiskeRs blog. Dark teal color with white text reading data whiskeRs: R code &amp; data science content with a sprinkle of cute cats.">
+    <img id="subscribe-thumbnail" style="margin-bottom: 1em;border-radius: 10px;" width="70%" src="/assets/img/data-whiskeRs-thumbnail.webp" alt="Thumbnail for the data whiskeRs blog. Dark teal color with white text reading data whiskeRs: R code & data science content with a sprinkle of cute cats.">
 
     <iframe id="subscribe-iframe" src="https://embeds.beehiiv.com/8136e0e9-2605-4a26-9d6b-ec29a105193a?slim=true" data-test-id="beehiiv-embed" height="80" width="70%" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent;"></iframe>
 
 </div>
-<script id="quarto-html-after-body" type="application/javascript">
+<script id = "quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
     const anchorJS = new window.AnchorJS();
@@ -382,7 +378,7 @@ January 6, 2025. <a href="https://jadeyryan.com/blog/2025-01-06_gee-to-python-r-
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jadeyryan\.com");
+        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -747,35 +743,33 @@ January 6, 2025. <a href="https://jadeyryan.com/blog/2025-01-06_gee-to-python-r-
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2023-2025 Spatial Geography</p>
-</div>   
+      <div class='footer-contents'>&#169; 2023-2025 Spatial Geography</div>  
+    </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="../../coc.html">
-<p>Code of conduct</p>
-</a>
+    <a class="nav-link" href="/coc.qmd">
+ Code of conduct
+    </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../accessibility.html">
-<p>Accessibility</p>
-</a>
+    <a class="nav-link" href="/accessibility.html">
+ Accessibility
+    </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="../../license.html">
-<p>License</p>
-</a>
+    <a class="nav-link" href="/license.qmd">
+ License
+    </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jadeynryan/jadey_website/blob/main/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/jadeynryan/jadey_website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
+    </div>
     <div class="nav-footer-right">
-<p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
-</div>
+      <div class='footer-contents'>made with ︎♥️ & [Quarto](https://quarto.org)</div>  
+    </div>
   </div>
 </footer>
 
+</body>
 
-
-
-<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
-</body></html>
+</html>
