@@ -10,6 +10,15 @@
     ]
   },
   {
+    "listing": "/courses.html",
+    "items": [
+      "/courses/gee-fundamentals/index.html",
+      "/courses/gee-fundamentals/part1_intro.html",
+      "/courses/gee-fundamentals/part2_collections.html",
+      "/courses/gee-fundamentals/part3_vectors.html"
+    ]
+  },
+  {
     "listing": "/talks.html",
     "items": []
   }

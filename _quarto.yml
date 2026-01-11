@@ -41,29 +41,29 @@ website:
     logo-alt: "Spatial Geography Logo"
     left:
       - text: HOME
-        href: index.qmd
+        href: index.html
       - text: ABOUT
-        href: about.qmd
+        href: about.html
       - text: COURSES
-        href: courses.qmd
+        href: courses.html
       - text: ARTICLES
-        href: blog.qmd
+        href: blog.html
       - text: ACADEMY
-        href: academy.qmd
+        href: academy.html
       - text: GEOMAPPER
         href: https://spatialgeography.shinyapps.io/geomapper/
       - text: UPCOMING CLASSES
-        href: upcoming_classes.qmd
+        href: upcoming_classes.html
       - text: MORE
         menu:
           - text: Projects
-            href: projects.qmd
+            href: projects.html
           - text: Talks
-            href: talks.qmd
+            href: talks.html
           - text: CV
-            href: cv.qmd
+            href: cv.html
       - text: CONTACT US
-        href: contact.qmd
+        href: contact.html
 
     right:
       - icon: rss
@@ -89,11 +89,11 @@ website:
     left: "&#169; 2023-2025 Spatial Geography"
     center:
       - text: Code of conduct
-        href: coc.qmd
+        href: coc.html
       - text: Accessibility
-        href: accessibility.qmd
+        href: accessibility.html
       - text: License
-        href: license.qmd
+        href: license.html
     right: "made with ︎♥️ & [Quarto](https://quarto.org)"
 
 format:

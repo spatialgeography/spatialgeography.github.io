@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Spatial Geography">
 
 <title>Courses | Spatial Geography – Spatial Geography</title>
 <style>
@@ -30,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./assets/img/spatial_logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/cookie-consent/cookie-consent.js"></script>
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
@@ -71,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-LEVV3VZT0E"></script>
 
 <script type="text/plain" cookie-consent="tracking">
@@ -100,21 +132,56 @@ cookieconsent.run({
   
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="Courses | Spatial Geography">
 <meta property="og:description" content="Spatial Analysis and Geography">
+<meta property="og:image" content="https://spatialgeography.github.io/assets/img/spatial_logo.png">
 <meta property="og:site_name" content="Spatial Geography">
 <meta property="og:locale" content="en_EN">
+<meta property="og:image:height" content="1125">
+<meta property="og:image:width" content="1125">
 <meta name="twitter:title" content="Courses | Spatial Geography">
 <meta name="twitter:description" content="Spatial Analysis and Geography">
-<meta name="twitter:creator" content="@spatialgeography">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://spatialgeography.github.io/assets/img/spatial_logo.png">
+<meta name="twitter:creator" content="@SpatialGeography">
+<meta name="twitter:image-height" content="1125">
+<meta name="twitter:image-width" content="1125">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -151,6 +218,10 @@ cookieconsent.run({
   <li class="nav-item">
     <a class="nav-link" href="./academy.html"> 
 <span class="menu-text">ACADEMY</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://spatialgeography.shinyapps.io/geomapper/"> 
+<span class="menu-text">GEOMAPPER</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./upcoming_classes.html"> 
@@ -217,53 +288,171 @@ cookieconsent.run({
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Courses</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Spatial Geography </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#available-courses" id="toc-available-courses" class="nav-link active" data-scroll-target="#available-courses">Available Courses</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="QW5hbHlzaXM=">Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q291cnNl">Course <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RnVuZGFtZW50YWxz">Fundamentals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R0VF">GEE <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGFydA==">Part <span class="quarto-category-count">(3)</span></div><div class="category" data-category="VHV0b3JpYWw=">Tutorial <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VmVjdG9ycw==">Vectors <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Courses</h1>
+
+
+
+
+<p>Explore our comprehensive courses on Google Earth Engine and Geospatial Analysis.</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="R0VFJTJDQ291cnNlJTJDVHV0b3JpYWw=" data-listing-date-sort="1736533800000" data-listing-file-modified-sort="1768126801537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
+<a href="./courses/gee-fundamentals/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./courses/gee-fundamentals/assets/img/spatial_logo.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fundamentals of Google Earth Engine
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('R0VF'); return false;">GEE</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q291cnNl'); return false;">Course</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VHV0b3JpYWw='); return false;">Tutorial</div>
+
 </div>
+<div class="card-text listing-description delink">
+<p>A comprehensive guide to mastering Earth Engine for geospatial analysis using the JavaScript API.</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Spatial Geography
+</div>
+<div class="listing-date">
+Jan 11, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="UGFydCUyQ0Z1bmRhbWVudGFscw==" data-listing-date-sort="1736533800000" data-listing-file-modified-sort="1768126807892" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="192">
+<a href="./courses/gee-fundamentals/part1_intro.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Part 1: The Basics
+</h5>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('UGFydA=='); return false;">Part</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('RnVuZGFtZW50YWxz'); return false;">Fundamentals</div>
 
-<div class="quarto-title-meta">
+</div>
+<div class="card-text listing-description delink">
+The Earth Engine Code Editor is where you will spend most of your time. It is divided into four main panels: - <strong>Editor</strong>: Scripting area (Center) - <strong>Map</strong>: Visualization area…<strong></strong><strong></strong>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Spatial Geography
+</div>
+<div class="listing-date">
+Jan 11, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="UGFydCUyQ0FuYWx5c2lz" data-listing-date-sort="1736533800000" data-listing-file-modified-sort="1768126814199" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
+<a href="./courses/gee-fundamentals/part2_collections.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Part 2: Image Analysis
+</h5>
+<div class="listing-categories">
 
-    
-  
-    
-  </div>
-  
+<div class="listing-category" onclick="window.quartoListingCategory('UGFydA=='); return false;">Part</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('QW5hbHlzaXM='); return false;">Analysis</div>
 
-</header>
+</div>
+<div class="card-text listing-description delink">
+Satellite data is organized into <code>ee.ImageCollection</code>. To use it effectively, we filter down to what we need.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Spatial Geography
+</div>
+<div class="listing-date">
+Jan 11, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="UGFydCUyQ1ZlY3RvcnM=" data-listing-date-sort="1736533800000" data-listing-file-modified-sort="1768126820561" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="138">
+<a href="./courses/gee-fundamentals/part3_vectors.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Part 3: Spatial Operations &amp; Charting
+</h5>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('UGFydA=='); return false;">Part</div>
 
-<p>Explore our range of courses on Spatial Data Science, Google Earth Engine, and more.</p>
-<section id="available-courses" class="level2">
-<h2 class="anchored" data-anchor-id="available-courses">Available Courses</h2>
-<ul>
-<li><strong>Introduction to GEE</strong></li>
-<li><strong>Advanced Remote Sensing with Python</strong></li>
-<li><strong>Spatial Analysis with R</strong></li>
-</ul>
+<div class="listing-category" onclick="window.quartoListingCategory('VmVjdG9ycw=='); return false;">Vectors</div>
 
-
-</section>
-
-</main> <!-- /main -->
+</div>
+<div class="card-text listing-description delink">
+Vector data in GEE is known as <code>ee.FeatureCollection</code>.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Spatial Geography
+</div>
+<div class="listing-date">
+Jan 11, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -337,7 +526,7 @@ cookieconsent.run({
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jadeyryan\.com");
+        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -693,7 +882,7 @@ cookieconsent.run({
 </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
     <div class="nav-footer-right">
 <p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
 </div>
