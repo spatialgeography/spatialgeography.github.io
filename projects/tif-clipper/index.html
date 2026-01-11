@@ -267,7 +267,11 @@ cookieconsent.run({
   <li><a href="#tif-viewer-clipper-app" id="toc-tif-viewer-clipper-app" class="nav-link active" data-scroll-target="#tif-viewer-clipper-app">🌍 TIF Viewer &amp; Clipper App</a>
   <ul>
   <li><a href="#features" id="toc-features" class="nav-link" data-scroll-target="#features">✨ Features</a></li>
-  <li><a href="#the-r-code" id="toc-the-r-code" class="nav-link" data-scroll-target="#the-r-code">💻 The R Code</a></li>
+  </ul></li>
+  <li><a href="#try-it-now-embedded" id="toc-try-it-now-embedded" class="nav-link" data-scroll-target="#try-it-now-embedded">🖥️ Try it Now (Embedded)</a></li>
+  <li><a href="#source-code" id="toc-source-code" class="nav-link" data-scroll-target="#source-code">💻 Source Code</a>
+  <ul>
+  <li><a href="#download" id="toc-download" class="nav-link" data-scroll-target="#download">📥 Download</a></li>
   </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/projects/tif-clipper/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
@@ -313,6 +317,7 @@ cookieconsent.run({
 
 <section id="tif-viewer-clipper-app" class="level2">
 <h2 class="anchored" data-anchor-id="tif-viewer-clipper-app">🌍 TIF Viewer &amp; Clipper App</h2>
+<p><strong><a href="https://55xsd7-spatial-geography.shinyapps.io/tif_clipper/" class="btn btn-primary">🚀 Launch Live App</a></strong></p>
 <p>This R Shiny application allows users to upload a GeoTIFF raster and a Shapefile (zipped) to visualize spatial data interactively. It also provides functionality to <strong>clip</strong> the raster to the extent of the shapefile and download the result.</p>
 <section id="features" class="level3">
 <h3 class="anchored" data-anchor-id="features">✨ Features</h3>
@@ -322,10 +327,18 @@ cookieconsent.run({
 <li><strong>Interactive Map</strong>: View your data on a Leaflet base map.</li>
 <li><strong>Clip &amp; Download</strong>: Automatically clips the raster to the shapefile boundary and lets you download the processed file.</li>
 </ul>
+<hr>
 </section>
-<section id="the-r-code" class="level3">
-<h3 class="anchored" data-anchor-id="the-r-code">💻 The R Code</h3>
-<p>You can run this app locally using RStudio. Ensure you have the required packages installed: <code>shiny</code>, <code>terra</code>, <code>sf</code>, <code>leaflet</code>.</p>
+</section>
+<section id="try-it-now-embedded" class="level2">
+<h2 class="anchored" data-anchor-id="try-it-now-embedded">🖥️ Try it Now (Embedded)</h2>
+<iframe src="https://55xsd7-spatial-geography.shinyapps.io/tif_clipper/" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;">
+</iframe>
+<hr>
+</section>
+<section id="source-code" class="level2">
+<h2 class="anchored" data-anchor-id="source-code">💻 Source Code</h2>
+<p>You can also run this app locally using RStudio. Ensure you have the required packages installed: <code>shiny</code>, <code>terra</code>, <code>sf</code>, <code>leaflet</code>.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(shiny)</span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(terra)</span>
 <span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(sf)</span>
@@ -446,6 +459,9 @@ cookieconsent.run({
 <span id="cb1-118"><a href="#cb1-118" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-119"><a href="#cb1-119" aria-hidden="true" tabindex="-1"></a><span class="co"># Run the App</span></span>
 <span id="cb1-120"><a href="#cb1-120" aria-hidden="true" tabindex="-1"></a><span class="fu">shinyApp</span>(ui, server)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<section id="download" class="level3">
+<h3 class="anchored" data-anchor-id="download">📥 Download</h3>
+<p><a href="../../shiny_apps/tif_clipper/app.R">Download app.R</a></p>
 
 
 </section>

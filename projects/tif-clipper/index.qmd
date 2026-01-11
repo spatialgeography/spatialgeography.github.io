@@ -8,6 +8,8 @@ image: assets/img/spatial_logo.png
 
 ## 🌍 TIF Viewer & Clipper App
 
+**[🚀 Launch Live App](https://55xsd7-spatial-geography.shinyapps.io/tif_clipper/){.btn .btn-primary}**
+
 This R Shiny application allows users to upload a GeoTIFF raster and a Shapefile (zipped) to visualize spatial data interactively. It also provides functionality to **clip** the raster to the extent of the shapefile and download the result.
 
 ### ✨ Features
@@ -16,9 +18,17 @@ This R Shiny application allows users to upload a GeoTIFF raster and a Shapefile
 - **Interactive Map**: View your data on a Leaflet base map.
 - **Clip & Download**: Automatically clips the raster to the shapefile boundary and lets you download the processed file.
 
-### 💻 The R Code
+---
 
-You can run this app locally using RStudio. Ensure you have the required packages installed: `shiny`, `terra`, `sf`, `leaflet`.
+## 🖥️ Try it Now (Embedded)
+
+<iframe src="https://55xsd7-spatial-geography.shinyapps.io/tif_clipper/" width="100%" height="800px" style="border:1px solid #ccc; border-radius:8px;"></iframe>
+
+---
+
+## 💻 Source Code
+
+You can also run this app locally using RStudio. Ensure you have the required packages installed: `shiny`, `terra`, `sf`, `leaflet`.
 
 ```r
 library(shiny)
@@ -142,3 +152,6 @@ server <- function(input, output, session) {
 # Run the App
 shinyApp(ui, server)
 ```
+
+### 📥 Download
+[Download app.R](../../shiny_apps/tif_clipper/app.R)
