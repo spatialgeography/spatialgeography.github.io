@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Pulakesh Pradhan">
+<meta name="dcterms.date" content="2025-01-11">
 
-<title>Projects | Jadey Ryan – Spatial Geography</title>
+<title>Module 2: Image Collections &amp; Filtering | Jadey Ryan – Spatial Geography</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,30 +22,65 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./assets/img/spatial_logo.png" rel="icon" type="image/png">
-<script src="site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-d640c705e8c17715bca3574aa719063f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dd0c9f5d1f9cb5c05a5e3a45b0d97b15.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-1.0.8/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../assets/img/spatial_logo.png" rel="icon" type="image/png">
+<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-d640c705e8c17715bca3574aa719063f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-dd0c9f5d1f9cb5c05a5e3a45b0d97b15.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-1.0.8/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -100,14 +137,43 @@ cookieconsent.run({
   
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Projects | Jadey Ryan">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<meta property="og:title" content="Module 2: Image Collections &amp; Filtering | Jadey Ryan">
 <meta property="og:description" content="Spatial Analysis and Geography">
 <meta property="og:site_name" content="Spatial Geography">
 <meta property="og:locale" content="en_EN">
-<meta name="twitter:title" content="Projects | Jadey Ryan">
+<meta name="twitter:title" content="Module 2: Image Collections &amp; Filtering | Jadey Ryan">
 <meta name="twitter:description" content="Spatial Analysis and Geography">
-<meta name="twitter:creator" content="@jadeynryan">
+<meta name="twitter:creator" content="@SpatialGeography">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -118,11 +184,11 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo light-content">
-    <img src="./assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo light-content">
+    <img src="../../assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Spatial Geography</span>
     </a>
   </div>
@@ -133,27 +199,27 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">ABOUT</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./courses.html"> 
+    <a class="nav-link" href="../../courses.qmd"> 
 <span class="menu-text">COURSES</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">ARTICLES</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./academy.html"> 
+    <a class="nav-link" href="../../academy.html"> 
 <span class="menu-text">ACADEMY</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./upcoming_classes.html"> 
+    <a class="nav-link" href="../../upcoming_classes.html"> 
 <span class="menu-text">UPCOMING CLASSES</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -162,27 +228,27 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-more">    
         <li>
-    <a class="dropdown-item" href="./projects.html">
+    <a class="dropdown-item" href="../../projects.html">
  <span class="dropdown-text">Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./talks.html">
+    <a class="dropdown-item" href="../../talks.html">
  <span class="dropdown-text">Talks</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./cv.html">
+    <a class="dropdown-item" href="../../cv.qmd">
  <span class="dropdown-text">CV</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">CONTACT US</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="./blog.xml"> <i class="bi bi-rss" role="img" aria-label="rss">
+    <a class="nav-link" href="../../blog.xml"> <i class="bi bi-rss" role="img" aria-label="rss">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -225,29 +291,45 @@ cookieconsent.run({
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#google-earth-engine-apps" id="toc-google-earth-engine-apps" class="nav-link active" data-scroll-target="#google-earth-engine-apps">🛠️ Google Earth Engine Apps</a>
+  <li><a href="#understanding-image-collections" id="toc-understanding-image-collections" class="nav-link active" data-scroll-target="#understanding-image-collections">2.1 Understanding Image Collections</a></li>
+  <li><a href="#filtering-collections" id="toc-filtering-collections" class="nav-link" data-scroll-target="#filtering-collections">2.2 Filtering Collections</a></li>
+  <li><a href="#reducers-compositing-mosaicking" id="toc-reducers-compositing-mosaicking" class="nav-link" data-scroll-target="#reducers-compositing-mosaicking">2.3 Reducers: Compositing &amp; Mosaicking</a>
   <ul>
-  <li><a href="#gee-ai-assistant" id="toc-gee-ai-assistant" class="nav-link" data-scroll-target="#gee-ai-assistant">GEE AI Assistant</a></li>
-  <li><a href="#flood-susceptibility-ahp-tool" id="toc-flood-susceptibility-ahp-tool" class="nav-link" data-scroll-target="#flood-susceptibility-ahp-tool">Flood Susceptibility AHP Tool</a></li>
-  <li><a href="#phenology-signature-tool" id="toc-phenology-signature-tool" class="nav-link" data-scroll-target="#phenology-signature-tool">Phenology Signature Tool</a></li>
-  <li><a href="#spectral-reflectance-curve" id="toc-spectral-reflectance-curve" class="nav-link" data-scroll-target="#spectral-reflectance-curve">Spectral Reflectance Curve</a></li>
+  <li><a href="#median-composite" id="toc-median-composite" class="nav-link" data-scroll-target="#median-composite">Median Composite</a></li>
   </ul></li>
+  <li><a href="#ndvi-calculation" id="toc-ndvi-calculation" class="nav-link" data-scroll-target="#ndvi-calculation">2.4 NDVI Calculation</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/jadeynryan/jadey_website/blob/main/projects.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/jadeynryan/jadey_website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/module2_collections.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
-</div>
+<h1 class="title">Module 2: Image Collections &amp; Filtering</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Module</div>
+    <div class="quarto-category">Images</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pulakesh Pradhan </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 11, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -257,27 +339,61 @@ cookieconsent.run({
 </header>
 
 
-<p>I develop tools and applications to solve real-world geospatial problems. Here are some of my key projects:</p>
-<section id="google-earth-engine-apps" class="level2">
-<h2 class="anchored" data-anchor-id="google-earth-engine-apps">🛠️ Google Earth Engine Apps</h2>
-<section id="gee-ai-assistant" class="level3">
-<h3 class="anchored" data-anchor-id="gee-ai-assistant"><a href="https://chromewebstore.google.com/detail/kldhacnbicjpbdiebjjflnhgcmheokkl">GEE AI Assistant</a></h3>
-<p><strong>Status:</strong> Live | <strong>Type:</strong> Browser Extension An AI-powered assistant for Google Earth Engine to help users write code and analyze data more efficiently. <a href="https://www.youtube.com/watch?v=zCLoDylGM-c">Watch Demo</a></p>
+<section id="understanding-image-collections" class="level2">
+<h2 class="anchored" data-anchor-id="understanding-image-collections">2.1 Understanding Image Collections</h2>
+<p>An <code>ee.ImageCollection</code> is a stack or time-series of images. Examples include: - Sentinel-2 (Optical) - Landsat (Optical/Thermal) - MODIS (Various products)</p>
 </section>
-<section id="flood-susceptibility-ahp-tool" class="level3">
-<h3 class="anchored" data-anchor-id="flood-susceptibility-ahp-tool"><a href="https://spatialgeography.projects.earthengine.app/view/floodsusceptibility">Flood Susceptibility AHP Tool</a></h3>
-<p><strong>Status:</strong> Live | <strong>Type:</strong> Web App A web application to create Flood Susceptibility Maps for any Indian State or District using the Analytic Hierarchy Process (AHP).</p>
+<section id="filtering-collections" class="level2">
+<h2 class="anchored" data-anchor-id="filtering-collections">2.2 Filtering Collections</h2>
+<p>To work with these massive datasets, we must filter them by: 1. <strong>Time</strong>: <code>filterDate()</code> 2. <strong>Space</strong>: <code>filterBounds()</code> 3. <strong>Metadata</strong>: <code>filterMetadata()</code> (e.g., cloud cover)</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Define a region of interest (geometry)</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> roi <span class="op">=</span> ee<span class="op">.</span><span class="at">Geometry</span><span class="op">.</span><span class="fu">Point</span>([<span class="fl">85.8245</span><span class="op">,</span> <span class="fl">20.4625</span>])<span class="op">;</span> <span class="co">// Cuttack</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co">// Load Sentinel-2 Collection</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> s2 <span class="op">=</span> ee<span class="op">.</span><span class="fu">ImageCollection</span>(<span class="st">'COPERNICUS/S2_SR'</span>)</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filterBounds</span>(roi)</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filterDate</span>(<span class="st">'2023-01-01'</span><span class="op">,</span> <span class="st">'2023-12-31'</span>)</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="op">.</span><span class="fu">filter</span>(ee<span class="op">.</span><span class="at">Filter</span><span class="op">.</span><span class="fu">lt</span>(<span class="st">'CLOUDY_PIXEL_PERCENTAGE'</span><span class="op">,</span> <span class="dv">10</span>))<span class="op">;</span> <span class="co">// Less than 10% clouds</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(<span class="st">'Filtered Collection Size:'</span><span class="op">,</span> s2<span class="op">.</span><span class="fu">size</span>())<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="phenology-signature-tool" class="level3">
-<h3 class="anchored" data-anchor-id="phenology-signature-tool"><a href="https://spatialgeography.projects.earthengine.app/view/signature">Phenology Signature Tool</a></h3>
-<p><strong>Status:</strong> Live | <strong>Type:</strong> Web App A tool for monitoring crop phenology and analyzing spectral signatures over time.</p>
+<section id="reducers-compositing-mosaicking" class="level2">
+<h2 class="anchored" data-anchor-id="reducers-compositing-mosaicking">2.3 Reducers: Compositing &amp; Mosaicking</h2>
+<p>How do we reduce a stack of images into a single image? We use <strong>Reducers</strong>.</p>
+<section id="median-composite" class="level3">
+<h3 class="anchored" data-anchor-id="median-composite">Median Composite</h3>
+<p>A common technique to remove clouds and noise is to take the <em>median</em> value of each pixel across the time series.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Create a median composite</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> medianImage <span class="op">=</span> s2<span class="op">.</span><span class="fu">median</span>()<span class="op">;</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="co">// Visualization parameters for False Color (NIR, Red, Green)</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> visParams <span class="op">=</span> {</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">bands</span><span class="op">:</span> [<span class="st">'B8'</span><span class="op">,</span> <span class="st">'B4'</span><span class="op">,</span> <span class="st">'B3'</span>]<span class="op">,</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">min</span><span class="op">:</span> <span class="dv">0</span><span class="op">,</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">max</span><span class="op">:</span> <span class="dv">3000</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>}<span class="op">;</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">centerObject</span>(roi<span class="op">,</span> <span class="dv">10</span>)<span class="op">;</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">addLayer</span>(medianImage<span class="op">.</span><span class="fu">clip</span>(roi)<span class="op">,</span> visParams<span class="op">,</span> <span class="st">'Sentinel-2 Median 2023'</span>)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="spectral-reflectance-curve" class="level3">
-<h3 class="anchored" data-anchor-id="spectral-reflectance-curve"><a href="https://spatialgeography.projects.earthengine.app/view/signature">Spectral Reflectance Curve</a></h3>
-<p><strong>Status:</strong> Live | <strong>Type:</strong> Web App Generate accurate training samples by visualizing spectral signature curves for different land cover types.</p>
+</section>
+<section id="ndvi-calculation" class="level2">
+<h2 class="anchored" data-anchor-id="ndvi-calculation">2.4 NDVI Calculation</h2>
+<p>Normalized Difference Vegetation Index (NDVI) is a key metric. <span class="math display">\[ NDVI = \frac{NIR - Red}{NIR + Red} \]</span></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode javascript code-with-copy"><code class="sourceCode javascript"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co">// Calculate NDVI using normalizedDifference</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> ndvi <span class="op">=</span> medianImage<span class="op">.</span><span class="fu">normalizedDifference</span>([<span class="st">'B8'</span><span class="op">,</span> <span class="st">'B4'</span>])<span class="op">.</span><span class="fu">rename</span>(<span class="st">'NDVI'</span>)<span class="op">;</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="co">// Visualize NDVI</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="kw">var</span> ndviVis <span class="op">=</span> {</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">min</span><span class="op">:</span> <span class="dv">0</span><span class="op">,</span> </span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">max</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span> </span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">palette</span><span class="op">:</span> [<span class="st">'white'</span><span class="op">,</span> <span class="st">'green'</span>]</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>}<span class="op">;</span></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a><span class="bu">Map</span><span class="op">.</span><span class="fu">addLayer</span>(ndvi<span class="op">.</span><span class="fu">clip</span>(roi)<span class="op">,</span> ndviVis<span class="op">,</span> <span class="st">'NDVI'</span>)<span class="op">;</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><a href="../../courses/gee-basics/module3_vectors.html"><strong>Next: Module 3 - Vectors &amp; Charts</strong></a></p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -354,7 +470,7 @@ cookieconsent.run({
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/jadeyryan\.com");
+        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -695,22 +811,22 @@ cookieconsent.run({
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="./coc.html">
+    <a class="nav-link" href="../../coc.qmd">
 <p>Code of conduct</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./accessibility.html">
+    <a class="nav-link" href="../../accessibility.html">
 <p>Accessibility</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="./license.html">
+    <a class="nav-link" href="../../license.qmd">
 <p>License</p>
 </a>
   </li>  
 </ul>
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/jadeynryan/jadey_website/blob/main/projects.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/jadeynryan/jadey_website/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/module2_collections.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
     <div class="nav-footer-right">
 <p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
 </div>
@@ -720,5 +836,5 @@ cookieconsent.run({
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

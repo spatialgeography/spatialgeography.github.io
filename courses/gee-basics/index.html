@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Pulakesh Pradhan">
+<meta name="dcterms.date" content="2025-01-11">
+<meta name="description" content="A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications.">
 
-<title>Jadey Ryan | 404 – Spatial Geography</title>
+<title>End-to-End Google Earth Engine (GEE) Bootcamp | Jadey Ryan – Spatial Geography</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +26,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="/site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="/site_libs/clipboard/clipboard.min.js"></script>
-<script src="/site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="/site_libs/quarto-search/fuse.min.js"></script>
-<script src="/site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="/">
-<link href="/./assets/img/spatial_logo.png" rel="icon" type="image/png">
-<script src="/site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="/site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="/site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="/site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="/site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="/site_libs/quarto-html/popper.min.js"></script>
-<script src="/site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="/site_libs/quarto-html/anchor.min.js"></script>
-<link href="/site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="/site_libs/quarto-html/quarto-syntax-highlighting-d640c705e8c17715bca3574aa719063f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="/site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="/site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="/site_libs/bootstrap/bootstrap-dd0c9f5d1f9cb5c05a5e3a45b0d97b15.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="/site_libs/quarto-contrib/iconify-1.0.8/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../assets/img/spatial_logo.png" rel="icon" type="image/png">
+<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-d640c705e8c17715bca3574aa719063f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-dd0c9f5d1f9cb5c05a5e3a45b0d97b15.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/iconify-1.0.8/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -101,17 +104,15 @@ cookieconsent.run({
 <style>html{ scroll-behavior: smooth; }</style>
 
 
-<meta property="og:title" content="Jadey Ryan | 404">
-<meta property="og:description" content="Spatial Analysis and Geography">
-<meta property="og:image" content="https://spatialgeography.github.io/assets/img/JR-logo-circle.webp">
+<meta property="og:title" content="End-to-End Google Earth Engine (GEE) Bootcamp | Jadey Ryan">
+<meta property="og:description" content="A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications.">
+<meta property="og:image" content="https://spatialgeography.github.io/courses/gee-basics/assets/img/gee-logo.png">
 <meta property="og:site_name" content="Spatial Geography">
 <meta property="og:locale" content="en_EN">
-<meta property="og:image:alt" content="Cat with tail shaped as the letter J next to last name initial R">
-<meta name="twitter:title" content="Jadey Ryan | 404">
-<meta name="twitter:description" content="Spatial Analysis and Geography">
-<meta name="twitter:image" content="https://spatialgeography.github.io/assets/img/JR-logo-circle.webp">
+<meta name="twitter:title" content="End-to-End Google Earth Engine (GEE) Bootcamp | Jadey Ryan">
+<meta name="twitter:description" content="A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications.">
+<meta name="twitter:image" content="https://spatialgeography.github.io/courses/gee-basics/assets/img/gee-logo.png">
 <meta name="twitter:creator" content="@SpatialGeography">
-<meta name="twitter:image:alt" content="Cat with tail shaped as the letter J next to last name initial R">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -122,11 +123,11 @@ cookieconsent.run({
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="/index.html" class="navbar-brand navbar-brand-logo">
-    <img src="/assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo light-content">
-    <img src="/assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo light-content">
+    <img src="../../assets/img/spatial_logo.png" alt="Spatial Geography Logo" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="/index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Spatial Geography</span>
     </a>
   </div>
@@ -137,27 +138,27 @@ cookieconsent.run({
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="/index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">ABOUT</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/courses.qmd"> 
+    <a class="nav-link" href="../../courses.qmd"> 
 <span class="menu-text">COURSES</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/blog.html"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">ARTICLES</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/academy.html"> 
+    <a class="nav-link" href="../../academy.html"> 
 <span class="menu-text">ACADEMY</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="/upcoming_classes.html"> 
+    <a class="nav-link" href="../../upcoming_classes.html"> 
 <span class="menu-text">UPCOMING CLASSES</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -166,27 +167,27 @@ cookieconsent.run({
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-more">    
         <li>
-    <a class="dropdown-item" href="/projects.html">
+    <a class="dropdown-item" href="../../projects.html">
  <span class="dropdown-text">Projects</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="/talks.html">
+    <a class="dropdown-item" href="../../talks.html">
  <span class="dropdown-text">Talks</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="/cv.qmd">
+    <a class="dropdown-item" href="../../cv.qmd">
  <span class="dropdown-text">CV</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="/contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">CONTACT US</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="/blog.xml"> <i class="bi bi-rss" role="img" aria-label="rss">
+    <a class="nav-link" href="../../blog.xml"> <i class="bi bi-rss" role="img" aria-label="rss">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -224,21 +225,144 @@ cookieconsent.run({
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-overview" id="toc-course-overview" class="nav-link active" data-scroll-target="#course-overview">📚 Course Overview</a>
+  <ul>
+  <li><a href="#syllabus" id="toc-syllabus" class="nav-link" data-scroll-target="#syllabus">📋 Syllabus</a>
+  <ul class="collapse">
+  <li><a href="#module-1-getting-started-with-gee" id="toc-module-1-getting-started-with-gee" class="nav-link" data-scroll-target="#module-1-getting-started-with-gee"><strong>Module 1: Getting Started with GEE</strong></a></li>
+  <li><a href="#module-2-working-with-image-collections" id="toc-module-2-working-with-image-collections" class="nav-link" data-scroll-target="#module-2-working-with-image-collections"><strong>Module 2: Working with Image Collections</strong></a></li>
+  <li><a href="#module-3-vector-data-charts" id="toc-module-3-vector-data-charts" class="nav-link" data-scroll-target="#module-3-vector-data-charts"><strong>Module 3: Vector Data &amp; Charts</strong></a></li>
+  <li><a href="#module-4-advanced-analysis" id="toc-module-4-advanced-analysis" class="nav-link" data-scroll-target="#module-4-advanced-analysis"><strong>Module 4: Advanced Analysis</strong></a></li>
+  </ul></li>
+  <li><a href="#ready-to-start" id="toc-ready-to-start" class="nav-link" data-scroll-target="#ready-to-start">🚀 Ready to start?</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">End-to-End Google Earth Engine (GEE) Bootcamp</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">GEE</div>
+    <div class="quarto-category">Course</div>
+    <div class="quarto-category">Tutorial</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    A complete guide to mastering Google Earth Engine for geospatial analysis, from basics to advanced applications.
+  </div>
+</div>
 
 
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Pulakesh Pradhan </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">January 11, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
 
 
-<p><br> <span class="h1" style="font-size:2em">Uh oh!</span></p>
-<p><span class="h3">The page you requested is nowhere to be found.</span></p>
-<p>Try going <a href="/.">home</a> or using the search feature.</p>
-<p>If you found this page from a link somewhere out in the wild web, please <a href="mailto:jadey.nicole.ryan@gmail.com">let me know</a> so I can fix it!</p>
+</header>
 
 
+<section id="course-overview" class="level2">
+<h2 class="anchored" data-anchor-id="course-overview">📚 Course Overview</h2>
+<p>Welcome to the <strong>End-to-End Google Earth Engine Bootcamp</strong>! This course is designed to take you from a complete beginner to an advanced user of Google Earth Engine. We cover everything from the JavaScript API basics to complex machine learning workflows.</p>
+<section id="syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="syllabus">📋 Syllabus</h3>
+<section id="module-1-getting-started-with-gee" class="level4">
+<h4 class="anchored" data-anchor-id="module-1-getting-started-with-gee"><strong>Module 1: Getting Started with GEE</strong></h4>
+<ul>
+<li><strong><a href="../../courses/gee-basics/module1_intro.html">Introduction to the Code Editor</a></strong>
+<ul>
+<li>Understanding the Interface</li>
+<li>server-side vs client-side objects</li>
+<li>Basic JavaScript for GEE</li>
+</ul></li>
+<li><strong><a href="../../courses/gee-basics/module1_intro.html#hello-world">Hello World: Your First Script</a></strong>
+<ul>
+<li>Loading an image</li>
+<li>Map layers and visualization</li>
+</ul></li>
+</ul>
+</section>
+<section id="module-2-working-with-image-collections" class="level4">
+<h4 class="anchored" data-anchor-id="module-2-working-with-image-collections"><strong>Module 2: Working with Image Collections</strong></h4>
+<ul>
+<li><strong><a href="../../courses/gee-basics/module2_collections.html">Filtering and Sorting</a></strong>
+<ul>
+<li><code>filterDate</code>, <code>filterBounds</code>, <code>filterMetadata</code></li>
+<li>Sorting and selecting best pixels</li>
+</ul></li>
+<li><strong><a href="../../courses/gee-basics/module2_collections.html#reducers">Reducers and Composites</a></strong>
+<ul>
+<li>Creating cloud-free mosaics</li>
+<li>Annual/Seasonal composites</li>
+</ul></li>
+</ul>
+</section>
+<section id="module-3-vector-data-charts" class="level4">
+<h4 class="anchored" data-anchor-id="module-3-vector-data-charts"><strong>Module 3: Vector Data &amp; Charts</strong></h4>
+<ul>
+<li><strong><a href="../../courses/gee-basics/module3_vectors.html">FeatureCollections</a></strong>
+<ul>
+<li>Importing Shapefiles (Assets)</li>
+<li>Filtering Client-side vs Server-side</li>
+</ul></li>
+<li><strong><a href="../../courses/gee-basics/module3_vectors.html#charts">Charting results</a></strong>
+<ul>
+<li>Time-series charts</li>
+<li>Histograms</li>
+</ul></li>
+</ul>
+</section>
+<section id="module-4-advanced-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="module-4-advanced-analysis"><strong>Module 4: Advanced Analysis</strong></h4>
+<ul>
+<li><strong><a href="module4_classification.qmd">Supervised Classification</a></strong>
+<ul>
+<li>Training data collection</li>
+<li>Random Forest Classifier</li>
+<li>Accuracy Assessment</li>
+</ul></li>
+<li><strong><a href="module4_classification.qmd#exports">Exporting Data</a></strong>
+<ul>
+<li>To Drive, Assets, and Cloud Storage</li>
+</ul></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="ready-to-start" class="level3">
+<h3 class="anchored" data-anchor-id="ready-to-start">🚀 Ready to start?</h3>
+<p><a href="../../courses/gee-basics/module1_intro.html"><strong>Click here to begin Module 1</strong></a></p>
+
+
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -655,22 +779,22 @@ cookieconsent.run({
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
-    <a class="nav-link" href="/coc.qmd">
+    <a class="nav-link" href="../../coc.qmd">
 <p>Code of conduct</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="/accessibility.html">
+    <a class="nav-link" href="../../accessibility.html">
 <p>Accessibility</p>
 </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="/license.qmd">
+    <a class="nav-link" href="../../license.qmd">
 <p>License</p>
 </a>
   </li>  
 </ul>
-    <div class="toc-actions"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/404.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/blob/main/courses/gee-basics/index.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/spatialgeography/spatialgeography.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Change cookies 🍪</a></div></div>
     <div class="nav-footer-right">
 <p>made with ︎♥️ &amp; <a href="https://quarto.org">Quarto</a></p>
 </div>
@@ -680,5 +804,5 @@ cookieconsent.run({
 
 
 
-<script src="/site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
