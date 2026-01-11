@@ -1,0 +1,33 @@
+---
+title: "About Me"
+about:
+  template: solana
+  image: assets/img/pulakesh.jpg
+---
+
+## 👨‍🏫 Bio
+
+I am **Pulakesh Pradhan**, currently a Research Scholar at the **Department of Geography, Ravenshaw University**. My research interests lie in the applications of **Remote Sensing**, **GIS**, and **Machine Learning** for environmental problem-solving.
+
+I am an advocate for open-source geospatial tools and knowledge sharing. Through my YouTube channel, **Spatial Geography**, I aim to make learning Google Earth Engine and other geospatial technologies accessible to everyone.
+
+## 🌟 Reviews
+
+> "Excellent work, keep it up"  
+> — **Swapan Talukdar**
+
+> "A new avenue for GEE users"  
+> — **Sasanka Ghosh**
+
+> "It's a great tool! Keep it up Pulakesh."  
+> — **B Goutami**
+
+## 📺 Featured In
+
+- [RevoMap Solutions](https://youtu.be/fMVyb_1Ld4g?t=3633)
+- [SAIARD Webinar](https://youtu.be/_ggEUvdWnjQ?t=1595)
+
+## 🎤 Invited Resource Person
+
+- **Maharaja Sriram Chandra Bhanja Deo University**
+- **Centurion University** - 10-day online GEE training

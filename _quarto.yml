@@ -1,0 +1,107 @@
+project:
+  type: website
+  preview:
+    port: 3434
+    browser: true
+    watch-inputs: true
+    timeout: 3600
+
+execute:
+  freeze: auto
+
+website:
+  title: "Spatial Geography"
+  description: "Spatial Analysis and Geography"
+  site-url: https://spatialgeography.github.io/
+  repo-url: https://github.com/spatialgeography/spatialgeography.github.io
+  repo-actions:
+    - source
+    - issue
+  favicon: assets/img/spatial_logo.png
+  twitter-card:
+    creator: "@SpatialGeography"
+    # commented out images so I could specify them individually for various pages
+    # image: assets/img/JR-logo-circle.webp
+    # image-alt: "Cat with tail shaped as the letter J next to last name initial R"
+  open-graph:
+    locale: en_EN
+    # image: assets/img/JR-logo-circle.webp
+    # image-alt: "Cat with tail shaped as the letter J next to last name initial R"
+  page-navigation: true
+  google-analytics:
+    tracking-id: "G-LEVV3VZT0E"
+    anonymize-ip: true
+  cookie-consent:
+    type: express
+    prefs-text: "Change cookies 🍪"
+
+  navbar:
+    pinned: true
+    logo: assets/img/spatial_logo.png
+    logo-alt: "Spatial Geography Logo"
+    left:
+      - text: HOME
+        href: index.qmd
+      - text: ABOUT
+        href: about.qmd
+      - text: COURSES
+        href: courses.qmd
+      - text: ARTICLES
+        href: blog.qmd
+      - text: ACADEMY
+        href: academy.qmd
+      - text: UPCOMING CLASSES
+        href: upcoming_classes.qmd
+      - text: MORE
+        menu:
+          - text: Projects
+            href: projects.qmd
+          - text: Talks
+            href: talks.qmd
+          - text: CV
+            href: cv.qmd
+      - text: CONTACT US
+        href: contact.qmd
+
+    right:
+      - icon: rss
+        aria-label: rss
+        href: blog.xml
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/jadeynryan
+      - icon: linkedin
+        aria-label: LinkedIn
+        href: https://www.linkedin.com/in/jadey-ryan/
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/jadeynryan.bsky.social
+      - icon: mastodon
+        aria-label: Mastodon
+        href: https://fosstodon.org/@jadeynryan
+        rel: me
+      - text: "{{< iconify simple-icons kofi size=1.15em title='Support Me' >}}"
+        href: https://ko-fi.com/jadeyryan
+
+  page-footer:
+    border: true
+    left: "&#169; 2023-2025 Spatial Geography"
+    center:
+      - text: Code of conduct
+        href: coc.qmd
+      - text: Accessibility
+        href: accessibility.qmd
+      - text: License
+        href: license.qmd
+    right: "made with ︎♥️ & [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: [flatly, assets/styling/theme.scss]
+    toc: true
+    toc-depth: 4
+    pagetitle: "{{< meta title >}} | Jadey Ryan"
+    page-layout: article
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-link: true
+    highlight-style: a11y

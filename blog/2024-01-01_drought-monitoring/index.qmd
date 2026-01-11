@@ -1,0 +1,19 @@
+---
+title: "Agricultural drought monitoring using Google Earth Engine"
+date: 2024-01-01
+description: "A study of Paschim Medinipur district, West Bengal, assessing precipitation variability and drought indices using GEE."
+categories: [Research, GEE, Drought]
+image: https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
+---
+
+**Published In:** Modern Cartography Series (2024)
+
+This study analyzes agricultural drought in Paschim Medinipur, West Bengal, using Google Earth Engine with satellite and climate datasets from 2002–2022. It assesses precipitation variability, drought indices, vegetation responses, and climate trends.
+
+### Key Findings
+- Assessment of extreme droughts and shifting water availability.
+- Analysis of resilience improvements through NDVI.
+- Land surface cooling trends.
+
+[View Full Publication](https://www.researchgate.net/publication/384435525_Agricultural_drought_monitoring_using_Google_Earth_Engine_a_study_of_Paschim_Medinipur_district_West_Bengal)
+[Download PDF](https://drive.google.com/file/d/1P0k1iLDrUPfr0BSYS7Xi_a6muw2Ox2Zz/view?usp=sharing)

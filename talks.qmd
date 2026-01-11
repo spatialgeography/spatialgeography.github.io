@@ -1,0 +1,42 @@
+---
+title: "Talks"
+toc: false
+listing:
+  # - id: upcoming
+  #   contents: upcoming
+  #   type: default
+  #   image-align: left
+  #   fields: 
+  #     - title
+  #     - description
+  #     - date
+  #     - image
+  #     - categories
+  #   categories: true
+  #   sort: "date desc"
+  #   page-size: 5
+  - id: past
+    contents: talks
+    type: default
+    image-align: left
+    fields: 
+      - title
+      - description
+      - date
+      - image
+      - categories
+    categories: true
+    sort: "date desc"
+    page-size: 5
+---
+
+## Upcoming 
+
+<!-- ::: {#upcoming} -->
+<!-- ::: -->
+None at this time.
+
+## Past 
+
+::: {#past}
+:::

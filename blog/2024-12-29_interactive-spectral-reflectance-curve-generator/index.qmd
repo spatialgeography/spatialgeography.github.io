@@ -1,0 +1,15 @@
+---
+title: "Interactive Spectral Reflectance Curve Generator"
+date: 2024-12-29
+description: "The Sentinel-2 Based Interactive Spectral Reflectance Curve Generator is a web-based geospatial application built on Google Earth Engine. It allows us"
+author: "Pulakesh Pradhan"
+categories: [Google Earth Engine, Geospatial, Tutorial]
+image: https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
+---
+
+**by Pulakesh Pradhan • 2 min read**
+
+The Sentinel-2 Based Interactive Spectral Reflectance Curve Generator is a web-based geospatial application built on Google Earth Engine. It allows us
+
+### Read the full article
+*Content placeholder - originally from LinkedIn*

@@ -1,0 +1,11 @@
+---
+title: "Courses"
+---
+
+Explore our range of courses on Spatial Data Science, Google Earth Engine, and more.
+
+## Available Courses
+
+- **Introduction to GEE**
+- **Advanced Remote Sensing with Python**
+- **Spatial Analysis with R**

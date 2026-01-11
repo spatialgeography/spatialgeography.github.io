@@ -1,0 +1,32 @@
+---
+title: "Contact Us"
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:pulakesh.mid@gmail.com
+    - icon: whatsapp
+      text: WhatsApp
+      href: https://wa.me/918617812861
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/pulakeshpradhan
+    - icon: geo-alt
+      text: Address
+      href: "https://maps.google.com/?q=Ravenshaw+University"
+---
+
+## Get in Touch
+
+I am always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.
+
+### 📧 Email
+**pulakesh.mid@gmail.com**
+
+### 📞 Phone / WhatsApp
+**+91 8617812861**
+
+### 📍 Address
+**Department of Geography**  
+Ravenshaw University, Cuttack, Odisha, India

@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+
+I develop tools and applications to solve real-world geospatial problems. Here are some of my key projects:
+
+## 🛠️ Google Earth Engine Apps
+
+### [GEE AI Assistant](https://chromewebstore.google.com/detail/kldhacnbicjpbdiebjjflnhgcmheokkl)
+**Status:** Live | **Type:** Browser Extension
+An AI-powered assistant for Google Earth Engine to help users write code and analyze data more efficiently.
+[Watch Demo](https://www.youtube.com/watch?v=zCLoDylGM-c)
+
+### [Flood Susceptibility AHP Tool](https://spatialgeography.projects.earthengine.app/view/floodsusceptibility)
+**Status:** Live | **Type:** Web App
+A web application to create Flood Susceptibility Maps for any Indian State or District using the Analytic Hierarchy Process (AHP).
+
+### [Phenology Signature Tool](https://spatialgeography.projects.earthengine.app/view/signature)
+**Status:** Live | **Type:** Web App
+A tool for monitoring crop phenology and analyzing spectral signatures over time.
+
+### [Spectral Reflectance Curve](https://spatialgeography.projects.earthengine.app/view/signature)
+**Status:** Live | **Type:** Web App
+Generate accurate training samples by visualizing spectral signature curves for different land cover types.

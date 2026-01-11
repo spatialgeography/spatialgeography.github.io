@@ -1,0 +1,10 @@
+---
+title: "Upcoming Classes"
+---
+
+Stay tuned for our upcoming classes and workshops.
+
+## Schedule
+
+- **Web Mapping Workshop** - TBD
+- **Geospatial Deep Learning** - TBD

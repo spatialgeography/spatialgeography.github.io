@@ -1,0 +1,15 @@
+---
+title: "Introducing 'Google Earth Engine AI Assistant' - Your AI-Powered Coding Partner"
+date: 2025-01-02
+description: "Easily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra"
+author: "Pulakesh Pradhan"
+categories: [Google Earth Engine, Geospatial, Tutorial]
+image: https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
+---
+
+**by Pulakesh Pradhan • 4 min read**
+
+Easily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra
+
+### Read the full article
+*Content placeholder - originally from LinkedIn*

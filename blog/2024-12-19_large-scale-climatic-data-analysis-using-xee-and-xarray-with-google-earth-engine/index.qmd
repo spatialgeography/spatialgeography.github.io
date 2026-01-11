@@ -1,0 +1,15 @@
+---
+title: "Large Scale Climatic Data Analysis using xee and xarray with Google Earth Engine"
+date: 2024-12-19
+description: "In this article, we’ll explore how to leverage GEE along with Python libraries like xarray and xee to perform large-scale climatic data analysis. Clim"
+author: "Pulakesh Pradhan"
+categories: [Google Earth Engine, Geospatial, Tutorial]
+image: https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
+---
+
+**by Pulakesh Pradhan • 2 min read**
+
+In this article, we’ll explore how to leverage GEE along with Python libraries like xarray and xee to perform large-scale climatic data analysis. Clim
+
+### Read the full article
+*Content placeholder - originally from LinkedIn*

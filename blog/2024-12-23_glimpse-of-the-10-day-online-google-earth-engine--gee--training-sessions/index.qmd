@@ -1,0 +1,15 @@
+---
+title: "Glimpse of the 10-Day Online Google Earth Engine (GEE) Training Sessions🗺️"
+date: 2024-12-23
+description: "Successfully Concluded! - 10-Day Online Google Earth Engine (GEE) Training. Delighted to share a few glimpses from the recently concluded 10-day Googl"
+author: "Pulakesh Pradhan"
+categories: [Google Earth Engine, Geospatial, Tutorial]
+image: https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
+---
+
+**by Pulakesh Pradhan • 1 min read**
+
+Successfully Concluded! - 10-Day Online Google Earth Engine (GEE) Training. Delighted to share a few glimpses from the recently concluded 10-day Googl
+
+### Read the full article
+*Content placeholder - originally from LinkedIn*

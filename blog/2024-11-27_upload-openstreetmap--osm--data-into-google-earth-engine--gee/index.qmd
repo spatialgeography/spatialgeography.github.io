@@ -1,0 +1,15 @@
+---
+title: "Upload OpenStreetMap (OSM) data into Google Earth Engine (GEE)"
+date: 2024-11-27
+description: "In this article, I will explore how to integrate OpenStreetMap (OSM) data with Google Earth Engine (GEE) to visualize geospatial features—for example In this article, I will explore how to integrate OpenStreetMap (OSM) data with Google Earth Engine (GEE) to visualize geospatial features—for example"
+author: "Pulakesh Pradhan"
+categories: [Google Earth Engine, Geospatial, Tutorial]
+image: https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
+---
+
+**by Pulakesh Pradhan • 2 min read**
+
+In this article, I will explore how to integrate OpenStreetMap (OSM) data with Google Earth Engine (GEE) to visualize geospatial features—for example In this article, I will explore how to integrate OpenStreetMap (OSM) data with Google Earth Engine (GEE) to visualize geospatial features—for example
+
+### Read the full article
+*Content placeholder - originally from LinkedIn*

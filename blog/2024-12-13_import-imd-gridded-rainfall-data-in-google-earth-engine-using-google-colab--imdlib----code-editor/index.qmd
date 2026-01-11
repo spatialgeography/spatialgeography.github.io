@@ -1,0 +1,15 @@
+---
+title: "Import IMD Gridded Rainfall Data in Google Earth Engine using Google Colab (imdlib) & Code Editor"
+date: 2024-12-13
+description: "I will demonstrate the steps to download the Indian Meteorological Department (IMD) Gridded Rainfall data as a GeoTIFF (.tif) file using imdlib (pytho"
+author: "Pulakesh Pradhan"
+categories: [Google Earth Engine, Geospatial, Tutorial]
+image: https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true
+---
+
+**by Pulakesh Pradhan • 3 min read**
+
+I will demonstrate the steps to download the Indian Meteorological Department (IMD) Gridded Rainfall data as a GeoTIFF (.tif) file using imdlib (pytho
+
+### Read the full article
+*Content placeholder - originally from LinkedIn*
