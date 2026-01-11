@@ -6,40 +6,15 @@
       version="2.0">
 <channel>
 <title>Spatial Geography</title>
-<link>https://jadeyryan.com/blog.html</link>
-<atom:link href="https://jadeyryan.com/blog.xml" rel="self" type="application/rss+xml"/>
+<link>https://spatialgeography.github.io/blog.html</link>
+<atom:link href="https://spatialgeography.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Spatial Analysis and Geography</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Wed, 02 Apr 2025 18:30:00 GMT</lastBuildDate>
-<item>
-  <title>Create your own custom {ggplot2} theme</title>
-  <dc:creator>Jadey Ryan</dc:creator>
-  <link>https://jadeyryan.com/blog/2025-04-03_rru-ggplot2/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>Read the post on the <a href="https://rfortherestofus.com/2025/04/ggplot2-theme/">R for the Rest of Us blog</a>!</strong></p>
-<p><a href="https://rfortherestofus.com/2025/04/ggplot2-theme/" data-fig-alt="Screenshot of the blog post section 'Wrap it in a function' with some of the example code showing."><img src="https://jadeyryan.com/blog/2025-04-03_rru-ggplot2/screenshot.webp" class="img-fluid"></a></p>
-<section id="accompanying-video-tutorial" class="level3">
-<h3 class="anchored" data-anchor-id="accompanying-video-tutorial">Accompanying video tutorial</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/I9DEq4zDCb4" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-
- ]]></description>
-  <category>ggplot2</category>
-  <category>Data visualization</category>
-  <guid>https://jadeyryan.com/blog/2025-04-03_rru-ggplot2/</guid>
-  <pubDate>Wed, 02 Apr 2025 18:30:00 GMT</pubDate>
-  <media:content url="https://jadeyryan.com/blog/2025-04-03_rru-ggplot2/featured.webp" medium="image" type="image/webp"/>
-</item>
+<lastBuildDate>Thu, 09 Jan 2025 18:30:00 GMT</lastBuildDate>
 <item>
   <title>NASA’s PACE Hyperspectral Data Now Accessible in Google Earth Engine</title>
   <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/</link>
+  <link>https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/</link>
   <description><![CDATA[ 
 
 
@@ -59,49 +34,24 @@
   title = {NASA’s {PACE} {Hyperspectral} {Data} {Now} {Accessible} in
     {Google} {Earth} {Engine}},
   date = {2025-01-10},
-  url = {https://jadeyryan.com/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/},
+  url = {https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2025" class="csl-entry quarto-appendix-citeas">
 Pradhan, Pulakesh. 2025. <span>“NASA’s PACE Hyperspectral Data Now
-Accessible in Google Earth Engine.”</span> January 10, 2025. <a href="https://jadeyryan.com/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/">https://jadeyryan.com/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/</a>.
+Accessible in Google Earth Engine.”</span> January 10, 2025. <a href="https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/">https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/</a>.
 </div></div></section></div> ]]></description>
   <category>Google Earth Engine</category>
   <category>Geospatial</category>
   <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/</guid>
+  <guid>https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/</guid>
   <pubDate>Thu, 09 Jan 2025 18:30:00 GMT</pubDate>
   <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
 </item>
 <item>
-  <title>Automate file management in R with the {fs} package</title>
-  <dc:creator>Jadey Ryan</dc:creator>
-  <link>https://jadeyryan.com/blog/2025-01-09_rru-fs/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong> Read the post on the <a href="https://rfortherestofus.com/2025/01/fs-file-management/">R for the Rest of Us blog</a>!</strong></p>
-<p><a href="https://rfortherestofus.com/2025/01/fs-file-management/" data-fig-alt="Screenshot of the 'Use functions to easily repeat this process' section of the blog post."><img src="https://jadeyryan.com/blog/2025-01-09_rru-fs/screenshot.webp" class="img-fluid"></a></p>
-<section id="accompanying-video-tutorial" class="level3">
-<h3 class="anchored" data-anchor-id="accompanying-video-tutorial">Accompanying video tutorial</h3>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/aeIuenml0Ic" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-
-</section>
-
- ]]></description>
-  <category>fs</category>
-  <category>File management</category>
-  <guid>https://jadeyryan.com/blog/2025-01-09_rru-fs/</guid>
-  <pubDate>Wed, 08 Jan 2025 18:30:00 GMT</pubDate>
-  <media:content url="https://jadeyryan.com/blog/2025-01-09_rru-fs/featured.webp" medium="image" type="image/webp"/>
-</item>
-<item>
   <title>Google AlphaEarth: All-in-One Optical, Radar, and LiDAR Embeddings at 10m Resolution</title>
   <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/</link>
+  <link>https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/</link>
   <description><![CDATA[ 
 
 
@@ -121,25 +71,25 @@ Accessible in Google Earth Engine.”</span> January 10, 2025. <a href="https://
   title = {Google {AlphaEarth:} {All-in-One} {Optical,} {Radar,} and
     {LiDAR} {Embeddings} at 10m {Resolution}},
   date = {2025-01-08},
-  url = {https://jadeyryan.com/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/},
+  url = {https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2025" class="csl-entry quarto-appendix-citeas">
 Pradhan, Pulakesh. 2025. <span>“Google AlphaEarth: All-in-One Optical,
 Radar, and LiDAR Embeddings at 10m Resolution.”</span> January 8, 2025.
-<a href="https://jadeyryan.com/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/">https://jadeyryan.com/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/</a>.
+<a href="https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/">https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/</a>.
 </div></div></section></div> ]]></description>
   <category>Google Earth Engine</category>
   <category>Geospatial</category>
   <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/</guid>
+  <guid>https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/</guid>
   <pubDate>Tue, 07 Jan 2025 18:30:00 GMT</pubDate>
   <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
 </item>
 <item>
   <title>GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant</title>
   <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/</link>
+  <link>https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/</link>
   <description><![CDATA[ 
 
 
@@ -159,25 +109,25 @@ Radar, and LiDAR Embeddings at 10m Resolution.”</span> January 8, 2025.
   title = {GEE to {Python/R:} {Instantly} Convert {JavaScript} to
     {Python} (.ipynb) or {R} (Rgee) with {GEE} {AI} {Assistant}},
   date = {2025-01-06},
-  url = {https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/},
+  url = {https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2025" class="csl-entry quarto-appendix-citeas">
 Pradhan, Pulakesh. 2025. <span>“GEE to Python/R: Instantly Convert
 JavaScript to Python (.ipynb) or R (Rgee) with GEE AI Assistant.”</span>
-January 6, 2025. <a href="https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/">https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/</a>.
+January 6, 2025. <a href="https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/">https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/</a>.
 </div></div></section></div> ]]></description>
   <category>Google Earth Engine</category>
   <category>Geospatial</category>
   <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/</guid>
+  <guid>https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/</guid>
   <pubDate>Sun, 05 Jan 2025 18:30:00 GMT</pubDate>
   <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
 </item>
 <item>
   <title>Advanced GIS &amp; Remote Sensing for College Students—Simplified by Google Earth Engine AI Assistant</title>
   <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/</link>
+  <link>https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/</link>
   <description><![CDATA[ 
 
 
@@ -197,25 +147,25 @@ January 6, 2025. <a href="https://jadeyryan.com/blog/2025-01-06_gee-to-python-r-
   title = {Advanced {GIS} \&amp; {Remote} {Sensing} for {College}
     {Students—Simplified} by {Google} {Earth} {Engine} {AI} {Assistant}},
   date = {2025-01-04},
-  url = {https://jadeyryan.com/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/},
+  url = {https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2025" class="csl-entry quarto-appendix-citeas">
 Pradhan, Pulakesh. 2025. <span>“Advanced GIS &amp; Remote Sensing for
 College Students—Simplified by Google Earth Engine AI Assistant.”</span>
-January 4, 2025. <a href="https://jadeyryan.com/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/">https://jadeyryan.com/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/</a>.
+January 4, 2025. <a href="https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/">https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/</a>.
 </div></div></section></div> ]]></description>
   <category>Google Earth Engine</category>
   <category>Geospatial</category>
   <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/</guid>
+  <guid>https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/</guid>
   <pubDate>Fri, 03 Jan 2025 18:30:00 GMT</pubDate>
   <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
 </item>
 <item>
   <title>Introducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner</title>
   <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/</link>
+  <link>https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/</link>
   <description><![CDATA[ 
 
 
@@ -235,499 +185,19 @@ January 4, 2025. <a href="https://jadeyryan.com/blog/2025-01-04_advanced-gis---r
   title = {Introducing “{Google} {Earth} {Engine} {AI} {Assistant}” -
     {Your} {AI-Powered} {Coding} {Partner}},
   date = {2025-01-02},
-  url = {https://jadeyryan.com/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/},
+  url = {https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2025" class="csl-entry quarto-appendix-citeas">
 Pradhan, Pulakesh. 2025. <span>“Introducing <span>‘Google Earth Engine
 AI Assistant’</span> - Your AI-Powered Coding Partner.”</span> January
-2, 2025. <a href="https://jadeyryan.com/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/">https://jadeyryan.com/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/</a>.
+2, 2025. <a href="https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/">https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/</a>.
 </div></div></section></div> ]]></description>
   <category>Google Earth Engine</category>
   <category>Geospatial</category>
   <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/</guid>
+  <guid>https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/</guid>
   <pubDate>Wed, 01 Jan 2025 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Automating InVEST Data Preparation with Google Earth Engine</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 4 min read</strong></p>
-<p>The InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) Carbon Storage and Sequestration model is a cornerstone tool for conservation pl</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Automating {InVEST} {Data} {Preparation} with {Google}
-    {Earth} {Engine}},
-  date = {2024-12-31},
-  url = {https://jadeyryan.com/blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Automating InVEST Data Preparation with
-Google Earth Engine.”</span> December 31, 2024. <a href="https://jadeyryan.com/blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/">https://jadeyryan.com/blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/</guid>
-  <pubDate>Mon, 30 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Interactive Spectral Reflectance Curve Generator</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-29_interactive-spectral-reflectance-curve-generator/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 2 min read</strong></p>
-<p>The Sentinel-2 Based Interactive Spectral Reflectance Curve Generator is a web-based geospatial application built on Google Earth Engine. It allows us</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Interactive {Spectral} {Reflectance} {Curve} {Generator}},
-  date = {2024-12-29},
-  url = {https://jadeyryan.com/blog/2024-12-29_interactive-spectral-reflectance-curve-generator/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Interactive Spectral Reflectance Curve
-Generator.”</span> December 29, 2024. <a href="https://jadeyryan.com/blog/2024-12-29_interactive-spectral-reflectance-curve-generator/">https://jadeyryan.com/blog/2024-12-29_interactive-spectral-reflectance-curve-generator/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-29_interactive-spectral-reflectance-curve-generator/</guid>
-  <pubDate>Sat, 28 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Pixel to Policy: Administrative Boundary wise Spatial Data Analysis in Google Earth Engine</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 4 min read</strong></p>
-<p>Mapping climate, environmental, biophysical, geophysical, and land use/land cover (LULC) variables to administrative boundaries — rather than using ra</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Pixel to {Policy:} {Administrative} {Boundary} Wise {Spatial}
-    {Data} {Analysis} in {Google} {Earth} {Engine}},
-  date = {2024-12-27},
-  url = {https://jadeyryan.com/blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Pixel to Policy: Administrative Boundary
-Wise Spatial Data Analysis in Google Earth Engine.”</span> December 27,
-2024. <a href="https://jadeyryan.com/blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/">https://jadeyryan.com/blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/</guid>
-  <pubDate>Thu, 26 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Google Earth Engine in JavaScript, Python and R</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 3 min read</strong></p>
-<p>Google Earth Engine (GEE) has transformed the way we access and analyze enormous volumes of geospatial data. This cloud-based platform provides users Google Earth Engine (GEE) has transformed the way we access and analyze enormous volumes of geospatial data. This cloud-based platform provides users</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Google {Earth} {Engine} in {JavaScript,} {Python} and {R}},
-  date = {2024-12-25},
-  url = {https://jadeyryan.com/blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Google Earth Engine in JavaScript,
-Python and R.”</span> December 25, 2024. <a href="https://jadeyryan.com/blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/">https://jadeyryan.com/blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/</guid>
-  <pubDate>Tue, 24 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Glimpse of the 10-Day Online Google Earth Engine (GEE) Training Sessions🗺️</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 1 min read</strong></p>
-<p>Successfully Concluded! - 10-Day Online Google Earth Engine (GEE) Training. Delighted to share a few glimpses from the recently concluded 10-day Googl</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Glimpse of the {10-Day} {Online} {Google} {Earth} {Engine}
-    {(GEE)} {Training} {Sessions🗺️}},
-  date = {2024-12-23},
-  url = {https://jadeyryan.com/blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Glimpse of the 10-Day Online Google
-Earth Engine (GEE) Training Sessions🗺️.”</span> December 23, 2024. <a href="https://jadeyryan.com/blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/">https://jadeyryan.com/blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/</guid>
-  <pubDate>Sun, 22 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Advanced Time Series Analysis with Google Earth Engine and Python Libraries</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 3 min read</strong></p>
-<p>This guide shows how to extract time series data from Google Earth Engine (GEE) and analyze it with Python. I cover time series plotting, seasonal dec</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Advanced {Time} {Series} {Analysis} with {Google} {Earth}
-    {Engine} and {Python} {Libraries}},
-  date = {2024-12-21},
-  url = {https://jadeyryan.com/blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Advanced Time Series Analysis with
-Google Earth Engine and Python Libraries.”</span> December 21, 2024. <a href="https://jadeyryan.com/blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/">https://jadeyryan.com/blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/</guid>
-  <pubDate>Fri, 20 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Large Scale Climatic Data Analysis using xee and xarray with Google Earth Engine</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 2 min read</strong></p>
-<p>In this article, we’ll explore how to leverage GEE along with Python libraries like xarray and xee to perform large-scale climatic data analysis. Clim</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Large {Scale} {Climatic} {Data} {Analysis} Using Xee and
-    Xarray with {Google} {Earth} {Engine}},
-  date = {2024-12-19},
-  url = {https://jadeyryan.com/blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Large Scale Climatic Data Analysis Using
-Xee and Xarray with Google Earth Engine.”</span> December 19, 2024. <a href="https://jadeyryan.com/blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/">https://jadeyryan.com/blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/</guid>
-  <pubDate>Wed, 18 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Basic Understanding of Sentinel-1 SAR Data</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 4 min read</strong></p>
-<p>What is SAR Data? Synthetic Aperture Radar (SAR) is a type of active data collection where a sensor produces its own energy and then records the amoun</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Basic {Understanding} of {Sentinel-1} {SAR} {Data}},
-  date = {2024-12-17},
-  url = {https://jadeyryan.com/blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Basic Understanding of Sentinel-1 SAR
-Data.”</span> December 17, 2024. <a href="https://jadeyryan.com/blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/">https://jadeyryan.com/blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/</guid>
-  <pubDate>Mon, 16 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Sentinel-1 SAR Data Pre-processing in Google Earth Engine (GEE)</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 3 min read</strong></p>
-<p>In the realm of geospatial data analysis, preprocessing of Synthetic Aperture Radar (SAR) data is a crucial step. This article provides a brief overvi</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Sentinel-1 {SAR} {Data} {Pre-processing} in {Google} {Earth}
-    {Engine} {(GEE)}},
-  date = {2024-12-15},
-  url = {https://jadeyryan.com/blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Sentinel-1 SAR Data Pre-Processing in
-Google Earth Engine (GEE).”</span> December 15, 2024. <a href="https://jadeyryan.com/blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/">https://jadeyryan.com/blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/</guid>
-  <pubDate>Sat, 14 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Import IMD Gridded Rainfall Data in Google Earth Engine using Google Colab (imdlib) &amp; Code Editor</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 3 min read</strong></p>
-<p>I will demonstrate the steps to download the Indian Meteorological Department (IMD) Gridded Rainfall data as a GeoTIFF (.tif) file using imdlib (pytho</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Import {IMD} {Gridded} {Rainfall} {Data} in {Google} {Earth}
-    {Engine} Using {Google} {Colab} (Imdlib) \&amp; {Code} {Editor}},
-  date = {2024-12-13},
-  url = {https://jadeyryan.com/blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Import IMD Gridded Rainfall Data in
-Google Earth Engine Using Google Colab (Imdlib) &amp; Code
-Editor.”</span> December 13, 2024. <a href="https://jadeyryan.com/blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/">https://jadeyryan.com/blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/</guid>
-  <pubDate>Thu, 12 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Image Statistics with Google Earth Engine: A Step-by-Step Guide</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 3 min read</strong></p>
-<p>(Mean, Median, Mode, SD, CV, P25, P75 etc.) As remote sensing and geospatial analysis become increasingly important in various fields, tools like Goog</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Image {Statistics} with {Google} {Earth} {Engine:} {A}
-    {Step-by-Step} {Guide}},
-  date = {2024-12-11},
-  url = {https://jadeyryan.com/blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Image Statistics with Google Earth
-Engine: A Step-by-Step Guide.”</span> December 11, 2024. <a href="https://jadeyryan.com/blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/">https://jadeyryan.com/blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/</guid>
-  <pubDate>Tue, 10 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Server-Side vs Client-Side Objects in Google Earth Engine</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 2 min read</strong></p>
-<p>Google Earth Engine (GEE) is a cloud-based platform that provides a massive catalogue of satellite imagery and geospatial datasets, along with powerfu</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Server-Side Vs {Client-Side} {Objects} in {Google} {Earth}
-    {Engine}},
-  date = {2024-12-09},
-  url = {https://jadeyryan.com/blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Server-Side Vs Client-Side Objects in
-Google Earth Engine.”</span> December 9, 2024. <a href="https://jadeyryan.com/blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/">https://jadeyryan.com/blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/</guid>
-  <pubDate>Sun, 08 Dec 2024 18:30:00 GMT</pubDate>
-  <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
-</item>
-<item>
-  <title>Google Earth Engine: A Paradigm Shift for Geography Research</title>
-  <dc:creator>Pulakesh Pradhan</dc:creator>
-  <link>https://jadeyryan.com/blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><strong>by Pulakesh Pradhan • 3 min read</strong></p>
-<p>In the ever-evolving landscape of geographic information systems (GIS) and remote sensing, Google Earth Engine (GEE) has emerged as a powerful tool th</p>
-<section id="read-the-full-article" class="level3">
-<h3 class="anchored" data-anchor-id="read-the-full-article">Read the full article</h3>
-<p><em>Content placeholder - originally from LinkedIn</em></p>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{pradhan2024,
-  author = {Pradhan, Pulakesh},
-  title = {Google {Earth} {Engine:} {A} {Paradigm} {Shift} for
-    {Geography} {Research}},
-  date = {2024-12-07},
-  url = {https://jadeyryan.com/blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-pradhan2024" class="csl-entry quarto-appendix-citeas">
-Pradhan, Pulakesh. 2024. <span>“Google Earth Engine: A Paradigm Shift
-for Geography Research.”</span> December 7, 2024. <a href="https://jadeyryan.com/blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/">https://jadeyryan.com/blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/</a>.
-</div></div></section></div> ]]></description>
-  <category>Google Earth Engine</category>
-  <category>Geospatial</category>
-  <category>Tutorial</category>
-  <guid>https://jadeyryan.com/blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/</guid>
-  <pubDate>Fri, 06 Dec 2024 18:30:00 GMT</pubDate>
   <media:content url="https://github.com/jadeynryan/orcas/blob/master/inst/img/leaflet_screenshot.png?raw=true" medium="image"/>
 </item>
 </channel>
