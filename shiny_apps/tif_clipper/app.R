@@ -1,0 +1,120 @@
+library(shiny)
+library(terra)
+library(sf)
+library(leaflet)
+
+# Define UI
+ui <- fluidPage(
+  titlePanel("🌍 TIF Viewer & Clipper"),
+  
+  sidebarLayout(
+    sidebarPanel(
+      helpText("Upload a GeoTIFF and a Shapefile (Zipped) to clip the raster."),
+      
+      # File Input: TIF
+      fileInput("tif_file", "Upload Raster (.tif)", 
+                accept = c(".tif"), multiple = FALSE),
+      
+      # File Input: Shapefile (Must be Zipped)
+      fileInput("shp_zip", "Upload Shapefile (.zip)", 
+                accept = c(".zip"), multiple = FALSE),
+      
+      hr(),
+      
+      # Action Button
+      uiOutput("download_ui")
+    ),
+    
+    mainPanel(
+      leafletOutput("map", height = "600px")
+    )
+  )
+)
+
+# Define Server
+server <- function(input, output, session) {
+  
+  # Reactive values to store data
+  data <- reactiveValues(r = NULL, v = NULL)
+  
+  # Process Raster
+  observeEvent(input$tif_file, {
+    req(input$tif_file)
+    r <- terra::rast(input$tif_file$datapath)
+    data$r <- r
+  })
+  
+  # Process Shapefile (Unzip and Load)
+  observeEvent(input$shp_zip, {
+    req(input$shp_zip)
+    
+    # Create temp directory
+    temp_dir <- tempdir()
+    unzip(input$shp_zip$datapath, exdir = temp_dir)
+    
+    # Find .shp file
+    shp_file <- list.files(temp_dir, pattern = "\\.shp$", full.names = TRUE)[1]
+    
+    if (!is.na(shp_file)) {
+      v <- sf::st_read(shp_file)
+      data$v <- v
+    }
+  })
+  
+  # Render Map
+  output$map <- renderLeaflet({
+    m <- leaflet() %>% addTiles()
+    
+    if (!is.null(data$r)) {
+      # Project to Web Mercator for Leaflet
+      r_proj <- terra::project(data$r, "EPSG:3857")
+      m <- m %>% addRasterImage(r_proj, opacity = 0.7, colors = "Spectral")
+    }
+    
+    if (!is.null(data$v)) {
+      # Project to WGS84 for Leaflet
+      v_proj <- sf::st_transform(data$v, 4326)
+      m <- m %>% addPolygons(data = v_proj, color = "black", fill = FALSE, weight = 2)
+    }
+    
+    # Center map
+    if (!is.null(data$r)) {
+      ext <- terra::ext(terra::project(data$r, "EPSG:4326"))
+      m <- m %>% fitBounds(ext[1], ext[3], ext[2], ext[4])
+    }
+    
+    m
+  })
+  
+  # Clip Functionality
+  clipped_raster <- reactive({
+    req(data$r, data$v)
+    
+    # Ensure CRS match
+    v_aligned <- sf::st_transform(data$v, terra::crs(data$r))
+    vect_aligned <- terra::vect(v_aligned)
+    
+    # Clip and Mask
+    r_clipped <- terra::crop(data$r, vect_aligned, mask = TRUE)
+    return(r_clipped)
+  })
+  
+  # Show Download Button if Clipping is Possible
+  output$download_ui <- renderUI({
+    req(data$r, data$v)
+    downloadButton("download_tif", "⬇️ Download Clipped Raster")
+  })
+  
+  # Download Handler
+  output$download_tif <- downloadHandler(
+    filename = function() {
+      paste0("clipped_raster_", Sys.Date(), ".tif")
+    },
+    content = function(file) {
+      terra::writeRaster(clipped_raster(), file)
+    }
+  )
+}
+
+# Run the App
+shinyApp(ui, server)
