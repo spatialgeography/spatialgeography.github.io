@@ -42,8 +42,6 @@ website:
     left:
       - text: HOME
         href: index.html
-      - text: ABOUT
-        href: about.html
       - text: COURSES
         href: courses.html
       - text: ARTICLES
@@ -62,7 +60,7 @@ website:
             href: talks.html
           - text: CV
             href: cv.html
-      - text: CONTACT US
+      - text: CONTACT
         href: contact.html
 
     right:

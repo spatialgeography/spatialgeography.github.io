@@ -1,7 +1,8 @@
 ---
-title: "Contact Us"
+title: "Contact"
 about:
-  template: trestles
+  template: solana
+  image: assets/img/spatial_logo.png
   links:
     - icon: youtube
       text: YouTube
@@ -17,8 +18,35 @@ about:
       href: https://fosstodon.org/@spatialgeography
 ---
 
-## Get in Touch
+## 👨‍🏫 What We Do
+
+**Spatial Geography** is a leading platform for **Geospatial Intelligence**, **Remote Sensing**, and **GIS** education and tools. We are dedicated to making advanced geospatial technologies accessible to researchers, students, and professionals worldwide.
+
+Our mission is to foster open-source geospatial knowledge sharing and tool development, with a strong focus on **Google Earth Engine**.
+
+## 🤝 Get in Touch
 
 We are always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.
 
 Feel free to connect with us through our social media channels or check out our repositories on GitHub.
+
+## 🌟 Reviews
+
+> "Excellent work, keep it up"  
+> — **Swapan Talukdar**
+
+> "A new avenue for GEE users"  
+> — **Sasanka Ghosh**
+
+> "It's a great tool! Keep it up."  
+> — **B Goutami**
+
+## 📺 Featured In
+
+- [RevoMap Solutions](https://youtu.be/fMVyb_1Ld4g?t=3633)
+- [SAIARD Webinar](https://youtu.be/_ggEUvdWnjQ?t=1595)
+
+## 🎤 Invited Resource Person
+
+- **Maharaja Sriram Chandra Bhanja Deo University**
+- **Centurion University** - 10-day online GEE training

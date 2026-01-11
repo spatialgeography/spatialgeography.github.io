@@ -128,16 +128,44 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact Us",
+    "title": "Contact",
     "section": "",
-    "text": "We are always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\nFeel free to connect with us through our social media channels or check out our repositories on GitHub."
+    "text": "Spatial Geography is a leading platform for Geospatial Intelligence, Remote Sensing, and GIS education and tools. We are dedicated to making advanced geospatial technologies accessible to researchers, students, and professionals worldwide.\nOur mission is to foster open-source geospatial knowledge sharing and tool development, with a strong focus on Google Earth Engine."
+  },
+  {
+    "objectID": "contact.html#what-we-do",
+    "href": "contact.html#what-we-do",
+    "title": "Contact",
+    "section": "",
+    "text": "Spatial Geography is a leading platform for Geospatial Intelligence, Remote Sensing, and GIS education and tools. We are dedicated to making advanced geospatial technologies accessible to researchers, students, and professionals worldwide.\nOur mission is to foster open-source geospatial knowledge sharing and tool development, with a strong focus on Google Earth Engine."
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
-    "title": "Contact Us",
-    "section": "",
-    "text": "We are always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\nFeel free to connect with us through our social media channels or check out our repositories on GitHub."
+    "title": "Contact",
+    "section": "🤝 Get in Touch",
+    "text": "🤝 Get in Touch\nWe are always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\nFeel free to connect with us through our social media channels or check out our repositories on GitHub."
+  },
+  {
+    "objectID": "contact.html#reviews",
+    "href": "contact.html#reviews",
+    "title": "Contact",
+    "section": "🌟 Reviews",
+    "text": "🌟 Reviews\n\n“Excellent work, keep it up”\n— Swapan Talukdar\n\n\n“A new avenue for GEE users”\n— Sasanka Ghosh\n\n\n“It’s a great tool! Keep it up.”\n— B Goutami"
+  },
+  {
+    "objectID": "contact.html#featured-in",
+    "href": "contact.html#featured-in",
+    "title": "Contact",
+    "section": "📺 Featured In",
+    "text": "📺 Featured In\n\nRevoMap Solutions\nSAIARD Webinar"
+  },
+  {
+    "objectID": "contact.html#invited-resource-person",
+    "href": "contact.html#invited-resource-person",
+    "title": "Contact",
+    "section": "🎤 Invited Resource Person",
+    "text": "🎤 Invited Resource Person\n\nMaharaja Sriram Chandra Bhanja Deo University\nCenturion University - 10-day online GEE training"
   },
   {
     "objectID": "blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html",
@@ -166,41 +194,6 @@
     "title": "Academy",
     "section": "",
     "text": "Welcome to the Spatial Geography Academy.\nJoin our community of learners and experts."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Us",
-    "section": "",
-    "text": "Spatial Geography is a leading platform for Geospatial Intelligence, Remote Sensing, and GIS education and tools. We are dedicated to making advanced geospatial technologies accessible to researchers, students, and professionals worldwide.\nOur mission is to foster open-source geospatial knowledge sharing and tool development, with a strong focus on Google Earth Engine."
-  },
-  {
-    "objectID": "about.html#what-we-do",
-    "href": "about.html#what-we-do",
-    "title": "About Us",
-    "section": "",
-    "text": "Spatial Geography is a leading platform for Geospatial Intelligence, Remote Sensing, and GIS education and tools. We are dedicated to making advanced geospatial technologies accessible to researchers, students, and professionals worldwide.\nOur mission is to foster open-source geospatial knowledge sharing and tool development, with a strong focus on Google Earth Engine."
-  },
-  {
-    "objectID": "about.html#reviews",
-    "href": "about.html#reviews",
-    "title": "About Us",
-    "section": "🌟 Reviews",
-    "text": "🌟 Reviews\n\n“Excellent work, keep it up”\n— Swapan Talukdar\n\n\n“A new avenue for GEE users”\n— Sasanka Ghosh\n\n\n“It’s a great tool! Keep it up.”\n— B Goutami"
-  },
-  {
-    "objectID": "about.html#featured-in",
-    "href": "about.html#featured-in",
-    "title": "About Us",
-    "section": "📺 Featured In",
-    "text": "📺 Featured In\n\nRevoMap Solutions\nSAIARD Webinar"
-  },
-  {
-    "objectID": "about.html#invited-resource-person",
-    "href": "about.html#invited-resource-person",
-    "title": "About Us",
-    "section": "🎤 Invited Resource Person",
-    "text": "🎤 Invited Resource Person\n\nMaharaja Sriram Chandra Bhanja Deo University\nCenturion University - 10-day online GEE training"
   },
   {
     "objectID": "accessibility.html",
