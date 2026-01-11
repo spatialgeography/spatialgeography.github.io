@@ -12,8 +12,8 @@ execute:
 website:
   title: "Spatial Geography"
   description: "Spatial Analysis and Geography"
-  site-url: https://spatialgeography.github.io/
-  repo-url: https://github.com/spatialgeography/spatialgeography.github.io
+  site-url: https://pulakeshpradhan.github.io/spatialgeography.github.io/
+  repo-url: https://github.com/pulakeshpradhan/spatialgeography.github.io
   repo-actions:
     - source
     - issue
