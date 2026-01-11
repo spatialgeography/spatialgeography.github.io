@@ -9,68 +9,72 @@
     <lastmod>2026-01-11T07:12:21.609Z</lastmod>
   </url>
   <url>
-    <loc>https://spatialgeography.github.io/index.html</loc>
-    <lastmod>2026-01-11T07:12:21.549Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/courses/gee-fundamentals/part2_collections.html</loc>
-    <lastmod>2026-01-11T07:14:16.250Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/courses/gee-fundamentals/index.html</loc>
-    <lastmod>2026-01-11T07:14:05.944Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/blog.html</loc>
-    <lastmod>2026-01-11T07:12:20.956Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/index.html</loc>
-    <lastmod>2026-01-11T07:12:20.207Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/index.html</loc>
-    <lastmod>2026-01-11T07:12:20.155Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/accessibility.html</loc>
-    <lastmod>2026-01-11T07:12:20.933Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/about.html</loc>
-    <lastmod>2026-01-11T07:12:20.896Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/academy.html</loc>
-    <lastmod>2026-01-11T07:12:20.914Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.html</loc>
-    <lastmod>2026-01-11T07:12:20.126Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.html</loc>
-    <lastmod>2026-01-11T07:12:20.184Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html</loc>
-    <lastmod>2026-01-11T07:12:20.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/contact.html</loc>
-    <lastmod>2026-01-11T07:12:21.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://spatialgeography.github.io/courses/gee-fundamentals/part1_intro.html</loc>
-    <lastmod>2026-01-11T07:14:11.887Z</lastmod>
+    <loc>https://spatialgeography.github.io/projects/tif-clipper/index.html</loc>
+    <lastmod>2026-01-11T07:32:16.019Z</lastmod>
   </url>
   <url>
     <loc>https://spatialgeography.github.io/courses/gee-fundamentals/part3_vectors.html</loc>
     <lastmod>2026-01-11T07:14:18.075Z</lastmod>
   </url>
   <url>
+    <loc>https://spatialgeography.github.io/courses/gee-fundamentals/part1_intro.html</loc>
+    <lastmod>2026-01-11T07:14:11.887Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/contact.html</loc>
+    <lastmod>2026-01-11T07:12:21.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html</loc>
+    <lastmod>2026-01-11T07:12:20.224Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.html</loc>
+    <lastmod>2026-01-11T07:12:20.184Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.html</loc>
+    <lastmod>2026-01-11T07:12:20.126Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/academy.html</loc>
+    <lastmod>2026-01-11T07:12:20.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/about.html</loc>
+    <lastmod>2026-01-11T07:12:20.896Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/accessibility.html</loc>
+    <lastmod>2026-01-11T07:12:20.933Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/index.html</loc>
+    <lastmod>2026-01-11T07:12:20.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/index.html</loc>
+    <lastmod>2026-01-11T07:12:20.207Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/blog.html</loc>
+    <lastmod>2026-01-11T07:12:20.956Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/courses/gee-fundamentals/index.html</loc>
+    <lastmod>2026-01-11T07:14:05.944Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/courses/gee-fundamentals/part2_collections.html</loc>
+    <lastmod>2026-01-11T07:14:16.250Z</lastmod>
+  </url>
+  <url>
+    <loc>https://spatialgeography.github.io/index.html</loc>
+    <lastmod>2026-01-11T07:12:21.549Z</lastmod>
+  </url>
+  <url>
     <loc>https://spatialgeography.github.io/projects.html</loc>
-    <lastmod>2026-01-11T07:12:21.587Z</lastmod>
+    <lastmod>2026-01-11T07:32:25.069Z</lastmod>
   </url>
   <url>
     <loc>https://spatialgeography.github.io/talks.html</loc>
