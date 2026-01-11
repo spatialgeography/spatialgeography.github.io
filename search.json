@@ -1,0 +1,835 @@
+[
+  {
+    "objectID": "upcoming_classes.html",
+    "href": "upcoming_classes.html",
+    "title": "Upcoming Classes",
+    "section": "",
+    "text": "Stay tuned for our upcoming classes and workshops."
+  },
+  {
+    "objectID": "upcoming_classes.html#schedule",
+    "href": "upcoming_classes.html#schedule",
+    "title": "Upcoming Classes",
+    "section": "Schedule",
+    "text": "Schedule\n\nWeb Mapping Workshop - TBD\nGeospatial Deep Learning - TBD"
+  },
+  {
+    "objectID": "talks/2025-10-29_fs-rladies-sl/index.html",
+    "href": "talks/2025-10-29_fs-rladies-sl/index.html",
+    "title": "Efficient File Management in R with {fs}",
+    "section": "",
+    "text": "Slides  Code  Video \n\nDetails\n👥 R-Ladies St. Louis\n📆 October 29, 2025 // 6:00 pm - 7:30 pm CT\n🏨 Virtual\n🆓 FREE with registration\n\n\nDescription\nJoin us for a hands-on workshop using the {fs} package to easily bring order to messy file systems. Through practical examples, you’ll learn to automate common tasks like creating, renaming, moving, and deleting files and directories. Together, we’ll transform a cluttered folder filled with mixed-case filenames and inconsistent delimiters into a clean, organized structure. By the end, you’ll have practical, reusable tools to streamline file management in your own projects.\n\n\nSlides\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2025,\n  author = {Ryan, Jadey},\n  title = {Efficient {File} {Management} in {R} with \\{Fs\\}},\n  date = {2025-10-29},\n  url = {https://jadeyryan.com/talks/2025-10-29_fs-rladies-sl/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2025. “Efficient File Management in R with\n{Fs}.” October 29, 2025. https://jadeyryan.com/talks/2025-10-29_fs-rladies-sl/."
+  },
+  {
+    "objectID": "talks/2024-07-01_slc-rug_quarto/index.html",
+    "href": "talks/2024-07-01_slc-rug_quarto/index.html",
+    "title": "Reproducible Reports and Presentations with Quarto: SLC RUG",
+    "section": "",
+    "text": "Slides  Code  Video \n\nDetails\n👥 Salt Lake City R Users Group\n📆 July 01, 2024 // 12:00 pm - 1:00 pm ET\n🏨 Virtual\n🆓 FREE with registration\n\n\nDescription\nWe all have analyzed data and created visualizations for a report the time-consuming and error-prone way. Likely we’ve also had to present that content with a slide deck. After all that painstaking labor and formatting, have you ever had to re-create the report and slides after an update to the data? Or maybe, you’ve had to generate variations of these materials for different audiences or subsets of the data?\nUse Quarto to improve your efficiency, reproducibility, and sanity by streamlining the process of generating reports and slides. Learn how to reuse content and code, use parameters for different variations, and consistently style your publications.\n\n\nSlides\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2024,\n  author = {Ryan, Jadey},\n  title = {Reproducible {Reports} and {Presentations} with {Quarto:}\n    {SLC} {RUG}},\n  date = {2024-07-01},\n  url = {https://jadeyryan.com/talks/2024-07-01_slc-rug_quarto/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2024. “Reproducible Reports and Presentations with\nQuarto: SLC RUG.” July 1, 2024. https://jadeyryan.com/talks/2024-07-01_slc-rug_quarto/."
+  },
+  {
+    "objectID": "talks/2024-04-25_coa-ceds_quarto/index.html",
+    "href": "talks/2024-04-25_coa-ceds_quarto/index.html",
+    "title": "Reproducible Reporting with Quarto",
+    "section": "",
+    "text": "Course website  Slides  Code \n\nDetails\n👥 Community Engaged Data Science Course at the College of the Atlantic and Maine R Users Group\n📆 April 25, 2024 // 1:00 pm - 4:00 pm ET\n🏫 Hybrid // College of the Atlantic\n🆓 FREE with registration\n\n\n\nDescription\nJoin this interactive workshop to learn what Quarto is and its impact on data communication and sharing. In this session, we will 1) explore how Quarto seamlessly integrates code and text to create reproducible reports and presentations; 2) dive into real-world applications at the Washington State Department of Agriculture; and 3) learn and practice Quarto functionality through demonstrations and hands-on exercises covering static and dynamic output formats, markdown syntax, code chunk options, output theming, and parameters for document variations.\n\n\nSlides\n\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2024,\n  author = {Ryan, Jadey},\n  title = {Reproducible {Reporting} with {Quarto}},\n  date = {2024-04-25},\n  url = {https://jadeyryan.com/talks/2024-04-25_coa-ceds_quarto/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2024. “Reproducible Reporting with Quarto.”\nApril 25, 2024. https://jadeyryan.com/talks/2024-04-25_coa-ceds_quarto/."
+  },
+  {
+    "objectID": "talks/2024-02-21_rladies-abuja_quarto-params/index.html",
+    "href": "talks/2024-02-21_rladies-abuja_quarto-params/index.html",
+    "title": "Parameterized Reports with Quarto: R-Ladies Abuja Workshop",
+    "section": "",
+    "text": "Course website  Slides  Code  Video \n\nDetails\n👥 R-Ladies Abuja\n📆 February 21, 2024 // 4:30 pm - 6:30 pm WAT\n🏨 Virtual\n🆓 FREE with registration\n\n\nAbstract\nTired of manually adjusting Quarto reports for different regions, time periods, or clients? Dreaming of using just one template to generate both interactive HTML and static Word/PDF versions of your reports?\nJoin our workshop to unlock the power of parameterized reporting with Quarto and leave with your own template and examples to modify for your own projects.\nGet a sneak preview of what you’ll learn by checking out the slides from my posit::conf(2023) talk.\nWe welcome everyone! However, if you’re new to Quarto or functional programming with {purrr}, take a look at the pre-work for some background videos/tutorials.\n\n\nSlides\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2024,\n  author = {Ryan, Jadey},\n  title = {Parameterized {Reports} with {Quarto:} {R-Ladies} {Abuja}\n    {Workshop}},\n  date = {2024-02-21},\n  url = {https://jadeyryan.com/talks/2024-02-21_rladies-abuja_quarto-params/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2024. “Parameterized Reports with Quarto: R-Ladies\nAbuja Workshop.” February 21, 2024. https://jadeyryan.com/talks/2024-02-21_rladies-abuja_quarto-params/."
+  },
+  {
+    "objectID": "talks/2023-09-25_posit_parameterized-quarto/index.html",
+    "href": "talks/2023-09-25_posit_parameterized-quarto/index.html",
+    "title": "Parameterized Quarto reports improve understanding of soil health",
+    "section": "",
+    "text": "Slides  Code  Video \n\nDetails\n👥 posit::conf(2023)\n📆 September 25, 2023 // 5:30 pm - 5:40 pm CDT\n🏨 Chicago, IL\n\n\nAbstract\nSoil sampling data are notoriously challenging to tidy and effectively communicate to farmers. We used functional programming with the tidyverse to reproducibly streamline data cleaning and summarization. To improve project outreach, we developed a Quarto project to dynamically create interactive HTML reports and printable PDFs. Custom to every farmer, reports include project goals, measured parameter descriptions, summary statistics, maps, tables, and graphs.\nOur case study presents a workflow for data preparation and parameterized reporting, with best practices for effective data visualization, interpretation, and accessibility.\nSee an example HTML report.\nLearn more about the Washington Soil Health Initiative State of the Soils Assessment.\n\n\nSlides\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2023,\n  author = {Ryan, Jadey and McIlquham, Molly and Sarpong, Kwabena and\n    Michel, Leslie and Potter, Teal and Griffin LaHue, Deirdre and\n    Gelardi, Dani},\n  title = {Parameterized {Quarto} Reports Improve Understanding of Soil\n    Health},\n  date = {2023-09-25},\n  url = {https://jadeyryan.com/talks/2023-09-25_posit_parameterized-quarto/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey, Molly McIlquham, Kwabena Sarpong, Leslie Michel, Teal\nPotter, Deirdre Griffin LaHue, and Dani Gelardi. 2023.\n“Parameterized Quarto Reports Improve Understanding of Soil\nHealth.” September 25, 2023. https://jadeyryan.com/talks/2023-09-25_posit_parameterized-quarto/."
+  },
+  {
+    "objectID": "talks/2023-06-13_wade_washi-wacse/index.html",
+    "href": "talks/2023-06-13_wade_washi-wacse/index.html",
+    "title": "Washington Soil Health Initative and Climate Smart Estimator",
+    "section": "",
+    "text": "Slides  Video \n\nDetails\n👥 Washington Association of District Employees (WADE)\n📆 June 13, 2023 // 1:30 pm - 2:20 pm PT\n🏨 Leavenworth, WA\n\n\nAbstract\nWashington Soil Health Initiative overview and updates.\nHow to get the most of the Sustainable Farms and Fields Washington Climate Smart Estimator (WaCSE) tool.\n\n\nSlides\n\n\nOops! Your browser doesn’t seem to support embedded PDFs.\n\n\nTry downloading instead.\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2023,\n  author = {Ryan, Jadey and Michel, Leslie and Gelardi, Dani},\n  title = {Washington {Soil} {Health} {Initative} and {Climate} {Smart}\n    {Estimator}},\n  date = {2023-06-13},\n  url = {https://jadeyryan.com/talks/2023-06-13_wade_washi-wacse/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey, Leslie Michel, and Dani Gelardi. 2023. “Washington\nSoil Health Initative and Climate Smart Estimator.” June 13,\n2023. https://jadeyryan.com/talks/2023-06-13_wade_washi-wacse/."
+  },
+  {
+    "objectID": "talks/2022-05-25_wagisa_arcgis-wacse/index.html",
+    "href": "talks/2022-05-25_wagisa_arcgis-wacse/index.html",
+    "title": "Washington Climate Smart Estimator: Using ArcGIS Dashboards and Experience Builder",
+    "section": "",
+    "text": "Slides  Recording \n\nDetails\n👥 Washington GIS Association (WAGISA) conference\n📆 May 25, 2022 // 2:30 pm - 3:00 pm PT\n🏨 Virtual\n\n\nAbstract\nWashington’s Sustainable Farms and Fields (SFF) program provides financial incentives to growers who implement climate-smart practices that sequester soil carbon or reduce greenhouse gas emissions. The climate change mitigation potential of different on-farm practices depends on many site-specific factors such as geography, climate, soil type, and management history.\nTo maximize the climate change mitigation potential of the SFF program, and to optimize the use of every dollar, a decision support tool is required. This presentation demonstrates how two existing spatial datasets (NRCS’ COMET-Planner and WSDA’s Agricultural Land Use) can be integrated into a decision support tool using ArcGIS Dashboards and Experience Builder. This tool, called the Washington Climate Smart Estimator (WaCSE), allows users to compare the climate benefits of different agricultural practices across different counties in Washington.\nBy utilizing the intuitive user interface of ArcGIS Dashboards, WaCSE enables swift, science-based estimates of climate benefits, while remaining accessible for audiences of varied technical backgrounds.\nSee the old app built with ArcGIS.\n\n\nSlides\n\n\nOops! Your browser doesn’t seem to support embedded PDFs.\n\n\nTry downloading instead.\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2022,\n  author = {Ryan, Jadey and Michel, Leslie and Gelardi, Dani},\n  title = {Washington {Climate} {Smart} {Estimator:} {Using} {ArcGIS}\n    {Dashboards} and {Experience} {Builder}},\n  date = {2022-05-25},\n  url = {https://jadeyryan.com/talks/2022-05-25_wagisa_arcgis-wacse/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey, Leslie Michel, and Dani Gelardi. 2022. “Washington\nClimate Smart Estimator: Using ArcGIS Dashboards and Experience\nBuilder.” May 25, 2022. https://jadeyryan.com/talks/2022-05-25_wagisa_arcgis-wacse/."
+  },
+  {
+    "objectID": "talks/2021-11-09_awra_insecticides-water/index.html",
+    "href": "talks/2021-11-09_awra_insecticides-water/index.html",
+    "title": "Aquatic Risk Assessment: Organophosphate insecticide mixtures in Washington surface waters",
+    "section": "",
+    "text": "Slides\n\nDetails\n👥 American Water Resources Association (AWRA)\n📆 November 9, 2021 // 1:30 pm - 1:50 pm PT\n🏨 Virtual\n\n\nAbstract\nEcological risk assessments often do not consider potential additive, synergistic, or antagonistic effects from mixtures of chemicals and instead typically base risk on a single chemical. In the last decade, more tools and models have been developed to consider the interactive effects of chemicals within a mixture when conducting risk assessments. Therefore, this study uses actual environmental concentrations measured in 2018 and 2019 from the Washington State Department of Agriculture’s Surface Water Monitoring Program. Aquatic risk from exposure was assessed from chlorpyrifos, diazinon, and malathion (as individual chemicals and as binary and ternary mixtures) using the concentration addition model. These pesticides were selected because they have a common mechanism of toxicity, are frequently detected in surface waters in Washington, and were recently evaluated in a biological opinion by the National Marine Fisheries Service.\nAll detected concentrations of chlorpyrifos and malathion, assessed as individual chemicals, exceeded the predicted no effect concentration, indicating potential for adverse effects on aquatic life. Further, risk quotients for all binary and ternary mixtures were greater than one, also indicative of potential for adverse effects on aquatic life. In all samples containing a mixture, the maximum cumulative ratio suggested that a single insecticide contributed &gt;50% of the overall toxicity of each mixture. Based on the individual and mixture risk quotients, chlorpyrifos and malathion were the primary drivers of the toxicity of each mixture.\n\n\nSlides\n\n\nOops! Your browser doesn’t seem to support embedded PDFs.\n\n\nTry downloading instead.\n\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2021,\n  author = {Ryan, Jadey},\n  title = {Aquatic {Risk} {Assessment:} {Organophosphate} Insecticide\n    Mixtures in {Washington} Surface Waters},\n  date = {2021-11-09},\n  url = {https://jadeyryan.com/talks/2021-11-09_awra_insecticides-water/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2021. “Aquatic Risk Assessment: Organophosphate\nInsecticide Mixtures in Washington Surface Waters.” November 9,\n2021. https://jadeyryan.com/talks/2021-11-09_awra_insecticides-water/."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I develop tools and applications to solve real-world geospatial problems. Here are some of my key projects:"
+  },
+  {
+    "objectID": "projects.html#google-earth-engine-apps",
+    "href": "projects.html#google-earth-engine-apps",
+    "title": "Projects",
+    "section": "🛠️ Google Earth Engine Apps",
+    "text": "🛠️ Google Earth Engine Apps\n\nGEE AI Assistant\nStatus: Live | Type: Browser Extension An AI-powered assistant for Google Earth Engine to help users write code and analyze data more efficiently. Watch Demo\n\n\nFlood Susceptibility AHP Tool\nStatus: Live | Type: Web App A web application to create Flood Susceptibility Maps for any Indian State or District using the Analytic Hierarchy Process (AHP).\n\n\nPhenology Signature Tool\nStatus: Live | Type: Web App A tool for monitoring crop phenology and analyzing spectral signatures over time.\n\n\nSpectral Reflectance Curve\nStatus: Live | Type: Web App Generate accurate training samples by visualizing spectral signature curves for different land cover types."
+  },
+  {
+    "objectID": "projects/wacse.html",
+    "href": "projects/wacse.html",
+    "title": "WaCSE",
+    "section": "",
+    "text": "App  Code newsletter \nThe Washington State Department of Agriculture developed WaCSE for the Washington State Conservation Commission to use in the Sustainable Farms and Fields (SFF) program. Intended users are the Conservation Commission, conservation districts, growers, and anyone interested in reducing agricultural greenhouse gas (GHG) emissions. This interactive tool estimates the reduction of GHG emissions from different conservation practices across Washington’s diverse counties."
+  },
+  {
+    "objectID": "projects/roadmap.html",
+    "href": "projects/roadmap.html",
+    "title": "WaSHI Soil Health Roadmap",
+    "section": "",
+    "text": "App  Code \nThe Soil Health Roadmap is a science-based guide to maintaining and improving soil health in eight focus areas across Washington state.\nFor each focus area, I created crop and soil maps using the arcpy Python package. I then summarized the crop acreage and soil properties in interactive ArcGIS dashboards to complement the 117-page report."
+  },
+  {
+    "objectID": "projects/dirt-data-reports.html",
+    "href": "projects/dirt-data-reports.html",
+    "title": "Dirt Data Reports",
+    "section": "",
+    "text": "App  Code \nDirt Data Reports is a web-based tool that makes it easy for anyone to upload their soil sampling data, enter project-specific information, and generate customized, research-based soil health reports to make farmers’ soil health data accessible and actionable."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spatial Geography",
+    "section": "",
+    "text": "Email\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     YouTube\n  \n  \n    \n     GitHub\n  \n  \n    \n     WhatsApp"
+  },
+  {
+    "objectID": "index.html#welcome-to-spatial-geography",
+    "href": "index.html#welcome-to-spatial-geography",
+    "title": "Spatial Geography",
+    "section": "Welcome to Spatial Geography",
+    "text": "Welcome to Spatial Geography\nI am Pulakesh Pradhan, a Research Scholar in the Department of Geography at Ravenshaw University.\nMy work focuses on Geospatial Intelligence, Google Earth Engine, and Remote Sensing applications for environmental monitoring. I am the creator of the GEE AI Assistant and run the Spatial Geography YouTube channel.\nI specialize in: - 🛰️ Satellite Image Processing - 🌍 Disaster Management (Flood/Drought) - 💻 Geospatial Tool Development\nFeel free to explore my research, projects, and tutorials!"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Explore our range of courses on Spatial Data Science, Google Earth Engine, and more."
+  },
+  {
+    "objectID": "courses.html#available-courses",
+    "href": "courses.html#available-courses",
+    "title": "Courses",
+    "section": "Available Courses",
+    "text": "Available Courses\n\nIntroduction to GEE\nAdvanced Remote Sensing with Python\nSpatial Analysis with R"
+  },
+  {
+    "objectID": "coc.html",
+    "href": "coc.html",
+    "title": "Code of Conduct",
+    "section": "",
+    "text": "I value kindness and inclusivity. This means I will:\n\nbe friendly, courteous, and respectful\ntake great care to not make statements that could cause offence, personal hurt, or discourage participation/conversation\n\nI am putting putting myself in a vulnerable position by posting content to the very public wild web. I hope others, no matter their experience level, feel comfortable enough to participate in discussions in the spirit of learning out loud.\nI will not post unacceptable content, and I will delete any references or comments that contain it.\nI define unacceptable content as anything included or linked to that:\n\nis being used to abuse, harass, stalk, or threaten others\nis libelous, knowingly false, ad-hominem, or misrepresents another person\ninfringes upon a copyright or trademark\nviolates an obligation of confidentiality\nviolates the privacy of others\n\nI define and determine what is “unacceptable content” on a case-by-case basis, and my definitions are not limited to this list. If I delete a comment or link, I will say so and explain why. I reserve the right to change these standards at any time with no notice.\nModified from Cédric Scherer, who modified from Tim O’Reilly."
+  },
+  {
+    "objectID": "blog/2025-04-03_rru-ggplot2/index.html",
+    "href": "blog/2025-04-03_rru-ggplot2/index.html",
+    "title": "Create your own custom {ggplot2} theme",
+    "section": "",
+    "text": "Read the post on the R for the Rest of Us blog!\n\n\nAccompanying video tutorial"
+  },
+  {
+    "objectID": "blog/2025-01-09_rru-fs/index.html",
+    "href": "blog/2025-01-09_rru-fs/index.html",
+    "title": "Automate file management in R with the {fs} package",
+    "section": "",
+    "text": "Read the post on the R for the Rest of Us blog!\n\n\nAccompanying video tutorial"
+  },
+  {
+    "objectID": "blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.html",
+    "href": "blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/index.html",
+    "title": "GEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nThe Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {GEE to {Python/R:} {Instantly} Convert {JavaScript} to\n    {Python} (.ipynb) or {R} (Rgee) with {GEE} {AI} {Assistant}},\n  date = {2025-01-06},\n  url = {https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “GEE to Python/R: Instantly Convert\nJavaScript to Python (.ipynb) or R (Rgee) with GEE AI Assistant.”\nJanuary 6, 2025. https://jadeyryan.com/blog/2025-01-06_gee-to-python-r--instantly-convert-javascript-to-python---ipynb--or-r--rgee--with-gee-ai-assistant/."
+  },
+  {
+    "objectID": "blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.html",
+    "href": "blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/index.html",
+    "title": "Introducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 4 min read\nEasily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Introducing “{Google} {Earth} {Engine} {AI} {Assistant}” -\n    {Your} {AI-Powered} {Coding} {Partner}},\n  date = {2025-01-02},\n  url = {https://jadeyryan.com/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Introducing ‘Google Earth Engine\nAI Assistant’ - Your AI-Powered Coding Partner.” January\n2, 2025. https://jadeyryan.com/blog/2025-01-02_introducing--google-earth-engine-ai-assistant----your-ai-powered-coding-partner/."
+  },
+  {
+    "objectID": "blog/2024-12-29_interactive-spectral-reflectance-curve-generator/index.html",
+    "href": "blog/2024-12-29_interactive-spectral-reflectance-curve-generator/index.html",
+    "title": "Interactive Spectral Reflectance Curve Generator",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 2 min read\nThe Sentinel-2 Based Interactive Spectral Reflectance Curve Generator is a web-based geospatial application built on Google Earth Engine. It allows us\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Interactive {Spectral} {Reflectance} {Curve} {Generator}},\n  date = {2024-12-29},\n  url = {https://jadeyryan.com/blog/2024-12-29_interactive-spectral-reflectance-curve-generator/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Interactive Spectral Reflectance Curve\nGenerator.” December 29, 2024. https://jadeyryan.com/blog/2024-12-29_interactive-spectral-reflectance-curve-generator/."
+  },
+  {
+    "objectID": "blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/index.html",
+    "href": "blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/index.html",
+    "title": "Google Earth Engine in JavaScript, Python and R",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nGoogle Earth Engine (GEE) has transformed the way we access and analyze enormous volumes of geospatial data. This cloud-based platform provides users Google Earth Engine (GEE) has transformed the way we access and analyze enormous volumes of geospatial data. This cloud-based platform provides users\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Google {Earth} {Engine} in {JavaScript,} {Python} and {R}},\n  date = {2024-12-25},\n  url = {https://jadeyryan.com/blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Google Earth Engine in JavaScript,\nPython and R.” December 25, 2024. https://jadeyryan.com/blog/2024-12-25_google-earth-engine-in-javascript--python-and-r/."
+  },
+  {
+    "objectID": "blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/index.html",
+    "href": "blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/index.html",
+    "title": "Advanced Time Series Analysis with Google Earth Engine and Python Libraries",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nThis guide shows how to extract time series data from Google Earth Engine (GEE) and analyze it with Python. I cover time series plotting, seasonal dec\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Advanced {Time} {Series} {Analysis} with {Google} {Earth}\n    {Engine} and {Python} {Libraries}},\n  date = {2024-12-21},\n  url = {https://jadeyryan.com/blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Advanced Time Series Analysis with\nGoogle Earth Engine and Python Libraries.” December 21, 2024. https://jadeyryan.com/blog/2024-12-21_advanced-time-series-analysis-with-google-earth-engine-and-python-libraries/."
+  },
+  {
+    "objectID": "blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/index.html",
+    "href": "blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/index.html",
+    "title": "Basic Understanding of Sentinel-1 SAR Data",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 4 min read\nWhat is SAR Data? Synthetic Aperture Radar (SAR) is a type of active data collection where a sensor produces its own energy and then records the amoun\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Basic {Understanding} of {Sentinel-1} {SAR} {Data}},\n  date = {2024-12-17},\n  url = {https://jadeyryan.com/blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Basic Understanding of Sentinel-1 SAR\nData.” December 17, 2024. https://jadeyryan.com/blog/2024-12-17_basic-understanding-of-sentinel-1-sar-data/."
+  },
+  {
+    "objectID": "blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/index.html",
+    "href": "blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/index.html",
+    "title": "Import IMD Gridded Rainfall Data in Google Earth Engine using Google Colab (imdlib) & Code Editor",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nI will demonstrate the steps to download the Indian Meteorological Department (IMD) Gridded Rainfall data as a GeoTIFF (.tif) file using imdlib (pytho\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Import {IMD} {Gridded} {Rainfall} {Data} in {Google} {Earth}\n    {Engine} Using {Google} {Colab} (Imdlib) \\& {Code} {Editor}},\n  date = {2024-12-13},\n  url = {https://jadeyryan.com/blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Import IMD Gridded Rainfall Data in\nGoogle Earth Engine Using Google Colab (Imdlib) & Code\nEditor.” December 13, 2024. https://jadeyryan.com/blog/2024-12-13_import-imd-gridded-rainfall-data-in-google-earth-engine-using-google-colab--imdlib----code-editor/."
+  },
+  {
+    "objectID": "blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/index.html",
+    "href": "blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/index.html",
+    "title": "Server-Side vs Client-Side Objects in Google Earth Engine",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 2 min read\nGoogle Earth Engine (GEE) is a cloud-based platform that provides a massive catalogue of satellite imagery and geospatial datasets, along with powerfu\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Server-Side Vs {Client-Side} {Objects} in {Google} {Earth}\n    {Engine}},\n  date = {2024-12-09},\n  url = {https://jadeyryan.com/blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Server-Side Vs Client-Side Objects in\nGoogle Earth Engine.” December 9, 2024. https://jadeyryan.com/blog/2024-12-09_server-side-vs-client-side-objects-in-google-earth-engine/."
+  },
+  {
+    "objectID": "blog/2024-12-05_module-programming-concept-in-google-earth-engine-code-editor/index.html",
+    "href": "blog/2024-12-05_module-programming-concept-in-google-earth-engine-code-editor/index.html",
+    "title": "Module Programming Concept in Google Earth Engine Code Editor",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nGoogle Earth Engine (GEE) introduced a module system to simplify the organization, reuse, and sharing of code. In this article, I will build a complet\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Module {Programming} {Concept} in {Google} {Earth} {Engine}\n    {Code} {Editor}},\n  date = {2024-12-05},\n  url = {https://jadeyryan.com/blog/2024-12-05_module-programming-concept-in-google-earth-engine-code-editor/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Module Programming Concept in Google\nEarth Engine Code Editor.” December 5, 2024. https://jadeyryan.com/blog/2024-12-05_module-programming-concept-in-google-earth-engine-code-editor/."
+  },
+  {
+    "objectID": "blog/2024-12-01_imd-temperature-data-interpolation-in-google-earth-engine/index.html",
+    "href": "blog/2024-12-01_imd-temperature-data-interpolation-in-google-earth-engine/index.html",
+    "title": "IMD Temperature Data Interpolation in Google Earth Engine",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nTo perform spatial interpolation using kriging for temperature data in Google Earth Engine (GEE), let’s break down this script, step by step. This app\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {IMD {Temperature} {Data} {Interpolation} in {Google} {Earth}\n    {Engine}},\n  date = {2024-12-01},\n  url = {https://jadeyryan.com/blog/2024-12-01_imd-temperature-data-interpolation-in-google-earth-engine/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “IMD Temperature Data Interpolation in\nGoogle Earth Engine.” December 1, 2024. https://jadeyryan.com/blog/2024-12-01_imd-temperature-data-interpolation-in-google-earth-engine/."
+  },
+  {
+    "objectID": "blog/2024-11-27_upload-openstreetmap--osm--data-into-google-earth-engine--gee/index.html",
+    "href": "blog/2024-11-27_upload-openstreetmap--osm--data-into-google-earth-engine--gee/index.html",
+    "title": "Upload OpenStreetMap (OSM) data into Google Earth Engine (GEE)",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 2 min read\nIn this article, I will explore how to integrate OpenStreetMap (OSM) data with Google Earth Engine (GEE) to visualize geospatial features—for example In this article, I will explore how to integrate OpenStreetMap (OSM) data with Google Earth Engine (GEE) to visualize geospatial features—for example\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Upload {OpenStreetMap} {(OSM)} Data into {Google} {Earth}\n    {Engine} {(GEE)}},\n  date = {2024-11-27},\n  url = {https://jadeyryan.com/blog/2024-11-27_upload-openstreetmap--osm--data-into-google-earth-engine--gee/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Upload OpenStreetMap (OSM) Data into\nGoogle Earth Engine (GEE).” November 27, 2024. https://jadeyryan.com/blog/2024-11-27_upload-openstreetmap--osm--data-into-google-earth-engine--gee/."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "",
+    "text": "Are you eager to build a website but don’t have any web development experience or coding knowledge? Fear not! In this guide, I’ll walk you through the process of creating a simple website using the Quarto visual editor and deploying it seamlessly with Netlify’s drag and drop tool."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#what-just-happened",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#what-just-happened",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "2.1 What just happened?",
+    "text": "2.1 What just happened?\nWhen we clicked Render Website, Quarto turns all of the .qmd files and styling sheets into HTML (HyperText Markup Language) source files that serve as the website. The website was rendered into the new folder _site. You can even click on any of the .html files and view it in your web browser to see how it looks. Every time we render the website, this _site folder gets updated."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#what-are-quarto-documents",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#what-are-quarto-documents",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "3.1 What are Quarto documents?",
+    "text": "3.1 What are Quarto documents?\nEach .qmd has a YAML (YAML Ain’t Markup Language) header for document-specific options and Markdown content. Quarto documents are authored using Markdown, which is a plain text format designed to be easy to write and easy to read. We’ll use the visual editor in this tutorial, but you’ll likely eventually need Markdown if you want more customization options. Reference the text formatting markdown syntax and output in this Markdown Basics article. You can also toggle between Source and Visual to see the underlying Markdown as you’re writing your Quarto documents."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "4.1 My turn",
+    "text": "4.1 My turn"
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "4.2 Your turn",
+    "text": "4.2 Your turn\n\nOpen index.qmd.\nCheck Render on Save.\nChange the webpage title.\nSave the file (Cmd/Ctrl + S).\nDelete the example text and write some of your own.\nSave again."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-1",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-1",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "5.1 My turn",
+    "text": "5.1 My turn\nI like the jolla template. In my my-website project folder, I added a new folder called images for my pictures. This is optional - just be sure to match the file path.\n---\ntitle: \"Mai, Tai, and Skye\"\nimage: images/couch-kits.JPG\nabout:\n  template: jolla\n  links:\n    - icon: instagram\n      text: Instagram\n      href: https://www.instagram.com/piggies.and.kits\n---"
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-1",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-1",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "5.2 Your turn",
+    "text": "5.2 Your turn\n\nOpen about.qmd.\nCheck Render on Save, and save after each below step to update the preview.\nUpdate the title to your name or organization.\nAdd the about option to the YAML. Check out the previews of the templates and choose which one you like best.\nAdd a photo to your project folder or to a subfolder, and then add the file path to that photo to the image: option.\nAdd any social media or other websites you like to the links: option. Optionally, you can use Bootstrap icons.\n\n\n\n\n\n\n\nTip\n\n\n\nIf you want to use the special about template as your home page, you can add the about YAML option to index.qmd. In fact, the about: option can be used for any .qmd document for your website!"
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-2",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-2",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "6.1 My turn",
+    "text": "6.1 My turn\nI named my new page birthdays because I’m adding pictures from Mai’s, Tai’s, and Skye’s birthday party 🥳.\n\nThis new page opened completely blank. From the Insert menu of the editor toolbar, I selected YAML Block, to which I added the page title.\n\nI added headings and images for our family picture and each of our three cats. For more advanced figure layouts, see this Quarto article.\n\nVisualSource"
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-2",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-2",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "6.2 Your turn",
+    "text": "6.2 Your turn\n\nCreate a new Quarto document.\nAdd the YAML Block.\nAdd a page title.\nAdd some content to your page.\nRender the page.\nBuild and look at the website.\n\nNotice that your new page isn’t included on the website! Fix this by adding it to _quarto.yml."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-3",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-3",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "7.1 My turn",
+    "text": "7.1 My turn\nIn _quarto.yml, I changed the website title, changed the text for the link to the about page, and added the birthdays page to the navigation bar.\n\nUpdatedDefault\n\n\n\nwebsite:\n  title: \"MTS -- The Best Kits!\"\n  navbar:\n    left:\n      - href: index.qmd\n        text: Home\n      - href: about.qmd\n        text: About\n      - href: birthdays.qmd\n        text: Birthday\n\n\n\nwebsite:\n  title: \"my-website\"\n  navbar:\n    left:\n      - href: index.qmd\n        text: Home\n      - about.qmd"
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-3",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-3",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "7.2 Your turn",
+    "text": "7.2 Your turn\n\nOpen _quarto.yml.\nChange the website title.\nOptionally, update the text for the link to the about page.\nAdd a new entry for the new page you added.\nRender."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-4",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-4",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "8.1 My turn",
+    "text": "8.1 My turn\nI previewed the minty, quartz, and solar themes.\n\nmintyquartzsolar"
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-4",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-4",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "8.2 Your turn",
+    "text": "8.2 Your turn\n\nGo to Bootswatch project and see which themes you like.\nOpen _quarto.yml, and try them out. Make sure to re-render to update the preview."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-5",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#my-turn-5",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "9.1 My turn",
+    "text": "9.1 My turn\nI already have a Netlify account. So I logged in and opened the Sites tab. Then I dragged & dropped my _site folder into the ... or deploy manually box.\n\nAfter the _site folder uploaded, a Deploy success! message displayed. Notice Netlify generated a random subdomain name2. I’ll change this in the next step.\n\nI opened the Site Configuration tab, and opened the live website by clicking either the link (https://jade-donut-3a47e4.netlify.app/) or the preview thumbnail.\nThe auto-generated name is way too long and irrelevant to what my website is about. I renamed it by going to Site details and then Change site name.\n\nI changed the site name to maitaiskye so the URL for my website is https://maitaiskye.netlify.app/. The netlify.app part is not optional, unless you buy your own domain name.\n\nNow we can see my website is live!"
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-5",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#your-turn-5",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "9.2 Your turn",
+    "text": "9.2 Your turn\n\nIf you don’t yet have a Netlify account, sign up and log in.\nGo to the Sites tab to access the drag & drop tool and upload your _site folder.\nOpen and check out your newly deployed site.\nGo to Site configuration to change your site name.\nCongratulations! Your website is live! 🎉"
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#buy-your-own-url",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#buy-your-own-url",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "9.3 Buy your own URL",
+    "text": "9.3 Buy your own URL\nIf you don’t want the netlify.app suffixed to your site name, you’ll need to purchase your own domain. Instead of Site configuration, go to Domain management, and then click Add a domain.\n\nEnter whatever custom domain you want. There are a bajillion different extensions – domain.com lists them alphabetically and has a helpful FAQ about domain extensions. maitaiskye.com is available for $13.99 for the first year."
+  },
+  {
+    "objectID": "blog/2024-02-19_beginner-quarto-netlify/index.html#footnotes",
+    "href": "blog/2024-02-19_beginner-quarto-netlify/index.html#footnotes",
+    "title": "A beginner’s guide to building a simple website with Quarto & Netlify",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nGenerally, it’s good practice to not include special characters or spaces in the folder or file names. For example, if you want to name your website “My Website!!!”, name the folder “my-website”. Later, we will change how the website name displays in our configuration files.↩︎\nThis subdomain name is what comes before the netlify.app domain for the free tier of Netlify. I changed mine to maitaiskye, so the URL is maitaiskye.netlify.app.↩︎"
+  },
+  {
+    "objectID": "blog/2024-01-01_drought-monitoring/index.html",
+    "href": "blog/2024-01-01_drought-monitoring/index.html",
+    "title": "Agricultural drought monitoring using Google Earth Engine",
+    "section": "",
+    "text": "Published In: Modern Cartography Series (2024)\nThis study analyzes agricultural drought in Paschim Medinipur, West Bengal, using Google Earth Engine with satellite and climate datasets from 2002–2022. It assesses precipitation variability, drought indices, vegetation responses, and climate trends.\n\nKey Findings\n\nAssessment of extreme droughts and shifting water availability.\nAnalysis of resilience improvements through NDVI.\nLand surface cooling trends.\n\nView Full Publication Download PDF\n\n\n\n\nCitationBibTeX citation:@online{ryan2024,\n  author = {Ryan, Jadey},\n  title = {Agricultural Drought Monitoring Using {Google} {Earth}\n    {Engine}},\n  date = {2024-01-01},\n  url = {https://jadeyryan.com/blog/2024-01-01_drought-monitoring/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2024. “Agricultural Drought Monitoring Using Google\nEarth Engine.” January 1, 2024. https://jadeyryan.com/blog/2024-01-01_drought-monitoring/."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "",
+    "text": "Thankfully, many amazing resources for building beautiful websites and blogs with Quarto already exist. Instead of adding to that pool of content, I’ll demo how I built my website with Quarto, connected to a GitHub repository, and then deployed and published with Netlify continuous deployment. Special thanks to Libby Heeren for testing this demo and helping me clarify some sticky points! ♥️\nI struggled for hours trying to set up the configurations so my site would deploy every time I pushed a change to my GitHub repo. Hopefully this demo saves you some time when you start your own website! :)\nAs with most tech and dev stuff, there’s many ways to do (almost) the same thing. I’d love to hear how other people have their Quarto/Netlify workflows set up. Leave a comment at the end of the post, or reach out!\nAnyhoo, keep on reading to learn about:"
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#site-domain-name",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#site-domain-name",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "3.1 Site domain name",
+    "text": "3.1 Site domain name\nThe domain name is the URL or web address to our site. We have two options to rename our site:\n\nFree: change the random name provided but keep the netlify.app domain.\nPurchase a new domain: I recommend buying it directly on Netlify so they handle all the DNS configurations. Or, buy from a domain provider that doesn’t use the NS1 DNS zone, or you might go through the nightmare of switching DNS zones.5\n\n\nFree domain name change\nLet’s walk through the free option first.\nFrom the site overview Netlify page, click on Site configuration.\n\nScroll down to Site information, and then click on Change site name.\n\nNow we can update the site name and click Save:\n\nNote our site name is just the prefix to the full URL containing netlify.app.\n\n\nBuy a domain name\nIf you don’t want the netlify.app domain, you can purchase your own. Instead of Site configuration, go to Domain management, and then click Add a domain.\n\nType in whatever custom domain we want. There are a bajillion different extensions – domain.com lists them alphabetically and has a helpful FAQ about domain extensions. my-website24.com is available for $13.99 for the first year."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#new-_publish.yml-file",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#new-_publish.yml-file",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "3.2 New _publish.yml file",
+    "text": "3.2 New _publish.yml file\nNow that we’re set up with Netlify and GitHub, let’s head back to RStudio. Notice this new file _publish.yml appeared in the project directory when we used the quarto publish netlify command:\n\n\n_publish.yml\n\n- source: project\n  netlify:\n    - id: b9f73a69-06e7-4de2-9c7b-4f9855b56ba3\n      url: 'https://stately-chimera-0c91c7.netlify.app'\n\nThe Netlify site ID and original random URL were automatically filled in.\nThe next time we manually publish from the terminal, it will ask if we want to publish the update to https://my-website24.netlify.app. If we enter y, it will update the url value in the _publish.yml file.\n\n\nTerminal\n\n(base) MacBook-Pro-4:my-website jadeyryan$ quarto publish netlify\n? Publish update to: › https://stately-chimera-0c91c7.netlify.app (Netlify - jadey.nicole.ryan@gmail.com)\nRendering for publish:\n\n[1/2] index.qmd\n[2/2] about.qmd\n\n[✓] Preparing to publish site\n[✓] Uploading files (complete)\n[✓] Deploying published site\n[✓] Published site: https://stately-chimera-0c91c7.netlify.app\n\n(base) MacBook-Pro-4:my-website jadeyryan$ quarto publish netlify\n? Publish update to: › https://my-website24.netlify.app (Netlify - jadey.nicole.ryan@gmail.com)\nRendering for publish:\n\n[1/2] index.qmd\n[2/2] about.qmd\n\n[✓] Preparing to publish site\n[✓] Uploading files (complete)\n[✓] Deploying published site\n[✓] Published site: https://my-website24.netlify.app\n\n\n\n\n\n\n\nImportant\n\n\n\nIf you continue to the next steps for configuring continuous deployment, this should be your last time manually publishing your site with quarto publish netlify in the terminal.\nWhen adding code content, you should still run quarto render in the terminal to update the _freeze directory. Though, it’s good practice to always render before pushing to GitHub."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#configure-netlify-plugin",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#configure-netlify-plugin",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "4.1 Configure Netlify plugin",
+    "text": "4.1 Configure Netlify plugin\nThe Quarto Netlify plugin installs Quarto on the Netlify build server, allowing Netlify to build our Quarto website.\nLet’s create the netlify.toml and package.json files in our RStudio project and copy/paste the below content into these files.\n\n\nnetlify.toml\n\n[[plugins]]\npackage = \"@quarto/netlify-plugin-quarto\"\n\n\n\npackage.json\n\n{\n  \"dependencies\": {\n    \"@quarto/netlify-plugin-quarto\": \"^0.0.5\"\n  }\n}"
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#freeze-computations",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#freeze-computations",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "4.2 Freeze computations",
+    "text": "4.2 Freeze computations\nWe need to freeze computations so code only runs locally. When we render a .qmd that executes code on our local machine, the results get saved in a html.json file within the _freeze directory. This means that the CI server has access to the code output and doesn’t need to execute any of the code.\nThe _freeze directory and all its files must be committed to our repo. Otherwise, the build will fail because Netlify doesn’t have the code output and can’t execute code without R installed. See the detailed error in my comment on a GitHub issue.\nTo automatically freeze all computations, add these two lines to our _quarto.yml file:\n\n\n_quarto.yml\n\nexecute:\n  freeze: auto\n\nSetting freeze: auto tells Quarto to only re-render code when the source changes.\nIf you need to execute code within a CI service, see the Quarto docs for example GitHub Actions that install Quarto, R, and all dependencies."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#ignore-output-directory",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#ignore-output-directory",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "4.3 Ignore output directory",
+    "text": "4.3 Ignore output directory\nBecause we want Netlify bots to use continuous deployment to build our site, we need to ignore our output directory. To do this, we add the _site directory that contains all the rendered website content to our .gitignore file. This is recommended in the Quarto docs to avoid super messy diffs and potential merge conflicts.\n\n\n.gitignore\n\n/_site/\n\n\n\n\n\n\n\nNote\n\n\n\nIf you’re not following the workflow in this blog post and instead are using the Local Execution & Rendering option of the CI continuum described in the Quarto docs, do not add _site to your .gitignore. You need this directory checked into version control so Netlify can access this content to publish your website."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#link-netlify-site-to-github-repository",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#link-netlify-site-to-github-repository",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "4.4 Link Netlify site to GitHub repository",
+    "text": "4.4 Link Netlify site to GitHub repository\nWe already connected our Netlify and GitHub accounts, but now we need to tell Netlify which GitHub repo provides the source code for our website.\nOn Netlify, go to Site configuration &gt; Build & deploy &gt; Continous deployment &gt; Link repository.\n\nChoose Deploy with GitHub:\n\nIf you’re already logged into GitHub, it should immediately authorize and allow you to select which repositories the Netlify app can access.\nIf this is your first time deploying with Netlify and GitHub, you’ll likely need to click the bottom link Configure the Netlify app on GitHub. This should open a new window where you can make sure the Netlify app is installed on your GitHub and select which repositories it can access.\n\nAfter selecting the correct repository, configure the build settings on the next screen. Enter _site in the Publish directory field:\n\nThen click Deploy my-website24, which take us back to our site overview page where it now says Deploys from GitHub instead of Manual deploys."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#push-a-change-to-our-repo",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#push-a-change-to-our-repo",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "4.5 Push a change to our repo",
+    "text": "4.5 Push a change to our repo\nLet’s push a change to our repo and make sure it automatically redeploys and republishes our website!\nAdd some content to about.qmd, run quarto render in the terminal, and then push to main.\n\nThe Deploys page on Netlify tells us that we successfully published from main@0b8b526.\n\n\nAuto publishing\nBy default, auto publishing is turned on in the Netlify deploy settings. This means all successful deployments are automatically published to the public site.\nOptionally, you can turn this setting off so that you have to click Publish to send the deployment to production. If you do want to turn it off, go to Deploys &gt; and then click Lock to stop auto publishing.\n\nThe site will still deploy every time you push changes to your repo, but you need to click a button to actually publish this latest deployment. This is a good option if you don’t want to work in new branches or use pull requests/merges, but still want to preview your site before sending it to production.\nFor my personal website, I don’t have this turned off so that the site will automatically publish anytime I push to GitHub. Otherwise I might forget to click Publish and wonder where my changes are 😅.\nNetlify docs provide more detail about auto publishing."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#branch-deploys",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#branch-deploys",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "5.1 Branch deploys",
+    "text": "5.1 Branch deploys\nBranch deploys are great if you typically use feature branches in your workflow.\nBy default, only the production branch (typically main) is automatically deployed by Netlify.\nTo enable branch deploys on other branches, we need to change the branch deploy setting. On the Netlify website &gt; Site Configuration &gt; Build & deploy &gt; Continuous deployment &gt; Branches and deploy contexts &gt; Branch deploys &gt; Configure &gt; select the All radio button &gt; and then click Save.\n\nOr, if we only want to deploy previews for a specific branch, select Let me add individual branches and then enter the name of that branch.\nLet’s try it out by creating a new branch called staging and pushing a commit to it.\nOn the Netlify Deploys page, we see our live site is still published from main, but we now have a Branch deploy from the staging branch that we can click to preview.\n\nOnce we merge our staging branch into main, those changes will be published to our site in production."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#deploy-previews",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#deploy-previews",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "5.2 Deploy previews",
+    "text": "5.2 Deploy previews\nDeploy previews are enabled by default once our Netlify site is linked with our GitHub repository. Every time we make a pull request or merge, Netlify will deploy our site and then provide the links to the deploy information as a comment in the pull request/merge conversation on GitHub.\nFrom our GitHub repository, create a pull request to merge our staging branch into main.\nThis triggers Netlify to deploy the site and then comment all the information for the deploy preview including a link to the commit, the deploy log, preview link, and a QR code to preview on a mobile device.\n\nWe can also access our deploy preview from the Netlify Deploys page. Similar to the branch deploy, our live site is still published from main, but we now have Deploy Preview #2 from staging. The #2 just means this was the second pull/merge request in our repository.\n\nOnce we complete our pull request and merge to main, those changes will be published to our site in production."
+  },
+  {
+    "objectID": "blog/2023-11-19_publish-quarto-website/index.html#footnotes",
+    "href": "blog/2023-11-19_publish-quarto-website/index.html#footnotes",
+    "title": "Intermediate guide to publish a Quarto website with GitHub & Netlify",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSee my GitHub stars list for my favorite blogs or Quarto website resources.↩︎\nAs long we Configure Netlify plugin.↩︎\nUnless we have a GitHub Action install R and package dependencies.↩︎\nCheck out my GitHub issue comment to see what happens if we don’t have freeze set to auto or true AND commit the freeze outputs.↩︎\nI originally bought a domain from Square Space and could not set my Netlify site to that domain due to DNS issues that I don’t fully understand. When trying to add a domain, Netlify gave this error message: A DNS zone for this domain already exists on NS1, the DNS provider backing Netlify DNS. Please contact NS1 with the domain name for support. Here’s a support forum thread on Netlify with the instructions for pointing a custom domain to a Netlify site. I ended up buying another domain directly from Netlify… DNS stuff is too confusing! 😵‍💫↩︎\nWe’ve already connected our GitHub account to our Netlify in Create and connect to GitHub and Connect and publish to Netlify, but we still need to pick which repository our Netlify site links to.↩︎\nSet up branch deploys by going to Netlify.com &gt; [Your website] &gt; Site configuration &gt; Build & deploy &gt; Continuous Deployment &gt; Branches and deploy contexts↩︎"
+  },
+  {
+    "objectID": "academy.html",
+    "href": "academy.html",
+    "title": "Academy",
+    "section": "",
+    "text": "Welcome to the Spatial Geography Academy.\nJoin our community of learners and experts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am Pulakesh Pradhan, currently a Research Scholar at the Department of Geography, Ravenshaw University. My research interests lie in the applications of Remote Sensing, GIS, and Machine Learning for environmental problem-solving.\nI am an advocate for open-source geospatial tools and knowledge sharing. Through my YouTube channel, Spatial Geography, I aim to make learning Google Earth Engine and other geospatial technologies accessible to everyone."
+  },
+  {
+    "objectID": "about.html#bio",
+    "href": "about.html#bio",
+    "title": "About Me",
+    "section": "",
+    "text": "I am Pulakesh Pradhan, currently a Research Scholar at the Department of Geography, Ravenshaw University. My research interests lie in the applications of Remote Sensing, GIS, and Machine Learning for environmental problem-solving.\nI am an advocate for open-source geospatial tools and knowledge sharing. Through my YouTube channel, Spatial Geography, I aim to make learning Google Earth Engine and other geospatial technologies accessible to everyone."
+  },
+  {
+    "objectID": "about.html#reviews",
+    "href": "about.html#reviews",
+    "title": "About Me",
+    "section": "🌟 Reviews",
+    "text": "🌟 Reviews\n\n“Excellent work, keep it up”\n— Swapan Talukdar\n\n\n“A new avenue for GEE users”\n— Sasanka Ghosh\n\n\n“It’s a great tool! Keep it up Pulakesh.”\n— B Goutami"
+  },
+  {
+    "objectID": "about.html#featured-in",
+    "href": "about.html#featured-in",
+    "title": "About Me",
+    "section": "📺 Featured In",
+    "text": "📺 Featured In\n\nRevoMap Solutions\nSAIARD Webinar"
+  },
+  {
+    "objectID": "about.html#invited-resource-person",
+    "href": "about.html#invited-resource-person",
+    "title": "About Me",
+    "section": "🎤 Invited Resource Person",
+    "text": "🎤 Invited Resource Person\n\nMaharaja Sriram Chandra Bhanja Deo University\nCenturion University - 10-day online GEE training"
+  },
+  {
+    "objectID": "accessibility.html",
+    "href": "accessibility.html",
+    "title": "Accessibility commitment",
+    "section": "",
+    "text": "Making sure all content I publish on the web is accessible to anyone and everyone is very important to me. While I’m not an expert on web design or accessibility, I am committed to trying my best.\nThis accessibility commitment was adapted from Silvia Canelón’s excellent blog."
+  },
+  {
+    "objectID": "accessibility.html#feedback",
+    "href": "accessibility.html#feedback",
+    "title": "Accessibility commitment",
+    "section": "Feedback",
+    "text": "Feedback\nI welcome any feedback on the accessibility and inclusivity of my site and content. Please let me know if you encounter any accessibility barriers or areas for improvement and I’ll do my best to remedy them."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-practices",
+    "href": "accessibility.html#accessibility-practices",
+    "title": "Accessibility commitment",
+    "section": "Accessibility practices",
+    "text": "Accessibility practices\nThis site has been designed with the following features in mind:\n\nA color palette that meets WCAG 2.1 AA standards for contrast.\nAlternative text for all informative images.\nReadable font faces, specifically to avoid impostor letter shapes and mirroring.\n\nEach character in [iIl], [ceo], and [db qp] should all be distinct from one another.1\nThis site primarily uses Domine for headings, Atkinson Hyperlegible for body text (developed by the Braille Institute), and Fira Code for code.\n\nA table of contents in the sidebars for easier navigation.\n\nI use Google’s Lighthouse accessibility tests to check the accessibility of my website at each deployment. While I would love a perfect score of 100, I commit to a score of at least 80. The Quarto GitHub has quite a few open GitHub issues with accessibility tags that I have no control over."
+  },
+  {
+    "objectID": "accessibility.html#accessibility-tools",
+    "href": "accessibility.html#accessibility-tools",
+    "title": "Accessibility commitment",
+    "section": "Accessibility tools",
+    "text": "Accessibility tools\n\nGoogle Lighthouse Tool\nGoogle Chrome Accessibility Features Reference\nColour Contrast Checker\nViz Palette\nWAVE Web Accessibility Evaluation Tool\nMicrosoft Edge Accessibility Guide"
+  },
+  {
+    "objectID": "accessibility.html#footnotes",
+    "href": "accessibility.html#footnotes",
+    "title": "Accessibility commitment",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAdded the [ceo] and [db qp] tests from Cara Thompson’s amazing data viz design system talk, specifically slide 22: Font inspiration.↩︎"
+  },
+  {
+    "objectID": "blog/2023-12-31_year-of-firsts/index.html",
+    "href": "blog/2023-12-31_year-of-firsts/index.html",
+    "title": "2023: a year of firsts",
+    "section": "",
+    "text": "Celebrating our collective survival\n Getting up and surviving each of the last 365 days is an accomplishment in itself. We’re all still adjusting from the COVID-19 pandemic phase to the endemic phase; dealing with changes from remote to hybrid or in-person work; and coping with the current state of politics, economics, climate disasters, and war. As we reflect on our year, I hope we can honor the lives lost, lessons learned, and feel proud that, despite all that’s wrong in the world, we managed to keep our heads above water.\nFor the last week, I’ve been thinking about my experience through 2023 and been considering writing the cliche end of year review post. It’s 9:09 PM on 123123 and I’ve decided I do want to jot down my reflections – raw and unedited. Typos, rambling, incoherence, and disorganization guaranteed 😉.\n\n\nFrom 2022 to 2023\nThe year started off pretty rough for me. This was my second year in this data scientist role where everything (soil science, data management, programming) was new to me. I was disappointed in myself because I only accomplished about half of my 2022 goals and worried that I was also disappointing my supervisor and colleagues. I was wondering if I made a mistake in this career transition from a field-based environmental scientist to a data scientist. On a daily basis, I really struggled with imposter syndrome and worried that I was holding back these important statewide programs and initiatives because I was slow and needed to learn so much on the job.\n\n\nFirst rejection\nI submitted a talk proposal to present {WaCSE}, my first Shiny app used for a statewide agricultural grant program, at Appsilon’s Shiny Conf. I submitted the abstract at the end of 2022 and got the rejection notice at the end of January 2023. This was my third conference proposal I’ve ever submitted in the four years of my professional career and my first rejection. My learned lesson here was to put more thought into which category I submit to (20-min talk versus showcase section) and make the idea more unique. The feedback from the review committee was that my talk fell under the category “tools to facilitate data access” and there were quite a few of those. This rejection certainly added to my feelings of being an imposter and not deserving my job.\nThough with the support and encouragement of my supervisor, I kept trying and also submitted talk proposals for 2023 Cascadia R Conf and posit::conf(2023).\n\n\nOne project/talk, many firsts\nIn March, things started to look more hopeful as I got my first invitation to speak at an R-Ladies Seattle lightning talk event: R in the Outdoors. This one invitation led to so many of my firsts including my:\n\nfirst invitation to speak\nfirst web scraping project\nfirst R package\nfirst in-person talk\nfirst R-Ladies Seattle event\nfirst Seattle useR group event\n\nWhile these all are huge accomplishments to me, I also realize that it’s totally natural because I am so new to the R and coding space. Nevertheless, April 20, 2023 was a huge day for me as this was the first moment since RStudio::con(2022) that I really felt a sense of belonging in the R community.\n This was also my first in-person talk of my professional career! I used this as an opportunity to learn new skills through a personal project. I’ve always had an affinity for the Southern Resident Killer Whales in the Salish Sea. The Center for Whale Research does a lot of really fascinating and important work monitoring their population. They post their survey data on their website; each encounter with the orcas is a separate webpage. I’d been curious and intimidated by web scraping so I decided this would make a great case study and personal project.\nWith the encouragement from new friends I met at the R-Ladies event, we ended up also going to the Seattle useR Group lightning talks meetup afterwards. I spontaneously gave the same presentation there!\nCheck out the {orcas} package repo and talk materials.\n\n\nFirst WADE (attendance & talk)\n Outside of the R community and moreso in my capacity as the data scientist at the Washington State Department of Agriculture, I was invited to present at the Washington Association of District Employees (WADE). I presented on the Washington Soil Health Initiative and {WaCSE}.\nSee the talk materials.\n\n\nFirst Master of Science degree\nIn August, I graduated from Montana State University’s online Land Resources and Environmental Sciences program with a Master of Science. It took me about three years of part-time school with full-time work to complete this degree. I really enjoyed the online aspect of the program as it allowed me to really focus on what was applicable to my job, rather than rote memorization of lots of content I didn’t really need for my day-to-day work. I am a big proponent of learning how to learn in primary and secondary education [thanks dad for teaching me this mentality ☺️], and then using those learning skills to dive deeper into a domain you want to pursue for postsecondary education.\nFor my professional project (aka the cheaper version of a thesis), I got to learn some JavaScript and Google Earth Engine to model wind-driven soil erosion in Washington State’s Columbia Plateau.\nSee the repo and my presentation recording.\n\n\nFirst Cascadia Conf (attendance & talk)\n Given my rejection for Shiny Conf, I definitely didn’t expect to be accepted for Cascadia R Conf or Posit. I used the lessons from my first proposal and made this proposal more unique by focusing less on the Shiny app as a data access tool, and more on the development process and lessons learned from creating our first Shiny app.\nSee the talk materials.\nThis was my first time attending Cascadia Conf and I’ve got to say that it is an endearing and enlightening experience. It’s more local and tight-knit than RStudio/Posit conf. I appreciated the smaller size, venue, and one track style of conference. I really enjoyed meeting people I’ve known online in person and making entirely new friends and connections. I loved the experience so much that I volunteered to be on the planning committee for 2024 conf! I’ll be working on the hex logo, paper materials, the witty committee to come up with quirky, fun activities, and helping to update the website.\n\n\nFirst Posit Conf talk\n Since I already revised the {WaCSE} Shiny talk from the Appsilon Shiny Conf proposal for Cascadia R Conf, I wanted to submit a different topic just in case. So I decided to try a talk about the parameterized soil health Quarto reports. Getting my talk proposal accepted for posit::conf was probably the most shocking news I had for 2023. The call for proposals required an abstract and a 1-minute video pitching the idea for the talk and what I hope the audience will walk away with. I was incredibly intimidated but the amazing Rachael Dempsey wrote a very encouraging and helpful LinkedIn post for those nervous about the video.\n\n\nRead Rachael’s post\n\n\n\n\nI strongly encourage anyone to submit a talk for next year’s conference in Seattle! You never know if you don’t at least try. Posit provides speaker coaching through Articulation, which is so incredibly helpful for learning how to weave a story into your presentation, even with code-based content.\nSee the talk materials.\n\n\nGeneral thoughts from my four talks this year\nI’ve always been extremely nervous about public speaking. So much anxiety, shaking, sweating, red face, voice cracking, and lightheadedness that I would take propranolol to help. This year I didn’t need it though. I definitely felt nervous and shaky. But not to the same extent. Once I got started presenting, I (for the most part) felt nervous-excited to share whatever I was talking about.\nReflecting on how I felt each talk, I’ve realized that I’m naturally more confident talking about things that I really care about and am professionally and personally invested in. Instead of presenting random research for school projects in my high school and undergraduate classes, I’m presenting projects that I’ve invested dozens of hours in learning, crafting, and perfecting.\n\n\nFirst invitation for a workshop\n After my posit::conf talk, Arati Krishnamoorthy came up to me to congratulate me on my presentation and ask if I was interested in leading a workshop as a longer version of my talk on parameterized Quarto reports. Of course I said yes, even though I’ve never led a workshop before. It’ll be my first first [workshop] of 2024 on January 18th!\nRegister for the R-Ladies Washington D.C. Meetup.\nSo far, I’ve really enjoyed these R focused presentations and teaching. Depending on how the workshop goes, I’m considering applying for The Carpentries Trainer Training Program to better learn how to teach. After all, my husband is an instructional coach (with 5 years of elementary teaching under his belt).\n\n\nFirst personal website and blog\nMillie Symnns wrote a blog post and gave an excellent posit::conf(2023) talk about the side effects of blogging that inspired me to create my own website and blog. Since RStudio::Conf(2022), I’ve been obsessed with Quarto so the technology behind a website and blog obviously had to be Quarto. It was a blast coming back from Posit Conf and immediately applying what I learned to build my own personal portfolio and website.\n\n\nFirst small business - Etsy shop\nAt Cascadia Conf and Posit Conf, I used my Cricut and heat transfer vinyl to create my own cat and code themed shirts to wear as conversation starters. At both conferences, I made new friends because I was approachable and immediately had two common interests to talk about (R and cats 😻). People asked where I got my shirts and encouraged me to make them available. So to spread the joy and allow others to proudly share/wear their interests, I set up a sole proprietorship, started a small business called The Coding Cats, and launched an Etsy shop found at thecodingcats.etsy.com/!\nIn 2024, I hope to move from Etsy to a Shopify store that lives on the The Coding Cats tab of my website to avoid the excessive Etsy fees.\n\n\nFirst freelance job\nLastly, my first freelance job sort of fell into my lap when a friend referred me to one of their colleagues who was looking for someone to convert their RMarkdown website to Quarto. I picked the brain of my friend to learn about freelancing, listened to some episodes of The Business of Authority podcast, decided on project-based billing rather than hourly billing, consulted with the client, wrote up a proposal, and then began the work.\nI actually just finished the next stage of the project earlier today 😀.\nWhile I’m not actively looking for freelance work, I’m happy to entertain the idea and set up a short call to see if I would be a good fit for your project if it involves pretty much anything Quarto.\n\n\nLast thoughts\nI appreciate you sticking through my ramblings (including my future self)!\nThe year started out with imposter syndrome, so much self-doubt, and one rejection. But with the support from my community, I kept on keeping on. My general theme for the year was perseverance through failures and insecurities to finally get to the realization that I’m exactly where I’m supposed to be. I’m learning as I go, and that’s perfectly okay! My learning directly feeds into my sense of belonging within the R community. This community is so amazing at lifting each other up as we all learn together and support each other. We’re all collectively trying to use the latest technologies and best practices to gain insights from our data and make the world a better place.\nHere’s to 2024 being another year of learning, being vulnerable, and lifting each other up!\n\n\n\n\nCitationBibTeX citation:@online{ryan2023,\n  author = {Ryan, Jadey},\n  title = {2023: A Year of Firsts},\n  date = {2023-12-31},\n  url = {https://jadeyryan.com/blog/2023-12-31_year-of-firsts/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2023. “2023: A Year of Firsts.” December 31,\n2023. https://jadeyryan.com/blog/2023-12-31_year-of-firsts/."
+  },
+  {
+    "objectID": "blog/2024-01-22_package-review/index.html",
+    "href": "blog/2024-01-22_package-review/index.html",
+    "title": "Notes from live code review of {soils}",
+    "section": "",
+    "text": "First off, I want to say that I’m strongly resisting my perfectionism and time-blocked this blog post to about one hour! This is a very vulnerable and unpolished post, so please be gentle. 😌\nA couple days ago, three ✨expert✨ R package developers and reviewers looked at my package:\nThe idea to livestream a R package review came from Nick Tierney. Others favorited, boosted, and commented on the Mastodon post, including myself. I’ve been working on this {soils} R package and am in the review/revise period of package development. Before I could get second thoughts, I volunteered this package for review. I was quite nervous about putting my work out there for critique, but I’m so happy that I did. And so grateful that Nick, Miles, and Adam all shared their brilliance! 🧠😇\nI’ve re-watched the session a few times to soak up all the gold nuggets of good practices, tips and tricks, and overall understanding of the package review process. Below, I’ve included the recording of the session, bullet point summaries of what I learned, what I did well, and what I can improve, and then my unpolished and mostly disorganized notes.\nIf you just want to see what changes Nick suggested, see his pull request with suggestions/changes.\nPlease comment and let me know if you learned something new, or if you see something else I can improve in my package development journey!"
+  },
+  {
+    "objectID": "blog/2024-01-22_package-review/index.html#recording-of-live-code-review-session",
+    "href": "blog/2024-01-22_package-review/index.html#recording-of-live-code-review-session",
+    "title": "Notes from live code review of {soils}",
+    "section": "Recording of live code review session",
+    "text": "Recording of live code review session"
+  },
+  {
+    "objectID": "blog/2024-01-22_package-review/index.html#new-tips-and-tricks-i-learned",
+    "href": "blog/2024-01-22_package-review/index.html#new-tips-and-tricks-i-learned",
+    "title": "Notes from live code review of {soils}",
+    "section": "New tips and tricks I learned",
+    "text": "New tips and tricks I learned\n\nUse goodpractice::gp() to run a check for many good practices in R package development.\n{cli} has special inline markup classes.\n// to add a new line in {cli} message. I bet this works with other long string arguments as well.\nusethis::use_package_doc() generates basic package-level documentation.\nMenu to open file or function: Ctrl + ."
+  },
+  {
+    "objectID": "blog/2024-01-22_package-review/index.html#things-i-did-well",
+    "href": "blog/2024-01-22_package-review/index.html#things-i-did-well",
+    "title": "Notes from live code review of {soils}",
+    "section": "Things I did well",
+    "text": "Things I did well\n\nTime and effort to make the user experience (UX) good: video demos, boxes and annotations for videos and screenshots, {pkgdown} website with detailed articles\nDefensive programming: failing early and giving error messages\nUsing functions like cat_red_bullet and cet_green_check to set nice, informative {cli} message symbols\nConsistent styling with {grkstyle}\nIncluding a URL reference to the exact commit of functions adapted from other packages\nIncluding data dictionary was nice.\nGenerating example data from an R script to make it possible to reproduce."
+  },
+  {
+    "objectID": "blog/2024-01-22_package-review/index.html#things-to-improve",
+    "href": "blog/2024-01-22_package-review/index.html#things-to-improve",
+    "title": "Notes from live code review of {soils}",
+    "section": "Things to improve",
+    "text": "Things to improve\n\nHuge package size (not a big deal since using R-Universe instead of CRAN)\nIncorporate testing\nError messages: take advantage of {cli} inline markup, provide an example of what the code should look like, tell the user if they need to provide something rather than say something is missing\nBetter use explaining variables in conditional statements to unravel confusing ifelse logic.\nMore consistency with approaches / utilities: base R or tidyverse\nNaming things is so hard! Mixing snake_case and camelCase in the example data and data dictionary.\n\nThings to look into: comments responding to Ben Bolker’s Mastodon post, Shannon Pileggi’s post, Emily Riederer’s post, data.table::setattr(), and {units} thanks to Michael McCarthy.\n\nBe more descriptive with example data: call it washi_example instead of exampleData and include data viz.\nInvestigate ggtern overwriting ggplot2 S3 methods warning more closely, resolve or rethrow more helpful warning text instead of using suppressWarnings().\nWrite better commit messages following the template: “this commit will…” and use headlines and bullet points."
+  },
+  {
+    "objectID": "blog/2024-01-22_package-review/index.html#notes",
+    "href": "blog/2024-01-22_package-review/index.html#notes",
+    "title": "Notes from live code review of {soils}",
+    "section": "Notes",
+    "text": "Notes\nThere are lots of notes of things Nick would wanted to “get to later” but we ran out of time. I left these notes in just to draw attention to other things we would have looked at more closely given more time.\n\nLook at the GitHub repo.\nAbout: provides context, a few features, and link to website.\nWebsite: video demos in README and main page of website\n\nAuthor cares about UX and make it easy to understand what the benefit of the package\nTaking time to add boxes and annotations to videos and screenshots really helpful.\nEmpathy for R users who haven’t been using R for very long. Videos help take the user’s hand and walk them through it.\n\nArticles: will get to later.\n\nRepo and website gives trust that the author wants the pkg to be easily usable and understandable.\n\n\n\nFork the package and copy to machine\nUsed RStudio with New Project from Version Control.\nTook a long time to clone. Not a big deal unless want the pkg on CRAN. Will get to later.\n\nLarge R package. Likely from the example .docx and .html reports that are included.\n\nLook at README to see where video demos came from. Uses GitHub assets, so not included in pkg download. See how to do this in GitHub’s video.\n\n\nCreate new branch for changes/suggestions.\n\n\nRun goodpractice::gp()\nNick’s experience as ROpenSci pkg reviewer to run this static analysis on the code. Makes markers for things that are easy to fix in the pkg.\n{goodpractice} repo\nRun devtools::install_dev_deps() to install everything for the pkg.\nMarkers:\n\nCode lines that are &gt; 80 characters long.\nNo tests\n\nTests are hard. Not sure how to do this with a project template based pkg. Will get back to this.\nMiles: “Yeah so I think testing is hard here because the RStudioApi shows up pretty early in the workflow. To make things easier you could try to separate out as much possible work that can be done without it. then you contain the RStudioAPI stuff in a thin wrapper that wraps the functions that do the work. you can test the ‘do the work’ functions. although it does appear the API is made optional!”\nAdam: “You can use tempdir() as in your example for create_soils() and just check that the directories exists in tempdir() and are created as you expect.”\nMiles: “yeah or maybe there’s a way to make the test for the RStudio API return false in non interactive mode. so put in && interactive() there. then you can run your tests inside RStudio without hitting the API branch.”\nAdam: “I could see writing tests to circumvent the API would be useful, perhaps you could use it as a basis for automating a scripted setup that wasn’t interactive?”\n\nUTF-8 strings? not sure how to fix\nBig installation size\n\nAdam: “Size isn’t a big issue if you don’t plan to put it on CRAN”\n\nNot big deal breakers\n\n\n\nLook through .R files\n\ncreate_soils.R\n\nroxygen function documentation\n\n@examples: how would you use this? Create a soils project like a template R package in the given directory.\n\nFunction definition\n\nNice defensive programming with missing path giving error.\n\nError messages\n\nImprovement: use inline markup syntax in {cli} instead of back ticks for code. Instead of \"`path` is missing.\", use \"{.code path} is missing.\"\nAll classes are in inline-markup of {cli}\nChanged \"{.code path} is missing.\" → \"{.path path} is missing.\"\nKeyboard shortcut Ctrl+Shift+L to call devtools::load_all(\".\").\n\nGot message about ggtern overwriting ggplot2 S3 methods. Come back to this later.\n\nRan create_soils() with path missing to see error. This opened in Browser/debug mode.\nImprovement: add another info message with example:\n\"i\" = \"For example, {.code create_soils('path/to/my/directory')}\"\nRe-ran interactively to see updated error msg. Nice to not worry about including back ticks.\nImprovement: can render the actual path by wrapping it in another pair of curly braces like: \"{.path {path}} already exists.\".\nImprovement: add another info message with example and use \\\\ to create a new line:\n\"i\" = \"To always overwrite: \\\\  \n{.code create_soils({.path {path}} overwrite = TRUE)}\"\nLiked cat_red_bullet a lot. Defined in utils.R\n\nRecommend interactive process\n\nTweak something, load the pkg (load_all), then play around in the console.\n\nLogic of function\n\nif (!isTRUE(overwrite)):\n\nCould have used if (isFALSE(overwrite)) but good practice to leave it as is since overwrite is user-defined\n\nToo much ifelse nesting. Referred to Jenny Bryan’s Code Smells talk.\n\nImprovement: prioritize happy path. Failing early is good. Extract conditions into explaining variables (dir_exists and overwriting). Then use 3 if statements to emphasize each individual case:\n\nif (dir_exists && !overwriting) {...}\nif (dir_exists && overwriting) {...} good to inform user of overwriting existing project\nif (!dir_exists) {...}\n\n\nWould run {grkstyle} at this point after a chunk of refactoring if Nick had it installed.\nCould consider wrapping each case into a function itself like stop_if_dir_exists_and_overwriting(dir_exists, overwriting) {...} to capture the intent. Reduces lines of code. Not a believer of just reducing lines of code. But is believer of writing functions to express yourself. Makes it eaier to browse through the code and maintain later. Nick’s blog post of these thoughts.\nsoils_sys() in utils.R: really liked the fixed blob URL for the exact commit in {golem} for code reference.\n\nCode style\n\nMiles: “Things are looking pretty clean. Did you use {styler} along the way?”.\n\nI used {grkstyle} from Garrick Aden-Buie.\n\nMiles: “One comment I would make having looked around a bit, which is visible here. There are some mixing of approaches / utilities. E.g. base::normalizePath shows up alongside fs:: stuff.”\n\nMiles: “I think it’s safer to keep within one tool’s conception of how things are, otherwise subtle differences in underlying objects / assumptions can create edge cases where things break”\nMiles: “fs::path_norm and fs::path_real are worth a look”\nLooked at what normalizePath() does with ?normalizePath\n\nWas going to rewrite it, but doesn’t fully understand so will leave it.\n\n\n\n\n\n\ndata.R\n\nDidn’t like mix of snake_case and camelCase. If this is a norm in the community, that’s okay.\n\nAdam: “I picked this up too,the functions and some data are snake case but some data are camel case. I’d be consistent for myself and users. For better or worse, I tend to use”.” For separators with units in colnames.”\nMiles: “put units in brackets so you regex them out? or maybe a better engineer would suggest storing them as attributes. Or you have vectors of objects with units if they’re really important to calculations. Oooh oooh {roxyglobals}”\nAdam: “Most times in my work the units aren’t important for calculations but for knowing how it was recorded”\nNaming things and units are hard. I use camel case to delineate words and underscores to separate soil health measurement from the unit. The underscores make pivoting easier.\n\nImprovement: instead of calling it exampleData, call it something more descriptive like washi_example.\nImprovement: add example table or data viz to show some of things I care about.\nData dictionary is really nice: shows what the columns are and what they mean.\nCan quickly normalize names with janitor::clean_names().\n\n\n\ndata-raw/example_data.R\n\nGreat to have this included so it’s possible to reproduce the example data. Good signals that I care about this.\n\n\n\nglobals.R\n\nAvoids CRAN check issue.\nImprovement: usethis::use_package_doc() creates a soils-package.R file.\n\nCould move utils::globalVariables() into this file and remove globals.R. Having globals in own R file is fine. Actually kinda like it there.\nLook at dplyr or narniar for examples.\nInclude if(getRversion() &gt;= \"2.15.1\")  utils::globalVariables(c(\".\")) in soils-package.R with globals. Not sure if this is needed?\n\n\n\n\nhelpers.R\n\ncalculate_mode(): R doesn’t include mode function.\n\nAdam: “Oh! Watch the mode. I’ll check your function in a bit, but I’ve a function that allows you to handle multimodal distributions if you’d like. I got burned by my initial function to calculate mode. OK, you’ve got the max. That’s good. I don’t recall what I did first off but I would get the max or min from a multimodal distribution, so I wrote this [function] that handles multimodal distributions”\n\nNoticed use of base pipe.\n\nUpdated DESCRIPTION to depend on R ≥ 4.1.\nFancy triangle ligature from FiraCode-Light\n\nRunning out of time so super quick review\n\n\n\nplots.R\n\nInterested in the S3 methods overwritten by ggtern warning. Indicates something is going on but not sure what.\nOptional: instead of namespacing ggplot2::, can add #' @import ggplot2 to the soils-package.R which is kinda like running library(ggplot2).\nReally likes consistent styling. Makes code easy to read. Can turn off parts of brain to focus on various things.\nDoesn’t have time to confidently to go through plotting code.\nMiles: “I’d like to hear Dr Nick’s opinion on plots.R line 22”\n\nsuppressWarnings wrapped around make_texture_triangle {ggplot2} code.\nNot sure why suppressing warnings. Add comment at closing parentheses. No warnings when Nick ran the function example.\nMiles: “You can even catch and rethrow with more relevant text if that would be helpful to people”\n\n\n\n\n\nVignettes\nLook at get-started.Rmd to understand if it’s all point and click or if there’s code to run:\n\nInstallation: using r-universe (project by ROpenSci), like an alternative to CRAN. Shows author cares about user.\nSee Option 2: RStudio Console\n\nProject structure tree: great and takes time\nFrom annotated screenshots, strong effort to make this easily usable\n\n\nBack to R code: create_soils() in create_soils.R\n\n\nBuild pkg and create soils project\nFollow the point and click instructions for install {soils} with RStudio new project wizard.\n\n\nTesting\nusethis::use_testthat()\nusethis::use_test(\"create-soils\") to create test-create-soils.R template to modify.\n\nLikes dashes over underscores for file names to make it easier to mouse across when holding Alt (1:07:06 timestamp for demoing this). If using underscores, it jumps to the very end.\n\ntest_that(\"create_soils returns appropriate error\", {\n  expect_snapshot_error(\n    create_soils()\n  )\n})\nRunning it once took a snapshot of the error message, which got saved in tests/testthat/_snaps/create-soils.md.\nRunning it again shows the test passed.\nChanged \"`path` is missing.\" → \"{.path path} must be provided.\".\n\nTells user you must provide the path. You need to do this thing.\n\nRun test again. It says the message has changed.\nClick testthat::snapshot_review('create-soils') to interactively review this change.\nShows the diff, which is what we want. Click Accept.\nGood for snapshotting errors and outputs!\n\n\nCommit, push, PR\nCommitted each individual change one at a time with descriptive commit messages.\nWrite commit messages following this template:\n\n[this commit will]… * use tests and snapshot testing\n[this commit will]… * depend on R 4.1.0 since |&gt; is used\n\nThen add a summary headline:\n\nTests, snapshots, base pipe:\n\nAll together, the commit message:\nTests, snapshots, base pipe:\n* use tests and snapshot testing\n* depend on R 4.1.0 since |&gt; is used\nCredit to Adam Brewer (spelling?) for this commit message template of “This commit will…” to remember what he commit does.\nCredit to Miles for idea of using the header and dot points.\nPush then submit PR with suggestions/changes!"
+  },
+  {
+    "objectID": "blog/2024-08-20_posit-quarto-params/index.html",
+    "href": "blog/2024-08-20_posit-quarto-params/index.html",
+    "title": "Automating Quarto reports with parameters",
+    "section": "",
+    "text": "Read the post on the Posit blog!"
+  },
+  {
+    "objectID": "blog/2024-11-29_code-editor-vs--python--choosing-the-best-environment-for-google-earth-engine--gee/index.html",
+    "href": "blog/2024-11-29_code-editor-vs--python--choosing-the-best-environment-for-google-earth-engine--gee/index.html",
+    "title": "Code Editor vs. Python: Choosing the Best Environment for Google Earth Engine (GEE)",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 4 min read\nWhen working with Google Earth Engine (GEE), developers have two primary environments to choose from: the Code Editor (JavaScript) and the Python envi\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Code {Editor} Vs. {Python:} {Choosing} the {Best}\n    {Environment} for {Google} {Earth} {Engine} {(GEE)}},\n  date = {2024-11-29},\n  url = {https://jadeyryan.com/blog/2024-11-29_code-editor-vs--python--choosing-the-best-environment-for-google-earth-engine--gee/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Code Editor Vs. Python: Choosing the\nBest Environment for Google Earth Engine (GEE).” November 29,\n2024. https://jadeyryan.com/blog/2024-11-29_code-editor-vs--python--choosing-the-best-environment-for-google-earth-engine--gee/."
+  },
+  {
+    "objectID": "blog/2024-12-03_how-to-use-functions-in-google-earth-engine--a-step-by-step-guide-for-beginners/index.html",
+    "href": "blog/2024-12-03_how-to-use-functions-in-google-earth-engine--a-step-by-step-guide-for-beginners/index.html",
+    "title": "How to Use Functions in Google Earth Engine: A Step-by-Step Guide for Beginners",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nGoogle Earth Engine (GEE) is a powerful tool for planetary-scale environmental data analysis, and functions play a central role in writing scripts wit\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {How to {Use} {Functions} in {Google} {Earth} {Engine:} {A}\n    {Step-by-Step} {Guide} for {Beginners}},\n  date = {2024-12-03},\n  url = {https://jadeyryan.com/blog/2024-12-03_how-to-use-functions-in-google-earth-engine--a-step-by-step-guide-for-beginners/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “How to Use Functions in Google Earth\nEngine: A Step-by-Step Guide for Beginners.” December 3, 2024. https://jadeyryan.com/blog/2024-12-03_how-to-use-functions-in-google-earth-engine--a-step-by-step-guide-for-beginners/."
+  },
+  {
+    "objectID": "blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/index.html",
+    "href": "blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/index.html",
+    "title": "Google Earth Engine: A Paradigm Shift for Geography Research",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nIn the ever-evolving landscape of geographic information systems (GIS) and remote sensing, Google Earth Engine (GEE) has emerged as a powerful tool th\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Google {Earth} {Engine:} {A} {Paradigm} {Shift} for\n    {Geography} {Research}},\n  date = {2024-12-07},\n  url = {https://jadeyryan.com/blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Google Earth Engine: A Paradigm Shift\nfor Geography Research.” December 7, 2024. https://jadeyryan.com/blog/2024-12-07_google-earth-engine--a-paradigm-shift-for-geography-research/."
+  },
+  {
+    "objectID": "blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/index.html",
+    "href": "blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/index.html",
+    "title": "Image Statistics with Google Earth Engine: A Step-by-Step Guide",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\n(Mean, Median, Mode, SD, CV, P25, P75 etc.) As remote sensing and geospatial analysis become increasingly important in various fields, tools like Goog\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Image {Statistics} with {Google} {Earth} {Engine:} {A}\n    {Step-by-Step} {Guide}},\n  date = {2024-12-11},\n  url = {https://jadeyryan.com/blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Image Statistics with Google Earth\nEngine: A Step-by-Step Guide.” December 11, 2024. https://jadeyryan.com/blog/2024-12-11_image-statistics-with-google-earth-engine--a-step-by-step-guide/."
+  },
+  {
+    "objectID": "blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/index.html",
+    "href": "blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/index.html",
+    "title": "Sentinel-1 SAR Data Pre-processing in Google Earth Engine (GEE)",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 3 min read\nIn the realm of geospatial data analysis, preprocessing of Synthetic Aperture Radar (SAR) data is a crucial step. This article provides a brief overvi\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Sentinel-1 {SAR} {Data} {Pre-processing} in {Google} {Earth}\n    {Engine} {(GEE)}},\n  date = {2024-12-15},\n  url = {https://jadeyryan.com/blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Sentinel-1 SAR Data Pre-Processing in\nGoogle Earth Engine (GEE).” December 15, 2024. https://jadeyryan.com/blog/2024-12-15_sentinel-1-sar-data-pre-processing-in-google-earth-engine--gee/."
+  },
+  {
+    "objectID": "blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/index.html",
+    "href": "blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/index.html",
+    "title": "Large Scale Climatic Data Analysis using xee and xarray with Google Earth Engine",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 2 min read\nIn this article, we’ll explore how to leverage GEE along with Python libraries like xarray and xee to perform large-scale climatic data analysis. Clim\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Large {Scale} {Climatic} {Data} {Analysis} Using Xee and\n    Xarray with {Google} {Earth} {Engine}},\n  date = {2024-12-19},\n  url = {https://jadeyryan.com/blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Large Scale Climatic Data Analysis Using\nXee and Xarray with Google Earth Engine.” December 19, 2024. https://jadeyryan.com/blog/2024-12-19_large-scale-climatic-data-analysis-using-xee-and-xarray-with-google-earth-engine/."
+  },
+  {
+    "objectID": "blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/index.html",
+    "href": "blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/index.html",
+    "title": "Glimpse of the 10-Day Online Google Earth Engine (GEE) Training Sessions🗺️",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 1 min read\nSuccessfully Concluded! - 10-Day Online Google Earth Engine (GEE) Training. Delighted to share a few glimpses from the recently concluded 10-day Googl\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Glimpse of the {10-Day} {Online} {Google} {Earth} {Engine}\n    {(GEE)} {Training} {Sessions🗺️}},\n  date = {2024-12-23},\n  url = {https://jadeyryan.com/blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Glimpse of the 10-Day Online Google\nEarth Engine (GEE) Training Sessions🗺️.” December 23, 2024. https://jadeyryan.com/blog/2024-12-23_glimpse-of-the-10-day-online-google-earth-engine--gee--training-sessions/."
+  },
+  {
+    "objectID": "blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/index.html",
+    "href": "blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/index.html",
+    "title": "Pixel to Policy: Administrative Boundary wise Spatial Data Analysis in Google Earth Engine",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 4 min read\nMapping climate, environmental, biophysical, geophysical, and land use/land cover (LULC) variables to administrative boundaries — rather than using ra\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Pixel to {Policy:} {Administrative} {Boundary} Wise {Spatial}\n    {Data} {Analysis} in {Google} {Earth} {Engine}},\n  date = {2024-12-27},\n  url = {https://jadeyryan.com/blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Pixel to Policy: Administrative Boundary\nWise Spatial Data Analysis in Google Earth Engine.” December 27,\n2024. https://jadeyryan.com/blog/2024-12-27_pixel-to-policy--administrative-boundary-wise-spatial-data-analysis-in-google-earth-engine/."
+  },
+  {
+    "objectID": "blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/index.html",
+    "href": "blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/index.html",
+    "title": "Automating InVEST Data Preparation with Google Earth Engine",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 4 min read\nThe InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) Carbon Storage and Sequestration model is a cornerstone tool for conservation pl\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2024,\n  author = {Pradhan, Pulakesh},\n  title = {Automating {InVEST} {Data} {Preparation} with {Google}\n    {Earth} {Engine}},\n  date = {2024-12-31},\n  url = {https://jadeyryan.com/blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2024. “Automating InVEST Data Preparation with\nGoogle Earth Engine.” December 31, 2024. https://jadeyryan.com/blog/2024-12-31_automating-invest-data-preparation-with-google-earth-engine/."
+  },
+  {
+    "objectID": "blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/index.html",
+    "href": "blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/index.html",
+    "title": "Advanced GIS & Remote Sensing for College Students—Simplified by Google Earth Engine AI Assistant",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 4 min read\nNo Coding? No Problem! Unlock Powerful Geospatial Analysis with the AI-Powered GEE Assistant AI : A New Era in Geospatial Education Remote sensing and\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Advanced {GIS} \\& {Remote} {Sensing} for {College}\n    {Students—Simplified} by {Google} {Earth} {Engine} {AI} {Assistant}},\n  date = {2025-01-04},\n  url = {https://jadeyryan.com/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Advanced GIS & Remote Sensing for\nCollege Students—Simplified by Google Earth Engine AI Assistant.”\nJanuary 4, 2025. https://jadeyryan.com/blog/2025-01-04_advanced-gis---remote-sensing-for-college-students-simplified-by-google-earth-engine-ai-assistant/."
+  },
+  {
+    "objectID": "blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/index.html",
+    "href": "blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/index.html",
+    "title": "Google AlphaEarth: All-in-One Optical, Radar, and LiDAR Embeddings at 10m Resolution",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 7 min read\nGoogle’s recently launched Satellite Embedding dataset represents a paradigm shift in how we approach geospatial analysis and Earth observation. Power\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {Google {AlphaEarth:} {All-in-One} {Optical,} {Radar,} and\n    {LiDAR} {Embeddings} at 10m {Resolution}},\n  date = {2025-01-08},\n  url = {https://jadeyryan.com/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “Google AlphaEarth: All-in-One Optical,\nRadar, and LiDAR Embeddings at 10m Resolution.” January 8, 2025.\nhttps://jadeyryan.com/blog/2025-01-08_google-alphaearth--all-in-one-optical--radar--and-lidar-embeddings-at-10m-resolution/."
+  },
+  {
+    "objectID": "blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html",
+    "href": "blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/index.html",
+    "title": "NASA’s PACE Hyperspectral Data Now Accessible in Google Earth Engine",
+    "section": "",
+    "text": "by Pulakesh Pradhan • 7 min read\nNASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, launched on February 8, 2024, represents a big leap in Earth observation technology\n\nRead the full article\nContent placeholder - originally from LinkedIn\n\n\n\n\nCitationBibTeX citation:@online{pradhan2025,\n  author = {Pradhan, Pulakesh},\n  title = {NASA’s {PACE} {Hyperspectral} {Data} {Now} {Accessible} in\n    {Google} {Earth} {Engine}},\n  date = {2025-01-10},\n  url = {https://jadeyryan.com/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nPradhan, Pulakesh. 2025. “NASA’s PACE Hyperspectral Data Now\nAccessible in Google Earth Engine.” January 10, 2025. https://jadeyryan.com/blog/2025-01-10_nasa-s-pace-hyperspectral-data-now-accessible-in-google-earth-engine/."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Articles & Publications",
+    "section": "",
+    "text": "Explore my latest research papers, tutorials, and articles on Geospatial Intelligence.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCreate your own custom {ggplot2} theme\n\n\n\nggplot2\n\nData visualization\n\n\n\nA guest post on R for the Rest of Us’s blog about creating a custom {ggplot2} theme function.\n\n\n\n\n\nApr 3, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nNASA’s PACE Hyperspectral Data Now Accessible in Google Earth Engine\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nNASA’s Plankton, Aerosol, Cloud, ocean Ecosystem (PACE) satellite, launched on February 8, 2024, represents a big leap in Earth observation technology\n\n\n\n\n\nJan 10, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nAutomate file management in R with the {fs} package\n\n\n\nfs\n\nFile management\n\n\n\nA guest post on R for the Rest of Us’s blog about automating file management with the {fs} package.\n\n\n\n\n\nJan 9, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGoogle AlphaEarth: All-in-One Optical, Radar, and LiDAR Embeddings at 10m Resolution\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nGoogle’s recently launched Satellite Embedding dataset represents a paradigm shift in how we approach geospatial analysis and Earth observation. Power\n\n\n\n\n\nJan 8, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGEE to Python/R: Instantly convert JavaScript to Python (.ipynb) or R (rgee) with GEE AI Assistant\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nThe Google Earth Engine (GEE) platform has transformed geospatial analysis by offering access to planetary-scale satellite imagery and a powerful clou\n\n\n\n\n\nJan 6, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nAdvanced GIS & Remote Sensing for College Students—Simplified by Google Earth Engine AI Assistant\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nNo Coding? No Problem! Unlock Powerful Geospatial Analysis with the AI-Powered GEE Assistant AI : A New Era in Geospatial Education Remote sensing and\n\n\n\n\n\nJan 4, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nIntroducing ‘Google Earth Engine AI Assistant’ - Your AI-Powered Coding Partner\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nEasily analyze and visualize Google Earth Engine (GEE) datasets by just typing messages — no coding knowledge required. Geospatial analysis is integra\n\n\n\n\n\nJan 2, 2025\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nAutomating InVEST Data Preparation with Google Earth Engine\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nThe InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) Carbon Storage and Sequestration model is a cornerstone tool for conservation pl\n\n\n\n\n\nDec 31, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nInteractive Spectral Reflectance Curve Generator\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nThe Sentinel-2 Based Interactive Spectral Reflectance Curve Generator is a web-based geospatial application built on Google Earth Engine. It allows us\n\n\n\n\n\nDec 29, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nPixel to Policy: Administrative Boundary wise Spatial Data Analysis in Google Earth Engine\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nMapping climate, environmental, biophysical, geophysical, and land use/land cover (LULC) variables to administrative boundaries — rather than using ra\n\n\n\n\n\nDec 27, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGoogle Earth Engine in JavaScript, Python and R\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nGoogle Earth Engine (GEE) has transformed the way we access and analyze enormous volumes of geospatial data. This cloud-based platform provides users Google Earth Engine (GEE) has transformed the way we access and analyze enormous volumes of geospatial data. This cloud-based platform provides users\n\n\n\n\n\nDec 25, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGlimpse of the 10-Day Online Google Earth Engine (GEE) Training Sessions🗺️\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nSuccessfully Concluded! - 10-Day Online Google Earth Engine (GEE) Training. Delighted to share a few glimpses from the recently concluded 10-day Googl\n\n\n\n\n\nDec 23, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nAdvanced Time Series Analysis with Google Earth Engine and Python Libraries\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nThis guide shows how to extract time series data from Google Earth Engine (GEE) and analyze it with Python. I cover time series plotting, seasonal dec\n\n\n\n\n\nDec 21, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nLarge Scale Climatic Data Analysis using xee and xarray with Google Earth Engine\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nIn this article, we’ll explore how to leverage GEE along with Python libraries like xarray and xee to perform large-scale climatic data analysis. Clim\n\n\n\n\n\nDec 19, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nBasic Understanding of Sentinel-1 SAR Data\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nWhat is SAR Data? Synthetic Aperture Radar (SAR) is a type of active data collection where a sensor produces its own energy and then records the amoun\n\n\n\n\n\nDec 17, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nSentinel-1 SAR Data Pre-processing in Google Earth Engine (GEE)\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nIn the realm of geospatial data analysis, preprocessing of Synthetic Aperture Radar (SAR) data is a crucial step. This article provides a brief overvi\n\n\n\n\n\nDec 15, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nImport IMD Gridded Rainfall Data in Google Earth Engine using Google Colab (imdlib) & Code Editor\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nI will demonstrate the steps to download the Indian Meteorological Department (IMD) Gridded Rainfall data as a GeoTIFF (.tif) file using imdlib (pytho\n\n\n\n\n\nDec 13, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nImage Statistics with Google Earth Engine: A Step-by-Step Guide\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\n(Mean, Median, Mode, SD, CV, P25, P75 etc.) As remote sensing and geospatial analysis become increasingly important in various fields, tools like Goog\n\n\n\n\n\nDec 11, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nServer-Side vs Client-Side Objects in Google Earth Engine\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nGoogle Earth Engine (GEE) is a cloud-based platform that provides a massive catalogue of satellite imagery and geospatial datasets, along with powerfu\n\n\n\n\n\nDec 9, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nGoogle Earth Engine: A Paradigm Shift for Geography Research\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nIn the ever-evolving landscape of geographic information systems (GIS) and remote sensing, Google Earth Engine (GEE) has emerged as a powerful tool th\n\n\n\n\n\nDec 7, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nModule Programming Concept in Google Earth Engine Code Editor\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nGoogle Earth Engine (GEE) introduced a module system to simplify the organization, reuse, and sharing of code. In this article, I will build a complet\n\n\n\n\n\nDec 5, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nHow to Use Functions in Google Earth Engine: A Step-by-Step Guide for Beginners\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nGoogle Earth Engine (GEE) is a powerful tool for planetary-scale environmental data analysis, and functions play a central role in writing scripts wit\n\n\n\n\n\nDec 3, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nIMD Temperature Data Interpolation in Google Earth Engine\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nTo perform spatial interpolation using kriging for temperature data in Google Earth Engine (GEE), let’s break down this script, step by step. This app\n\n\n\n\n\nDec 1, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nCode Editor vs. Python: Choosing the Best Environment for Google Earth Engine (GEE)\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nWhen working with Google Earth Engine (GEE), developers have two primary environments to choose from: the Code Editor (JavaScript) and the Python envi\n\n\n\n\n\nNov 29, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nUpload OpenStreetMap (OSM) data into Google Earth Engine (GEE)\n\n\n\nGoogle Earth Engine\n\nGeospatial\n\nTutorial\n\n\n\nIn this article, I will explore how to integrate OpenStreetMap (OSM) data with Google Earth Engine (GEE) to visualize geospatial features—for example In this article, I will explore how to integrate OpenStreetMap (OSM) data with Google Earth Engine (GEE) to visualize geospatial features—for example\n\n\n\n\n\nNov 27, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nAutomating Quarto reports with parameters\n\n\n\nQuarto\n\nParameterized reports\n\n\n\nA guest post on Posit’s blog about automating reports using Quarto and parameters.\n\n\n\n\n\nAug 20, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\nA beginner’s guide to building a simple website with Quarto & Netlify\n\n\n\nQuarto\n\nNetlify\n\n\n\nLearn how to create a simple website without any technical knowledge using Quarto’s visual editor and deploy it effortlessly with Netlify’s drag and drop tool.\n\n\n\n\n\nFeb 19, 2024\n\n17 min\n\n\n\n\n\n\n\n\n\n\n\nNotes from live code review of {soils}\n\n\n\nR\n\nQuarto\n\nPackage dev\n\nCode review\n\nReflection\n\n\n\nUnpolished notes and reflections from having a package reviewed in a livestream.\n\n\n\n\n\nJan 22, 2024\n\n15 min\n\n\n\n\n\n\n\n\n\n\n\nAgricultural drought monitoring using Google Earth Engine\n\n\n\nResearch\n\nGEE\n\nDrought\n\n\n\nA study of Paschim Medinipur district, West Bengal, assessing precipitation variability and drought indices using GEE.\n\n\n\n\n\nJan 1, 2024\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n2023: a year of firsts\n\n\n\nReflection\n\n\n\nReview the year of many firsts, cope with insecurity, and develop a sense of belonging.\n\n\n\n\n\nDec 31, 2023\n\n11 min\n\n\n\n\n\n\n\n\n\n\n\nIntermediate guide to publish a Quarto website with GitHub & Netlify\n\n\n\nR\n\nQuarto\n\nGitHub\n\nNetlify\n\n\n\nLearn how to publish a Quarto website, connect it to GitHub, & deploy it with Netlify using continuous integration.\n\n\n\n\n\nNov 19, 2023\n\n23 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "I am always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\n\n\npulakesh.mid@gmail.com\n\n\n\n+91 8617812861\n\n\n\nDepartment of Geography\nRavenshaw University, Cuttack, Odisha, India"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact Us",
+    "section": "",
+    "text": "I am always open to collaboration, consulting, or general queries regarding geospatial analysis and Google Earth Engine.\n\n\npulakesh.mid@gmail.com\n\n\n\n+91 8617812861\n\n\n\nDepartment of Geography\nRavenshaw University, Cuttack, Odisha, India"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Washington State Department of Agriculture\n\n\nData Scientist Jan 2022 – Present\n\nCollect and process soil and climate data from diverse sources to compile in a statewide soil health database using Kisters WISKI software.\nUse R, Python, and ArcGIS to develop data collection and decision support tools such as R Shiny web applications and ArcGIS field maps, dashboards, and Experience Builder web applications.\nUse GitHub for version control and to promote open access data and code.\nCollaborate with the Soil Health team to develop standard operating procedures (SOPs) and a quality assurance project plan to establish a soil health monitoring program.\nCreate training videos for R packages and ArcGIS spatial data collection tools that I developed.\nCoordinate and facilitate meetings with intra- and inter- agency partners and stakeholders.\n\n\n\n\nJadey standing in a field with a soil sampling probe.\n\n\nEnvironmental Specialist Jun 2020 – Jan 2022\nIn addition to duties as Environmental Technician:\n\nContributed data analysis, writing, and editing to the annual fact sheets and technical report.\nCollaborated with the Surface Water Monitoring Program team to improve standard operating procedures and quality assurance project plan.\nProvided administrative support for timekeeping, purchasing, and travel.\nSupported planning for the Washington Soil Heath Initiative and Sustainable Farms and Fields grant program during the COVID-19 hiring freeze.\n\nRead this blog post, written by yours truly, to learn more about the Washington Soil Health Initiative.\n\n\n\n\n\n\n\nSoil sampling kits for distribution to conservation districts across the state.\n\n\nEnvironmental Technician Jun 2019 – May 2020\n\nCalibrated a water quality sonde and prepared chain of custodies and sample labels.\nCollected water samples from salmonid-bearing wadable streams for pesticide analysis and measured streamflow using an electromagnetic current meter.\nPerformed quality assurance checks on data each week after sampling.\n\nRead this blog post for a recount of what a site visit looks like, including pictures!\n\n\n\n\n\n\n\nJadey Ryan measures stream flow while Katie Noland records the data.\n\n\n\n\n\n\n\nPacific Lutheran University\n\n\nLab Prep and/or Teaching Assistant Jan 2017 – May 2017\nGenetics, Microbiology, and Molecular Biology:\n\nCommunicated with professors, lab manager, and peers to plan and implement preparation of organisms, media, reagents, and equipment.\nGuided students through the labs.\n\n\n\n\nAliquots of reagents for a genetics lab.\n\n\n\n\n\n\n\nTacoma Water\n\n\nSkilled Occupational Intern Nov 2015 – May 2019\n\nUsed XC2 software for data entry, auditing, research, and correction of discrepancies for backflow preventer assembly installation and testing records for the Cross Connection Control program.\nDelivered consistent and compassionate customer service when interacting with customers in person, by phone, or by email.\nCollected water samples from the primary source (Green River Watershed) and various points within the distribution system for investigative sampling.\nPerformed various water quality analyses in the field and lab using turbidimeters, colorimeters, and spectrometers.\nDesigned and implemented two pilot studies in the Green River Watershed (Water Quality Index and Trace Metals Screening).\n\n\n\n\nCollecting a water sample from a stream.\n\n\n\n\n\n\n\nOcean Mammal Institute\n\n\nIntern Jan 2017\n\nParticipated in lectures, discussions, and field research to learn about the biology and behavior of humpback whales, politics associated with marine mammal protection, and ecopsychology.\nApplied shore-based data collection methods to research the impact of vessel traffic on Hawaiian Humpback whales by monitoring their behaviors and movements.\nDeveloped and presented a poster of my results at the 23rd Annual Natural Sciences Academic Festival at Pacific Lutheran University.\n\n\n\nOops! Your browser doesn’t seem to support embedded PDFs.\n\n\nTry opening it in a new tab instead."
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Washington State Department of Agriculture\n\n\nData Scientist Jan 2022 – Present\n\nCollect and process soil and climate data from diverse sources to compile in a statewide soil health database using Kisters WISKI software.\nUse R, Python, and ArcGIS to develop data collection and decision support tools such as R Shiny web applications and ArcGIS field maps, dashboards, and Experience Builder web applications.\nUse GitHub for version control and to promote open access data and code.\nCollaborate with the Soil Health team to develop standard operating procedures (SOPs) and a quality assurance project plan to establish a soil health monitoring program.\nCreate training videos for R packages and ArcGIS spatial data collection tools that I developed.\nCoordinate and facilitate meetings with intra- and inter- agency partners and stakeholders.\n\n\n\n\nJadey standing in a field with a soil sampling probe.\n\n\nEnvironmental Specialist Jun 2020 – Jan 2022\nIn addition to duties as Environmental Technician:\n\nContributed data analysis, writing, and editing to the annual fact sheets and technical report.\nCollaborated with the Surface Water Monitoring Program team to improve standard operating procedures and quality assurance project plan.\nProvided administrative support for timekeeping, purchasing, and travel.\nSupported planning for the Washington Soil Heath Initiative and Sustainable Farms and Fields grant program during the COVID-19 hiring freeze.\n\nRead this blog post, written by yours truly, to learn more about the Washington Soil Health Initiative.\n\n\n\n\n\n\n\nSoil sampling kits for distribution to conservation districts across the state.\n\n\nEnvironmental Technician Jun 2019 – May 2020\n\nCalibrated a water quality sonde and prepared chain of custodies and sample labels.\nCollected water samples from salmonid-bearing wadable streams for pesticide analysis and measured streamflow using an electromagnetic current meter.\nPerformed quality assurance checks on data each week after sampling.\n\nRead this blog post for a recount of what a site visit looks like, including pictures!\n\n\n\n\n\n\n\nJadey Ryan measures stream flow while Katie Noland records the data.\n\n\n\n\n\n\n\nPacific Lutheran University\n\n\nLab Prep and/or Teaching Assistant Jan 2017 – May 2017\nGenetics, Microbiology, and Molecular Biology:\n\nCommunicated with professors, lab manager, and peers to plan and implement preparation of organisms, media, reagents, and equipment.\nGuided students through the labs.\n\n\n\n\nAliquots of reagents for a genetics lab.\n\n\n\n\n\n\n\nTacoma Water\n\n\nSkilled Occupational Intern Nov 2015 – May 2019\n\nUsed XC2 software for data entry, auditing, research, and correction of discrepancies for backflow preventer assembly installation and testing records for the Cross Connection Control program.\nDelivered consistent and compassionate customer service when interacting with customers in person, by phone, or by email.\nCollected water samples from the primary source (Green River Watershed) and various points within the distribution system for investigative sampling.\nPerformed various water quality analyses in the field and lab using turbidimeters, colorimeters, and spectrometers.\nDesigned and implemented two pilot studies in the Green River Watershed (Water Quality Index and Trace Metals Screening).\n\n\n\n\nCollecting a water sample from a stream.\n\n\n\n\n\n\n\nOcean Mammal Institute\n\n\nIntern Jan 2017\n\nParticipated in lectures, discussions, and field research to learn about the biology and behavior of humpback whales, politics associated with marine mammal protection, and ecopsychology.\nApplied shore-based data collection methods to research the impact of vessel traffic on Hawaiian Humpback whales by monitoring their behaviors and movements.\nDeveloped and presented a poster of my results at the 23rd Annual Natural Sciences Academic Festival at Pacific Lutheran University.\n\n\n\nOops! Your browser doesn’t seem to support embedded PDFs.\n\n\nTry opening it in a new tab instead."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": " Education",
+    "text": "Education\n\n\n\n\n\nMontana State University\n\n\nMaster of Science Sep 2020 – Aug 2023\n\nLand Resources and Environmental Sciences\nProfessional Project: An Improved Approach to Estimate Wind Erosion in Washington’s Columbia Plateau Using Google Earth Engine\nGPA: 4.00/4.00\nActivities\n\nGraduate Leadership Academy\n\n\n\n\n\n\n\nPacific Lutheran University\n\n\nBachelor of Science & Bachelor of Arts Sep 2015 – May 2019\n\nB.S. Biology, B.A. Environmental Studies, Minor in Chemistry\nBiology Capstone: Southern Resident Killer Whales: Evidence of Genetic and Reproductive Isolation\nEnvironmental Studies Capstone: Saving the Southern Resident Killer Whales: A Co-Management Strategy\nGPA: 3.96/4.00\nActivities\n\nPhi Kappa Phi\n\nAwards and Scholarships\n\n$550 Funding for Green River Watershed Pilot Studies\nCertificate of Recognition for Excellence in Inorganic Chemistry American Chemical Society\n$60,000 Provost Merit Scholarship\n\n\n\n\n\n\n\nTacoma Community College\n\n\nAssociate of Science Sep 2010 – June 2015\n\nBiology\nRunning Start student from 2010 through 2012.1\nGPA: 3.89/4.00\n$5,600 in various merit-based and financial need-based scholarships\nActivities\n\nPhi Theta Kappa (Secretary, Vice President, Regional President)\nLatinos Embracing Diversity (Secretary)\nEnvironmental Club (Active Member)"
+  },
+  {
+    "objectID": "cv.html#communities-and-organizations",
+    "href": "cv.html#communities-and-organizations",
+    "title": "Curriculum Vitae",
+    "section": " Communities and Organizations",
+    "text": "Communities and Organizations\n Posit Data Science Hangout\n R4DS Learning Community\n Women in GovTech\n R-Ladies Seattle\n Seattle useR Group"
+  },
+  {
+    "objectID": "cv.html#extension-scientific-writing",
+    "href": "cv.html#extension-scientific-writing",
+    "title": "Curriculum Vitae",
+    "section": " Extension & Scientific Writing",
+    "text": "Extension & Scientific Writing\nRyan, J.N., Michel, L., Gelardi, D.G. 2023. Standard Operating Procedure: Soil Health Monitoring in Washington State. Washington State Department of Agriculture, Natural Resources Assessment Section: Olympia, WA. Publication No. 102-923.\nNoland, K., Nickelson, A., Ryan, J.N., Drennan, M. 2021. Ambient Monitoring for Pesticides in Washington State Surface Water: 2019 Technical Report. Washington State Department of Agriculture, Natural Resources Assessment Section: Olympia, WA. Publication No. 102-629.\n\nAlso co-author for 2018 and 2017 Technical Reports.\n\nHancock, J., Ryan, J.N. 2021. Pesticide Groundwater Sampling in the Sumas-Blaine Surficial Aquifer. Washington State Department of Agriculture, Natural Resources Assessment Section: Olympia, WA. Publication No. 103-895.\nTuttle, G., Noland, K., Ryan, J.N. 2020. Glyphosate: Ecological Fate and Effects and Human Health Summary. Washington State Department of Agriculture, Natural Resources Assessment Section: Olympia, WA. Publication No. 809-817.\nRyan, J.N. 2020. Understanding Pesticide Leaching Potential and Protecting Groundwater. Washington State Department of Agriculture, Natural Resources Assessment Section: Olympia, WA. Publication No. 809-865.\nRyan, J.N. 2020. Pesticide Application and Water Quality. Washington State Department of Agriculture, Natural Resources Assessment Section: Olympia, WA. Publication No. 102-850.\nRyan, J.N. 2020. Understanding Pesticide Product Labels. Washington State Department of Agriculture, Natural Resources Assessment Section: Olympia, WA. Publication No. 102-849."
+  },
+  {
+    "objectID": "cv.html#presentations",
+    "href": "cv.html#presentations",
+    "title": "Curriculum Vitae",
+    "section": " Presentations",
+    "text": "Presentations\n\nUpcoming\nParameterized reporting using Quarto: 2-hour workshop. R-Ladies Washington D.C. Virtual. January 18, 2024. Invited.\n\n\nPast\nParameterized Quarto reports improve understanding of soil health. posit::conf(2023). Chicago, IL. September 20, 2023.\nShiny optimization of climate benefits from a statewide agricultural grant program. Cascadia R Conf. Seattle, WA. August 19, 2023.\nWashington’s Soil Health Initiative and Climate Smart Estimator. Washington Association of District Employees Conference. Leavenworth, WA. June 13, 2023.\nWeb Scraping & Mapping {orcas} Encounters. Seattle UseR Meetup. Seattle, WA. April 20, 2023.\nWeb Scraping & Mapping {orcas} Encounters. R-Ladies Seattle: R in the Outdoors Meetup. Seattle, WA. April 20, 2023. Invited.\nWashington Climate Smart Estimator (WaCSE): Using ArcGIS Dashboards and Experience Builder. Washington GIS Association Conference. Virtual. May 25, 2022.\nOrganophosphate insecticide mixtures in Washington surface waters. Annual Water Resources Conference, American Water Resources Association. Virtual. November 9, 2021.\nOrganophosphate insecticide mixtures in Washington surface waters. North American 42nd Annual Meeting, Society of Environmental Toxicology and Chemistry. Virtual. November 14, 2021."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": " Skills",
+    "text": "Skills\nSoftware and Programming\n\nProficient in R, Microsoft Office, ArcGIS (Pro, Field Maps, Dashboards, and Experience Builder).\nDeveloping in Python, Arcade, and SQL.\nUtilizing resources (e.g. internet, program/package documentation, colleagues) to quickly understand a problem and find/implement the solution.\n\nResearch and Field Work\n\nConducting literature reviews\nSoil sampling using step probes, soil probes with slide hammers, and bulk density samplers.\nCollecting and analyzing water quality data using Hach colorimeters and turbidimeters, YSI ProDSS multiparameter meters, HOBO data loggers, and OTT MF Pro streamflow meter.\n\nCollaboration and Communication\n\nCoordinating and facilitating meetings with intra- and inter-agency partners.\nWriting, editing, and reviewing data communication products for technical, policy, and general public audiences."
+  },
+  {
+    "objectID": "cv.html#footnotes",
+    "href": "cv.html#footnotes",
+    "title": "Curriculum Vitae",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nI completed half of my classes at high school and the other half at community college.↩︎"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "CC BY-NC-SA 4.0 license",
+    "section": "",
+    "text": "© 2023 Jadey Ryan\nOpinions expressed are solely my own and do not express the views of my employer or any organizations I am associated with.\nMy content is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA) license.\n   \nIn short, you may share and adapt this content with appropriate credit and notation of any changes. You may not use this material for any commercial purposes."
+  },
+  {
+    "objectID": "projects/orcas.html",
+    "href": "projects/orcas.html",
+    "title": "{orcas}",
+    "section": "",
+    "text": "Code \nThe goal of orcas is to scrape orca sighting data from the web and visualize it in maps and tables.\nI’ve always had an affinity for the Southern Resident Killer Whales in the Salish Sea. The Center for Whale Research does a lot of really fascinating and important work monitoring their population. They post their survey data on their website; each encounter with the orcas is a separate webpage. I was both curious and intimidated by web scraping so I decided this would make a great case study and personal project. I also learned how to use custom icons in leaflet maps! 🐋"
+  },
+  {
+    "objectID": "projects/soils.html",
+    "href": "projects/soils.html",
+    "title": "{soils}",
+    "section": "",
+    "text": "{pkgdown} site  Code  Blog Post  Webinar \nIntroducing {soils}: an R package for all your soil health data visualization and reporting needs. {soils} provides an RStudio project template to generate customized, interactive soil health reports. These reports include plots and tables to show how the participant’s results compare to simple averages of results from samples of the same crop, same county, and across the entire project. Any scientist leading a soil health survey can use {soils} to create custom reports for all survey participants. Democratize your data by giving back to the farmers and land managers who contributed soil samples to your survey project. Use these reports to empower each participant to explore and better understand their data."
+  },
+  {
+    "objectID": "projects/washi.html",
+    "href": "projects/washi.html",
+    "title": "{washi}",
+    "section": "",
+    "text": "{pkgdown} site  Code  CRAN \nInspired by other branding R packages such as glitr, ratlas, and nmfspalette, washi provides color palettes and themes consistent with Washington Soil Health Initiative (WaSHI) branding. This package is to be used only by direct collaborators within WaSHI, though you are welcome to adapt the package to suit your own organization’s branding."
+  },
+  {
+    "objectID": "shop.html",
+    "href": "shop.html",
+    "title": "Shop",
+    "section": "",
+    "text": "Check out my Etsy shop at thecodingcats.etsy.com\nThank you so much for supporting my brand new small business! It truly means the world to me.\nThis shop was born from posit::conf(2023), a data science conference with a community of amazing people who happen to love programming & cats. While there are lots of Python, Javascript, and other programming merch out there, there’s little representation for the R statistical language! I hope to change that, with my own twist of adding cute cats to R themed designs.\nAll of my designs are available in any product type. If you see a design you like but want it on something else or would like it personalized, please reach out!"
+  },
+  {
+    "objectID": "talks/2021-11-14_setac_insecticides-water/index.html",
+    "href": "talks/2021-11-14_setac_insecticides-water/index.html",
+    "title": "Aquatic Risk Assessment: Organophosphate insecticide mixtures in Washington surface waters",
+    "section": "",
+    "text": "Slides\n\nDetails\n👥 Society of Environmental Toxicology and Chemistry (SETAC) North America 42nd Annual Meeting\n📆 November 14, 2021 // 12-minute recording\n🏨 Virtual\n\n\nAbstract\nEcological risk assessments often do not consider potential additive, synergistic, or antagonistic effects from mixtures of chemicals and instead typically base risk on a single chemical. In the last decade, more tools and models have been developed to consider the interactive effects of chemicals within a mixture when conducting risk assessments. Therefore, this study uses actual environmental concentrations measured in 2018 and 2019 from the Washington State Department of Agriculture’s Surface Water Monitoring Program. Aquatic risk from exposure was assessed from chlorpyrifos, diazinon, and malathion (as individual chemicals and as binary and ternary mixtures) using the concentration addition model. These pesticides were selected because they have a common mechanism of toxicity, are frequently detected in surface waters in Washington, and were recently evaluated in a biological opinion by the National Marine Fisheries Service.\nAll detected concentrations of chlorpyrifos and malathion, assessed as individual chemicals, exceeded the predicted no effect concentration, indicating potential for adverse effects on aquatic life. Further, risk quotients for all binary and ternary mixtures were greater than one, also indicative of potential for adverse effects on aquatic life. In all samples containing a mixture, the maximum cumulative ratio suggested that a single insecticide contributed &gt;50% of the overall toxicity of each mixture. Based on the individual and mixture risk quotients, chlorpyrifos and malathion were the primary drivers of the toxicity of each mixture.\n\n\nSlides\n\n\nOops! Your browser doesn’t seem to support embedded PDFs.\n\n\nTry downloading instead.\n\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2021,\n  author = {Ryan, Jadey},\n  title = {Aquatic {Risk} {Assessment:} {Organophosphate} Insecticide\n    Mixtures in {Washington} Surface Waters},\n  date = {2021-11-14},\n  url = {https://jadeyryan.com/talks/2021-11-14_setac_insecticides-water/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2021. “Aquatic Risk Assessment: Organophosphate\nInsecticide Mixtures in Washington Surface Waters.” November 14,\n2021. https://jadeyryan.com/talks/2021-11-14_setac_insecticides-water/."
+  },
+  {
+    "objectID": "talks/2023-04-20_rladies_orcas-web-scraping/index.html",
+    "href": "talks/2023-04-20_rladies_orcas-web-scraping/index.html",
+    "title": "Web Scraping & Mapping {orcas} Encounters",
+    "section": "",
+    "text": "Slides  Code \n\nDetails\n👥 R-Ladies Seattle and Seattle useR Group\n📆 April 20, 2023 // 15-minute talk\n🏨 Seattle, WA\n\n\nAbstract\nR-Ladies Seattle invited me to give a talk for the ‘R in the Outdoors’ meetup. This was my first in-person talk of my professional career! I used this as an opportunity to learn new skills through a personal project. I’ve always had an affinity for the Southern Resident Killer Whales in the Salish Sea. The Center for Whale Research does a lot of really fascinating and important work monitoring their population. They post their survey data on their website; each encounter with the orcas is a separate webpage. Lately, I’ve been curious and intimidated by web scraping so I decided this would make a great case study and personal project.\nI ended up also going to the Seattle useR Group lightning talks meetup afterwards and spontaneously gave the same presentation there!\n\n\nSlides\n\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2023,\n  author = {Ryan, Jadey},\n  title = {Web {Scraping} \\& {Mapping} \\{Orcas\\} {Encounters}},\n  date = {2023-04-20},\n  url = {https://jadeyryan.com/talks/2023-04-20_rladies_orcas-web-scraping/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2023. “Web Scraping & Mapping {Orcas}\nEncounters.” April 20, 2023. https://jadeyryan.com/talks/2023-04-20_rladies_orcas-web-scraping/."
+  },
+  {
+    "objectID": "talks/2023-08-19_cascadia_shiny-wacse/index.html",
+    "href": "talks/2023-08-19_cascadia_shiny-wacse/index.html",
+    "title": "Shiny optimization of climate benefits from a statewide agricultural grant program",
+    "section": "",
+    "text": "Slides  Code  Video \n\nDetails\n👥 Cascadia R Conf\n📆 August 19, 2023 // 2:05 pm - 2:20 pm PT\n🏨 Seattle, WA\n\n\nAbstract\nWashington’s Sustainable Farms and Fields program provides grants to growers to increase soil carbon or reduce greenhouse gas (GHG) emissions on their farms. To optimize the climate benefits of the program, we developed the Washington Climate Smart Estimator {WaCSE} using R and Shiny.\nIntegrating national climate models and datasets, this intuitive, regionally specific user interface allows farmers and policymakers to compare the climate benefits of different agricultural practices across Washington’s diverse counties and farm sizes. Users can explore GHG estimates in interactive tables and plots, download results in spreadsheets and figures, and generate PDF reports. In this talk, we present the development process of {WaCSE} and discuss the lessons we learned from creating our first ever Shiny app.\n\n\nSlides\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2023,\n  author = {Ryan, Jadey and Michel, Leslie and Gelardi, Dani},\n  title = {Shiny Optimization of Climate Benefits from a Statewide\n    Agricultural Grant Program},\n  date = {2023-08-19},\n  url = {https://jadeyryan.com/talks/2023-08-19_cascadia_shiny-wacse/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey, Leslie Michel, and Dani Gelardi. 2023. “Shiny\nOptimization of Climate Benefits from a Statewide Agricultural Grant\nProgram.” August 19, 2023. https://jadeyryan.com/talks/2023-08-19_cascadia_shiny-wacse/."
+  },
+  {
+    "objectID": "talks/2024-01-18_rladies-dc_quarto-params/index.html",
+    "href": "talks/2024-01-18_rladies-dc_quarto-params/index.html",
+    "title": "Parameterized Reports with Quarto: R-Ladies DC Workshop",
+    "section": "",
+    "text": "Course website  Slides  Code  Video \n\nDetails\n👥 R-Ladies Washington D.C.\n📆 January 18, 2024 // 6:30 pm - 8:30 pm EDT\n🏨 Virtual\n🆓 FREE with registration\n\n\nAbstract\nTired of manually adjusting Quarto reports for different regions, time periods, or clients? Dreaming of using just one template to generate both interactive HTML and static Word/PDF versions of your reports?\nJoin our workshop to unlock the power of parameterized reporting with Quarto and leave with your own template and examples to modify for your own projects.\nGet a sneak preview of what you’ll learn by checking out the slides for my posit::conf(2023) talk.\nEveryone is welcome to attend. If you’re new to Quarto, we recommend watching Tom Mock’s excellent 2-hour introduction to Quarto.\n\n\nSlides\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2024,\n  author = {Ryan, Jadey},\n  title = {Parameterized {Reports} with {Quarto:} {R-Ladies} {DC}\n    {Workshop}},\n  date = {2024-01-18},\n  url = {https://jadeyryan.com/talks/2024-01-18_rladies-dc_quarto-params/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2024. “Parameterized Reports with Quarto: R-Ladies DC\nWorkshop.” January 18, 2024. https://jadeyryan.com/talks/2024-01-18_rladies-dc_quarto-params/."
+  },
+  {
+    "objectID": "talks/2024-04-03_washi-msda_soils/index.html",
+    "href": "talks/2024-04-03_washi-msda_soils/index.html",
+    "title": "{soils}: an R package for soil health reporting",
+    "section": "",
+    "text": "Slides  Video \n\nDetails\n👥 Washington Soil Health Initiative Making Soils Data Actionable Series\n📆 April 03, 2024 // 12:00 pm - 1:00 pm PT\n🏨 Virtual\n🆓 FREE with registration\n\n\nDescription\nThis webinar is a demo of the {soils} R package, designed for comprehensive soil health data visualization and reporting. See how we use R and Quarto to create customized, interactive reports to empower each participant in the State of the Soils Assessment to explore and understand their soil data. The {soils} package can be found here.\n\n\n\nSlides\n\n\nOops! Your browser doesn’t seem to support embedded PDFs.\n\n\nTry downloading instead.\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2024,\n  author = {Ryan, Jadey and McIlquham, Molly and A Sarpong, Kwabena and\n    M Michel, Leslie and S Potter, Teal and Griffin LaHue, Deirdre and\n    Gelardi, Dani},\n  title = {\\{Soils\\}: An {R} Package for Soil Health Reporting},\n  date = {2024-04-03},\n  url = {https://jadeyryan.com/talks/2024-04-03_washi-msda_soils/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey, Molly McIlquham, Kwabena A Sarpong, Leslie M Michel, Teal S\nPotter, Deirdre Griffin LaHue, and Dani Gelardi. 2024. “{Soils}:\nAn R Package for Soil Health Reporting.” April 3, 2024. https://jadeyryan.com/talks/2024-04-03_washi-msda_soils/."
+  },
+  {
+    "objectID": "talks/2024-06-21_cascadia_intermediate-quarto/index.html",
+    "href": "talks/2024-06-21_cascadia_intermediate-quarto/index.html",
+    "title": "Intermediate Quarto: Parameterized Reports: Cascadia R Conf Workshop",
+    "section": "",
+    "text": "Course website  Code \n\nDetails\n👥 Cascadia R Conf\n📆 June 21, 2024 // 1:30 pm - 4:30 pm PT\n🏫 University of Washington, South Lake Union, Building C\n🧾 EventBrite registration\n\n\n\nDescription\nCharlotte Wickham’s Intro to Quarto workshop takes you through the basics of authoring a reproducible report using Quarto. This workshop builds on those concepts and teaches you how to level up your reproducible reports by using parameters, conditional content, conditional code execution, and custom styling sheets for HTML and Microsoft Word formats. Additionally, you will learn how to render all variations of a parameterized report at once using quarto and purrr.\n\n\nSlides\n\n\n\n\n\n\nNote\n\n\n\nThere are 6 sets of slides for this workshop. Please see the workshop website for all slides.\n\n\n\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2024,\n  author = {Ryan, Jadey},\n  title = {Intermediate {Quarto:} {Parameterized} {Reports:} {Cascadia}\n    {R} {Conf} {Workshop}},\n  date = {2024-06-21},\n  url = {https://jadeyryan.com/talks/2024-06-21_cascadia_intermediate-quarto/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2024. “Intermediate Quarto: Parameterized Reports:\nCascadia R Conf Workshop.” June 21, 2024. https://jadeyryan.com/talks/2024-06-21_cascadia_intermediate-quarto/."
+  },
+  {
+    "objectID": "talks/2025-01-16_wsu-modernize-pipeline/index.html",
+    "href": "talks/2025-01-16_wsu-modernize-pipeline/index.html",
+    "title": "Modernizing data pipelines for accessible and actionable insights",
+    "section": "",
+    "text": "Slides  Recording \n\nDetails\n👥 Northwestern Washington Research and Extension Center Mount Vernon, Washington State University 📆 January 16, 2025 // 12:00 pm - 1:00 pm PT\n🏨 Virtual\n\n\nAbstract\nModern technology is revolutionizing how soils data are collected, managed, and presented. Jadey will share how she uses R and ArcGIS to build efficient workflows that prioritize data quality and privacy. From sample collection to data management and the development of decision-support tools, these technologies enable reproducible analyses and interactive reports, making complex soils data accessible and actionable for farmers and landowners.\n\n\nSlides\n\n\nOops! Your browser doesn’t seem to support embedded PDFs.\n\n\nTry downloading instead.\n\n\n\n\nRecording\n\n\n\n\n\nCitationBibTeX citation:@online{ryan2025,\n  author = {Ryan, Jadey},\n  title = {Modernizing Data Pipelines for Accessible and Actionable\n    Insights},\n  date = {2025-01-16},\n  url = {https://jadeyryan.com/talks/2025-01-16_wsu-modernize-pipeline/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nRyan, Jadey. 2025. “Modernizing Data Pipelines for Accessible and\nActionable Insights.” January 16, 2025. https://jadeyryan.com/talks/2025-01-16_wsu-modernize-pipeline/."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "None at this time."
+  },
+  {
+    "objectID": "talks.html#upcoming",
+    "href": "talks.html#upcoming",
+    "title": "Talks",
+    "section": "",
+    "text": "None at this time."
+  },
+  {
+    "objectID": "talks.html#past",
+    "href": "talks.html#past",
+    "title": "Talks",
+    "section": "Past",
+    "text": "Past\n\n\n\n\n\n\n\n\n\n\nEfficient File Management in R with {fs}\n\n\n\nR\n\nfs\n\nFile management\n\n\n\n1.5-hour talk on using the {fs} R package to efficiently manage files and directories\n\n\n\n\n\nOct 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nModernizing data pipelines for accessible and actionable insights\n\n\n\nR\n\nArcGIS\n\n\n\nHow the Washington Soil Initiative has modernized the data pipeline with R and ArcGIS\n\n\n\n\n\nJan 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Reports and Presentations with Quarto: SLC RUG\n\n\n\nR\n\nQuarto\n\nparameterized reports\n\n\n\n1-hour talk on reproducible reports & presentations with Quarto\n\n\n\n\n\nJul 1, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nIntermediate Quarto: Parameterized Reports: Cascadia R Conf Workshop\n\n\n\nR\n\nQuarto\n\nparameterized reports\n\nworkshop\n\n\n\n2.5-hour code-along workshop on parameterizing reports and other more intermediate features of Quarto\n\n\n\n\n\nJun 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nReproducible Reporting with Quarto\n\n\n\nR\n\nQuarto\n\nparameterized reports\n\nworkshop\n\n\n\n3-hour code-along workshop introducing Quarto & parameterized reports\n\n\n\n\n\nApr 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n{soils}: an R package for soil health reporting\n\n\n\nR\n\nQuarto\n\nparameterized reports\n\n\n\n1-hour talk on the {soils} R package\n\n\n\n\n\nApr 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nParameterized Reports with Quarto: R-Ladies Abuja Workshop\n\n\n\nR\n\nQuarto\n\nparameterized reports\n\nworkshop\n\n\n\n2-hour code-along workshop on parameterized reports with Quarto\n\n\n\n\n\nFeb 21, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nParameterized Reports with Quarto: R-Ladies DC Workshop\n\n\n\nR\n\nQuarto\n\nparameterized reports\n\nworkshop\n\n\n\n2-hour code-along workshop on parameterized reports with Quarto\n\n\n\n\n\nJan 18, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nParameterized Quarto reports improve understanding of soil health\n\n\n\nR\n\nQuarto\n\nparameterized reports\n\nagriculture\n\nsoil health\n\n\n\nCreating custom soil health reports with Quarto\n\n\n\n\n\nSep 25, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nShiny optimization of climate benefits from a statewide agricultural grant program\n\n\n\nR\n\nshiny\n\nagriculture\n\nclimate\n\n\n\nDevelopment process of {WaCSE} shiny app\n\n\n\n\n\nAug 19, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWashington Soil Health Initative and Climate Smart Estimator\n\n\n\nagriculture\n\nsoil health\n\nclimate\n\n\n\nOverview of the WA Soil Health Initative & WA Climate Smart Estimator {WaCSE} shiny app\n\n\n\n\n\nJun 13, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWeb Scraping & Mapping {orcas} Encounters\n\n\n\nR\n\nweb scraping\n\nleaflet\n\n\n\nWeb scraping with {rvest} & mapping with {leaflet}\n\n\n\n\n\nApr 20, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nWashington Climate Smart Estimator: Using ArcGIS Dashboards and Experience Builder\n\n\n\nArcGIS\n\nagriculture\n\nclimate\n\n\n\nOverview of WA Climate Smart Estimator ArcGIS Experience web app\n\n\n\n\n\nMay 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nAquatic Risk Assessment: Organophosphate insecticide mixtures in Washington surface waters\n\n\n\nagriculture\n\nwater quality\n\n\n\nAquartic risk assessment of insecticide mixtures in WA streams\n\n\n\n\n\nNov 14, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nAquatic Risk Assessment: Organophosphate insecticide mixtures in Washington surface waters\n\n\n\nagriculture\n\nwater quality\n\n\n\nAquartic risk assessment of insecticide mixtures in WA streams\n\n\n\n\n\nNov 9, 2021\n\n\n\n\n\nNo matching items"
+  }
+]
