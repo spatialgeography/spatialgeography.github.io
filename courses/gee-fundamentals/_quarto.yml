@@ -1,0 +1,12 @@
+sidebar:
+  title: "GEE Fundamentals"
+  contents:
+    - text: "Overview"
+      href: index.qmd
+    - section: "Modules"
+      contents:
+        - part1_intro.qmd
+        - part2_collections.qmd
+        - part3_vectors.qmd
+        - part4_reducers.qmd
+        - part5_exports.qmd

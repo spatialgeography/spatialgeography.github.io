@@ -38,6 +38,18 @@ Welcome to the **Fundamentals of Google Earth Engine**! This course is designed 
   - Generating and Customizing Charts
   - Analyzing Trends over Time
 
+#### **Part 4: Reducers & Statistics**
+- **[Aggregating Data](part4_reducers.qmd)**
+  - Spatial Reductions (`reduceRegion`)
+  - Temporal Reductions (Composites)
+  - Grouped Reductions
+
+#### **Part 5: Data Export**
+- **[Getting Data Out](part5_exports.qmd)**
+  - Exporting Images (GeoTIFF)
+  - Exporting Tables (CSV, Shapefile)
+  - Managing Assets
+
 ---
 
 ### 🚀 Start Learning

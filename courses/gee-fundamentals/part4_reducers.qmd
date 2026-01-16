@@ -1,0 +1,95 @@
+---
+title: "Part 4: Reducers & Statistics"
+date: 2025-01-14
+author: "Spatial Geography"
+categories: [GEE, Analysis, Statistics]
+image: ../../assets/img/spatial_logo.png
+---
+
+## Introduction
+
+In Google Earth Engine (GEE), **Reducers** are the way we aggregate data. Whether you want to calculate the average temperature over a specific region, find the maximum rainfall in a year, or turn a collection of satellite images into a single median composite, you will use a Reducer.
+
+This concept is crucial because satellite data is vast. We rarely look at every single pixel value individually; instead, we summarize them to answer questions.
+
+## Types of Reductions
+
+We generally perform two types of reductions:
+1.  **Spatial Reductions**: Summarizing pixels within a specific geometry (e.g., "What is the average NDVI for this forest patch?").
+2.  **Temporal Reductions**: Summarizing a stack of images over time into one image (e.g., "What is the median pixel value for the year 2020?").
+
+## 1. Temporal Reductions (Compositing)
+
+You already saw this in Part 2 when we used `.median()` on an ImageCollection. This collapses the collection into a single image.
+
+```javascript
+// Load a collection
+var s2 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED")
+  .filterBounds(geometry)
+  .filterDate('2020-01-01', '2020-12-31')
+  .filter(ee.Filter.lt('CLOUDY_PIXEL_PERCENTAGE', 10));
+
+// Calculate the median of the collection
+var medianImage = s2.median();
+
+Map.addLayer(medianImage, {min: 0, max: 3000, bands: ['B4', 'B3', 'B2']}, 'Median Composite');
+```
+
+Common temporal reducers: `mean()`, `median()`, `min()`, `max()`, `sum()`, `count()`.
+
+## 2. Spatial Reductions (`reduceRegion`)
+
+To get statistics for a specific area, we use `image.reduceRegion()`. This returns a **Dictionary** (an object with key-value pairs) containing the statistics.
+
+### Example: Calculating Average Elevation
+
+Let's calculate the mean elevation for a specific point or polygon using the SRTM dataset.
+
+```javascript
+// Load SRTM elevation data
+var elevation = ee.Image("USGS/SRTMGL1_003");
+
+// Define a geometry (e.g., a buffer around a point)
+var point = ee.Geometry.Point([-122.084, 37.422]);
+var region = point.buffer(1000); // 1km radius
+
+Map.addLayer(region, {}, 'Region');
+
+// Calculate the mean elevation in this region
+var stats = elevation.reduceRegion({
+  reducer: ee.Reducer.mean(),
+  geometry: region,
+  scale: 30, // Resolution in meters
+  maxPixels: 1e9
+});
+
+print('Mean Elevation:', stats);
+```
+
+### Key Parameters:
+*   **reducer**: The statistic you want to calculate (e.g., `ee.Reducer.mean()`, `ee.Reducer.max()`).
+*   **geometry**: The area to analyze.
+*   **scale**: The pixel resolution to use. **Always specify this!** If you rely on the default, you might get unexpected results or errors.
+
+## Grouped Reductions
+
+Sometimes you want stats for multiple regions at once (e.g., average NDVI for every county in a state). For feature collections (aggregating over many polygons), use `reduceRegions()` (plural).
+
+```javascript
+// Assume 'counties' is a FeatureCollection
+var countyStats = elevation.reduceRegions({
+  collection: counties,
+  reducer: ee.Reducer.mean(),
+  scale: 30
+});
+
+print(countyStats);
+```
+
+## Summary
+*   **Reducers** aggregate data.
+*   **Temporal reductions** (e.g., `collection.mean()`) create a new Image.
+*   **Spatial reductions** (e.g., `image.reduceRegion()`) create Statistics (Dictionaries) or add properties to Features.
+*   Always define the **scale** for spatial reductions.
+
+[Next: Part 5 - Exporting Data](part5_exports.qmd)

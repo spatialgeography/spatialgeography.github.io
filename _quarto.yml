@@ -46,12 +46,8 @@ website:
         href: courses.html
       - text: ARTICLES
         href: blog.html
-      - text: ACADEMY
-        href: academy.html
       - text: GEOMAPPER
         href: https://spatialgeography.shinyapps.io/geomapper/
-      - text: UPCOMING CLASSES
-        href: upcoming_classes.html
       - text: MORE
         menu:
           - text: Projects

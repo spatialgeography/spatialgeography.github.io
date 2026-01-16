@@ -1,0 +1,81 @@
+---
+title: "Part 5: Exporting Data"
+date: 2025-01-14
+author: "Spatial Geography"
+categories: [GEE, Data Export]
+image: ../../assets/img/spatial_logo.png
+---
+
+## Introduction
+
+After you've analyzed your satellite imagery, calculated indices, or summarized statistics, you typically want to get the data *out* of Google Earth Engine. You might want a GeoTIFF to use in QGIS/ArcGIS, a CSV file of your statistics to analyze in Excel or R, or a video for a presentation.
+
+In GEE, this process is called **Exporting**, and it is handled by the `Export` module.
+
+## The Tasks Tab
+
+When you run an export command, nothing downloads immediately. Instead, a **Task** is created in the **Tasks** tab (right-hand panel of the Code Editor). You must go to that tab and click "Run" to actually start the export.
+
+## 1. Exporting Images (`Export.image`)
+
+To save a raster (like a satellite image or a map of NDVI) to your Google Drive.
+
+```javascript
+// Load an image (e.g., SRTM elevation)
+var image = ee.Image("USGS/SRTMGL1_003");
+var region = ee.Geometry.Rectangle([-122.5, 37.0, -122.0, 37.5]);
+
+// Export a GeoTIFF to Google Drive
+Export.image.toDrive({
+  image: image,
+  description: 'SRTM_Elevation_Export',
+  folder: 'GEE_Exports', // Folder in your Google Drive using exact name
+  region: region,     // Area to export
+  scale: 30,          // Resolution in meters
+  crs: 'EPSG:4326',   // Coordinate system (optional, defaults to image's native or WGS84)
+  maxPixels: 1e9      // Increase if your area is large
+});
+```
+
+### Important Tips:
+*   **region**: Always filter the export to your area of interest. Exporting the whole world at 30m resolution isn't possible!
+*   **scale**: Define the resolution.
+*   **folder**: GEE will create this folder in your Drive if it doesn't exist.
+
+## 2. Exporting Tables (`Export.table`)
+
+To save vector data (Features) or statistics (Dictionaries turned into Features) as CSV, SHP, or GeoJSON.
+
+```javascript
+// Assume we have a FeatureCollection called 'countyStats' from the previous lesson
+Export.table.toDrive({
+  collection: countyStats,
+  description: 'County_Stats_Export',
+  folder: 'GEE_Features',
+  fileFormat: 'CSV' // Options: 'CSV', 'GeoJSON', 'KML', 'SHP' (as Shapefile)
+});
+```
+
+## 3. Exporting to Assets
+
+If you want to use your processed image or vector in *another* GEE script without recalculating it every time, export it to your **Assets**.
+
+```javascript
+Export.image.toAsset({
+  image: image,
+  description: 'SRTM_Asset_Export',
+  assetId: 'users/yourusername/srtm_clip',
+  region: region,
+  scale: 30
+});
+```
+
+## Summary
+1.  Use `Export.image.toDrive()` for rasters (GeoTIFFs).
+2.  Use `Export.table.toDrive()` for vectors and statistics (CSV, Shapefile).
+3.  Remember to click **Run** in the Tasks tab.
+4.  Always specify `region` and `scale`.
+
+Congratulations! You've completed the Fundamentals of Google Earth Engine. You can now search for data, filter it, analyze it, and export the results.
+
+[Back to Course Index](index.qmd)
