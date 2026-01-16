@@ -53,4 +53,4 @@ var tempChart = ui.Chart.image.series({
 print(tempChart);
 ```
 
-[**Back to Course Home**](index.qmd)
+[**Next: Part 4 - Reducers & Statistics**](part4_reducers.qmd)
