@@ -1,0 +1,90 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Spatial Geography Lab"
+  description: "Advancing geographic science through deep learning, machine learning, remote sensing, and geospatial technologies"
+  favicon: images/logo.png
+  open-graph: true
+  twitter-card: true
+  site-url: "https://spatialgeography.github.io"
+
+  navbar:
+    background: dark
+    logo: images/logo.png
+    logo-alt: "Spatial Geography Lab Logo"
+    title: "Spatial Geography Lab"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: team.qmd
+        text: Team
+      - href: publications.qmd
+        text: Publications
+      - href: resources.qmd
+        text: Resources
+      - href: gallery.qmd
+        text: Gallery
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/spatialgeography
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/company/spatial-geography-lab
+        aria-label: LinkedIn
+      - icon: youtube
+        href: https://www.youtube.com/@spatialgeolab
+        aria-label: YouTube
+      - icon: twitter
+        href: https://twitter.com/spatialgeolab
+        aria-label: Twitter
+
+  page-footer:
+    left: |
+      © 2026 Spatial Geography Lab. All rights reserved.
+    center: |
+      Built with [Quarto](https://quarto.org/)
+    right:
+      - icon: envelope
+        href: mailto:contact@spatialgeolab.org
+      - icon: github
+        href: https://github.com/spatialgeography
+      - icon: linkedin
+        href: https://www.linkedin.com/company/spatial-geography-lab
+      - icon: youtube
+        href: https://www.youtube.com/@spatialgeolab
+      - icon: twitter
+        href: https://twitter.com/spatialgeolab
+
+  sidebar: false
+  page-navigation: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/custom.scss]
+    css: styles/extra.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github
+    mainfont: "Inter, sans-serif"
+    monofont: "JetBrains Mono, monospace"
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&family=Playfair+Display:wght@700;800;900&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">

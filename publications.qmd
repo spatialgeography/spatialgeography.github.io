@@ -1,0 +1,239 @@
+---
+title: "Publications"
+subtitle: "Peer-reviewed articles, book chapters, and conference papers"
+page-layout: article
+toc: true
+toc-depth: 2
+---
+
+::: {.page-header}
+# Publications
+Our contributions to geographic science
+:::
+
+## Overview
+
+Our team has contributed over **45 peer-reviewed publications** in leading geographic, remote sensing, and geospatial journals. Our work emphasizes the integration of deep learning, machine learning, and GIS with field-validated methodologies. Below is a selection of recent works.
+
+---
+
+## 2026
+
+::: {.pub-item}
+::: {.pub-title}
+Multi-Temporal Sentinel-2 Analysis for Crop Type Classification Using Ensemble Machine Learning with Field-Validated Training Data
+:::
+::: {.pub-authors}
+[Author A], [Author B], & [Author C]
+:::
+::: {.pub-journal}
+Remote Sensing of Environment [2026]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#) [<i class="fas fa-code"></i> Code](#)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+Attention-Based SAR-Optical Fusion Using Deep Learning for Urban Building Footprint Extraction: A GEE and PyTorch Workflow
+:::
+::: {.pub-authors}
+[Author D], [Author E], & [Author C]
+:::
+::: {.pub-journal}
+ISPRS Journal of Photogrammetry and Remote Sensing [2026]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#)
+:::
+:::
+
+## 2025
+
+::: {.pub-item}
+::: {.pub-title}
+Urban Flood Vulnerability Mapping: Integrating QGIS-Based Multi-Criteria Analysis with Random Forest and Ground-Truth Field Surveys
+:::
+::: {.pub-authors}
+[Author F], [Author G], & [Author C]
+:::
+::: {.pub-journal}
+Journal of Hydrology [2025]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#) [<i class="fas fa-database"></i> Data](#)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+Vision Transformers for Land Use Classification from Sentinel-2 Imagery: A Comparative Study with Field-Validated Accuracy Assessment
+:::
+::: {.pub-authors}
+[Author D] & [Author C]
+:::
+::: {.pub-journal}
+IEEE Transactions on Geoscience and Remote Sensing [2025]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#) [<i class="fas fa-code"></i> Code](#)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+Google Earth Engine-Based Land Cover Change Detection (1993–2023): A Random Forest Approach with Sequential Field Validation
+:::
+::: {.pub-authors}
+[Author B], [Author H], & [Author C]
+:::
+::: {.pub-journal}
+Remote Sensing [2025]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#) [<i class="fas fa-code"></i> GEE Script](#)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+Spatial Patterns of Urban Heat Island Intensity: MODIS LST Analysis in GEE Validated with Field-Deployed Temperature Sensors
+:::
+::: {.pub-authors}
+[Author G], [Author E], & [Author C]
+:::
+::: {.pub-journal}
+Landscape and Urban Planning [2025]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#) [<i class="fas fa-database"></i> Data](#)
+:::
+:::
+
+## 2024
+
+::: {.pub-item}
+::: {.pub-title}
+Deep Learning for Automated Road Network Extraction from High-Resolution Imagery: U-Net Architecture with QGIS Post-Processing
+:::
+::: {.pub-authors}
+[Author E], [Author D], & [Author C]
+:::
+::: {.pub-journal}
+Computers, Environment and Urban Systems [2024]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#) [<i class="fas fa-code"></i> Code](#)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+Geostatistical Analysis of Groundwater Quality Using Kriging in R: Spatial Modeling Validated with Borehole Field Measurements
+:::
+::: {.pub-authors}
+[Author E] & [Author B]
+:::
+::: {.pub-journal}
+Science of the Total Environment [2024]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+NDVI Trend Analysis Using Mann-Kendall Test in Python: Spatiotemporal Vegetation Dynamics and Precipitation Correlation in Semi-Arid Regions
+:::
+::: {.pub-authors}
+[Author G] & [Author C]
+:::
+::: {.pub-journal}
+Journal of Arid Environments [2024]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#) [<i class="fas fa-database"></i> Data](#)
+:::
+:::
+
+## 2023
+
+::: {.pub-item}
+::: {.pub-title}
+Transfer Learning for Satellite Image Classification: A Systematic Review and Benchmark of CNN Architectures Using Python
+:::
+::: {.pub-authors}
+[Author D], [Author B], & [Author C]
+:::
+::: {.pub-journal}
+Remote Sensing Reviews [2023]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#)
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+Network-Based Accessibility Analysis of Healthcare Facilities Using QGIS and Python: A Spatial Equity Perspective
+:::
+::: {.pub-authors}
+[Author E] & [Author F]
+:::
+::: {.pub-journal}
+Applied Geography [2023]{.pub-year}
+:::
+::: {.pub-links}
+[<i class="fas fa-file-pdf"></i> PDF](#) [<i class="fas fa-link"></i> DOI](#) [<i class="fas fa-code"></i> Code](#)
+:::
+:::
+
+---
+
+## Book Chapters
+
+::: {.pub-item}
+::: {.pub-title}
+Geospatial Artificial Intelligence: Deep Learning Methods and Applications in Geographic Research
+:::
+::: {.pub-authors}
+[Author C] & [Author D]
+:::
+::: {.pub-journal}
+In: *Advances in Geographic Information Science*, Springer [2024]{.pub-year}
+:::
+:::
+
+::: {.pub-item}
+::: {.pub-title}
+Remote Sensing for Environmental Monitoring: From Satellite Imagery to Field Validation
+:::
+::: {.pub-authors}
+[Author B] & [Author G]
+:::
+::: {.pub-journal}
+In: *Handbook of Earth Observation*, Wiley [2023]{.pub-year}
+:::
+:::
+
+---
+
+## Conference Presentations (Selected)
+
+| Year | Conference | Title |
+|:-----|:----------|:------|
+| 2026 | EGU General Assembly | GEE-Based Drought Monitoring Using NDVI Anomaly Detection and Field-Measured Soil Moisture |
+| 2025 | AAG Annual Meeting | Integrating QGIS Multi-Criteria Analysis with ML for Urban Flood Vulnerability (Best Paper) |
+| 2025 | IEEE IGARSS | Self-Supervised Pretraining for Satellite Image Segmentation Using PyTorch |
+| 2024 | ISPRS Congress | Automated LULC Classification with Vision Transformers: A Field-Validated Approach |
+| 2024 | GIScience Conference | Spatial Prediction of Land Surface Temperature Using XGBoost and GEE |
+| 2023 | AGU Fall Meeting | Multi-Temporal Vegetation Dynamics Analysis Using GEE and Mann-Kendall Statistics in R |
+
+---
+
+::: {.info-box}
+#### <i class="ai ai-google-scholar"></i> Full Publication List
+For a complete list of publications, visit our [Google Scholar](#) or [ResearchGate](#) profiles.
+:::

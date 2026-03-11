@@ -1,0 +1,424 @@
+---
+pagetitle: "Spatial Geography Lab — Deep Learning, Remote Sensing & Field-Based Geographic Research"
+toc: false
+page-layout: full
+---
+
+::: {.hero-section}
+::: {.hero-bg style="background-image: url('images/hero-banner.png');"}
+:::
+::: {.hero-overlay}
+:::
+::: {.particles-container #particles}
+:::
+
+::: {.hero-content}
+
+::: {.hero-title}
+Spatial Analysis Meets<br>[Intelligent Computing]{.accent}
+:::
+
+::: {.hero-subtitle}
+We integrate deep learning, machine learning, and geospatial technologies — including Google Earth Engine, QGIS, Python, and R — with rigorous field-based survey research. Our work bridges computational geography and ground-truth validation to generate actionable, evidence-based insights for real-world geographic challenges.
+:::
+
+::: {.hero-buttons}
+[<i class="fas fa-microscope"></i> Our Research](research.qmd){.btn-primary-custom}
+[<i class="fas fa-users"></i> Meet the Team](team.qmd){.btn-secondary-custom}
+:::
+
+:::
+:::
+
+<!-- ============================================ -->
+<!-- CORE FOCUS AREAS -->
+<!-- ============================================ -->
+
+::: {.section .section-light}
+::: {.container-custom}
+
+::: {.section-title}
+Core Research Focus
+:::
+::: {.section-divider}
+:::
+::: {.section-subtitle}
+Our lab operates at the intersection of computational geospatial science and field-based geographic inquiry — from satellite data analysis to ground-truth validation.
+:::
+
+::: {.grid-3 .stagger-children .animate-on-scroll}
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-brain"></i>
+:::
+### Deep Learning & Machine Learning
+Developing and applying CNN, transformer, and ensemble models for automated land cover classification, feature extraction, change detection, and spatial prediction from remote sensing data using Python and R ecosystems.
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-satellite-dish"></i>
+:::
+### Remote Sensing & Earth Observation
+Leveraging multi-spectral, hyperspectral, SAR, and thermal satellite imagery for land use/land cover analysis, vegetation monitoring, urban expansion tracking, and environmental change assessment at multiple spatial-temporal scales.
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-globe-americas"></i>
+:::
+### Google Earth Engine & Cloud Computing
+Harnessing the planetary-scale analysis capabilities of Google Earth Engine for large-area land monitoring, time-series analysis, composite generation, and automated geospatial workflows across continental and global scales.
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-layer-group"></i>
+:::
+### GIS & Spatial Analysis (QGIS)
+Building advanced spatial analysis workflows in QGIS and ArcGIS for multi-criteria evaluation, network analysis, geostatistics, terrain modeling, and spatial decision support systems for planning and policy.
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-hiking"></i>
+:::
+### Field Survey & Ground Validation
+Conducting systematic field surveys, sequential exploratory research, GPS-based ground-truth campaigns, and in-situ observations for validating remote sensing products and ensuring the reliability of geospatial analyses.
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fab fa-python"></i>
+:::
+### Python, R & Geospatial Programming
+Proficiency in Python (GeoPandas, Rasterio, TensorFlow, PyTorch) and R (sf, terra, caret, randomForest) for spatial data science, statistical modeling, reproducible research, and automated geospatial pipelines.
+:::
+
+:::
+:::
+:::
+
+<!-- ============================================ -->
+<!-- METHODOLOGY -->
+<!-- ============================================ -->
+
+::: {.section}
+::: {.container-custom}
+
+::: {.section-title}
+Our Integrated Approach
+:::
+::: {.section-divider}
+:::
+::: {.section-subtitle}
+From satellite imagery to field validation — a complete research pipeline for generating meaningful geographic outcomes.
+:::
+
+::: {.grid-4 .animate-on-scroll}
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-satellite"></i>
+:::
+### 1. Data Acquisition
+Satellite imagery (Sentinel, Landsat, MODIS), UAV surveys, and open geospatial datasets
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-code"></i>
+:::
+### 2. Processing & Analysis
+GEE cloud computing, Python/R scripting, ML/DL model development, and QGIS workflows
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-map-marked-alt"></i>
+:::
+### 3. Field Validation
+Ground-truth surveys, exploratory spatial research, GPS field campaigns, and accuracy assessment
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-chart-line"></i>
+:::
+### 4. Outcomes & Impact
+Validated maps, published research, policy recommendations, and open datasets for the community
+:::
+
+:::
+
+:::
+:::
+
+<!-- ============================================ -->
+<!-- STATS SECTION -->
+<!-- ============================================ -->
+
+::: {.section .section-gradient}
+::: {.container-custom}
+
+::: {.stats-grid .animate-on-scroll}
+
+::: {.stat-item}
+::: {.stat-number}
+45+
+:::
+::: {.stat-label}
+Research Publications
+:::
+:::
+
+::: {.stat-item}
+::: {.stat-number}
+12+
+:::
+::: {.stat-label}
+Active Projects
+:::
+:::
+
+::: {.stat-item}
+::: {.stat-number}
+8
+:::
+::: {.stat-label}
+Team Members
+:::
+:::
+
+::: {.stat-item}
+::: {.stat-number}
+15+
+:::
+::: {.stat-label}
+Collaborating Institutions
+:::
+:::
+
+:::
+:::
+:::
+
+<!-- ============================================ -->
+<!-- RESEARCH HIGHLIGHTS -->
+<!-- ============================================ -->
+
+::: {.section}
+::: {.container-custom}
+
+::: {.section-title}
+Research Highlights
+:::
+::: {.section-divider}
+:::
+::: {.section-subtitle}
+Selected ongoing projects demonstrating our integrated computational and field-based research approach.
+:::
+
+::: {.grid-3 .animate-on-scroll}
+
+::: {.research-card}
+::: {.card-img-wrapper}
+![](images/research-gis.png){.card-img}
+:::
+::: {.card-body}
+[Deep Learning]{.card-tag}
+
+### LULC Classification with CNN & Field Validation
+Developing deep learning architectures for automated land use/land cover classification from Sentinel-2 imagery, validated through systematic ground-truth surveys and exploratory field research across diverse landscapes.
+:::
+:::
+
+::: {.research-card}
+::: {.card-img-wrapper}
+![](images/research-terrain.png){.card-img}
+:::
+::: {.card-body}
+[GEE & QGIS]{.card-tag}
+
+### Multi-Temporal Change Detection using GEE
+Large-scale land cover change analysis leveraging Google Earth Engine's cloud computing platform combined with QGIS-based spatial modeling and field-validated accuracy assessment protocols.
+:::
+:::
+
+::: {.research-card}
+::: {.card-img-wrapper}
+![](images/research-climate.png){.card-img}
+:::
+::: {.card-body}
+[Machine Learning]{.card-tag}
+
+### Climate Variability & Spatial Prediction Modeling
+Machine learning-driven spatial analysis of climate patterns using Random Forest, XGBoost, and ensemble methods in R and Python, corroborated by meteorological ground station observations.
+:::
+:::
+
+:::
+
+::: {style="text-align: center; margin-top: 2.5rem;"}
+[<i class="fas fa-arrow-right"></i> View All Research](research.qmd){.btn-primary-custom style="background: linear-gradient(135deg, #0e4d6e, #1a8a7d); color: #ffffff;"}
+:::
+
+:::
+:::
+
+<!-- ============================================ -->
+<!-- TOOLS & TECHNOLOGIES -->
+<!-- ============================================ -->
+
+::: {.section .section-light}
+::: {.container-custom}
+
+::: {.section-title}
+Tools & Technologies
+:::
+::: {.section-divider}
+:::
+
+::: {.grid-3 .animate-on-scroll}
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fab fa-python"></i>
+:::
+### Python Ecosystem
+GeoPandas · Rasterio · scikit-learn · TensorFlow · PyTorch · xarray · Folium · matplotlib
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-chart-bar"></i>
+:::
+### R Spatial Stack
+sf · terra · stars · tmap · caret · randomForest · rgee · tidyverse
+:::
+
+::: {.feature-card}
+::: {.feature-icon}
+<i class="fas fa-cloud"></i>
+:::
+### Platforms & GIS
+Google Earth Engine · QGIS · ArcGIS Pro · SNAP/ESA · PostgreSQL/PostGIS
+:::
+
+:::
+
+:::
+:::
+
+<!-- ============================================ -->
+<!-- NEWS & UPDATES -->
+<!-- ============================================ -->
+
+::: {.section}
+::: {.container-custom}
+
+::: {.section-title}
+Latest News & Updates
+:::
+::: {.section-divider}
+:::
+
+::: {.grid-3 .animate-on-scroll}
+
+::: {.news-card}
+::: {.news-date}
+March 2026
+:::
+#### New Paper in *Remote Sensing of Environment*
+Our study on "Multi-temporal Sentinel-2 Analysis for Crop Classification Using Ensemble Learning with Field-Validated Training Data" has been accepted for publication.
+:::
+
+::: {.news-card}
+::: {.news-date}
+February 2026
+:::
+#### Field Campaign Completed
+Our team successfully completed a 3-week ground-truth data collection campaign across 150+ sample sites for validating deep learning-based land cover maps in the study region.
+:::
+
+::: {.news-card}
+::: {.news-date}
+January 2026
+:::
+#### Best Paper Award at International GIS Conference
+Our paper on "Integrating GEE-based Change Detection with Exploratory Field Research for Urban Sprawl Analysis" received the Best Paper Award.
+:::
+
+:::
+:::
+:::
+
+<!-- ============================================ -->
+<!-- CTA SECTION -->
+<!-- ============================================ -->
+
+::: {.cta-section}
+
+## Collaborate With Us
+
+We welcome collaborations with researchers, institutions, and organizations working in remote sensing, GIS, spatial data science, and field-based geographic research.
+
+[<i class="fas fa-handshake"></i> Get In Touch](contact.qmd){.btn-primary-custom}
+
+:::
+
+<!-- Back to Top Button -->
+<button id="back-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+  <i class="fas fa-chevron-up"></i>
+</button>
+
+```{=html}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.body.classList.add('js-loaded');
+
+  // Intersection Observer for scroll animations
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, { threshold: 0.1 });
+
+  document.querySelectorAll('.animate-on-scroll, .stagger-children').forEach(el => {
+    observer.observe(el);
+  });
+
+  // Back to top button
+  const backToTop = document.getElementById('back-to-top');
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 400) {
+      backToTop.classList.add('show');
+    } else {
+      backToTop.classList.remove('show');
+    }
+  });
+
+  // Particle effect
+  const particlesContainer = document.getElementById('particles');
+  if (particlesContainer) {
+    for (let i = 0; i < 25; i++) {
+      const particle = document.createElement('div');
+      particle.classList.add('particle');
+      const size = Math.random() * 5 + 2;
+      particle.style.width = size + 'px';
+      particle.style.height = size + 'px';
+      particle.style.left = Math.random() * 100 + '%';
+      particle.style.top = Math.random() * 100 + '%';
+      particle.style.setProperty('--tx', (Math.random() * 200 - 100) + 'px');
+      particle.style.setProperty('--ty', (Math.random() * 200 - 100) + 'px');
+      particle.style.animationDuration = (Math.random() * 15 + 10) + 's';
+      particle.style.animationDelay = (Math.random() * 5) + 's';
+      particlesContainer.appendChild(particle);
+    }
+  }
+});
+</script>
+```

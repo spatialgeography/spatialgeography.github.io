@@ -1,0 +1,222 @@
+---
+title: "Team"
+subtitle: "Meet the researchers behind the lab"
+page-layout: article
+toc: true
+toc-depth: 2
+---
+
+::: {.page-header}
+# Our Team
+The people driving spatial science forward
+:::
+
+## Lab Director
+
+::: {.grid-2}
+
+::: {.team-card style="text-align: left; display: flex; gap: 2rem; align-items: flex-start; padding: 2.5rem;"}
+
+![](images/team-placeholder.png){style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 4px solid rgba(26,138,125,0.2); flex-shrink: 0;"}
+
+::: {}
+#### [Placeholder — Lab Director]
+**Professor & Lab Director**
+
+[Name to be updated]. Leading researcher in geographic information science, remote sensing, and geospatial AI with expertise spanning deep learning for satellite image analysis, Google Earth Engine-based land monitoring, and field-based ground validation methodologies. Core competencies in Python, R, QGIS, and GEE.
+
+**Research Interests:** Deep learning for LULC mapping, GEE-based change detection, field survey validation, spatial data science with Python/R
+
+<div class="team-socials" style="justify-content: flex-start;">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+<a href="#" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+<a href="#" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+<a href="#" title="ORCID"><i class="ai ai-orcid"></i></a>
+<a href="#" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+<a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+</div>
+:::
+
+:::
+
+:::
+
+## Senior Researchers
+
+::: {.grid-3}
+
+::: {.team-card}
+![](images/team-placeholder.png){.team-photo}
+
+::: {.team-name}
+[Placeholder — Researcher A]
+:::
+::: {.team-role}
+Associate Researcher — Remote Sensing & DL
+:::
+::: {.team-bio}
+Specializes in SAR processing, hyperspectral analysis, and deep learning-based feature extraction. Experienced in TensorFlow/PyTorch and Google Earth Engine workflows.
+:::
+<div class="team-socials">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+<a href="#" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+<a href="#" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+</div>
+:::
+
+::: {.team-card}
+![](images/team-placeholder.png){.team-photo}
+
+::: {.team-name}
+[Placeholder — Researcher B]
+:::
+::: {.team-role}
+Researcher — Geospatial AI & ML
+:::
+::: {.team-bio}
+Expert in machine learning for geospatial applications, including Random Forest, XGBoost, and ensemble methods in R and Python. Focus on spatial prediction and accuracy assessment.
+:::
+<div class="team-socials">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+<a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+<a href="#" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+</div>
+:::
+
+::: {.team-card}
+![](images/team-placeholder.png){.team-photo}
+
+::: {.team-name}
+[Placeholder — Researcher C]
+:::
+::: {.team-role}
+Researcher — Climate & Environmental Analysis
+:::
+::: {.team-bio}
+Focuses on spatial climate modeling, urban heat island detection, and environmental vulnerability assessment using GEE, QGIS, and R-based geostatistical methods.
+:::
+<div class="team-socials">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+<a href="#" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+<a href="#" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+</div>
+:::
+
+:::
+
+## Research Scholars
+
+::: {.grid-3}
+
+::: {.team-card}
+![](images/team-placeholder.png){.team-photo}
+
+::: {.team-name}
+[Placeholder — Scholar D]
+:::
+::: {.team-role}
+Research Scholar — Urban Analytics & GIS
+:::
+::: {.team-bio}
+Researching urban land use dynamics and sprawl analysis using QGIS-based multi-criteria methods and field survey validation. Proficient in Python geospatial libraries.
+:::
+<div class="team-socials">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+<a href="#" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+</div>
+:::
+
+::: {.team-card}
+![](images/team-placeholder.png){.team-photo}
+
+::: {.team-name}
+[Placeholder — Scholar E]
+:::
+::: {.team-role}
+Research Scholar — Spatial Data Science
+:::
+::: {.team-bio}
+Working on geostatistical modeling, point pattern analysis, and spatial interpolation techniques for environmental health applications using R and Python.
+:::
+<div class="team-socials">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+<a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+</div>
+:::
+
+:::
+
+## PhD Students
+
+::: {.grid-3}
+
+::: {.team-card}
+![](images/team-placeholder.png){.team-photo}
+
+::: {.team-name}
+[Placeholder — Student F]
+:::
+::: {.team-role}
+PhD Candidate — DL for Flood Mapping
+:::
+::: {.team-bio}
+Developing deep learning frameworks for urban flood vulnerability mapping, integrating QGIS terrain analysis with CNN-based risk prediction and field-based flood occurrence surveys.
+:::
+<div class="team-socials">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+</div>
+:::
+
+::: {.team-card}
+![](images/team-placeholder.png){.team-photo}
+
+::: {.team-name}
+[Placeholder — Student G]
+:::
+::: {.team-role}
+PhD Student — Agricultural RS & ML
+:::
+::: {.team-bio}
+Fusion of SAR and optical data using attention-based deep learning for crop type classification. Conducts extensive GPS-based field surveys in agricultural study areas using Python and GEE.
+:::
+<div class="team-socials">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+<a href="#" title="GitHub"><i class="fab fa-github"></i></a>
+</div>
+:::
+
+::: {.team-card}
+![](images/team-placeholder.png){.team-photo}
+
+::: {.team-name}
+[Placeholder — Student H]
+:::
+::: {.team-role}
+PhD Student — GEE & Change Detection
+:::
+::: {.team-bio}
+GEE-based multi-temporal change detection with Random Forest classification and sequential field validation surveys. Strong skills in R spatial packages and QGIS.
+:::
+<div class="team-socials">
+<a href="#" title="Email"><i class="fas fa-envelope"></i></a>
+</div>
+:::
+
+:::
+
+## Lab Alumni
+
+| Name | Period | Research Focus | Current Role |
+|:-----|:-------|:---------------|:-------------|
+| [Placeholder Alumni 1] | 2020–2024 | DL-based land cover mapping | [Position Placeholder] |
+| [Placeholder Alumni 2] | 2019–2023 | GEE time-series analysis | [Position Placeholder] |
+| [Placeholder Alumni 3] | 2018–2022 | ML for groundwater modeling | [Position Placeholder] |
+| [Placeholder Alumni 4] | 2017–2021 | QGIS-based urban planning | [Position Placeholder] |
+| [Placeholder Alumni 5] | 2016–2020 | Field survey methodology | [Position Placeholder] |
+
+---
+
+::: {.info-box}
+#### <i class="fas fa-user-plus"></i> Join Our Team
+We seek motivated individuals with skills in Python, R, GEE, QGIS, or field survey methods. Check our [open positions](contact.qmd) or reach out to discuss opportunities.
+:::

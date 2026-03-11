@@ -1,0 +1,324 @@
+[
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "The people driving spatial science forward"
+  },
+  {
+    "objectID": "team.html#lab-director",
+    "href": "team.html#lab-director",
+    "title": "Team",
+    "section": "Lab Director",
+    "text": "Lab Director\n\n\n\n\n[Placeholder — Lab Director]\nProfessor & Lab Director\n[Name to be updated]. Leading researcher in geographic information science, remote sensing, and geospatial AI with expertise spanning deep learning for satellite image analysis, Google Earth Engine-based land monitoring, and field-based ground validation methodologies. Core competencies in Python, R, QGIS, and GEE.\nResearch Interests: Deep learning for LULC mapping, GEE-based change detection, field survey validation, spatial data science with Python/R"
+  },
+  {
+    "objectID": "team.html#senior-researchers",
+    "href": "team.html#senior-researchers",
+    "title": "Team",
+    "section": "Senior Researchers",
+    "text": "Senior Researchers\n\n\n\n\n[Placeholder — Researcher A]\n\n\nAssociate Researcher — Remote Sensing & DL\n\n\nSpecializes in SAR processing, hyperspectral analysis, and deep learning-based feature extraction. Experienced in TensorFlow/PyTorch and Google Earth Engine workflows.\n\n\n  \n\n\n\n\n\n[Placeholder — Researcher B]\n\n\nResearcher — Geospatial AI & ML\n\n\nExpert in machine learning for geospatial applications, including Random Forest, XGBoost, and ensemble methods in R and Python. Focus on spatial prediction and accuracy assessment.\n\n\n  \n\n\n\n\n\n[Placeholder — Researcher C]\n\n\nResearcher — Climate & Environmental Analysis\n\n\nFocuses on spatial climate modeling, urban heat island detection, and environmental vulnerability assessment using GEE, QGIS, and R-based geostatistical methods."
+  },
+  {
+    "objectID": "team.html#research-scholars",
+    "href": "team.html#research-scholars",
+    "title": "Team",
+    "section": "Research Scholars",
+    "text": "Research Scholars\n\n\n\n\n[Placeholder — Scholar D]\n\n\nResearch Scholar — Urban Analytics & GIS\n\n\nResearching urban land use dynamics and sprawl analysis using QGIS-based multi-criteria methods and field survey validation. Proficient in Python geospatial libraries.\n\n\n \n\n\n\n\n\n[Placeholder — Scholar E]\n\n\nResearch Scholar — Spatial Data Science\n\n\nWorking on geostatistical modeling, point pattern analysis, and spatial interpolation techniques for environmental health applications using R and Python."
+  },
+  {
+    "objectID": "team.html#phd-students",
+    "href": "team.html#phd-students",
+    "title": "Team",
+    "section": "PhD Students",
+    "text": "PhD Students\n\n\n\n\n[Placeholder — Student F]\n\n\nPhD Candidate — DL for Flood Mapping\n\n\nDeveloping deep learning frameworks for urban flood vulnerability mapping, integrating QGIS terrain analysis with CNN-based risk prediction and field-based flood occurrence surveys.\n\n\n\n\n\n\n\n\n[Placeholder — Student G]\n\n\nPhD Student — Agricultural RS & ML\n\n\nFusion of SAR and optical data using attention-based deep learning for crop type classification. Conducts extensive GPS-based field surveys in agricultural study areas using Python and GEE.\n\n\n \n\n\n\n\n\n[Placeholder — Student H]\n\n\nPhD Student — GEE & Change Detection\n\n\nGEE-based multi-temporal change detection with Random Forest classification and sequential field validation surveys. Strong skills in R spatial packages and QGIS."
+  },
+  {
+    "objectID": "team.html#lab-alumni",
+    "href": "team.html#lab-alumni",
+    "title": "Team",
+    "section": "Lab Alumni",
+    "text": "Lab Alumni\n\n\n\n\n\n\n\n\n\nName\nPeriod\nResearch Focus\nCurrent Role\n\n\n\n\n[Placeholder Alumni 1]\n2020–2024\nDL-based land cover mapping\n[Position Placeholder]\n\n\n[Placeholder Alumni 2]\n2019–2023\nGEE time-series analysis\n[Position Placeholder]\n\n\n[Placeholder Alumni 3]\n2018–2022\nML for groundwater modeling\n[Position Placeholder]\n\n\n[Placeholder Alumni 4]\n2017–2021\nQGIS-based urban planning\n[Position Placeholder]\n\n\n[Placeholder Alumni 5]\n2016–2020\nField survey methodology\n[Position Placeholder]\n\n\n\n\n\n Join Our Team\nWe seek motivated individuals with skills in Python, R, GEE, QGIS, or field survey methods. Check our open positions or reach out to discuss opportunities."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Computational geospatial science validated through field research"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Research",
+    "section": "Overview",
+    "text": "Overview\nOur research agenda integrates deep learning, machine learning, and geospatial cloud computing with systematic field-based ground validation. Every project follows our core philosophy: computational analysis must be validated through rigorous field survey and exploratory research to produce meaningful, reliable geographic outcomes."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\n1. LULC Classification Using Deep Learning with Field Validation\n\n\nStatus: ● Active | Duration: 2024 – Present\nDeveloping and comparing deep learning architectures — CNN, U-Net, ResNet-50, and Vision Transformers — for automated land use/land cover (LULC) classification from Sentinel-2 multispectral imagery. All classification results are validated through systematic ground-truth field surveys using GPS-based stratified random sampling across diverse landscape units.\nMethods & Tools:\n\nTensorFlow/PyTorch for model development in Python\nGoogle Earth Engine for image preprocessing and composite generation\nQGIS for spatial data preparation, visualization, and map layout\nField surveys with GPS/GNSS for training and validation sample collection\nAccuracy assessment: Overall Accuracy, Kappa Coefficient, F1-score, Confusion Matrix\n\nKey Outcomes:\n\n94.7% overall accuracy for 8-class LULC with field-validated CNN model\nComparative analysis of 5 DL architectures across 3 geographic regions\n1,200+ field-validated ground-truth sample points collected\n\n\n\n\n\n\nLULC Classification\n\n\n\n\n\n\n\n2. Multi-Temporal Change Detection Using GEE & Machine Learning\n\n\n\n\n\nChange Detection Analysis\n\n\n\n\nStatus: ● Active | Duration: 2023 – Present\nLarge-scale land cover change analysis using Google Earth Engine’s cloud computing platform for multi-temporal Landsat and Sentinel-2 time series processing. Machine learning classifiers (Random Forest, XGBoost, SVM) are applied in R and Python, with change trajectories validated through sequential field surveys and historical land records.\nMethods & Tools:\n\nGoogle Earth Engine JavaScript/Python API for annual composites and spectral indices\nRandom Forest and Gradient Boosting classifiers in R (caret, randomForest)\nPython (scikit-learn) for model comparison and feature importance analysis\nQGIS for post-classification filtering and cartographic outputs\nField-based sequential exploratory research at change hotspots\n\nKey Outcomes:\n\n30-year land cover change analysis spanning 1993–2023\nIdentification of urban expansion corridors with 92% change detection accuracy\nField verification at 200+ randomly selected change/no-change locations\n\n\n\n\n\n\n3. Spatial Climate Variability Modeling with ML & Ground Observations\n\n\nStatus: ● Active | Duration: 2024 – Present\nMachine learning-driven spatial analysis of climate variability patterns including temperature anomalies, precipitation trends, and urban heat islands. Models are trained using gridded reanalysis datasets (ERA5, CRU) and satellite-derived Land Surface Temperature (LST), validated against meteorological ground station observations and field-deployed weather sensors.\nMethods & Tools:\n\nPython (xarray, rioxarray) for climate data processing\nRandom Forest, XGBoost, and ensemble stacking in R and Python\nGoogle Earth Engine for MODIS LST and NDVI time series extraction\nQGIS for spatial interpolation (IDW, Kriging) and vulnerability mapping\nIn-situ temperature and precipitation data from field-deployed sensors\n\nKey Outcomes:\n\nUrban heat island intensity maps validated against 50+ field measurement points\nPrecipitation trend analysis covering 40-year period with 85% spatial R²\nClimate vulnerability index maps for 3 metropolitan study areas\n\n\n\n\n\n\nClimate Variability Analysis\n\n\n\n\n\n\n\n4. Crop Type Mapping with SAR-Optical Fusion & Ground Survey\nStatus: ● Active | Duration: 2025 – Present\nFusioning Sentinel-1 SAR with Sentinel-2 optical data using attention-based deep learning architectures for crop type classification in cloud-prone regions. Training data is collected through extensive ground-truth field surveys involving GPS-referenced plot-level crop identification and farmer interviews.\nMethodology Pipeline:\n\nGEE-based multi-temporal SAR (VV, VH) and optical (10 spectral bands) composite generation\nAttention-based CNN fusion model developed in PyTorch\nTime-series phenology analysis using Dynamic Time Warping in Python\nField survey across 300+ agricultural plots for crop type and planting date validation\nAccuracy assessment through stratified cross-validation and independent test set evaluation\n\n\n\n\n5. Urban Flood Vulnerability Assessment: GIS-ML Integration\nStatus: ● In Progress | Duration: 2025 – Present\nDeveloping a multi-criteria GIS framework integrated with machine learning for urban flood vulnerability mapping. The project combines QGIS-based terrain analysis (slope, TWI, flow accumulation), socioeconomic indicators, and land cover data, with Random Forest and Logistic Regression models. Results are validated through field-based flood occurrence surveys and community interviews.\nTools Stack:\n\nQGIS: DEM processing, terrain derivatives, spatial overlay analysis\nPython (scikit-learn): ML model development and hyperparameter tuning\nR (sf, tmap): Spatial visualization, statistical analysis, and map production\nGPS-based field surveys at historically flood-affected locations\n\n\n\n\n6. GEE-Based Vegetation Health Monitoring with Ground Validation\nStatus: ● Active | Duration: 2024 – Present\nAutomated vegetation health assessment using NDVI, EVI, and SAVI indices computed in Google Earth Engine from Sentinel-2 and MODIS data. Trend analysis using Mann-Kendall tests and Sen’s slope estimation in R. Anomaly detection validated through field-measured LAI (Leaf Area Index) and biomass sampling."
+  },
+  {
+    "objectID": "research.html#completed-projects",
+    "href": "research.html#completed-projects",
+    "title": "Research",
+    "section": "Completed Projects",
+    "text": "Completed Projects\n\n\n\n\n\n\n\n\n\nProject\nDuration\nTools Used\nKey Outcome\n\n\n\n\nWetland Mapping with Random Forest & Field Survey\n2022–2024\nGEE, R, QGIS, GPS\nWetland classification with 91% accuracy across 5 sites\n\n\nHistorical LULC Change Analysis (1990–2020)\n2020–2022\nGEE, Python, QGIS\n30-year change atlas with trend analysis for 3 districts\n\n\nGroundwater Vulnerability (DRASTIC-GIS)\n2019–2021\nQGIS, ArcGIS, Field Survey\nVulnerability maps validated with borehole water quality data\n\n\nAccessibility Analysis for Healthcare Facilities\n2018–2020\nQGIS, Python (NetworkX)\nNetwork-based accessibility indices for rural areas\n\n\nCultural Heritage Documentation\n2017–2019\nUAV, Photogrammetry, QGIS\n3D photogrammetric models of 12 heritage sites"
+  },
+  {
+    "objectID": "research.html#research-methodology-framework",
+    "href": "research.html#research-methodology-framework",
+    "title": "Research",
+    "section": "Research Methodology Framework",
+    "text": "Research Methodology Framework\n\n\n\n\n\ngraph TD\n    A[\"&lt;b&gt;Spatial Geography Lab&lt;/b&gt;&lt;br&gt;Research Pipeline\"] --&gt; B[\"Data Acquisition\"]\n    A --&gt; C[\"Computational Analysis\"]\n    A --&gt; D[\"Field Validation\"]\n    A --&gt; E[\"Outcomes & Impact\"]\n    \n    B --&gt; B1[\"Sentinel-1/2, Landsat, MODIS\"]\n    B --&gt; B2[\"UAV/Drone Surveys\"]\n    B --&gt; B3[\"Open Geospatial Data\"]\n    \n    C --&gt; C1[\"Deep Learning&lt;br&gt;CNN, U-Net, ViT\"]\n    C --&gt; C2[\"Machine Learning&lt;br&gt;RF, XGBoost, SVM\"]\n    C --&gt; C3[\"GEE Cloud Processing\"]\n    C --&gt; C4[\"QGIS Spatial Analysis\"]\n    C --&gt; C5[\"Python & R Pipelines\"]\n    \n    D --&gt; D1[\"GPS Ground-Truth Survey\"]\n    D --&gt; D2[\"Exploratory Field Research\"]\n    D --&gt; D3[\"Accuracy Assessment\"]\n    D --&gt; D4[\"In-situ Measurements\"]\n    \n    E --&gt; E1[\"Validated Thematic Maps\"]\n    E --&gt; E2[\"Peer-Reviewed Publications\"]\n    E --&gt; E3[\"Open Datasets & Code\"]\n    E --&gt; E4[\"Policy Recommendations\"]\n\n    style A fill:#0e4d6e,stroke:#0a1628,color:#fff\n    style B fill:#1a8a7d,stroke:#0a1628,color:#fff\n    style C fill:#1a8a7d,stroke:#0a1628,color:#fff\n    style D fill:#1a8a7d,stroke:#0a1628,color:#fff\n    style E fill:#1a8a7d,stroke:#0a1628,color:#fff\n\n\n\n\n\n\n\n\n Interested in Our Research?\nWe are always looking for motivated researchers and students with skills in Python, R, GEE, QGIS, or field survey methods. Contact us to explore research opportunities."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spatial Geography Lab",
+    "section": "",
+    "text": "Spatial Analysis MeetsIntelligent Computing\n\n\nWe integrate deep learning, machine learning, and geospatial technologies — including Google Earth Engine, QGIS, Python, and R — with rigorous field-based survey research. Our work bridges computational geography and ground-truth validation to generate actionable, evidence-based insights for real-world geographic challenges.\n\n\n Our Research  Meet the Team"
+  },
+  {
+    "objectID": "index.html#collaborate-with-us",
+    "href": "index.html#collaborate-with-us",
+    "title": "Spatial Geography Lab",
+    "section": "Collaborate With Us",
+    "text": "Collaborate With Us\nWe welcome collaborations with researchers, institutions, and organizations working in remote sensing, GIS, spatial data science, and field-based geographic research.\n Get In Touch"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "We’d love to hear from you"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "Get In Touch",
+    "text": "Get In Touch\nWhether you’re a prospective student, potential collaborator, or interested in our Python/R tools, GEE scripts, or field survey protocols, we welcome your inquiries."
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "Contact Information",
+    "text": "Contact Information\n\n\n\n\n\n\nEmail\nGeneral Inquiries contact@spatialgeolab.org\nLab Director director@spatialgeolab.org\n\n\n\n\n\n\n\nPhone\nMain Office [Phone Number Placeholder]\nLab Direct Line [Phone Number Placeholder]\nAvailable Mon–Fri, 9 AM – 5 PM\n\n\n\n\n\n\n\nAddress\nSpatial Geography Lab [Department Placeholder] [Building & Room Placeholder] [University/Institution Placeholder] [City, State, ZIP Placeholder]"
+  },
+  {
+    "objectID": "contact.html#send-us-a-message",
+    "href": "contact.html#send-us-a-message",
+    "title": "Contact",
+    "section": "Send Us a Message",
+    "text": "Send Us a Message\n\n\n\n Full Name \n\n\n Email Address \n\n\n Affiliation / Organization \n\n\n Subject  Select a topic… Research Collaboration Student Inquiry (PhD / Postdoc) Data / Code Access Request Questions about Python/R/GEE Tools Field Survey Collaboration Speaking / Seminar Invitation General Question \n\n\n Message\n\n\n\n Send Message"
+  },
+  {
+    "objectID": "contact.html#connect-with-us-online",
+    "href": "contact.html#connect-with-us-online",
+    "title": "Contact",
+    "section": "Connect With Us Online",
+    "text": "Connect With Us Online\n\n\n\n\n\n\nGitHub\nspatialgeography Open-source tools, GEE scripts, & code\n\n\n\n\n\n\n\nLinkedIn\nSpatial Geography Lab Professional network & updates\n\n\n\n\n\n\n\nYouTube\n@spatialgeolab Tutorials, seminars, & demos\n\n\n\n\n\n\n\nTwitter / X\n@spatialgeolab Latest news & research updates"
+  },
+  {
+    "objectID": "contact.html#open-positions",
+    "href": "contact.html#open-positions",
+    "title": "Contact",
+    "section": "Open Positions",
+    "text": "Open Positions\nWe are seeking motivated individuals with skills in deep learning, machine learning, Python/R programming, GEE, QGIS, or field survey methods:\n\n\n\n\n\n\nPhD Studentship — Deep Learning for Land Cover Mapping\nStart Date: [Placeholder] | Duration: 3–4 years | Funding: Fully funded\nWe seek a motivated PhD candidate to develop deep learning architectures for automated LULC classification from satellite imagery with field-based ground validation. Skills required: Python (TensorFlow/PyTorch), remote sensing fundamentals, willingness to conduct field surveys.\n View Details & Apply\n\n\n\n\n\n\n\nResearch Associate — GEE & Machine Learning\nStart Date: [Placeholder] | Duration: 2 years | Funding: Fully funded\nLooking for a research associate with experience in Google Earth Engine, machine learning (R/Python), and field-based data collection. The role involves developing GEE workflows, ML models, and conducting ground-truth surveys.\n View Details & Apply\n\n\n\n\n\n Response Time\nWe typically respond to inquiries within 2–3 business days. For urgent matters, please call our main office directly."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "Where spatial computing meets field-based geographic inquiry"
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Us",
+    "section": "Our Mission",
+    "text": "Our Mission\nThe Spatial Geography Lab is committed to advancing geographic science through the integration of cutting-edge computational methods — deep learning, machine learning, and cloud-based geospatial platforms — with rigorous field-based survey research. We believe that the most meaningful geographic insights emerge when satellite-derived analyses are validated through systematic ground-truth observations, creating a complete research pipeline from data acquisition to actionable outcomes.\n\n Vision Statement\nTo be a leading center of excellence in integrated spatial geographic research — combining the analytical power of deep learning, GIS, and remote sensing with the authenticity of field-based ground validation — empowering communities and decision-makers with reliable, evidence-based geographic intelligence."
+  },
+  {
+    "objectID": "about.html#our-approach",
+    "href": "about.html#our-approach",
+    "title": "About Us",
+    "section": "Our Approach",
+    "text": "Our Approach\nWhat distinguishes our lab is our commitment to integrated research methodology:\n\nComputational Analysis First — We leverage deep learning (CNNs, vision transformers), machine learning (Random Forest, XGBoost, SVM), and cloud platforms (Google Earth Engine) for large-scale spatial analysis.\nGround Validation Always — Every computational result is subjected to rigorous field validation through sequential exploratory research, GPS-based ground-truth campaigns, and systematic in-situ observations.\nOpen & Reproducible — We develop our workflows in Python and R, share our code openly, and use open-source GIS tools (QGIS, GRASS GIS) to ensure reproducibility across the research community."
+  },
+  {
+    "objectID": "about.html#core-values",
+    "href": "about.html#core-values",
+    "title": "About Us",
+    "section": "Core Values",
+    "text": "Core Values\n\n\n\n\n\n\nScientific Rigor\nWe uphold the highest standards of geographic research — every remote sensing product is accuracy-assessed, every model is validated, every conclusion is field-verified.\n\n\n\n\n\n\n\nOpen Science\nWe share our datasets, code, and methodologies openly. Our Python and R scripts, GEE workflows, and QGIS models are freely available on GitHub for the community.\n\n\n\n\n\n\n\nCollaboration\nWe believe that impactful geographic research emerges from interdisciplinary teamwork — connecting geographers, computer scientists, ecologists, and planners."
+  },
+  {
+    "objectID": "about.html#research-focus-areas",
+    "href": "about.html#research-focus-areas",
+    "title": "About Us",
+    "section": "Research Focus Areas",
+    "text": "Research Focus Areas\nOur research operates across six interconnected domains:\n\nDeep Learning for Remote Sensing — Developing CNN, U-Net, ResNet, and transformer architectures for automated land cover classification, semantic segmentation, and object detection from satellite imagery.\nMachine Learning & Spatial Prediction — Applying Random Forest, Gradient Boosting, SVM, and ensemble methods for spatial modeling, habitat suitability, vulnerability assessment, and change prediction in Python and R.\nGoogle Earth Engine Analytics — Cloud-based planetary-scale analysis for time-series change detection, composite generation, spectral index computation, and large-area land monitoring workflows.\nGIS & QGIS-based Spatial Analysis — Advanced spatial analysis using QGIS, including multi-criteria decision analysis (MCDA), network analysis, terrain derivatives, suitability modeling, and cartographic visualization.\nField Survey & Ground Validation — Systematic field campaigns using GPS/GNSS equipment, stratified sampling designs, sequential exploratory research methods, and accuracy assessment protocols (confusion matrix, Kappa, F1-score).\nPython & R Geospatial Programming — Building reproducible spatial data science pipelines using GeoPandas, Rasterio, TensorFlow/PyTorch (Python) and sf, terra, caret/tidymodels (R) for spatial analysis and modeling."
+  },
+  {
+    "objectID": "about.html#lab-history-milestones",
+    "href": "about.html#lab-history-milestones",
+    "title": "About Us",
+    "section": "Lab History & Milestones",
+    "text": "Lab History & Milestones\n\n\n\n\n\n\n2015\n\nLab Founded\nEstablished with an initial focus on GIS-based spatial analysis and remote sensing applications using QGIS and ERDAS IMAGINE.\n\n\n\n\n\n\n\n\n2017\n\nPython & R Integration\nAdopted Python and R as primary research languages, integrating GeoPandas, Rasterio, sf, and terra into all research workflows.\n\n\n\n\n\n\n\n\n2019\n\nGoogle Earth Engine Adoption\nBegan leveraging Google Earth Engine for large-scale, cloud-based remote sensing analysis, enabling continental-scale land monitoring.\n\n\n\n\n\n\n\n\n2021\n\nDeep Learning Research Program\nLaunched dedicated deep learning research, applying CNNs and transformers to satellite image classification and achieving state-of-the-art accuracy.\n\n\n\n\n\n\n\n\n2023\n\nField Validation Protocols\nFormalized our field survey and ground-truth validation methodology, establishing standard protocols for sequential exploratory research and accuracy assessment.\n\n\n\n\n\n\n\n\n2025\n\nOpen Geospatial Platform\nLaunched an open-access platform sharing our datasets, trained models, GEE scripts, and QGIS workflows with the global research community."
+  },
+  {
+    "objectID": "about.html#infrastructure-facilities",
+    "href": "about.html#infrastructure-facilities",
+    "title": "About Us",
+    "section": "Infrastructure & Facilities",
+    "text": "Infrastructure & Facilities\n\n\n\n\n\n\n\nFacility\nDescription\n\n\n\n\nGPU Computing Cluster\nNVIDIA A100/RTX workstations for training deep learning models (TensorFlow, PyTorch) on large satellite image datasets\n\n\nGIS Workstations\nDedicated workstations equipped with QGIS, ArcGIS Pro, SNAP/ESA, and Google Earth Engine access\n\n\nField Survey Equipment\nGNSS/RTK receivers, handheld GPS units, portable spectrometers, and field tablets for ground-truth data collection\n\n\nUAV/Drone Lab\nDJI Phantom 4 RTK and Matrice 300 RTK for aerial survey, photogrammetry, and site documentation\n\n\nGeospatial Data Library\nArchived satellite imagery (Landsat, Sentinel-1/2, MODIS), DEM data, and field-collected training/validation datasets\n\n\nCollaborative Workspace\nSeminar room with projection displays for group coding sessions, journal clubs, and research presentations\n\n\n\n\n\n Want to Learn More?\nWe welcome inquiries from prospective students, researchers, and collaborators. Contact us to discuss potential opportunities and partnerships."
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Visualizing our spatial research — from satellite to field"
+  },
+  {
+    "objectID": "gallery.html#research-visualizations",
+    "href": "gallery.html#research-visualizations",
+    "title": "Gallery",
+    "section": "Research Visualizations",
+    "text": "Research Visualizations\nOur research produces rich geospatial outputs spanning deep learning-based classification maps, GEE time-series analyses, terrain models, and field survey documentation.\n\n\n ::: {.gallery-overlay} #### LULC Classification Map Deep learning (CNN)-based automated land use/land cover classification from Sentinel-2 imagery, validated with field-collected GPS points.\n\n\n\n ::: {.gallery-overlay} #### Digital Elevation Model High-resolution terrain visualization with color-coded elevation, derived from QGIS DEM processing for watershed and geomorphological analysis.\n\n:::\n\n ::: {.gallery-overlay} #### Climate Anomaly Map Global temperature anomaly visualization using ML spatial prediction models, validated against ground station observations.\n\n:::\n\n ::: {.gallery-overlay} #### Lab Workspace Our GIS laboratory with GPU workstations for deep learning training and QGIS/GEE analysis workflows.\n\n:::\n\n ::: {.gallery-overlay} #### GEE Change Detection Google Earth Engine-based multi-temporal land cover change analysis with Random Forest classification outputs.\n\n:::\n\n ::: {.gallery-overlay} #### Terrain Analysis (QGIS) QGIS-processed terrain derivatives: slope, aspect, curvature, and TWI for hydrological and suitability modeling.\n\n:::\n:::"
+  },
+  {
+    "objectID": "gallery.html#fieldwork-ground-validation",
+    "href": "gallery.html#fieldwork-ground-validation",
+    "title": "Gallery",
+    "section": "Fieldwork & Ground Validation",
+    "text": "Fieldwork & Ground Validation\n\n\n\n\n\n\nGPS Ground-Truth Surveys\nSystematic GPS-based field campaigns collecting training and validation samples at 1,200+ stratified random locations for remote sensing accuracy assessment.\n\n\n\n\n\n\n\nSequential Exploratory Research\nField-based exploratory investigation of landscape patterns, verifying satellite-derived change hotspots, and documenting ground conditions through structured observation protocols.\n\n\n\n\n\n\n\nUAV/Drone Surveys\nDrone-based aerial surveys using RTK-enabled platforms for photogrammetric mapping, crop monitoring, and centimeter-resolution site documentation."
+  },
+  {
+    "objectID": "gallery.html#computational-outputs",
+    "href": "gallery.html#computational-outputs",
+    "title": "Gallery",
+    "section": "Computational Outputs",
+    "text": "Computational Outputs\n\n\n\n\n\n\nDeep Learning Models\n\nCNN, U-Net, ResNet LULC classifiers\nVision Transformer satellite image models\nSAR-Optical attention fusion networks\nTransfer learning benchmark results\nAll models shared on GitHub\n\n\n\n\n\n\n\n\nGEE & QGIS Workflows\n\nMulti-temporal composite generation\nSpectral index time-series analysis\nChange detection automation scripts\nQGIS Processing models (MCDA, terrain)\nInteractive web map dashboards\n\n\n\n\n\n\n Share Your Work\nCreated interesting geospatial visualizations using our tools or data? We’d love to feature them. Send us your work."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Our contributions to geographic science"
+  },
+  {
+    "objectID": "publications.html#overview",
+    "href": "publications.html#overview",
+    "title": "Publications",
+    "section": "Overview",
+    "text": "Overview\nOur team has contributed over 45 peer-reviewed publications in leading geographic, remote sensing, and geospatial journals. Our work emphasizes the integration of deep learning, machine learning, and GIS with field-validated methodologies. Below is a selection of recent works."
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\n\nMulti-Temporal Sentinel-2 Analysis for Crop Type Classification Using Ensemble Machine Learning with Field-Validated Training Data\n\n\n[Author A], [Author B], & [Author C]\n\n\nRemote Sensing of Environment 2026\n\n\n PDF  DOI  Code\n\n\n\n\nAttention-Based SAR-Optical Fusion Using Deep Learning for Urban Building Footprint Extraction: A GEE and PyTorch Workflow\n\n\n[Author D], [Author E], & [Author C]\n\n\nISPRS Journal of Photogrammetry and Remote Sensing 2026\n\n\n PDF  DOI"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\n\nUrban Flood Vulnerability Mapping: Integrating QGIS-Based Multi-Criteria Analysis with Random Forest and Ground-Truth Field Surveys\n\n\n[Author F], [Author G], & [Author C]\n\n\nJournal of Hydrology 2025\n\n\n PDF  DOI  Data\n\n\n\n\nVision Transformers for Land Use Classification from Sentinel-2 Imagery: A Comparative Study with Field-Validated Accuracy Assessment\n\n\n[Author D] & [Author C]\n\n\nIEEE Transactions on Geoscience and Remote Sensing 2025\n\n\n PDF  DOI  Code\n\n\n\n\nGoogle Earth Engine-Based Land Cover Change Detection (1993–2023): A Random Forest Approach with Sequential Field Validation\n\n\n[Author B], [Author H], & [Author C]\n\n\nRemote Sensing 2025\n\n\n PDF  DOI  GEE Script\n\n\n\n\nSpatial Patterns of Urban Heat Island Intensity: MODIS LST Analysis in GEE Validated with Field-Deployed Temperature Sensors\n\n\n[Author G], [Author E], & [Author C]\n\n\nLandscape and Urban Planning 2025\n\n\n PDF  DOI  Data"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\n\nDeep Learning for Automated Road Network Extraction from High-Resolution Imagery: U-Net Architecture with QGIS Post-Processing\n\n\n[Author E], [Author D], & [Author C]\n\n\nComputers, Environment and Urban Systems 2024\n\n\n PDF  DOI  Code\n\n\n\n\nGeostatistical Analysis of Groundwater Quality Using Kriging in R: Spatial Modeling Validated with Borehole Field Measurements\n\n\n[Author E] & [Author B]\n\n\nScience of the Total Environment 2024\n\n\n PDF  DOI\n\n\n\n\nNDVI Trend Analysis Using Mann-Kendall Test in Python: Spatiotemporal Vegetation Dynamics and Precipitation Correlation in Semi-Arid Regions\n\n\n[Author G] & [Author C]\n\n\nJournal of Arid Environments 2024\n\n\n PDF  DOI  Data"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\n\nTransfer Learning for Satellite Image Classification: A Systematic Review and Benchmark of CNN Architectures Using Python\n\n\n[Author D], [Author B], & [Author C]\n\n\nRemote Sensing Reviews 2023\n\n\n PDF  DOI\n\n\n\n\nNetwork-Based Accessibility Analysis of Healthcare Facilities Using QGIS and Python: A Spatial Equity Perspective\n\n\n[Author E] & [Author F]\n\n\nApplied Geography 2023\n\n\n PDF  DOI  Code"
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\n\nGeospatial Artificial Intelligence: Deep Learning Methods and Applications in Geographic Research\n\n\n[Author C] & [Author D]\n\n\nIn: Advances in Geographic Information Science, Springer 2024\n\n\n\n\nRemote Sensing for Environmental Monitoring: From Satellite Imagery to Field Validation\n\n\n[Author B] & [Author G]\n\n\nIn: Handbook of Earth Observation, Wiley 2023"
+  },
+  {
+    "objectID": "publications.html#conference-presentations-selected",
+    "href": "publications.html#conference-presentations-selected",
+    "title": "Publications",
+    "section": "Conference Presentations (Selected)",
+    "text": "Conference Presentations (Selected)\n\n\n\n\n\n\n\n\nYear\nConference\nTitle\n\n\n\n\n2026\nEGU General Assembly\nGEE-Based Drought Monitoring Using NDVI Anomaly Detection and Field-Measured Soil Moisture\n\n\n2025\nAAG Annual Meeting\nIntegrating QGIS Multi-Criteria Analysis with ML for Urban Flood Vulnerability (Best Paper)\n\n\n2025\nIEEE IGARSS\nSelf-Supervised Pretraining for Satellite Image Segmentation Using PyTorch\n\n\n2024\nISPRS Congress\nAutomated LULC Classification with Vision Transformers: A Field-Validated Approach\n\n\n2024\nGIScience Conference\nSpatial Prediction of Land Surface Temperature Using XGBoost and GEE\n\n\n2023\nAGU Fall Meeting\nMulti-Temporal Vegetation Dynamics Analysis Using GEE and Mann-Kendall Statistics in R\n\n\n\n\n\n Full Publication List\nFor a complete list of publications, visit our Google Scholar or ResearchGate profiles."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Tools and knowledge for the geospatial community"
+  },
+  {
+    "objectID": "resources.html#overview",
+    "href": "resources.html#overview",
+    "title": "Resources",
+    "section": "Overview",
+    "text": "Overview\nWe are committed to open science and reproducible research. Below you’ll find curated resources including our open-source tools, Python/R code, GEE scripts, QGIS models, field survey protocols, and recommended learning materials."
+  },
+  {
+    "objectID": "resources.html#open-source-tools-code",
+    "href": "resources.html#open-source-tools-code",
+    "title": "Resources",
+    "section": "Open-Source Tools & Code",
+    "text": "Open-Source Tools & Code\n\n\n\n\n\n\nLULC-DL Toolkit\nPython library for deep learning-based land cover classification from satellite imagery, with built-in accuracy assessment and field validation utilities.\n\n GitHub Repository\n Documentation\n pip install lulc-dl\n\n\n\n\n\n\n\n\nGEE Workflow Library\nCollection of Google Earth Engine JavaScript and Python scripts for change detection, composite generation, spectral indices, and time-series analysis.\n\n GitHub Repository\n Script Catalog\n GEE Code Editor\n\n\n\n\n\n\n\n\nR-Spatial Analysis Pack\nR package with functions for spatial prediction, geostatistical analysis, accuracy assessment, and automated report generation for geographic research.\n\n GitHub Repository\n Documentation\n devtools::install_github()"
+  },
+  {
+    "objectID": "resources.html#field-survey-resources",
+    "href": "resources.html#field-survey-resources",
+    "title": "Resources",
+    "section": "Field Survey Resources",
+    "text": "Field Survey Resources\n\n\n\n\n\n\nGround-Truth Collection Protocol\nOur standardized field survey methodology for collecting GPS-referenced training and validation samples for remote sensing accuracy assessment.\n\nStratified random sampling design templates\nGPS field data collection forms\nPhoto documentation guidelines\nAccuracy assessment spreadsheet templates (OA, Kappa, F1)\n Download Protocol PDF\n\n\n\n\n\n\n\n\nQGIS Model Library\nCollection of QGIS Processing models for terrain analysis, suitability mapping, MCDA, and cartographic layouts.\n\nDEM derivative computation (slope, aspect, TWI, TPI, TRI)\nMulti-Criteria Decision Analysis (AHP/TOPSIS) models\nNetwork accessibility analysis models\nMap layout templates for academic publications\n Download Models"
+  },
+  {
+    "objectID": "resources.html#public-datasets",
+    "href": "resources.html#public-datasets",
+    "title": "Resources",
+    "section": "Public Datasets",
+    "text": "Public Datasets\n\n\n\n\n\n\n\n\n\nDataset\nFormat\nTools Used\nDescription\n\n\n\n\nLULC Training Dataset v2.0\nGeoTIFF, CSV\nGEE, Python\n5,000+ labeled satellite image chips for 8-class LULC classification with field-collected labels\n\n\nChange Detection Reference\nGeoPackage\nGEE, QGIS\nMulti-temporal change/no-change reference dataset with field-validated labels for 200+ locations\n\n\nClimate Vulnerability Index\nGeoPackage\nR, QGIS\nMulti-criteria vulnerability indices calibrated with ground-station data for 3 metro areas\n\n\nGround-Truth Survey Points\nGPS/CSV\nGPS, QGIS\n1,200+ GPS-referenced field observations with land cover, land use, and crop type labels\n\n\nGEE Script Archive\nJavaScript\nGEE\n25+ reusable GEE scripts for composite generation, index computation, and classification\n\n\n\n\n Data Access\nAll datasets are available on our GitHub organization. Registration may be required for large datasets."
+  },
+  {
+    "objectID": "resources.html#tutorials-learning-materials",
+    "href": "resources.html#tutorials-learning-materials",
+    "title": "Resources",
+    "section": "Tutorials & Learning Materials",
+    "text": "Tutorials & Learning Materials\n\nGetting Started Guides\n\n\n\n\n\n\nPython for Geospatial Analysis\nComprehensive tutorial series: GeoPandas, Rasterio, scikit-learn for spatial ML, TensorFlow/PyTorch for DL, and geospatial visualization with Folium/matplotlib.\n\n Video Series (12 parts)\n Jupyter Notebooks\n\n\n\n\n\n\n\n\nGoogle Earth Engine Masterclass\nStep-by-step guide from basic GEE operations to complex workflows: composites, indices, change detection, Random Forest classification, and time-series analysis.\n\n Video Series (8 parts)\n GEE Code Scripts\n\n\n\n\n\n\n\n\nQGIS for Geographic Research\nAdvanced QGIS tutorials: spatial analysis, terrain modeling, MCDA, cartographic design, PyQGIS scripting, and Processing model development.\n\n Video Series (10 parts)\n PDF Manual\n\n\n\n\n\n\n\n\nDeep Learning for Remote Sensing\nFrom CNN basics to advanced architectures: image classification, semantic segmentation, object detection, and transfer learning with satellite imagery in Python.\n\n Video Series (15 parts)\n Code Repository"
+  },
+  {
+    "objectID": "resources.html#recommended-software-stack",
+    "href": "resources.html#recommended-software-stack",
+    "title": "Resources",
+    "section": "Recommended Software Stack",
+    "text": "Recommended Software Stack\n\nGIS & Mapping\n\nQGIS — Primary open-source GIS for visualization, analysis, and cartographic production\nGRASS GIS — Advanced raster and vector processing, terrain analysis\nGoogle Earth Engine — Cloud platform for planetary-scale analysis\n\n\n\nProgramming Languages\n\nPython — GeoPandas, Rasterio, scikit-learn, TensorFlow, PyTorch, xarray\nR — sf, terra, stars, tmap, caret, randomForest, rgee, tidyverse\nJavaScript — GEE Code Editor, Leaflet, D3.js for web mapping\n\n\n\nRemote Sensing\n\nSNAP/ESA — Sentinel-1 SAR and Sentinel-2 optical processing\nERDAS IMAGINE — Advanced image classification and photogrammetry\n\n\n\nField Survey\n\nGPS Essentials / SW Maps — Android GPS data collection apps\nKoBoToolbox — Open-source field data collection platform\nODK (Open Data Kit) — Mobile data collection for ground-truth surveys"
+  },
+  {
+    "objectID": "resources.html#useful-external-resources",
+    "href": "resources.html#useful-external-resources",
+    "title": "Resources",
+    "section": "Useful External Resources",
+    "text": "Useful External Resources\n\nData Sources\n\nUSGS Earth Explorer — Landsat, Sentinel, and other satellite data\nCopernicus Open Access Hub — Free Sentinel-1, -2, -3 data\nNASA Earthdata — NASA earth science data archive\nOpenStreetMap — Open collaborative mapping data\nNatural Earth — Free vector and raster map data\n\n\n\nLearning Platforms\n\nGeocomputation with R — Open textbook for spatial data science in R\nAutomating GIS Processes — University of Helsinki Python GIS course\nEO-College — Free courses on Earth observation\nGEE Developers Guide — Official GEE documentation\n\n\n\n Suggest a Resource\nKnow of a great resource we should include? Let us know and we’ll add it to this page!"
+  }
+]
