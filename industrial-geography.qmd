@@ -20,16 +20,16 @@ Welcome to the **Industrial Geography** module of Geography OpenCourseWare. This
 ---
 
 
-{{< include industrial-geography/_course-content.md >}}
+{{< include industrial-geography/course-content.md >}}
 
-{{< include industrial-geography/_industrial-location-factors.md >}}
+{{< include industrial-geography/industrial-location-factors.md >}}
 
-{{< include industrial-geography/_industrial-location-theories.md >}}
+{{< include industrial-geography/industrial-location-theories.md >}}
 
-{{< include industrial-geography/_types-of-industries.md >}}
+{{< include industrial-geography/types-of-industries.md >}}
 
-{{< include industrial-geography/_major-industrial-regions-of-the-world.md >}}
+{{< include industrial-geography/major-industrial-regions-of-the-world.md >}}
 
-{{< include industrial-geography/_indian-industrial-landscape.md >}}
+{{< include industrial-geography/indian-industrial-landscape.md >}}
 
-{{< include industrial-geography/_contemporary-industrial-trends.md >}}
+{{< include industrial-geography/contemporary-industrial-trends.md >}}

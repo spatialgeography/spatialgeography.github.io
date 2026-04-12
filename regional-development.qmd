@@ -21,16 +21,16 @@ Welcome to the **Regional Development** module of Geography OpenCourseWare. This
 ---
 
 
-{{< include regional-development/_course-content.md >}}
+{{< include regional-development/course-content.md >}}
 
-{{< include regional-development/_regional-concepts-delineation.md >}}
+{{< include regional-development/regional-concepts-delineation.md >}}
 
-{{< include regional-development/_theories-of-regional-development.md >}}
+{{< include regional-development/theories-of-regional-development.md >}}
 
-{{< include regional-development/_regional-planning-approaches.md >}}
+{{< include regional-development/regional-planning-approaches.md >}}
 
-{{< include regional-development/_regional-disparities.md >}}
+{{< include regional-development/regional-disparities.md >}}
 
-{{< include regional-development/_india-s-regional-development.md >}}
+{{< include regional-development/india-s-regional-development.md >}}
 
-{{< include regional-development/_international-perspectives.md >}}
+{{< include regional-development/international-perspectives.md >}}

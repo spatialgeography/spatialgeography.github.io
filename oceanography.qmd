@@ -21,16 +21,16 @@ Welcome to the **Oceanography** module of Geography OpenCourseWare. This course 
 ---
 
 
-{{< include oceanography/_course-content.md >}}
+{{< include oceanography/course-content.md >}}
 
-{{< include oceanography/_ocean-floor-topography.md >}}
+{{< include oceanography/ocean-floor-topography.md >}}
 
-{{< include oceanography/_temperature-salinity.md >}}
+{{< include oceanography/temperature-salinity.md >}}
 
-{{< include oceanography/_ocean-currents.md >}}
+{{< include oceanography/ocean-currents.md >}}
 
-{{< include oceanography/_waves-tides.md >}}
+{{< include oceanography/waves-tides.md >}}
 
-{{< include oceanography/_marine-resources.md >}}
+{{< include oceanography/marine-resources.md >}}
 
-{{< include oceanography/_ocean-climate-interaction.md >}}
+{{< include oceanography/ocean-climate-interaction.md >}}

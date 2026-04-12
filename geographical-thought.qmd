@@ -23,18 +23,18 @@ Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This
 ---
 
 
-{{< include geographical-thought/_course-content.md >}}
+{{< include geographical-thought/course-content.md >}}
 
-{{< include geographical-thought/_ancient-classical-geography.md >}}
+{{< include geographical-thought/ancient-classical-geography.md >}}
 
-{{< include geographical-thought/_medieval-renaissance-geography.md >}}
+{{< include geographical-thought/medieval-renaissance-geography.md >}}
 
-{{< include geographical-thought/_modern-geographical-thought.md >}}
+{{< include geographical-thought/modern-geographical-thought.md >}}
 
-{{< include geographical-thought/_quantitative-revolution.md >}}
+{{< include geographical-thought/quantitative-revolution.md >}}
 
-{{< include geographical-thought/_behavioural-humanistic-geography.md >}}
+{{< include geographical-thought/behavioural-humanistic-geography.md >}}
 
-{{< include geographical-thought/_radical-critical-geography.md >}}
+{{< include geographical-thought/radical-critical-geography.md >}}
 
-{{< include geographical-thought/_postmodern-geography.md >}}
+{{< include geographical-thought/postmodern-geography.md >}}

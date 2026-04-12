@@ -22,16 +22,16 @@ Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWar
 ---
 
 
-{{< include social-and-cultural/_course-content.md >}}
+{{< include social-and-cultural/course-content.md >}}
 
-{{< include social-and-cultural/_culture-geography.md >}}
+{{< include social-and-cultural/culture-geography.md >}}
 
-{{< include social-and-cultural/_language-religion.md >}}
+{{< include social-and-cultural/language-religion.md >}}
 
-{{< include social-and-cultural/_race-ethnicity-identity.md >}}
+{{< include social-and-cultural/race-ethnicity-identity.md >}}
 
-{{< include social-and-cultural/_gender-geography.md >}}
+{{< include social-and-cultural/gender-geography.md >}}
 
-{{< include social-and-cultural/_cultural-landscapes.md >}}
+{{< include social-and-cultural/cultural-landscapes.md >}}
 
-{{< include social-and-cultural/_globalization-cultural-change.md >}}
+{{< include social-and-cultural/globalization-cultural-change.md >}}

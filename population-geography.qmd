@@ -23,16 +23,16 @@ Welcome to the **Population Geography** module of Geography OpenCourseWare. This
 ---
 
 
-{{< include population-geography/_course-content.md >}}
+{{< include population-geography/course-content.md >}}
 
-{{< include population-geography/_population-distribution-density.md >}}
+{{< include population-geography/population-distribution-density.md >}}
 
-{{< include population-geography/_population-growth.md >}}
+{{< include population-geography/population-growth.md >}}
 
-{{< include population-geography/_demographic-transition.md >}}
+{{< include population-geography/demographic-transition.md >}}
 
-{{< include population-geography/_population-composition.md >}}
+{{< include population-geography/population-composition.md >}}
 
-{{< include population-geography/_migration.md >}}
+{{< include population-geography/migration.md >}}
 
-{{< include population-geography/_population-policies.md >}}
+{{< include population-geography/population-policies.md >}}

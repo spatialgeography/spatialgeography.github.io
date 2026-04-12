@@ -22,18 +22,18 @@ Welcome to the **Climatology** module of Geography OpenCourseWare. This course e
 ---
 
 
-{{< include climatology/_course-content.md >}}
+{{< include climatology/course-content.md >}}
 
-{{< include climatology/_atmosphere-structure-composition.md >}}
+{{< include climatology/atmosphere-structure-composition.md >}}
 
-{{< include climatology/_insolation-heat-budget.md >}}
+{{< include climatology/insolation-heat-budget.md >}}
 
-{{< include climatology/_atmospheric-circulation.md >}}
+{{< include climatology/atmospheric-circulation.md >}}
 
-{{< include climatology/_moisture-precipitation.md >}}
+{{< include climatology/moisture-precipitation.md >}}
 
-{{< include climatology/_climate-classification.md >}}
+{{< include climatology/climate-classification.md >}}
 
-{{< include climatology/_climate-change.md >}}
+{{< include climatology/climate-change.md >}}
 
-{{< include climatology/_applied-climatology.md >}}
+{{< include climatology/applied-climatology.md >}}

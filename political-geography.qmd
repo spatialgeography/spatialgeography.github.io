@@ -22,16 +22,16 @@ Welcome to the **Political Geography** module of Geography OpenCourseWare. This 
 ---
 
 
-{{< include political-geography/_course-content.md >}}
+{{< include political-geography/course-content.md >}}
 
-{{< include political-geography/_foundations-of-political-geography.md >}}
+{{< include political-geography/foundations-of-political-geography.md >}}
 
-{{< include political-geography/_state-nation-sovereignty.md >}}
+{{< include political-geography/state-nation-sovereignty.md >}}
 
-{{< include political-geography/_boundaries-frontiers.md >}}
+{{< include political-geography/boundaries-frontiers.md >}}
 
-{{< include political-geography/_geopolitical-theories.md >}}
+{{< include political-geography/geopolitical-theories.md >}}
 
-{{< include political-geography/_electoral-geography.md >}}
+{{< include political-geography/electoral-geography.md >}}
 
-{{< include political-geography/_contemporary-geopolitics.md >}}
+{{< include political-geography/contemporary-geopolitics.md >}}

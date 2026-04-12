@@ -5,7 +5,7 @@
 Understanding past, present, and future climate variability.
 
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+[![305](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
 
 [Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
 

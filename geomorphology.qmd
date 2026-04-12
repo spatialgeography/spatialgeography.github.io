@@ -21,20 +21,20 @@ Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course
 ---
 
 
-{{< include geomorphology/_course-content.md >}}
+{{< include geomorphology/course-content.md >}}
 
-{{< include geomorphology/_fundamental-concepts.md >}}
+{{< include geomorphology/fundamental-concepts.md >}}
 
-{{< include geomorphology/_endogenic-processes.md >}}
+{{< include geomorphology/endogenic-processes.md >}}
 
-{{< include geomorphology/_exogenic-processes.md >}}
+{{< include geomorphology/exogenic-processes.md >}}
 
-{{< include geomorphology/_fluvial-geomorphology.md >}}
+{{< include geomorphology/fluvial-geomorphology.md >}}
 
-{{< include geomorphology/_glacial-periglacial-landforms.md >}}
+{{< include geomorphology/glacial-periglacial-landforms.md >}}
 
-{{< include geomorphology/_coastal-geomorphology.md >}}
+{{< include geomorphology/coastal-geomorphology.md >}}
 
-{{< include geomorphology/_aeolian-processes.md >}}
+{{< include geomorphology/aeolian-processes.md >}}
 
-{{< include geomorphology/_applied-geomorphology.md >}}
+{{< include geomorphology/applied-geomorphology.md >}}

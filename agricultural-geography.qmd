@@ -21,16 +21,16 @@ Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. Th
 ---
 
 
-{{< include agricultural-geography/_course-content.md >}}
+{{< include agricultural-geography/course-content.md >}}
 
-{{< include agricultural-geography/_fundamentals-of-agricultural-geography.md >}}
+{{< include agricultural-geography/fundamentals-of-agricultural-geography.md >}}
 
-{{< include agricultural-geography/_types-of-farming.md >}}
+{{< include agricultural-geography/types-of-farming.md >}}
 
-{{< include agricultural-geography/_major-crops-distribution.md >}}
+{{< include agricultural-geography/major-crops-distribution.md >}}
 
-{{< include agricultural-geography/_agricultural-revolutions.md >}}
+{{< include agricultural-geography/agricultural-revolutions.md >}}
 
-{{< include agricultural-geography/_land-use-land-tenure.md >}}
+{{< include agricultural-geography/land-use-land-tenure.md >}}
 
-{{< include agricultural-geography/_food-security-contemporary-issues.md >}}
+{{< include agricultural-geography/food-security-contemporary-issues.md >}}

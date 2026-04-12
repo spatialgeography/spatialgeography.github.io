@@ -22,16 +22,16 @@ Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This
 ---
 
 
-{{< include settlement-geography/_course-content.md >}}
+{{< include settlement-geography/course-content.md >}}
 
-{{< include settlement-geography/_settlement-types-classification.md >}}
+{{< include settlement-geography/settlement-types-classification.md >}}
 
-{{< include settlement-geography/_rural-settlements.md >}}
+{{< include settlement-geography/rural-settlements.md >}}
 
-{{< include settlement-geography/_urban-settlements.md >}}
+{{< include settlement-geography/urban-settlements.md >}}
 
-{{< include settlement-geography/_urbanization-processes.md >}}
+{{< include settlement-geography/urbanization-processes.md >}}
 
-{{< include settlement-geography/_urban-morphology-models.md >}}
+{{< include settlement-geography/urban-morphology-models.md >}}
 
-{{< include settlement-geography/_smart-cities-future-urbanism.md >}}
+{{< include settlement-geography/smart-cities-future-urbanism.md >}}

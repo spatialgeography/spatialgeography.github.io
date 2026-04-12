@@ -22,16 +22,16 @@ Welcome to the **Statistical Geography** module of Geography OpenCourseWare. Thi
 ---
 
 
-{{< include statistical-geography/_course-content.md >}}
+{{< include statistical-geography/course-content.md >}}
 
-{{< include statistical-geography/_descriptive-statistics.md >}}
+{{< include statistical-geography/descriptive-statistics.md >}}
 
-{{< include statistical-geography/_probability-sampling.md >}}
+{{< include statistical-geography/probability-sampling.md >}}
 
-{{< include statistical-geography/_inferential-statistics.md >}}
+{{< include statistical-geography/inferential-statistics.md >}}
 
-{{< include statistical-geography/_correlation-regression.md >}}
+{{< include statistical-geography/correlation-regression.md >}}
 
-{{< include statistical-geography/_spatial-statistics.md >}}
+{{< include statistical-geography/spatial-statistics.md >}}
 
-{{< include statistical-geography/_cartographic-graphical-methods.md >}}
+{{< include statistical-geography/cartographic-graphical-methods.md >}}

@@ -20,16 +20,16 @@ Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare.
 ---
 
 
-{{< include indian-physical/_course-content.md >}}
+{{< include indian-physical/course-content.md >}}
 
-{{< include indian-physical/_physiographic-divisions.md >}}
+{{< include indian-physical/physiographic-divisions.md >}}
 
-{{< include indian-physical/_drainage-systems.md >}}
+{{< include indian-physical/drainage-systems.md >}}
 
-{{< include indian-physical/_indian-climate.md >}}
+{{< include indian-physical/indian-climate.md >}}
 
-{{< include indian-physical/_soils-of-india.md >}}
+{{< include indian-physical/soils-of-india.md >}}
 
-{{< include indian-physical/_natural-vegetation.md >}}
+{{< include indian-physical/natural-vegetation.md >}}
 
-{{< include indian-physical/_mineral-energy-resources.md >}}
+{{< include indian-physical/mineral-energy-resources.md >}}

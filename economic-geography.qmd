@@ -19,16 +19,16 @@ Welcome to the **Economic Geography** module of Geography OpenCourseWare. This c
 ---
 
 
-{{< include economic-geography/_course-content.md >}}
+{{< include economic-geography/course-content.md >}}
 
-{{< include economic-geography/_fundamentals-of-economic-geography.md >}}
+{{< include economic-geography/fundamentals-of-economic-geography.md >}}
 
-{{< include economic-geography/_primary-activities.md >}}
+{{< include economic-geography/primary-activities.md >}}
 
-{{< include economic-geography/_secondary-activities.md >}}
+{{< include economic-geography/secondary-activities.md >}}
 
-{{< include economic-geography/_tertiary-quaternary-activities.md >}}
+{{< include economic-geography/tertiary-quaternary-activities.md >}}
 
-{{< include economic-geography/_location-theories.md >}}
+{{< include economic-geography/location-theories.md >}}
 
-{{< include economic-geography/_globalization-economic-space.md >}}
+{{< include economic-geography/globalization-economic-space.md >}}

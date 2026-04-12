@@ -21,16 +21,16 @@ Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This 
 ---
 
 
-{{< include trade-and-transport/_course-content.md >}}
+{{< include trade-and-transport/course-content.md >}}
 
-{{< include trade-and-transport/_transport-geography-fundamentals.md >}}
+{{< include trade-and-transport/transport-geography-fundamentals.md >}}
 
-{{< include trade-and-transport/_modes-of-transport.md >}}
+{{< include trade-and-transport/modes-of-transport.md >}}
 
-{{< include trade-and-transport/_international-trade.md >}}
+{{< include trade-and-transport/international-trade.md >}}
 
-{{< include trade-and-transport/_transport-networks-models.md >}}
+{{< include trade-and-transport/transport-networks-models.md >}}
 
-{{< include trade-and-transport/_india-s-transport-system.md >}}
+{{< include trade-and-transport/india-s-transport-system.md >}}
 
-{{< include trade-and-transport/_global-trade-patterns.md >}}
+{{< include trade-and-transport/global-trade-patterns.md >}}

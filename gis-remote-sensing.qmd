@@ -22,18 +22,18 @@ Welcome to the **GIS & Remote Sensing** module of Geography OpenCourseWare. This
 ---
 
 
-{{< include gis-remote-sensing/_course-content.md >}}
+{{< include gis-remote-sensing/course-content.md >}}
 
-{{< include gis-remote-sensing/_fundamentals-of-gis.md >}}
+{{< include gis-remote-sensing/fundamentals-of-gis.md >}}
 
-{{< include gis-remote-sensing/_spatial-data-models.md >}}
+{{< include gis-remote-sensing/spatial-data-models.md >}}
 
-{{< include gis-remote-sensing/_spatial-analysis-techniques.md >}}
+{{< include gis-remote-sensing/spatial-analysis-techniques.md >}}
 
-{{< include gis-remote-sensing/_remote-sensing-principles.md >}}
+{{< include gis-remote-sensing/remote-sensing-principles.md >}}
 
-{{< include gis-remote-sensing/_digital-image-processing.md >}}
+{{< include gis-remote-sensing/digital-image-processing.md >}}
 
-{{< include gis-remote-sensing/_applications-of-gis-rs.md >}}
+{{< include gis-remote-sensing/applications-of-gis-rs.md >}}
 
-{{< include gis-remote-sensing/_recent-advances.md >}}
+{{< include gis-remote-sensing/recent-advances.md >}}

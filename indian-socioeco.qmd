@@ -21,16 +21,16 @@ Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCours
 ---
 
 
-{{< include indian-socioeco/_course-content.md >}}
+{{< include indian-socioeco/course-content.md >}}
 
-{{< include indian-socioeco/_india-s-population-dynamics.md >}}
+{{< include indian-socioeco/india-s-population-dynamics.md >}}
 
-{{< include indian-socioeco/_urbanization-in-india.md >}}
+{{< include indian-socioeco/urbanization-in-india.md >}}
 
-{{< include indian-socioeco/_indian-agriculture.md >}}
+{{< include indian-socioeco/indian-agriculture.md >}}
 
-{{< include indian-socioeco/_industrial-development.md >}}
+{{< include indian-socioeco/industrial-development.md >}}
 
-{{< include indian-socioeco/_transport-communication.md >}}
+{{< include indian-socioeco/transport-communication.md >}}
 
-{{< include indian-socioeco/_regional-disparities-planning.md >}}
+{{< include indian-socioeco/regional-disparities-planning.md >}}

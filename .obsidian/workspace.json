@@ -11,10 +11,14 @@
             "id": "b11d13870499f8b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "climatology/applied-climatology.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "applied-climatology"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "climatology/applied-climatology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for applied-climatology"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "climatology/applied-climatology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from applied-climatology"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "climatology/applied-climatology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of applied-climatology"
             }
           }
         ]
@@ -178,16 +185,41 @@
   },
   "active": "b11d13870499f8b2",
   "lastOpenFiles": [
-    "_site/search.json",
-    "_site/styles.css",
-    "_site/site_libs/quarto-html/tabsets/tabsets.js",
-    "_site/site_libs/quarto-html/axe/axe-check.js",
-    "_site/site_libs/quarto-search/quarto-search.js",
-    "_site/site_libs/quarto-search/fuse.min.js",
-    "_site/site_libs/quarto-search/autocomplete.umd.js",
-    "_site/site_libs/quarto-nav/quarto-nav.js",
-    "_site/site_libs/quarto-nav/headroom.min.js",
-    "_site/site_libs/bootstrap/bootstrap.min.js",
-    "_site/site_libs/bootstrap/bootstrap-icons.woff"
+    "climatology/_climate-change.md",
+    "trade-and-transport/transport-networks-models.md",
+    "trade-and-transport/transport-geography-fundamentals.md",
+    "trade-and-transport/modes-of-transport.md",
+    "trade-and-transport/international-trade.md",
+    "trade-and-transport/india-s-transport-system.md",
+    "trade-and-transport/global-trade-patterns.md",
+    "trade-and-transport/course-content.md",
+    "statistical-geography/spatial-statistics.md",
+    "statistical-geography/probability-sampling.md",
+    "statistical-geography/inferential-statistics.md",
+    "statistical-geography/descriptive-statistics.md",
+    "statistical-geography/course-content.md",
+    "statistical-geography/correlation-regression.md",
+    "statistical-geography/cartographic-graphical-methods.md",
+    "social-and-cultural/race-ethnicity-identity.md",
+    "social-and-cultural/language-religion.md",
+    "social-and-cultural/globalization-cultural-change.md",
+    "social-and-cultural/gender-geography.md",
+    "social-and-cultural/culture-geography.md",
+    "social-and-cultural/cultural-landscapes.md",
+    "social-and-cultural/course-content.md",
+    "settlement-geography/urbanization-processes.md",
+    "settlement-geography/urban-settlements.md",
+    "settlement-geography/urban-morphology-models.md",
+    "settlement-geography/smart-cities-future-urbanism.md",
+    "remove_underscores.py",
+    "_site/robots.txt",
+    "_site/sitemap.xml",
+    "ugc-net-pyq.html",
+    "ugc-net-pyq_files/mediabag",
+    "ugc-net-pyq_files",
+    "trade-and-transport.html",
+    "trade-and-transport_files/mediabag",
+    "trade-and-transport_files",
+    "teaching-learning-methodology.html"
   ]
 }
