@@ -13,7 +13,10 @@ website:
     left: |
       <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="Creative Commons License"></a><br>
       This content is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
-    center: "&copy; 2026 Geography OpenCourseWare"
+    center: |
+      &copy; 2026 Geography OpenCourseWare<br>
+      Last Updated: April 12, 2026
+
     right: |
       [<i class="bi bi-youtube"></i> YouTube](https://www.youtube.com/@SpatialGeography)
 

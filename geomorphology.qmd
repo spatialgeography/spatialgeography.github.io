@@ -7,6 +7,7 @@ toc-depth: 3
 ---
 
 
+
 Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course explores the origin, evolution, and classification of landforms across Earth's surface — from towering mountain ranges to the smallest river meanders.
 
 ---
@@ -49,4 +50,30 @@ Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course
 
 {{< include geomorphology/slope-forms-and-processes.md >}}
 
-{{< include geomorphology/environmental-and-applied-geomorphology.md >}}
+{{< include geomorphology/origin-and-evolution-of-the-earths-crusts.md >}}
+
+{{< include geomorphology/fundamentals-of-geomagnetism.md >}}
+
+{{< include geomorphology/physical-conditions-of-the-earths-interior.md >}}
+
+{{< include geomorphology/continental-drift.md >}}
+
+{{< include geomorphology/isostasy.md >}}
+
+{{< include geomorphology/plate-tectonics.md >}}
+
+{{< include geomorphology/recent-views-on-mountain-building.md >}}
+
+{{< include geomorphology/volcanicity.md >}}
+
+{{< include geomorphology/earthquakes-and-tsunamis.md >}}
+
+{{< include geomorphology/concepts-of-geomorphic-cycles-and-land-scape-development.md >}}
+
+{{< include geomorphology/denudation-chronology.md >}}
+
+{{< include geomorphology/channel-morphology.md >}}
+
+{{< include geomorphology/erosion-surfaces.md >}}
+
+{{< include geomorphology/slope-development.md >}}

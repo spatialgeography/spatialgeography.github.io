@@ -7,6 +7,7 @@ toc-depth: 3
 ---
 
 
+
 Welcome to the **Statistical Geography** module of Geography OpenCourseWare. This course covers the quantitative and statistical techniques essential for rigorous geographic research — from basic descriptive statistics to advanced spatial modeling.
 
 ---

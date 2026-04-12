@@ -7,6 +7,7 @@ toc-depth: 3
 ---
 
 
+
 Welcome to the **Climatology** module of Geography OpenCourseWare. This course explores the Earth's atmosphere, climate systems, and the physical processes that drive weather and climate variability at local, regional, and global scales.
 
 ---
@@ -47,3 +48,23 @@ Welcome to the **Climatology** module of Geography OpenCourseWare. This course e
 {{< include climatology/hydrological-cycle.md >}}
 
 {{< include climatology/global-warming.md >}}
+
+{{< include climatology/temperature-and-pressure-belts-of-the-world.md >}}
+
+{{< include climatology/heat-budget-of-the-earth.md >}}
+
+{{< include climatology/atmospheric-circulation.md >}}
+
+{{< include climatology/atmospheric-stability-and-instability.md >}}
+
+{{< include climatology/planetary-and-local-winds.md >}}
+
+{{< include climatology/air-masses-and-fronto.md >}}
+
+{{< include climatology/weather-and-climate.md >}}
+
+{{< include climatology/koppens-thornthwaites-and-trewar-thas-classification-of-world-climate.md >}}
+
+{{< include climatology/global-climatic-change-and-role-and-response-of-man-in-climatic-changes.md >}}
+
+{{< include climatology/applied-climatology-and-urban-climate.md >}}

@@ -7,6 +7,7 @@ toc-depth: 3
 ---
 
 
+
 Welcome to the **Regional Development** module of Geography OpenCourseWare. This course examines the theories and practices of regional planning and development — addressing spatial inequalities, planning strategies, and the quest for balanced territorial development.
 
 ---
@@ -21,20 +22,34 @@ Welcome to the **Regional Development** module of Geography OpenCourseWare. This
 
 ---
 
-{{< include regional-development/regional-concept-in-geography.md >}}
+{{< include regional-development/concept-of-a-region.md >}}
 
-{{< include regional-development/application-of-regional-concepts-in-planning.md >}}
+{{< include regional-development/types-of-regions-and-methods-of-regionalisation.md >}}
 
-{{< include regional-development/concept-of-planning-region.md >}}
-
-{{< include regional-development/regional-hierarchy.md >}}
-
-{{< include regional-development/types-of-regions-and-regional-delineation-methods.md >}}
-
-{{< include regional-development/conceptual-and-theoretical-framework-of-regional-planning.md >}}
-
-{{< include regional-development/regional-planning-in-india.md >}}
-
-{{< include regional-development/concept-of-development-and-indicators-of-development.md >}}
+{{< include regional-development/growth-centres-and-growth-poles.md >}}
 
 {{< include regional-development/regional-imbalances.md >}}
+
+{{< include regional-development/regional-development-strategies.md >}}
+
+{{< include regional-development/environmental-issues-in-regional-planning.md >}}
+
+{{< include regional-development/planning-for-sustainable-development.md >}}
+
+{{< include regional-development/experience-of-regional-planning-in-india.md >}}
+
+{{< include regional-development/five-year-plans.md >}}
+
+{{< include regional-development/integrated-rural-development-programmes.md >}}
+
+{{< include regional-development/panchayati-raj-and-decentralised-planning.md >}}
+
+{{< include regional-development/command-area-development.md >}}
+
+{{< include regional-development/watershed-management.md >}}
+
+{{< include regional-development/planning-for-backward-area-desert-drought-prone-hill-tribal-area-development.md >}}
+
+{{< include regional-development/multi-level-planning.md >}}
+
+{{< include regional-development/regional-planning-and-development-of-island-territories.md >}}
