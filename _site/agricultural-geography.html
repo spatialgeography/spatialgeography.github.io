@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -108,16 +137,19 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#agricultural-regionalisation" id="toc-agricultural-regionalisation" class="nav-link" data-scroll-target="#agricultural-regionalisation">Agricultural regionalisation</a></li>
   </ul></li>
-  <li><a href="#agricultural-revolutions" id="toc-agricultural-revolutions" class="nav-link" data-scroll-target="#agricultural-revolutions">Agricultural Revolutions</a>
+  <li><a href="#agricultural-revolutions" id="toc-agricultural-revolutions" class="nav-link" data-scroll-target="#agricultural-revolutions">Agricultural Revolutions</a></li>
+  <li><a href="#whittleseys-classification-of-agricultural-regions-1936" id="toc-whittleseys-classification-of-agricultural-regions-1936" class="nav-link" data-scroll-target="#whittleseys-classification-of-agricultural-regions-1936">Whittlesey’s Classification of Agricultural Regions (1936)</a>
   <ul class="collapse">
-  <li><a href="#agricultural-systems-of-the-world" id="toc-agricultural-systems-of-the-world" class="nav-link" data-scroll-target="#agricultural-systems-of-the-world">Agricultural systems of the world</a></li>
+  <li><a href="#five-criteria-for-classification" id="toc-five-criteria-for-classification" class="nav-link" data-scroll-target="#five-criteria-for-classification">Five Criteria for Classification</a></li>
+  <li><a href="#major-agricultural-regions" id="toc-major-agricultural-regions" class="nav-link" data-scroll-target="#major-agricultural-regions">Major Agricultural Regions</a></li>
   <li><a href="#agro-and-social-forestry" id="toc-agro-and-social-forestry" class="nav-link" data-scroll-target="#agro-and-social-forestry">Agro and social-forestry</a></li>
   <li><a href="#agro-climatic-zones" id="toc-agro-climatic-zones" class="nav-link" data-scroll-target="#agro-climatic-zones">Agro-climatic zones</a></li>
   <li><a href="#agro-ecological-regions." id="toc-agro-ecological-regions." class="nav-link" data-scroll-target="#agro-ecological-regions.">Agro-ecological regions.</a></li>
   </ul></li>
-  <li><a href="#course-content" id="toc-course-content" class="nav-link" data-scroll-target="#course-content">Course Content</a>
+  <li><a href="#course-content" id="toc-course-content" class="nav-link" data-scroll-target="#course-content">Course Content</a></li>
+  <li><a href="#crop-combinations" id="toc-crop-combinations" class="nav-link" data-scroll-target="#crop-combinations">Crop Combinations</a>
   <ul class="collapse">
-  <li><a href="#crop-combinations-and-diversification" id="toc-crop-combinations-and-diversification" class="nav-link" data-scroll-target="#crop-combinations-and-diversification">Crop combinations and diversification</a></li>
+  <li><a href="#major-statistical-methods" id="toc-major-statistical-methods" class="nav-link" data-scroll-target="#major-statistical-methods">Major Statistical Methods</a></li>
   <li><a href="#cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability" id="toc-cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability" class="nav-link" data-scroll-target="#cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability">Cropping pattern, agricultural productivity, agricultural intensity, crop combination, land capability</a></li>
   <li><a href="#delimitation-of-agricultural-regions" id="toc-delimitation-of-agricultural-regions" class="nav-link" data-scroll-target="#delimitation-of-agricultural-regions">Delimitation of agricultural regions</a></li>
   </ul></li>
@@ -139,7 +171,10 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#major-crops-distribution" id="toc-major-crops-distribution" class="nav-link" data-scroll-target="#major-crops-distribution">Major Crops &amp; Distribution</a>
   <ul class="collapse">
   <li><a href="#major-industries-and-industrial-regions" id="toc-major-industries-and-industrial-regions" class="nav-link" data-scroll-target="#major-industries-and-industrial-regions">Major industries and industrial regions</a></li>
-  <li><a href="#measurement-of-agricultural-productivity-and-efficiency" id="toc-measurement-of-agricultural-productivity-and-efficiency" class="nav-link" data-scroll-target="#measurement-of-agricultural-productivity-and-efficiency">Measurement of agricultural productivity and efficiency</a></li>
+  </ul></li>
+  <li><a href="#measurement-of-agricultural-productivity-and-efficiency" id="toc-measurement-of-agricultural-productivity-and-efficiency" class="nav-link" data-scroll-target="#measurement-of-agricultural-productivity-and-efficiency">Measurement of Agricultural Productivity and Efficiency</a>
+  <ul class="collapse">
+  <li><a href="#key-techniques-and-scholars" id="toc-key-techniques-and-scholars" class="nav-link" data-scroll-target="#key-techniques-and-scholars">Key Techniques and Scholars</a></li>
   <li><a href="#mineral-and-power-resources" id="toc-mineral-and-power-resources" class="nav-link" data-scroll-target="#mineral-and-power-resources">Mineral and power resources</a></li>
   <li><a href="#population-distribution-and-growth" id="toc-population-distribution-and-growth" class="nav-link" data-scroll-target="#population-distribution-and-growth">Population distribution and growth</a></li>
   <li><a href="#regional-disparities-in-social-and-economic-development" id="toc-regional-disparities-in-social-and-economic-development" class="nav-link" data-scroll-target="#regional-disparities-in-social-and-economic-development">Regional disparities in social and economic development</a></li>
@@ -223,9 +258,36 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </div>
 </div>
-<section id="agricultural-systems-of-the-world" class="level3">
-<h3 class="anchored" data-anchor-id="agricultural-systems-of-the-world">Agricultural systems of the world</h3>
-<p>Content for Agricultural systems of the world coming soon.</p>
+</section>
+<section id="whittleseys-classification-of-agricultural-regions-1936" class="level2">
+<h2 class="anchored" data-anchor-id="whittleseys-classification-of-agricultural-regions-1936">Whittlesey’s Classification of Agricultural Regions (1936)</h2>
+<p><strong>Derwent Whittlesey</strong> proposed a comprehensive classification of the world’s agricultural regions based on five functional and structural criteria.</p>
+<section id="five-criteria-for-classification" class="level3">
+<h3 class="anchored" data-anchor-id="five-criteria-for-classification">Five Criteria for Classification</h3>
+<ol type="1">
+<li><strong>Crop and Livestock Combination</strong>: The specific mix of plants and animals being raised.</li>
+<li><strong>Methods and Techniques</strong>: The tools and practices used to grow crops and raise livestock.</li>
+<li><strong>Intensiveness of Inputs</strong>: The degree of application of labor, capital, and technology per unit of land.</li>
+<li><strong>Disposal of Products</strong>: Whether the produce is for subsistence or for sale (commercial).</li>
+<li><strong>Ensemble of Structures</strong>: The types of farm buildings and infrastructure used to house the operation.</li>
+</ol>
+</section>
+<section id="major-agricultural-regions" class="level3">
+<h3 class="anchored" data-anchor-id="major-agricultural-regions">Major Agricultural Regions</h3>
+<ol type="1">
+<li><strong>Nomadic Herding</strong>: Extensive subsistence livestock raising (e.g., Fulani in West Africa, Masai in East Africa, Bedouins in Saudi Arabia).</li>
+<li><strong>Livestock Ranching</strong>: Commercial grazing of livestock over extensive areas (e.g., Pampa in Uruguay/Argentina, Veldt in South Africa, Downs in Australia).</li>
+<li><strong>Shifting Cultivation</strong>: Slash-and-burn agriculture (e.g., Milpa in Central America, Ladang in Malaysia, Jhum in North-Eastern India).</li>
+<li><strong>Rudimentary Sedentary Tillage</strong>: Tropical subsistence farming with fixed fields.</li>
+<li><strong>Intensive Subsistence Agriculture</strong>: Found in monsoon-dominated regions of Asia with high population density (paddy-rice dominant).</li>
+<li><strong>Mediterranean Agriculture</strong>: Specialized farming in Mediterranean climates (grapes, olives, citrus).</li>
+<li><strong>Commercial Grain Farming</strong>: Large-scale mechanized wheat/grain production (Steppes, Prairies).</li>
+<li><strong>Commercial Livestock and Crop Farming</strong>: Mixed farming aimed at the market.</li>
+<li><strong>Commercial Dairy Farming</strong>: Specialized milk and dairy product production (e.g., in Europe and North America).</li>
+<li><strong>Specialized Horticulture and Olericulture</strong>: Also known as “Truck Farming” (fruits and vegetables).</li>
+<li><strong>Collective Farming</strong>: Jointly owned/operated holdings (e.g., Sovkhozes in the former USSR).</li>
+<li><strong>Commercial Plantation Farming</strong>: Large-scale export-oriented monoculture (coffee, tea, rubber, sugar).</li>
+</ol>
 </section>
 <section id="agro-and-social-forestry" class="level3">
 <h3 class="anchored" data-anchor-id="agro-and-social-forestry">Agro and social-forestry</h3>
@@ -251,9 +313,28 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="#food-security-contemporary-issues">Food Security &amp; Contemporary Issues</a></li>
 </ul>
 <hr>
-<section id="crop-combinations-and-diversification" class="level3">
-<h3 class="anchored" data-anchor-id="crop-combinations-and-diversification">Crop combinations and diversification</h3>
-<p>Content for Crop combinations and diversification coming soon.</p>
+</section>
+<section id="crop-combinations" class="level2">
+<h2 class="anchored" data-anchor-id="crop-combinations">Crop Combinations</h2>
+<p>Crop combination is the study of the diversity of crops grown in a specific area during a specific interval of time. It provides a basis for regional planning and understanding the complexity of agricultural regions.</p>
+<section id="major-statistical-methods" class="level3">
+<h3 class="anchored" data-anchor-id="major-statistical-methods">Major Statistical Methods</h3>
+<section id="j.c.-weaver-1954" class="level4">
+<h4 class="anchored" data-anchor-id="j.c.-weaver-1954">1. J.C. Weaver (1954)</h4>
+<p><strong>Weaver’s Minimum Variance Method</strong> is the most famous statistical approach for identifying crop combinations. He compared the actual percentage of cropland under various crops with a theoretical distribution (e.g., 100% for 1 crop, 50% for 2 crops, etc.). * <strong>Formula</strong>: <span class="math inline">\(d^2 = \frac{\sum d^2}{n}\)</span> * Used to define the crop combination of 1081 counties in his research work.</p>
+</section>
+<section id="weavers-method-modifications" class="level4">
+<h4 class="anchored" data-anchor-id="weavers-method-modifications">2. Weaver’s Method Modifications</h4>
+<p>Several scholars modified Weaver’s approach to overcome drawbacks like the tendency to show the lowest deviation for insignificant crops: * <strong>Doi (1959)</strong>: Introduced the concept of “Standard Deviation” to substitute Weaver’s variance. * <strong>Peter Scott (1957)</strong>: Suggested that animals are as important as crops when determining the combination region of Tasmania. * <strong>J.T. Coppock</strong>: Modified methods to account for all animals on the farm by converting them into equivalent units based on food consumption.</p>
+</section>
+<section id="other-contributors" class="level4">
+<h4 class="anchored" data-anchor-id="other-contributors">3. Other Contributors</h4>
+<ul>
+<li><strong>Jasbir Singh (1971)</strong></li>
+<li><strong>Singh and Dhillon (1984)</strong></li>
+<li><strong>Tinath and Krishan (1966)</strong></li>
+</ul>
+</section>
 </section>
 <section id="cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability" class="level3">
 <h3 class="anchored" data-anchor-id="cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability">Cropping pattern, agricultural productivity, agricultural intensity, crop combination, land capability</h3>
@@ -394,9 +475,40 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="major-industries-and-industrial-regions">Major industries and industrial regions</h3>
 <p>Content for Major industries and industrial regions coming soon.</p>
 </section>
-<section id="measurement-of-agricultural-productivity-and-efficiency" class="level3">
-<h3 class="anchored" data-anchor-id="measurement-of-agricultural-productivity-and-efficiency">Measurement of agricultural productivity and efficiency</h3>
-<p>Content for Measurement of agricultural productivity and efficiency coming soon.</p>
+</section>
+<section id="measurement-of-agricultural-productivity-and-efficiency" class="level2">
+<h2 class="anchored" data-anchor-id="measurement-of-agricultural-productivity-and-efficiency">Measurement of Agricultural Productivity and Efficiency</h2>
+<p>Agricultural productivity is the measure of agricultural output per unit of input (land, labor, or capital).</p>
+<section id="key-techniques-and-scholars" class="level3">
+<h3 class="anchored" data-anchor-id="key-techniques-and-scholars">Key Techniques and Scholars</h3>
+<section id="m.g.-kendall-1939" class="level4">
+<h4 class="anchored" data-anchor-id="m.g.-kendall-1939">1. M.G. Kendall (1939)</h4>
+<p>Proposed the <strong>Ranking Coefficient Method</strong>. He considered output per unit area (yield) across 48 administrative towns in England to determine productivity levels.</p>
+</section>
+<section id="sapre-and-despande-1964" class="level4">
+<h4 class="anchored" data-anchor-id="sapre-and-despande-1964">2. Sapre and Despande (1964)</h4>
+<p>Used a similar ranking order method, giving weightage to the output per unit area along with the percentage share under each crop.</p>
+</section>
+<section id="bhatia-1967" class="level4">
+<h4 class="anchored" data-anchor-id="bhatia-1967">3. Bhatia (1967)</h4>
+<p>Devised the <strong>Yield Index</strong> formula: <span class="math display">\[I_y = \frac{Y_c}{Y_r} \times 100\]</span> Where <span class="math inline">\(Y_c\)</span> is the hectare yield of a crop in the component area and <span class="math inline">\(Y_r\)</span> is the yield of the same crop in the entire region.</p>
+</section>
+<section id="l.d.-stamp-1967" class="level4">
+<h4 class="anchored" data-anchor-id="l.d.-stamp-1967">4. L.D. Stamp (1967)</h4>
+<p>Introduced the concept of the <strong>“Standard Nutrition Unit”</strong> (SNU), measuring the carrying capacity of land in terms of the population it can support, taking caloric value into account.</p>
+</section>
+<section id="endyedi-1964-and-shafi-1972-74" class="level4">
+<h4 class="anchored" data-anchor-id="endyedi-1964-and-shafi-1972-74">5. Endyedi (1964) and Shafi (1972-74)</h4>
+<p>Defined the <strong>Productivity Index</strong> to determine indices in respect of twelve food crops in India. <span class="math display">\[Index = \frac{Y}{Y_n} \div \frac{T}{T_n}\]</span></p>
+</section>
+<section id="jasbir-singh-1972-74" class="level4">
+<h4 class="anchored" data-anchor-id="jasbir-singh-1972-74">6. Jasbir Singh (1972-74)</h4>
+<p>Modified previous techniques to calculate the carrying capacity of agricultural land in regions like Haryana, expressing it as a percentage of the entire region.</p>
+</section>
+<section id="v.r.-singh-1979" class="level4">
+<h4 class="anchored" data-anchor-id="v.r.-singh-1979">7. V.R. Singh (1979)</h4>
+<p>Developed a technique concerned with delimiting agricultural productivity by computing intensity and spread indices of yield, grain equivalents, and cropping patterns.</p>
+</section>
 </section>
 <section id="mineral-and-power-resources" class="level3">
 <h3 class="anchored" data-anchor-id="mineral-and-power-resources">Mineral and power resources</h3>

@@ -2,6 +2,8 @@
 
 **Derwent Whittlesey** proposed a comprehensive classification of the world's agricultural regions based on five functional and structural criteria.
 
+![[Pasted image 20260412233851.png]]
+
 ### Five Criteria for Classification
 1.  **Crop and Livestock Combination**: The specific mix of plants and animals being raised.
 2.  **Methods and Techniques**: The tools and practices used to grow crops and raise livestock.

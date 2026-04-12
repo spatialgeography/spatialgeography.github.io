@@ -11,14 +11,12 @@
             "id": "b11d13870499f8b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "environmental/ecosystem-their-management-and-conservation.md",
-                "mode": "source",
-                "source": false
+                "file": "agricultural-geography/Attachments/Pasted image 20260412233851.png"
               },
-              "icon": "lucide-file",
-              "title": "ecosystem-their-management-and-conservation"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260412233851"
             }
           }
         ]
@@ -183,19 +181,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "8bacf287e87606e0",
+  "active": "b11d13870499f8b2",
   "lastOpenFiles": [
-    "indian-socioeco/agro-climatic-zones.md",
-    "economic-geography/Economic Geography NET.pdf",
-    "economic-geography/Unconfirmed 581198.crdownload",
-    "political-geography/Political NET.pdf",
-    "political-geography/Unconfirmed 154899.crdownload",
+    "agricultural-geography/agricultural-systems-of-the-world.md",
+    "agricultural-geography/Attachments/Pasted image 20260412233851.png",
+    "agricultural-geography/Attachments",
+    "agricultural-geography/agricultural-revolutions.md",
+    "agricultural-geography/agricultural-regionalisation.md",
+    "environmental/ecosystem-their-management-and-conservation.md",
     "ugc-net-pyq.html",
     "ugc-net-pyq_files/mediabag",
     "ugc-net-pyq_files",
     "trade-and-transport.html",
     "trade-and-transport_files/mediabag",
     "trade-and-transport_files",
+    "teaching-learning-methodology.html",
+    "teaching-learning-methodology_files/mediabag",
+    "teaching-learning-methodology_files",
+    "regional-development/theories-of-regional-development.md",
+    "regional-development/regional-planning-approaches.md",
+    "political-geography/course-content.md",
+    "population-geography/population-policies.md",
+    "population-geography/population-growth.md",
+    "population-geography/population-distribution-density.md",
+    "population-geography/population-composition.md",
+    "population-geography/migration.md",
+    "population-geography/course-content.md",
+    "indian-socioeco/agro-climatic-zones.md",
     "environmental/ecology-ecosystems.md",
     "environmental/conservation-and-management-of-ecosystems.md",
     "environmental/classification-and-distribution-of-soils.md",
@@ -207,19 +219,6 @@
     "indian-socioeco/environmental-awareness.md",
     "indian-socioeco/concept-of-sustainable-growth-and-development.md",
     "indian-socioeco/regional-disparities-in-economic-development.md",
-    "indian-socioeco/problems-of-agrarian-and-industrial-unrest.md",
-    "indian-socioeco/deforestation-desertification-and-soil-erosion.md",
-    "indian-socioeco/environmental-degradation.md",
-    "indian-socioeco/population-explosion-and-food-security.md",
-    "indian-socioeco/principles-of-environmental-impact-assessment-and-environmental-management.md",
-    "indian-socioeco/changes-in-patterns-of-land-use.md",
-    "indian-socioeco/issues-related-to-environmental-pollution.md",
-    "indian-socioeco/ecological-issues-environmental-hazards-landslides-earthquakes-tsunamis-floods-and-droughts-epidemics.md",
-    "regional-development/regional-planning-and-development-of-island-territories.md",
-    "regional-development/multi-level-planning.md",
-    "regional-development/planning-for-backward-area-desert-drought-prone-hill-tribal-area-development.md",
-    "regional-development/watershed-management.md",
-    "regional-development/command-area-development.md",
-    "regional-development/panchayati-raj-and-decentralised-planning.md"
+    "indian-socioeco/problems-of-agrarian-and-industrial-unrest.md"
   ]
 }
