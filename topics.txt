@@ -1,0 +1,200 @@
+Unit – I: Geomorphology	Unit – I: Geomorphology
+	Fundamental concepts of geomorphology
+	Factors controlling landform development
+	Endogenetic and exogenetic forces
+	Denudation processes: weathering and erosion
+	Geosynclines
+	Mountain building
+	Continental drift and plate tectonics
+	Concept of the Geomorphic Cycle
+	Landforms associated with:
+	Fluvial cycles
+	Glacial cycles
+	Arid cycles
+	Coastal cycles
+	Karst cycles
+	Slope forms and processes
+	Environmental and Applied Geomorphology
+Unit – II: Climatology	Unit – II: Climatology
+	Composition and structure of the atmosphere
+	Insolation and heat budget of the earth
+	Distribution of temperature
+	Atmospheric pressure and general circulation of winds
+	Monsoons and jet streams
+	Stability and instability of the atmosphere
+	Air-masses and fronts
+	Temperate and tropical cyclones
+	Types and distribution of precipitation
+	Classification of world climates:
+	Köppen’s scheme
+	Thornthwaite’s scheme
+	Hydrological cycle
+	Global warming
+Unit – III: Oceanography and Bio-Geography	Unit – III: Oceanography and Bio-Geography
+Oceanography	Oceanography
+	Origin of ocean basins
+	Bottom relief of Indian, Atlantic, and Pacific Oceans
+	Ocean deposits
+	Coral reefs
+	Temperature and salinity of the oceans
+	Density of seawater
+	Tides and ocean currents
+	Sea-level changes
+Bio-Geography	Bio-Geography
+	Physical factors influencing world distribution of plants and animals
+	Forms and functions of ecosystems:
+	Forest
+	Grassland
+	Marine
+	Mountain
+	Biodiversity and its depletion: natural and human-induced causes
+	Conservation and management of ecosystems
+	Environmental hazards and pollution
+	Ozone depletion
+Unit – IV: History of Geographic Thought	Unit – IV: History of Geographic Thought
+	Geographic knowledge during the ancient and medieval period
+	Foundations of Modern Geography: Contributions of:
+	German schools
+	French schools
+	British schools
+	American schools
+	Conceptual and methodological developments during the 20th century
+	Changing paradigms in geography
+	Man and environment: determinism and possibilism
+	Area differentiation and spatial organization
+	Quantitative revolution
+	Impact of:
+	Positivism
+	Humanism
+	Radicalism
+	Behavioralism
+Unit – V: Population and Settlement Geography	Unit – V: Population and Settlement Geography
+Population Geography	Population Geography
+	Nature, scope, and recent trends
+	Patterns of world distribution, growth, and density of population
+	Population policy issues
+	Patterns and processes of migration
+	Demographic transition
+	Population-resource regions
+Settlement Geography	Settlement Geography
+	Site and situation of settlements
+	Types, size, and spacing of settlements
+	Internal morphology of rural and urban settlements
+	Ecological processes of urban growth
+	Urban fringe
+	City-region concepts
+	Settlement systems
+	Primate city
+	Rank-Size rule
+	Settlement hierarchy
+	Christaller’s Central Place Theory
+	August Losch’s Market Centre Theory
+	Unit – VI: Economic Geography
+Economic Geography	Economic Geography
+	Location of economic activities
+	Spatial organization of economies
+	Classification of economies
+	Sectors of the economy:
+	Primary
+	Secondary
+	Tertiary
+	Quaternary
+	Natural resources: renewable and non-renewable
+	Conservation of resources
+Agricultural Geography	Agricultural Geography
+	Delimitation of agricultural regions
+	Measurement of agricultural productivity and efficiency
+	Crop combinations and diversification
+	Von Thunen’s Model
+	Agricultural systems of the world
+Industrial Geography	Industrial Geography
+	Classification of industries
+	Weber’s approach
+	Losch’s approach
+	Resource-based and footloose industries
+Geography of Transport and Trade	Geography of Transport and Trade
+	Models of transportation and transport cost
+	Accessibility and connectivity
+	Inter-regional and intra-regional trade
+	Comparative cost advantages
+	Unit – VII: Political, Social, and Cultural Geography
+Political Geography	Political Geography
+	Definition and scope
+	Geopolitics and global strategic views:
+	Heartland Theory
+	Rimland Theory
+	Concept of nation, state, and nation-state
+	Boundaries and frontiers
+	Politics of world resources
+	Geography and federalism
+Social Geography	Social Geography
+	Nature and scope of social geography
+	Social structure and processes
+	Elements of social geography:
+	Ethnicity
+	Tribe
+	Dialect
+	Language
+	Caste
+	Religion
+	Concept of social well-being
+Cultural Geography	Cultural Geography
+	Nature and scope of cultural geography
+	Environment and culture
+	Concept of culture-areas and cultural regions
+	Theories of tribal groups
+	Dwelling places as cultural expressions
+Unit – VIII: Regional Planning	Unit – VIII: Regional Planning
+	Regional concept in geography
+	Application of regional concepts in planning
+	Concept of planning region
+	Regional hierarchy
+	Types of regions and regional delineation methods
+	Conceptual and theoretical framework of regional planning
+	Regional planning in India
+	Concept of development and indicators of development
+	Regional imbalances
+Unit – IX: Geography of India	Unit – IX: Geography of India
+	Physiographic divisions
+	Climate and regional variations
+	Vegetation types and regions
+	Major soil types
+	Coastal and marine resources
+	Water resources and irrigation
+	Agriculture and agroclimatic regions
+	Mineral and power resources
+	Major industries and industrial regions
+	Population distribution and growth
+	Settlement patterns
+	Regional disparities in social and economic development
+	Unit – X: Cartography, Remote Sensing, and Statistical Methods
+Cartography	Cartography
+	Maps as a tool in geographical studies
+	Types of maps
+	Techniques for studying spatial patterns of distribution
+	Single-purpose and composite maps
+	Mapping techniques:
+	Choropleth maps
+	Isopleth maps
+	Chorochromatic maps
+	Pie diagrams
+	Accessibility and flow maps
+Remote Sensing and GIS	Remote Sensing and GIS
+	Remote sensing applications
+	Digital mapping
+	Geographic Information System (GIS)
+	Thematic maps
+Statistical Methods	Statistical Methods
+	Data sources and types
+	Statistical diagrams
+	Frequency distribution and cumulative frequency
+	Measures of central tendency
+	Class intervals for mapping
+	Measures of dispersion and concentration
+	Standard deviation
+	Lorenz curve
+	Measuring association among attributes
+	Correlation: simple and multiple
+	Measurement of spatial patterns: nearest-neighbour analysis
+	Scaling techniques: rank score, weighted score
+	Sampling techniques for geographical analysis

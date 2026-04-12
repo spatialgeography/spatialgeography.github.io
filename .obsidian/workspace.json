@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "climatology/applied-climatology.md",
+                "file": "climatology/insolation-heat-budget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "applied-climatology"
+              "title": "insolation-heat-budget"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "climatology/applied-climatology.md",
+                "file": "climatology/insolation-heat-budget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for applied-climatology"
+              "title": "Backlinks for insolation-heat-budget"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "climatology/applied-climatology.md",
+                "file": "climatology/insolation-heat-budget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from applied-climatology"
+              "title": "Outgoing links from insolation-heat-budget"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "climatology/applied-climatology.md",
+                "file": "climatology/insolation-heat-budget.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of applied-climatology"
+              "title": "Outline of insolation-heat-budget"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "b11d13870499f8b2",
   "lastOpenFiles": [
-    "climatology/_climate-change.md",
-    "trade-and-transport/transport-networks-models.md",
-    "trade-and-transport/transport-geography-fundamentals.md",
-    "trade-and-transport/modes-of-transport.md",
-    "trade-and-transport/international-trade.md",
-    "trade-and-transport/india-s-transport-system.md",
-    "trade-and-transport/global-trade-patterns.md",
-    "trade-and-transport/course-content.md",
-    "statistical-geography/spatial-statistics.md",
-    "statistical-geography/probability-sampling.md",
-    "statistical-geography/inferential-statistics.md",
-    "statistical-geography/descriptive-statistics.md",
-    "statistical-geography/course-content.md",
-    "statistical-geography/correlation-regression.md",
-    "statistical-geography/cartographic-graphical-methods.md",
-    "social-and-cultural/race-ethnicity-identity.md",
-    "social-and-cultural/language-religion.md",
-    "social-and-cultural/globalization-cultural-change.md",
-    "social-and-cultural/gender-geography.md",
-    "social-and-cultural/culture-geography.md",
-    "social-and-cultural/cultural-landscapes.md",
-    "social-and-cultural/course-content.md",
-    "settlement-geography/urbanization-processes.md",
-    "settlement-geography/urban-settlements.md",
-    "settlement-geography/urban-morphology-models.md",
-    "settlement-geography/smart-cities-future-urbanism.md",
-    "remove_underscores.py",
-    "_site/robots.txt",
-    "_site/sitemap.xml",
+    "geomorphology/topics3.txt",
+    "statistical-geography/sampling-techniques-for-geographical-analysis.md",
+    "statistical-geography/scaling-techniques-rank-score-weighted-score.md",
+    "statistical-geography/measurement-of-spatial-patterns-nearest-neighbour-analysis.md",
+    "statistical-geography/correlation-simple-and-multiple.md",
+    "statistical-geography/measuring-association-among-attributes.md",
+    "statistical-geography/lorenz-curve.md",
+    "statistical-geography/standard-deviation.md",
+    "statistical-geography/measures-of-dispersion-and-concentration.md",
+    "statistical-geography/class-intervals-for-mapping.md",
+    "statistical-geography/measures-of-central-tendency.md",
+    "statistical-geography/frequency-distribution-and-cumulative-frequency.md",
+    "statistical-geography/statistical-diagrams.md",
+    "statistical-geography/data-sources-and-types.md",
+    "gis-remote-sensing/thematic-maps.md",
+    "gis-remote-sensing/geographic-information-system-gis.md",
+    "gis-remote-sensing/digital-mapping.md",
+    "gis-remote-sensing/remote-sensing-applications.md",
+    "gis-remote-sensing/accessibility-and-flow-maps.md",
+    "gis-remote-sensing/pie-diagrams.md",
+    "gis-remote-sensing/chorochromatic-maps.md",
+    "gis-remote-sensing/isopleth-maps.md",
+    "gis-remote-sensing/choropleth-maps.md",
+    "gis-remote-sensing/mapping-techniques.md",
+    "gis-remote-sensing/single-purpose-and-composite-maps.md",
+    "gis-remote-sensing/techniques-for-studying-spatial-patterns-of-distribution.md",
+    "generate_syllabus_files.py",
+    "topics.txt",
     "ugc-net-pyq.html",
     "ugc-net-pyq_files/mediabag",
     "ugc-net-pyq_files",
     "trade-and-transport.html",
     "trade-and-transport_files/mediabag",
     "trade-and-transport_files",
-    "teaching-learning-methodology.html"
+    "teaching-learning-methodology.html",
+    "teaching-learning-methodology_files/mediabag"
   ]
 }

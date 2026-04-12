@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Statistical Geography** module of Geography OpenCourseWare. This course covers the quantitative and statistical techniques essential for rigorous geographic research — from basic descriptive statistics to advanced spatial modeling.
 
 ---
@@ -21,17 +22,28 @@ Welcome to the **Statistical Geography** module of Geography OpenCourseWare. Thi
 
 ---
 
+{{< include statistical-geography/data-sources-and-types.md >}}
 
-{{< include statistical-geography/course-content.md >}}
+{{< include statistical-geography/statistical-diagrams.md >}}
 
-{{< include statistical-geography/descriptive-statistics.md >}}
+{{< include statistical-geography/frequency-distribution-and-cumulative-frequency.md >}}
 
-{{< include statistical-geography/probability-sampling.md >}}
+{{< include statistical-geography/measures-of-central-tendency.md >}}
 
-{{< include statistical-geography/inferential-statistics.md >}}
+{{< include statistical-geography/class-intervals-for-mapping.md >}}
 
-{{< include statistical-geography/correlation-regression.md >}}
+{{< include statistical-geography/measures-of-dispersion-and-concentration.md >}}
 
-{{< include statistical-geography/spatial-statistics.md >}}
+{{< include statistical-geography/standard-deviation.md >}}
 
-{{< include statistical-geography/cartographic-graphical-methods.md >}}
+{{< include statistical-geography/lorenz-curve.md >}}
+
+{{< include statistical-geography/measuring-association-among-attributes.md >}}
+
+{{< include statistical-geography/correlation-simple-and-multiple.md >}}
+
+{{< include statistical-geography/measurement-of-spatial-patterns-nearest-neighbour-analysis.md >}}
+
+{{< include statistical-geography/scaling-techniques-rank-score-weighted-score.md >}}
+
+{{< include statistical-geography/sampling-techniques-for-geographical-analysis.md >}}

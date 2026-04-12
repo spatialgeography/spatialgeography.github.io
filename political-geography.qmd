@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Political Geography** module of Geography OpenCourseWare. This course examines how political power is organized spatially — from the formation of nation-states and boundary disputes to contemporary geopolitical rivalries and electoral geography.
 
 ---
@@ -21,17 +22,16 @@ Welcome to the **Political Geography** module of Geography OpenCourseWare. This 
 
 ---
 
+{{< include political-geography/definition-and-scope.md >}}
 
-{{< include political-geography/course-content.md >}}
+{{< include political-geography/heartland-theory.md >}}
 
-{{< include political-geography/foundations-of-political-geography.md >}}
+{{< include political-geography/rimland-theory.md >}}
 
-{{< include political-geography/state-nation-sovereignty.md >}}
+{{< include political-geography/concept-of-nation-state-and-nation-state.md >}}
 
-{{< include political-geography/boundaries-frontiers.md >}}
+{{< include political-geography/boundaries-and-frontiers.md >}}
 
-{{< include political-geography/geopolitical-theories.md >}}
+{{< include political-geography/politics-of-world-resources.md >}}
 
-{{< include political-geography/electoral-geography.md >}}
-
-{{< include political-geography/contemporary-geopolitics.md >}}
+{{< include political-geography/geography-and-federalism.md >}}

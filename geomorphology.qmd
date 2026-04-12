@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course explores the origin, evolution, and classification of landforms across Earth's surface — from towering mountain ranges to the smallest river meanders.
 
 ---
@@ -20,21 +21,32 @@ Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course
 
 ---
 
+{{< include geomorphology/fundamental-concepts-of-geomorphology.md >}}
 
-{{< include geomorphology/course-content.md >}}
+{{< include geomorphology/factors-controlling-landform-development.md >}}
 
-{{< include geomorphology/fundamental-concepts.md >}}
+{{< include geomorphology/endogenetic-and-exogenetic-forces.md >}}
 
-{{< include geomorphology/endogenic-processes.md >}}
+{{< include geomorphology/denudation-processes-weathering-and-erosion.md >}}
 
-{{< include geomorphology/exogenic-processes.md >}}
+{{< include geomorphology/geosynclines.md >}}
 
-{{< include geomorphology/fluvial-geomorphology.md >}}
+{{< include geomorphology/mountain-building.md >}}
 
-{{< include geomorphology/glacial-periglacial-landforms.md >}}
+{{< include geomorphology/continental-drift-and-plate-tectonics.md >}}
 
-{{< include geomorphology/coastal-geomorphology.md >}}
+{{< include geomorphology/concept-of-the-geomorphic-cycle.md >}}
 
-{{< include geomorphology/aeolian-processes.md >}}
+{{< include geomorphology/fluvial-cycles.md >}}
 
-{{< include geomorphology/applied-geomorphology.md >}}
+{{< include geomorphology/glacial-cycles.md >}}
+
+{{< include geomorphology/arid-cycles.md >}}
+
+{{< include geomorphology/coastal-cycles.md >}}
+
+{{< include geomorphology/karst-cycles.md >}}
+
+{{< include geomorphology/slope-forms-and-processes.md >}}
+
+{{< include geomorphology/environmental-and-applied-geomorphology.md >}}

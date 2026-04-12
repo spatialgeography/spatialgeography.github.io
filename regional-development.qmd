@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Regional Development** module of Geography OpenCourseWare. This course examines the theories and practices of regional planning and development — addressing spatial inequalities, planning strategies, and the quest for balanced territorial development.
 
 ---
@@ -20,17 +21,20 @@ Welcome to the **Regional Development** module of Geography OpenCourseWare. This
 
 ---
 
+{{< include regional-development/regional-concept-in-geography.md >}}
 
-{{< include regional-development/course-content.md >}}
+{{< include regional-development/application-of-regional-concepts-in-planning.md >}}
 
-{{< include regional-development/regional-concepts-delineation.md >}}
+{{< include regional-development/concept-of-planning-region.md >}}
 
-{{< include regional-development/theories-of-regional-development.md >}}
+{{< include regional-development/regional-hierarchy.md >}}
 
-{{< include regional-development/regional-planning-approaches.md >}}
+{{< include regional-development/types-of-regions-and-regional-delineation-methods.md >}}
 
-{{< include regional-development/regional-disparities.md >}}
+{{< include regional-development/conceptual-and-theoretical-framework-of-regional-planning.md >}}
 
-{{< include regional-development/india-s-regional-development.md >}}
+{{< include regional-development/regional-planning-in-india.md >}}
 
-{{< include regional-development/international-perspectives.md >}}
+{{< include regional-development/concept-of-development-and-indicators-of-development.md >}}
+
+{{< include regional-development/regional-imbalances.md >}}

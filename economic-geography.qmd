@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Economic Geography** module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes.
 
 ---
@@ -18,17 +19,20 @@ Welcome to the **Economic Geography** module of Geography OpenCourseWare. This c
 
 ---
 
+{{< include economic-geography/location-of-economic-activities.md >}}
 
-{{< include economic-geography/course-content.md >}}
+{{< include economic-geography/spatial-organization-of-economies.md >}}
 
-{{< include economic-geography/fundamentals-of-economic-geography.md >}}
+{{< include economic-geography/classification-of-economies.md >}}
 
-{{< include economic-geography/primary-activities.md >}}
+{{< include economic-geography/primary.md >}}
 
-{{< include economic-geography/secondary-activities.md >}}
+{{< include economic-geography/secondary.md >}}
 
-{{< include economic-geography/tertiary-quaternary-activities.md >}}
+{{< include economic-geography/tertiary.md >}}
 
-{{< include economic-geography/location-theories.md >}}
+{{< include economic-geography/quaternary.md >}}
 
-{{< include economic-geography/globalization-economic-space.md >}}
+{{< include economic-geography/natural-resources-renewable-and-non-renewable.md >}}
+
+{{< include economic-geography/conservation-of-resources.md >}}

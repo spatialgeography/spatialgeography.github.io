@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare. This course provides a comprehensive study of India's physiographic divisions, drainage systems, climate patterns, soils, and natural vegetation — the physical foundation of the subcontinent.
 
 ---
@@ -19,17 +20,16 @@ Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare.
 
 ---
 
-
-{{< include indian-physical/course-content.md >}}
-
 {{< include indian-physical/physiographic-divisions.md >}}
 
-{{< include indian-physical/drainage-systems.md >}}
+{{< include indian-physical/climate-and-regional-variations.md >}}
 
-{{< include indian-physical/indian-climate.md >}}
+{{< include indian-physical/vegetation-types-and-regions.md >}}
 
-{{< include indian-physical/soils-of-india.md >}}
+{{< include indian-physical/major-soil-types.md >}}
 
-{{< include indian-physical/natural-vegetation.md >}}
+{{< include indian-physical/coastal-and-marine-resources.md >}}
 
-{{< include indian-physical/mineral-energy-resources.md >}}
+{{< include indian-physical/water-resources-and-irrigation.md >}}
+
+{{< include indian-physical/major-industries-and-industrial-regions.md >}}

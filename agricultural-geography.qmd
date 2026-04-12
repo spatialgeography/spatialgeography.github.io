@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. This course examines the spatial organization of agriculture — including farming systems, crop distribution, land use patterns, agricultural revolutions, and contemporary challenges of food security.
 
 ---
@@ -20,17 +21,12 @@ Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. Th
 
 ---
 
+{{< include agricultural-geography/delimitation-of-agricultural-regions.md >}}
 
-{{< include agricultural-geography/course-content.md >}}
+{{< include agricultural-geography/measurement-of-agricultural-productivity-and-efficiency.md >}}
 
-{{< include agricultural-geography/fundamentals-of-agricultural-geography.md >}}
+{{< include agricultural-geography/crop-combinations-and-diversification.md >}}
 
-{{< include agricultural-geography/types-of-farming.md >}}
+{{< include agricultural-geography/von-thunens-model.md >}}
 
-{{< include agricultural-geography/major-crops-distribution.md >}}
-
-{{< include agricultural-geography/agricultural-revolutions.md >}}
-
-{{< include agricultural-geography/land-use-land-tenure.md >}}
-
-{{< include agricultural-geography/food-security-contemporary-issues.md >}}
+{{< include agricultural-geography/agricultural-systems-of-the-world.md >}}

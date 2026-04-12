@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **GIS & Remote Sensing** module of Geography OpenCourseWare. This course covers the principles and applications of Geographic Information Systems and satellite-based remote sensing — the technological backbone of modern geographical analysis.
 
 ---
@@ -21,19 +22,28 @@ Welcome to the **GIS & Remote Sensing** module of Geography OpenCourseWare. This
 
 ---
 
+{{< include gis-remote-sensing/maps-as-a-tool-in-geographical-studies.md >}}
 
-{{< include gis-remote-sensing/course-content.md >}}
+{{< include gis-remote-sensing/types-of-maps.md >}}
 
-{{< include gis-remote-sensing/fundamentals-of-gis.md >}}
+{{< include gis-remote-sensing/techniques-for-studying-spatial-patterns-of-distribution.md >}}
 
-{{< include gis-remote-sensing/spatial-data-models.md >}}
+{{< include gis-remote-sensing/single-purpose-and-composite-maps.md >}}
 
-{{< include gis-remote-sensing/spatial-analysis-techniques.md >}}
+{{< include gis-remote-sensing/choropleth-maps.md >}}
 
-{{< include gis-remote-sensing/remote-sensing-principles.md >}}
+{{< include gis-remote-sensing/isopleth-maps.md >}}
 
-{{< include gis-remote-sensing/digital-image-processing.md >}}
+{{< include gis-remote-sensing/chorochromatic-maps.md >}}
 
-{{< include gis-remote-sensing/applications-of-gis-rs.md >}}
+{{< include gis-remote-sensing/pie-diagrams.md >}}
 
-{{< include gis-remote-sensing/recent-advances.md >}}
+{{< include gis-remote-sensing/accessibility-and-flow-maps.md >}}
+
+{{< include gis-remote-sensing/remote-sensing-applications.md >}}
+
+{{< include gis-remote-sensing/digital-mapping.md >}}
+
+{{< include gis-remote-sensing/geographic-information-system-gis.md >}}
+
+{{< include gis-remote-sensing/thematic-maps.md >}}

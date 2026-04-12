@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Environmental Geography** module of Geography OpenCourseWare. This course bridges physical and human geography by examining the complex interactions between human societies and the natural environment — from ecosystem dynamics to contemporary environmental crises.
 
 ---
@@ -20,17 +21,20 @@ Welcome to the **Environmental Geography** module of Geography OpenCourseWare. T
 
 ---
 
+{{< include environmental/physical-factors-influencing-world-distribution-of-plants-and-animals.md >}}
 
-{{< include environmental/course-content.md >}}
+{{< include environmental/forest.md >}}
 
-{{< include environmental/ecology-ecosystems.md >}}
+{{< include environmental/grassland.md >}}
 
-{{< include environmental/biogeography.md >}}
+{{< include environmental/marine.md >}}
 
-{{< include environmental/environmental-degradation.md >}}
+{{< include environmental/mountain.md >}}
 
-{{< include environmental/natural-hazards-disasters.md >}}
+{{< include environmental/biodiversity-and-its-depletion-natural-and-human-induced-causes.md >}}
 
-{{< include environmental/environmental-policies-governance.md >}}
+{{< include environmental/conservation-and-management-of-ecosystems.md >}}
 
-{{< include environmental/sustainable-development.md >}}
+{{< include environmental/environmental-hazards-and-pollution.md >}}
+
+{{< include environmental/ozone-depletion.md >}}

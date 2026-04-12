@@ -6,6 +6,7 @@ toc: true
 toc-depth: 3
 ---
 
+
 Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWare. This course explores how culture, identity, religion, ethnicity, and social structures are distributed across space and how they interact with geographic landscapes and processes.
 
 ---
@@ -21,17 +22,30 @@ Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWar
 
 ---
 
+{{< include social-and-cultural/nature-and-scope-of-social-geography.md >}}
 
-{{< include social-and-cultural/course-content.md >}}
+{{< include social-and-cultural/social-structure-and-processes.md >}}
 
-{{< include social-and-cultural/culture-geography.md >}}
+{{< include social-and-cultural/ethnicity.md >}}
 
-{{< include social-and-cultural/language-religion.md >}}
+{{< include social-and-cultural/tribe.md >}}
 
-{{< include social-and-cultural/race-ethnicity-identity.md >}}
+{{< include social-and-cultural/dialect.md >}}
 
-{{< include social-and-cultural/gender-geography.md >}}
+{{< include social-and-cultural/language.md >}}
 
-{{< include social-and-cultural/cultural-landscapes.md >}}
+{{< include social-and-cultural/caste.md >}}
 
-{{< include social-and-cultural/globalization-cultural-change.md >}}
+{{< include social-and-cultural/religion.md >}}
+
+{{< include social-and-cultural/concept-of-social-well-being.md >}}
+
+{{< include social-and-cultural/nature-and-scope-of-cultural-geography.md >}}
+
+{{< include social-and-cultural/environment-and-culture.md >}}
+
+{{< include social-and-cultural/concept-of-culture-areas-and-cultural-regions.md >}}
+
+{{< include social-and-cultural/theories-of-tribal-groups.md >}}
+
+{{< include social-and-cultural/dwelling-places-as-cultural-expressions.md >}}
