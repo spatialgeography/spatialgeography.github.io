@@ -1,0 +1,39 @@
+---
+title: "GIS & Remote Sensing"
+subtitle: "Geospatial technologies for mapping, analysis, and Earth observation."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **GIS & Remote Sensing** module of Geography OpenCourseWare. This course covers the principles and applications of Geographic Information Systems and satellite-based remote sensing — the technological backbone of modern geographical analysis.
+
+---
+
+## UGC NET Syllabus
+
+* **GIS Database (raster and vector data formats and attribute data formats), Functions of GIS (conversion, editing and analysis).**
+* **Digital Elevation Model (DEM), Georeferencing (coordinate system and map projections and Datum).**
+* **GIS Applications (thematic cartography, spatial decision support system).**
+* **Basics of Remote Sensing (Electromagnetic Spectrum, Sensors and Platforms, Resolution and Types, Elements of Air Photo and Satellite Image Interpretation and Photogrammetry), Types of Aerial Photographs.**
+* **Digital Image Processing: Developments in Remote Sensing Technology and Big Data Sharing and its applications in Natural Resources Management in India.**
+* **GPS Components (space, ground control and receiver segments) and Applications.**
+
+---
+
+
+{{< include gis-remote-sensing/_course-content.md >}}
+
+{{< include gis-remote-sensing/_fundamentals-of-gis.md >}}
+
+{{< include gis-remote-sensing/_spatial-data-models.md >}}
+
+{{< include gis-remote-sensing/_spatial-analysis-techniques.md >}}
+
+{{< include gis-remote-sensing/_remote-sensing-principles.md >}}
+
+{{< include gis-remote-sensing/_digital-image-processing.md >}}
+
+{{< include gis-remote-sensing/_applications-of-gis-rs.md >}}
+
+{{< include gis-remote-sensing/_recent-advances.md >}}

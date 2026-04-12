@@ -1,0 +1,36 @@
+---
+title: "Environmental Geography"
+subtitle: "Human-environment interactions, ecosystems, and contemporary environmental challenges."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Environmental Geography** module of Geography OpenCourseWare. This course bridges physical and human geography by examining the complex interactions between human societies and the natural environment — from ecosystem dynamics to contemporary environmental crises.
+
+---
+
+## UGC NET Syllabus
+
+* **Components: Ecosystem (Geographic Classification) and Human Ecology.**
+* **Functions: Trophic Levels, Energy Flows, Cycles (geo-chemical, carbon, nitrogen and oxygen), Food Chain, Food Web and Ecological Pyramid.**
+* **Human Interaction and Impacts, Environmental Ethics and Deep Ecology.**
+* **Environmental Hazards and Disasters (Global Warming, Urban Heat Island, Atmospheric Pollution, Water Pollution, Land Degradation).**
+* **National Programmes and Policies: Legal Framework, Environmental Policy, International Treaties, International Programmes and Polices (Brundtland Commission, Kyoto Protocol, Agenda 21, Sustainable Development Goals, Paris Agreement).**
+
+---
+
+
+{{< include environmental/_course-content.md >}}
+
+{{< include environmental/_ecology-ecosystems.md >}}
+
+{{< include environmental/_biogeography.md >}}
+
+{{< include environmental/_environmental-degradation.md >}}
+
+{{< include environmental/_natural-hazards-disasters.md >}}
+
+{{< include environmental/_environmental-policies-governance.md >}}
+
+{{< include environmental/_sustainable-development.md >}}

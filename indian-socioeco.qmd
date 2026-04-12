@@ -1,0 +1,36 @@
+---
+title: "Indian Socio-Economic Geography"
+subtitle: "Socio-economic dimensions of Indian geography — development, disparities, and planning."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCourseWare. This course provides a comprehensive understanding of the socio-economic landscape of India — including population dynamics, urbanization patterns, industrial development, agricultural change, and regional disparities.
+
+---
+
+## UGC NET Syllabus
+
+* **Population Characteristics (spatial patterns of distribution), Growth and Composition, Determinants of Population, Population Policies in India.**
+* **Agriculture (Production, Productivity and Yield of Major Food Crops), Major Crop Regions, Regional Variations in Agricultural Development, Environmental, Technological and Institutional Factors affecting Indian Agriculture; Agro-Climatic Zones, Green Revolution, Food Security and Right to Food.**
+* **Industrial Development since Independence, Industrial Regions and their characteristics, Industrial Policies in India.**
+* **Development and Patterns of Transport Networks (railways, roadways, waterways, airways and pipelines), Internal and External Trade, Regional Development Planning in India.**
+* **Globalisation and its impact on Indian Economy.**
+
+---
+
+
+{{< include indian-socioeco/_course-content.md >}}
+
+{{< include indian-socioeco/_india-s-population-dynamics.md >}}
+
+{{< include indian-socioeco/_urbanization-in-india.md >}}
+
+{{< include indian-socioeco/_indian-agriculture.md >}}
+
+{{< include indian-socioeco/_industrial-development.md >}}
+
+{{< include indian-socioeco/_transport-communication.md >}}
+
+{{< include indian-socioeco/_regional-disparities-planning.md >}}

@@ -1,0 +1,48 @@
+---
+title: "Geography"
+---
+
+Welcome to **Geography OpenCourseWare** — a curated, open-access platform designed to help you master the full breadth of geographical knowledge. From physical landscapes and climatic systems to human settlement patterns and economic forces, each module below provides structured, high-quality educational content for students, educators, and researchers.
+
+---
+
+### Physical Geography
+
+* [Geomorphology](geomorphology.html)
+* [Climatology](climatology.html)
+* [Oceanography](oceanography.html)
+* [Environmental](environmental.html)
+
+### Human Geography
+
+* [Population Geography](population-geography.html)
+* [Settlement Geography](settlement-geography.html)
+* [Social & Cultural](social-and-cultural.html)
+* [Political Geography](political-geography.html)
+
+### Economic Geography
+
+* [Economic Geography](economic-geography.html)
+* [Agricultural Geography](agricultural-geography.html)
+* [Industrial Geography](industrial-geography.html)
+* [Trade and Transport](trade-and-transport.html)
+* [Regional Development](regional-development.html)
+
+### Geographical Techniques & Thought
+
+* [Geographical Thought](geographical-thought.html)
+* [GIS & Remote Sensing](gis-remote-sensing.html)
+* [Statistical Geography](statistical-geography.html)
+
+### Indian Geography
+
+* [Indian Physical](indian-physical.html)
+* [Indian SocioEco](indian-socioeco.html)
+
+### Supplementary Resources
+
+* [UGC NET Previous Year Questions](ugc-net-pyq.html)
+* [Reading Materials Sources](reading-materials.html)
+* [Teaching Learning methodology](teaching-learning-methodology.html)
+
+---

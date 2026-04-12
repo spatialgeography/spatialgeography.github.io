@@ -1,0 +1,36 @@
+---
+title: "Oceanography"
+subtitle: "Physical and chemical properties of the world's oceans and their geographic significance."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Oceanography** module of Geography OpenCourseWare. This course explores the physical, chemical, and biological dynamics of the world's oceans — covering ocean floor topography, water masses, currents, tides, and the marine environment.
+
+---
+
+## UGC NET Syllabus
+
+* **Relief of Oceans.**
+* **Composition: Temperature, Density and Salinity.**
+* **Circulation: Warm and Cold Currents, Waves, Tides.**
+* **Sea Level Changes.**
+* **Hazards: Tsunami and Cyclone.**
+
+---
+
+
+{{< include oceanography/_course-content.md >}}
+
+{{< include oceanography/_ocean-floor-topography.md >}}
+
+{{< include oceanography/_temperature-salinity.md >}}
+
+{{< include oceanography/_ocean-currents.md >}}
+
+{{< include oceanography/_waves-tides.md >}}
+
+{{< include oceanography/_marine-resources.md >}}
+
+{{< include oceanography/_ocean-climate-interaction.md >}}

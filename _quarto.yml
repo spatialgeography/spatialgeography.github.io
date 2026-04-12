@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+website:
+  title: "Geography"
+  navbar:
+    background: dark
+    logo: logo.png
+  page-footer:
+    left: |
+      <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" alt="Creative Commons License"></a><br>
+      This content is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
+    center: "&copy; 2026 Geography OpenCourseWare"
+    right: |
+      [<i class="bi bi-youtube"></i> YouTube](https://www.youtube.com/@SpatialGeography)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    highlight-style: pygments
+    code-copy: true
+    breadcrumbs: true
+    link-external-newwindow: true
+    link-external-icon: true
+    include-after-body: print.html
+    other-links:
+      - text: Print / Save as PDF
+        icon: printer
+        href: javascript:window.print()

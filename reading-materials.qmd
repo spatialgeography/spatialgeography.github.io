@@ -1,0 +1,42 @@
+---
+title: "Reading Materials Sources"
+subtitle: "Valuable e-resources and open access scholarly materials for Geography students."
+author: "Geography Team"
+---
+
+Welcome to our curated collection of reading materials. These sources provide high-quality textbooks, research papers, and interactive learning modules from leading academic networks.
+
+---
+
+### E-learning Portals
+
+To support your self-study and provide access to authoritative resources, we recommend the following platforms:
+
+::: {.subject-grid}
+
+::: {.subject-card}
+<i class="bi bi-book-half" style="font-size: 2rem; color: var(--primary-blue); margin-bottom: 10px;"></i>
+#### [e-Adhyayan (e-Books)](https://ebooks.inflibnet.ac.in/eadhyayan/site/genre?id=Geography)
+High-quality e-Books for postgraduate Geography courses provided by INFLIBNET.
+:::
+
+::: {.subject-card}
+<i class="bi bi-mortarboard" style="font-size: 2rem; color: var(--primary-green); margin-bottom: 10px;"></i>
+#### [e-PG Pathshala](https://epgp.inflibnet.ac.in/Home/ViewSubject?catid=KwH6LnSyFhsLI6M9Z0+tvw==)
+Comprehensive curriculum-based interactive content and video lectures.
+:::
+
+::: {.subject-card}
+<i class="bi bi-person-video3" style="font-size: 2rem; color: #ff5722; margin-bottom: 10px;"></i>
+#### [NPTEL Courses](https://nptel.ac.in/courses)
+Online courses in Geography and related disciplines provided by India's top technical institutes.
+:::
+
+:::
+
+---
+
+### How to use these materials
+- **e-Adhyayan**: Best for looking up standard university textbook material.
+- **e-PG Pathshala**: Provides modular self-paced learning content and video explanations.
+- **NPTEL Courses**: Excellent for in-depth academic lectures and structured certifications from premier institutions.

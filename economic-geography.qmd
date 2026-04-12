@@ -1,0 +1,34 @@
+---
+title: "Economic Geography"
+subtitle: "Spatial patterns of economic activities, production, and resource distribution."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Economic Geography** module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes.
+
+---
+
+## UGC NET Syllabus
+
+* **Factors affecting spatial organisation of economic activities (primary, secondary, tertiary and quarternary).**
+* **Natural Resources (classification, distribution and associated problems), Natural Resources Management.**
+* **World Energy Crises in Developed and Developing Countries.**
+
+---
+
+
+{{< include economic-geography/_course-content.md >}}
+
+{{< include economic-geography/_fundamentals-of-economic-geography.md >}}
+
+{{< include economic-geography/_primary-activities.md >}}
+
+{{< include economic-geography/_secondary-activities.md >}}
+
+{{< include economic-geography/_tertiary-quaternary-activities.md >}}
+
+{{< include economic-geography/_location-theories.md >}}
+
+{{< include economic-geography/_globalization-economic-space.md >}}

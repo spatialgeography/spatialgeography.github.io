@@ -1,0 +1,37 @@
+---
+title: "Social & Cultural Geography"
+subtitle: "Spatial dimensions of culture, identity, religion, language, and social structures."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWare. This course explores how culture, identity, religion, ethnicity, and social structures are distributed across space and how they interact with geographic landscapes and processes.
+
+---
+
+## UGC NET Syllabus
+
+* **Concept of Culture, Cultural Complexes, Areas and Region, Cultural Heritage, Cultural Ecology, Cultural Convergence.**
+* **Social Structure and Processes, Social Well-being and Quality of Life, Social Exclusion.**
+* **Spatial distribution of social groups in India (Tribe, Caste, Religion and Language).**
+* **Environment and Human Health, Diseases Ecology.**
+* **Nutritional Status (etiological conditions, classification and spatial and seasonal distributional patterns with special reference to India).**
+* **Health Care Planning and Policies in India, Medical Tourism in India.**
+
+---
+
+
+{{< include social-and-cultural/_course-content.md >}}
+
+{{< include social-and-cultural/_culture-geography.md >}}
+
+{{< include social-and-cultural/_language-religion.md >}}
+
+{{< include social-and-cultural/_race-ethnicity-identity.md >}}
+
+{{< include social-and-cultural/_gender-geography.md >}}
+
+{{< include social-and-cultural/_cultural-landscapes.md >}}
+
+{{< include social-and-cultural/_globalization-cultural-change.md >}}

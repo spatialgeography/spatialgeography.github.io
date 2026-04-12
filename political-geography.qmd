@@ -1,0 +1,37 @@
+---
+title: "Political Geography"
+subtitle: "Spatial dimensions of political power, borders, states, and geopolitics."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Political Geography** module of Geography OpenCourseWare. This course examines how political power is organized spatially — from the formation of nation-states and boundary disputes to contemporary geopolitical rivalries and electoral geography.
+
+---
+
+## UGC NET Syllabus
+
+* **Boundaries and Frontiers (with special reference to India).**
+* **Heartland and Rimland Theories.**
+* **Trends and Developments in Political Geography.**
+* **Geography of Federalism, Electoral Reforms in India, Determinants of Electoral Behaviour.**
+* **Geopolitics of Climate Change, Geopolitics of World Resources, Geo-politics of India Ocean.**
+* **Regional Organisations of Cooperation (SAARC, ASEAN, OPEC, EU), Neopolitics of World Natural Resources.**
+
+---
+
+
+{{< include political-geography/_course-content.md >}}
+
+{{< include political-geography/_foundations-of-political-geography.md >}}
+
+{{< include political-geography/_state-nation-sovereignty.md >}}
+
+{{< include political-geography/_boundaries-frontiers.md >}}
+
+{{< include political-geography/_geopolitical-theories.md >}}
+
+{{< include political-geography/_electoral-geography.md >}}
+
+{{< include political-geography/_contemporary-geopolitics.md >}}

@@ -1,0 +1,40 @@
+---
+title: "Geographical Thought"
+subtitle: "Evolution of geographic ideas from ancient civilizations to contemporary paradigms."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This course traces the intellectual history of geography as a discipline — from the earliest map-makers and travelers to modern critical and quantitative paradigms.
+
+---
+
+## UGC NET Syllabus
+
+* **Contributions of Greek, Roman, Arab, Chinese and Indian Scholars.**
+* **Contributions of Geographers (Bernhardus Varenius, Immanuel Kant, Alexander von Humboldt, Carl Ritter, Scheafer & Hartshorne).**
+* **Impact of Darwinian Theory on Geographical Thought.**
+* **Contemporary trends in Indian Geography: Cartography, Thematic and Methodological contributions.**
+* **Major Geographic Traditions (Earth Science, man-environment relationship, area studies and spatial analysis).**
+* **Dualisms in Geographic Studies (physical vs. human, regional vs. systematic, qualitative vs. quantitative, ideographic vs. nomothetic).**
+* **Paradigm Shift, Perspectives in Geography (Positivism, Behaviouralism, Humanism, Structuralism, Feminism and Postmodernism).**
+
+---
+
+
+{{< include geographical-thought/_course-content.md >}}
+
+{{< include geographical-thought/_ancient-classical-geography.md >}}
+
+{{< include geographical-thought/_medieval-renaissance-geography.md >}}
+
+{{< include geographical-thought/_modern-geographical-thought.md >}}
+
+{{< include geographical-thought/_quantitative-revolution.md >}}
+
+{{< include geographical-thought/_behavioural-humanistic-geography.md >}}
+
+{{< include geographical-thought/_radical-critical-geography.md >}}
+
+{{< include geographical-thought/_postmodern-geography.md >}}

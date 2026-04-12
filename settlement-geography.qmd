@@ -1,0 +1,37 @@
+---
+title: "Settlement Geography"
+subtitle: "Spatial patterns, morphology, and evolution of rural and urban settlements."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This course examines the origin, growth, classification, and spatial arrangement of human settlements — from small rural hamlets to sprawling megacities.
+
+---
+
+## UGC NET Syllabus
+
+* **Rural Settlements (types, patterns and distribution), Contemporary Problems of Rural Settlements (rural-urban migration; land use changes; land acquisition and transactions).**
+* **Theories of Origin of Towns (Gordon Childe, Henri Pirenne, Lewis Mumford).**
+* **Characteristics and Processes of Urbanization in Developed and Developing Countries.**
+* **Urban Systems (the law of the primate city and rank size rule), Central Place Theories (Christaller and Losch).**
+* **Internal Structure of the City, Models of Urban Land Use (Burgess, Harris and Ullman, and Hoyt).**
+* **Concepts of Megacities, Global Cities and Edge Cities, Changing Urban Forms, Social Segregation in the City, Urban Social Area Analysis, Manifestation of Poverty in the City (slums, informal sector growth, crime and social exclusion).**
+
+---
+
+
+{{< include settlement-geography/_course-content.md >}}
+
+{{< include settlement-geography/_settlement-types-classification.md >}}
+
+{{< include settlement-geography/_rural-settlements.md >}}
+
+{{< include settlement-geography/_urban-settlements.md >}}
+
+{{< include settlement-geography/_urbanization-processes.md >}}
+
+{{< include settlement-geography/_urban-morphology-models.md >}}
+
+{{< include settlement-geography/_smart-cities-future-urbanism.md >}}

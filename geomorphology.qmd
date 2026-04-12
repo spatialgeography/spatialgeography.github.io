@@ -1,0 +1,40 @@
+---
+title: "Geomorphology"
+subtitle: "Study of landforms, their processes, and the forces that shape Earth's surface."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course explores the origin, evolution, and classification of landforms across Earth's surface — from towering mountain ranges to the smallest river meanders.
+
+---
+
+## UGC NET Syllabus
+
+* **Continental Drift, Plate Tectonics, Endogenetic and Exogenetic forces.**
+* **Denudation and Weathering, Geomorphic Cycle (Davis and Penck).**
+* **Theories and Process of Slope Development.**
+* **Earth Movements (seismicity, folding, faulting and vulcanicity).**
+* **Landform Occurrence and Causes of Geomorphic Hazards (earthquakes, volcanoes, landslides and avalanche).**
+
+---
+
+
+{{< include geomorphology/_course-content.md >}}
+
+{{< include geomorphology/_fundamental-concepts.md >}}
+
+{{< include geomorphology/_endogenic-processes.md >}}
+
+{{< include geomorphology/_exogenic-processes.md >}}
+
+{{< include geomorphology/_fluvial-geomorphology.md >}}
+
+{{< include geomorphology/_glacial-periglacial-landforms.md >}}
+
+{{< include geomorphology/_coastal-geomorphology.md >}}
+
+{{< include geomorphology/_aeolian-processes.md >}}
+
+{{< include geomorphology/_applied-geomorphology.md >}}

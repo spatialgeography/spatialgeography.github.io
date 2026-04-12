@@ -1,0 +1,35 @@
+---
+title: "Industrial Geography"
+subtitle: "Location, distribution, and evolution of industries across space."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Industrial Geography** module of Geography OpenCourseWare. This course examines the spatial distribution of industries, the factors influencing industrial location, theories of industrial geography, and the changing nature of manufacturing in the global economy.
+
+---
+
+## UGC NET Syllabus
+
+* **Classification of Industries, Factors of Industrial Location; Theories of Industrial Location (A. Weber, E. M. Hoover, August Losch, A. Pred and D. M. Smith).**
+* **World Industrial Regions, Impact of Globalisation on manufacturing sector in Less Developed Countries.**
+* **Tourism Industry.**
+* **World distribution and growth of Information And Communication Technology (ICT) and Knowledge Production (Education and R & D) Industries.**
+
+---
+
+
+{{< include industrial-geography/_course-content.md >}}
+
+{{< include industrial-geography/_industrial-location-factors.md >}}
+
+{{< include industrial-geography/_industrial-location-theories.md >}}
+
+{{< include industrial-geography/_types-of-industries.md >}}
+
+{{< include industrial-geography/_major-industrial-regions-of-the-world.md >}}
+
+{{< include industrial-geography/_indian-industrial-landscape.md >}}
+
+{{< include industrial-geography/_contemporary-industrial-trends.md >}}

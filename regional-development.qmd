@@ -1,0 +1,36 @@
+---
+title: "Regional Development"
+subtitle: "Theories, strategies, and spatial patterns of regional planning and development."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Regional Development** module of Geography OpenCourseWare. This course examines the theories and practices of regional planning and development — addressing spatial inequalities, planning strategies, and the quest for balanced territorial development.
+
+---
+
+## UGC NET Syllabus
+
+* **Typology of Regions, Formal and Fictional Regions.**
+* **World Regional Disparities.**
+* **Theories of Regional Development (Albert O. Hirschman, Gunnar Myrdal, John Friedman), Dependency theory of Underdevelopment.**
+* **Global Economic Blocks.**
+* **Regional Development and Social Movements in India.**
+
+---
+
+
+{{< include regional-development/_course-content.md >}}
+
+{{< include regional-development/_regional-concepts-delineation.md >}}
+
+{{< include regional-development/_theories-of-regional-development.md >}}
+
+{{< include regional-development/_regional-planning-approaches.md >}}
+
+{{< include regional-development/_regional-disparities.md >}}
+
+{{< include regional-development/_india-s-regional-development.md >}}
+
+{{< include regional-development/_international-perspectives.md >}}

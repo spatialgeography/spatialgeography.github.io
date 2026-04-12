@@ -1,0 +1,283 @@
+/* Minimal custom styles for Geography OpenCourseWare */
+
+:root {
+  --primary-blue: #1565C0;
+  --primary-green: #2E7D32;
+  --dark-gray: #333333;
+}
+
+body {
+  color: #333 !important;
+}
+
+/* DARK HEADER/NAVBAR */
+.navbar {
+  background-color: var(--dark-gray) !important;
+  border-bottom: 2px solid var(--primary-green) !important;
+}
+
+.navbar-title, .navbar .nav-link {
+  color: white !important;
+}
+
+.navbar .nav-link:hover {
+  color: var(--primary-green) !important;
+}
+
+/* TABSET STYLING */
+.nav-tabs .nav-link {
+  color: var(--primary-blue) !important;
+}
+
+.nav-tabs .nav-link.active {
+  color: var(--primary-green) !important;
+  border-bottom: 2px solid var(--primary-green) !important;
+}
+
+/* BRAND COLORS */
+h1.title {
+  color: var(--primary-blue);
+  font-weight: 800;
+}
+
+h2, h3 {
+  color: var(--primary-blue);
+  border-bottom: none !important;
+}
+
+a {
+  color: var(--primary-blue);
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: var(--primary-green);
+  text-decoration: none !important;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+ul li {
+  margin-bottom: 0.5rem;
+}
+
+/* REMOVE CALLOUT BORDERS */
+.callout {
+  border-left: none !important;
+  border-radius: 8px !important;
+  border: 1px solid #eee !important;
+}
+
+.callout-header {
+  border-bottom: 1px solid #eee !important;
+}
+
+/* TOC & SIDEBAR STYLING */
+.toc-title, .sidebar-title {
+  color: var(--primary-blue) !important;
+  font-weight: 700 !important;
+}
+
+nav[role="doc-toc"] ul li > a,
+.sidebar-link {
+  color: #555 !important; /* Improved contrast for inactive */
+  border-left: none !important;
+}
+
+nav[role="doc-toc"] ul li > a.active,
+.sidebar-navigation .active > .sidebar-link,
+.toc-actions a:hover {
+  color: var(--primary-green) !important;
+  border-left: none !important;
+  font-weight: 600 !important;
+}
+
+.quarto-secondary-nav {
+  border-bottom: 1px solid #eee !important;
+}
+
+/* GLOBAL ICON REMOVAL (Refined) */
+.bi:not(.nav-footer .bi):not(.navbar .bi):not(.code-copy-button .bi):not(.quarto-code-copy-button .bi), 
+.callout-icon-container,
+.nav-link:after,
+.sidebar-link:after,
+.dropdown-toggle:after {
+  display: none !important;
+}
+
+.callout {
+  padding: 1rem !important;
+}
+
+/* FOOTER STYLING */
+.nav-footer {
+  border-top: 1px solid #eee;
+  padding-top: 2rem !important;
+  margin-top: 4rem !important;
+  background-color: transparent !important;
+}
+
+.nav-footer-left,
+.nav-footer-center,
+.nav-footer-right {
+  color: #777 !important;
+  font-size: 0.9rem !important;
+}
+
+.nav-footer-center {
+  text-align: center !important;
+}
+
+.nav-footer a {
+  color: #777 !important;
+  transition: all 0.2s ease;
+}
+
+.nav-footer a:hover {
+  color: var(--primary-green) !important;
+}
+
+.nav-footer .bi,
+.navbar .bi,
+.code-copy-button .bi,
+.quarto-code-copy-button .bi {
+  display: inline-block !important; /* Ensure icons for footer, navbar, and copy buttons are visible */
+}
+
+/* Ensure code block container is positioned for the copy button */
+div.sourceCode {
+  position: relative !important;
+}
+
+.code-copy-button,
+.quarto-code-copy-button {
+  position: absolute !important;
+  top: 6px !important;
+  right: 6px !important;
+  background: rgba(0, 0, 0, 0.45) !important;
+  backdrop-filter: blur(6px) !important;
+  -webkit-backdrop-filter: blur(6px) !important;
+  color: rgba(255, 255, 255, 0.9) !important;
+  border-radius: 6px !important;
+  opacity: 0.7 !important;
+  visibility: visible !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1) !important;
+  padding: 6px !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  font-size: 0.82rem !important;
+  cursor: pointer !important;
+  z-index: 10 !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.15) !important;
+}
+
+.code-copy-button::after,
+.quarto-code-copy-button::after {
+  content: none !important;
+}
+
+.code-copy-button:hover,
+.quarto-code-copy-button:hover {
+  opacity: 1 !important;
+  background: var(--primary-blue) !important;
+  color: white !important;
+  transform: scale(1.08);
+  box-shadow: 0 3px 10px rgba(21, 101, 192, 0.35) !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.code-copy-button:active,
+.quarto-code-copy-button:active {
+  transform: scale(0.95);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2) !important;
+}
+
+.navbar .bi-youtube {
+  font-size: 1.2rem;
+  transition: color 0.2s ease;
+}
+
+.navbar .bi-youtube:hover {
+  color: #FF0000 !important; /* YouTube Red on hover */
+}
+
+.navbar-logo {
+  height: 30px !important;
+  margin-right: 10px;
+}
+
+/* BREADCRUMB STYLING (Active Course Name) */
+.quarto-breadcrumb {
+  margin-bottom: 2rem;
+  font-size: 1.1rem !important;
+  font-weight: 600;
+}
+
+.breadcrumb-item a {
+  color: var(--primary-blue) !important;
+}
+
+.breadcrumb-item.active {
+  color: var(--primary-green) !important;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: ">" !important;
+  color: #777 !important;
+}
+
+/* SUBJECT GRID LAYOUT (Homepage Cards) */
+.subject-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  padding: 2rem;
+  background: #dce4f0;
+  border-radius: 12px;
+  margin: 2rem 0;
+}
+
+.subject-card {
+  background: transparent;
+  border: 2px solid var(--primary-blue);
+  border-radius: 10px;
+  padding: 0.85rem 1.2rem;
+  text-align: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.subject-card a {
+  color: var(--primary-blue) !important;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none !important;
+  display: block;
+  width: 100%;
+}
+
+.subject-card:hover {
+  background: var(--primary-blue);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(21, 101, 192, 0.3);
+}
+
+.subject-card:hover a {
+  color: #fff !important;
+}
+
+@media (max-width: 768px) {
+  .subject-grid {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .subject-grid {
+    grid-template-columns: 1fr;
+  }
+}

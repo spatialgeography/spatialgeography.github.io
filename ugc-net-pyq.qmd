@@ -1,0 +1,121 @@
+---
+title: "UGC NET Previous Year Questions"
+subtitle: "Geography — Based on the Latest UGC NET Syllabus (Code No. 80)"
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **UGC NET Previous Year Questions** module of Geography OpenCourseWare. This page is completely aligned with the official UGC NET Geography (Code No. 80) syllabus. Below is the detailed breakdown of all 10 units along with their key focus areas for PYQ preparation.
+
+---
+
+## Unit I: Geomorphology
+
+::: {.callout-note}
+### Key Topics
+* **Tectonics & Forces**: Continental Drift, Plate Tectonics, Endogenetic and Exogenetic forces.
+* **Denudation**: Weathering and Denudation processes.
+* **Geomorphic Cycles**: Models of Davis and Penck.
+* **Slope Development**: Theories and processes.
+* **Earth Movements**: Seismicity, folding, faulting, and vulcanicity.
+* **Hazards**: Earthquakes, volcanoes, landslides, and avalanches.
+:::
+
+## Unit II: Climatology
+
+::: {.callout-tip}
+### Key Topics
+* **Atmosphere**: Composition and structure, Insolation, Heat Budget.
+* **Temperature & Winds**: Pressure, Winds, and General Atmospheric Circulation (air-masses, fronts, cyclones, anticyclones).
+* **Climate Classification**: Models by Köppen and Thornthwaite.
+* **ENSO**: El Niño, La Niña, and Southern Oscillations.
+* **Hazards**: Cyclones, Thunderstorms, Tornadoes, Hailstorms, Heat/Cold waves, Drought, Cloudburst, GLOF.
+* **Climate Change**: Evidences, causes in the past, and human impact on global climate.
+:::
+
+## Unit III: Oceanography
+
+::: {.callout-important}
+### Key Topics
+* **Basics**: Relief of Oceans, Composition (Temperature, Density, Salinity).
+* **Circulation**: Warm and Cold Currents, Waves, and Tides.
+* **Sea Level**: Sea Level Changes.
+* **Hazards**: Tsunami and Cyclone impacts.
+:::
+
+## Unit IV: Geography of Environment
+
+::: {.callout-note}
+### Key Topics
+* **Ecosystems**: Geographic Classification, Human Ecology, Trophic Levels, Energy Flows.
+* **Biogeochemical Cycles**: Carbon, nitrogen, and oxygen cycles, Food Chains/Webs, Ecological Pyramids.
+* **Human Impacts**: Environmental Ethics, Deep Ecology.
+* **Hazards**: Global Warming, Urban Heat Island, Pollution (Atmospheric, Water), Land Degradation.
+* **Policies**: National Programmes, Legal Framework, International Treaties (Brundtland Commission, Kyoto Protocol, Agenda 21, SDGs, Paris Agreement).
+:::
+
+## Unit V: Population and Settlement Geography
+
+::: {.callout-tip}
+### Key Topics
+* **Population Geography**: Data sources, Distribution patterns, Growth globally. Theories (Malthus, Sadler, Ricardo), Demographic Transition, Fertility, Mortality, Migration. Population Composition and Policies globally.
+* **Settlement Geography**: Rural Settlements (types, patterns, contemporary problems). Origin of Towns (Childe, Pirenne, Mumford). Urbanization processes, Urban Systems (Primate city, Rank-size rule), Central Place Theories (Christaller, Losch).
+* **Urban Structure**: Models by Burgess, Harris, Ullman, Hoyt. Megacities, Global Cities, Edge Cities. Manifestation of Urban Poverty.
+:::
+
+## Unit VI: Geography of Economic Activities and Regional Development
+
+::: {.callout-important}
+### Key Topics
+* **Economic Geography**: Factors of spatial organization (primary, secondary, tertiary, quaternary), Natural Resources, World Energy Crises.
+* **Agricultural Geography**: Land Use Planning, Cop combination (Weaver, Doi, Rafiullah), Von Thunen's Model, Agricultural Systems.
+* **Industrial Geography**: Location theories (Weber, Hoover, Losch, Pred, Smith), Globalisation impacts, ICT and Knowledge Industries.
+* **Transport and Trade**: Spatial interaction models (Ullman, Hurst), Gravity Model, WTO, Globalisation, Regional Cooperation.
+* **Regional Development**: Typologies of regions, Disparities, Theories (Hirschman, Myrdal, Friedman), Dependency Theory.
+:::
+
+## Unit VII: Cultural, Social and Political Geography
+
+::: {.callout-note}
+### Key Topics
+* **Cultural and Social**: Concept of Culture, Cultural Ecology/Convergence. Social Structure, Well-being, Exclusion. Spatial distribution of social groups in India (Tribe, Caste, Religion, Language). Diseases Ecology, Health Care Planning.
+* **Political Geography**: Boundaries and Frontiers, Heartland and Rimland Theories. Federalism, Electoral Reforms, and Electoral Behaviour in India. Geopolitics of Climate Change and Resources, Regional Organisations (SAARC, ASEAN, OPEC, EU).
+:::
+
+## Unit VIII: Geographic Thought
+
+::: {.callout-tip}
+### Key Topics
+* **Scholars & Contributions**: Greek, Roman, Arab, Chinese, and Indian scholars. Geographers like Varenius, Kant, Humboldt, Ritter, Schaefer, Hartshorne.
+* **Trends & Traditions**: Darwinian Theory impact, Indian Geography trends, Earth Science, Area Studies, Spatial Analysis.
+* **Dualisms**: Physical vs. Human, Regional vs. Systematic, Qualitative vs. Quantitative, Ideographic vs. Nomothetic.
+* **Paradigms & Perspectives**: Positivism, Behaviouralism, Humanism, Structuralism, Feminism, Postmodernism.
+:::
+
+## Unit IX: Geographical Techniques
+
+::: {.callout-important}
+### Key Topics
+* **Cartography & Mapping**: Sources of data, Map Types, Map Making Techniques (Choropleth, Isarithmic, Flow Maps), Pie Diagrams.
+* **GIS & Remote Sensing**: Raster/Vector formats, DEM, Georeferencing, Spatial decision support. Electromagnetic Spectrum, Sensors, Aerial Photographs, Digital Image Processing. GPS.
+* **Statistical Methods**: Central Tendency, Dispersion, Inequalities, Sampling, Hypothesis Testing (Chi Square, T-test, ANOVA), Correlation, Regression, Principal Component Analysis, Cluster Analysis.
+* **Morphometric Analysis**: Stream Ordering, Bifurcation Ratio, Drainage Density, Basin Circularity, Slope Analysis.
+:::
+
+## Unit X: Geography of India
+
+::: {.callout-note}
+### Key Topics
+* **Physical Profile**: Physiographic Regions, Drainage, Indian Monsoon, Jet Streams, Himalayan Cryosphere.
+* **Resources**: Soil, Vegetation, Water, Mineral, Marine.
+* **Population**: Distribution, Growth, Composition, Population Policies.
+* **Agriculture & Industry**: Major food crops, Agro-Climatic Zones, Green Revolution, Food Security, Industrial Policies since Independence.
+* **Economy & Transport**: Transport Networks, Internal/External Trade, Regional Development Planning, Impact of Globalisation.
+* **Hazards**: Earthquakes, Droughts, Floods, Cyclones, Tsunami, Himalayan Disasters.
+:::
+
+---
+
+### Books and Further Readings
+Focus your preparation on practicing questions corresponding to these standard 10 units. Use the modules across Geography OpenCourseWare to master each topic!

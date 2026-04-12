@@ -1,0 +1,38 @@
+---
+title: "Population Geography"
+subtitle: "Spatial distribution, density, growth, composition, and migration of human populations."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Population Geography** module of Geography OpenCourseWare. This course studies the spatial dimensions of human population — including distribution, density, growth trends, demographic transitions, migration, and their implications for development.
+
+---
+
+## UGC NET Syllabus
+
+* **Sources of population data (census, sample surveys and vital statistics, data reliability and errors).**
+* **World Population Distribution (measures, patterns and determinants), World Population Growth (prehistoric to modern period).**
+* **Demographic Transition, Theories of Population Growth (Malthus, Sadler, and Ricardo).**
+* **Fertility and Mortality Analysis (indices, determinants and world patterns).**
+* **Migration (types, causes and consequences and models).**
+* **Population Composition and Characteristics (age, sex, rural-urban, occupational structure and educational levels).**
+* **Population Policies in Developed and Developing Countries.**
+
+---
+
+
+{{< include population-geography/_course-content.md >}}
+
+{{< include population-geography/_population-distribution-density.md >}}
+
+{{< include population-geography/_population-growth.md >}}
+
+{{< include population-geography/_demographic-transition.md >}}
+
+{{< include population-geography/_population-composition.md >}}
+
+{{< include population-geography/_migration.md >}}
+
+{{< include population-geography/_population-policies.md >}}

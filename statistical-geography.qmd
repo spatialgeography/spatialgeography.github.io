@@ -1,0 +1,37 @@
+---
+title: "Statistical Geography"
+subtitle: "Quantitative methods, spatial statistics, and data analysis for geographic research."
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+Welcome to the **Statistical Geography** module of Geography OpenCourseWare. This course covers the quantitative and statistical techniques essential for rigorous geographic research — from basic descriptive statistics to advanced spatial modeling.
+
+---
+
+## UGC NET Syllabus
+
+* **Sources of Geographic Information and Data (spatial and non-spatial).**
+* **Types of Maps, Techniques of Map Making (Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps) Data Representation on Maps (Pie diagrams, Bar diagrams and Line Graph).**
+* **Applications of Measures of Central Tendency, Dispersion and Inequalities, Sampling, Sampling Procedure and Hypothesis Testing (chi square test, t test, ANOVA).**
+* **Time Series Analysis, Correlation and Regression Analysis.**
+* **Measurement of Indices, Making Indicators Scale Free, Computation of Composite Index, Principal Component Analysis and Cluster Analysis.**
+* **Morphometric Analysis: Ordering of Streams, Bifurcation Ratio, Drainage Density and Drainage Frequency, Basin Circularity Ratio and Form Factor, Profiles, Slope Analysis, Clinographic Curve, Hypsographic Curve and Altimetric Frequency Graph.**
+
+---
+
+
+{{< include statistical-geography/_course-content.md >}}
+
+{{< include statistical-geography/_descriptive-statistics.md >}}
+
+{{< include statistical-geography/_probability-sampling.md >}}
+
+{{< include statistical-geography/_inferential-statistics.md >}}
+
+{{< include statistical-geography/_correlation-regression.md >}}
+
+{{< include statistical-geography/_spatial-statistics.md >}}
+
+{{< include statistical-geography/_cartographic-graphical-methods.md >}}
