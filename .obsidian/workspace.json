@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c31a6bf9cda27c",
+        "id": "1838bd19ecf9f68f",
         "type": "tabs",
         "children": [
           {
-            "id": "6c4e67764da84b4d",
+            "id": "8f1bd04ee4e1b25a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,21 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "6c4e67764da84b4d",
+  "active": "8f1bd04ee4e1b25a",
   "lastOpenFiles": [
     "_site/search.json",
+    "_site/agricultural-geography/Attachments/Pasted image 20260412233851.png",
+    "_site/agricultural-geography/Attachments",
+    "_site/agricultural-geography",
     "_site/styles.css",
     "_site/site_libs/quarto-html/tabsets/tabsets.js",
     "_site/site_libs/quarto-html/axe/axe-check.js",
-    "_site/site_libs/quarto-nav/quarto-nav.js",
-    "_site/site_libs/quarto-nav/headroom.min.js",
     "_site/site_libs/quarto-search/quarto-search.js",
     "_site/site_libs/quarto-search/fuse.min.js",
-    "_site/site_libs/quarto-html/tippy.umd.min.js",
     "_site/site_libs/quarto-search/autocomplete.umd.js",
-    "_site/site_libs/quarto-html/tippy.css",
-    "agricultural-geography/Attachments/Pasted image 20260412233851.png",
+    "_site/site_libs/quarto-nav/quarto-nav.js",
+    "_site/site_libs/quarto-nav/headroom.min.js",
     "agricultural-geography/agricultural-systems-of-the-world.md",
+    "agricultural-geography/Attachments/Pasted image 20260412233851.png",
     "agricultural-geography/agricultural-revolutions.md",
     "agricultural-geography/agricultural-regionalisation.md",
     "environmental/ecosystem-their-management-and-conservation.md",
