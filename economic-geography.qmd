@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Economic Geography** module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes.
 
 ---

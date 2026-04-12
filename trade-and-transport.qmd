@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This course examines the spatial patterns of trade and the transportation systems that connect producers to consumers across local, national, and global scales.
 
 ---

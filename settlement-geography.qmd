@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This course examines the origin, growth, classification, and spatial arrangement of human settlements — from small rural hamlets to sprawling megacities.
 
 ---

@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Regional Development** module of Geography OpenCourseWare. This course examines the theories and practices of regional planning and development — addressing spatial inequalities, planning strategies, and the quest for balanced territorial development.
 
 ---

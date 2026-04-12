@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Industrial Geography** module of Geography OpenCourseWare. This course examines the spatial distribution of industries, the factors influencing industrial location, theories of industrial geography, and the changing nature of manufacturing in the global economy.
 
 ---

@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Population Geography** module of Geography OpenCourseWare. This course studies the spatial dimensions of human population — including distribution, density, growth trends, demographic transitions, migration, and their implications for development.
 
 ---

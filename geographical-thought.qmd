@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This course traces the intellectual history of geography as a discipline — from the earliest map-makers and travelers to modern critical and quantitative paradigms.
 
 ---

@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Climatology** module of Geography OpenCourseWare. This course explores the Earth's atmosphere, climate systems, and the physical processes that drive weather and climate variability at local, regional, and global scales.
 
 ---

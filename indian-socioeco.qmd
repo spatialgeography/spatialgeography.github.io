@@ -9,6 +9,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCourseWare. This course provides a comprehensive understanding of the socio-economic landscape of India — including population dynamics, urbanization patterns, industrial development, agricultural change, and regional disparities.
 
 ---
