@@ -329,17 +329,29 @@ ul.task-list li input[type="checkbox"] {
 
 </main> <!-- /main -->
 <script>
+
   document.addEventListener('DOMContentLoaded', function() {
+
     var links = document.querySelectorAll('a[href="javascript:window.print()"]');
+
     links.forEach(function(link) {
+
       link.removeAttribute('target');
+
       link.addEventListener('click', function(e) {
+
         e.preventDefault();
+
         window.print();
+
       });
+
     });
+
   });
+
 </script>
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
