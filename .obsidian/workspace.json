@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "297aeb4b91352d42",
+        "id": "c8c31a6bf9cda27c",
         "type": "tabs",
         "children": [
           {
-            "id": "b11d13870499f8b2",
+            "id": "6c4e67764da84b4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "agricultural-geography/Attachments/Pasted image 20260412233851.png"
+                "file": "agricultural-geography/agricultural-systems-of-the-world.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260412233851"
+              "icon": "lucide-file",
+              "title": "agricultural-systems-of-the-world"
             }
           }
         ]
@@ -181,23 +183,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "b11d13870499f8b2",
+  "active": "6c4e67764da84b4d",
   "lastOpenFiles": [
-    "agricultural-geography/agricultural-systems-of-the-world.md",
+    "_site/search.json",
+    "_site/styles.css",
+    "_site/site_libs/quarto-html/tabsets/tabsets.js",
+    "_site/site_libs/quarto-html/axe/axe-check.js",
+    "_site/site_libs/quarto-nav/quarto-nav.js",
+    "_site/site_libs/quarto-nav/headroom.min.js",
+    "_site/site_libs/quarto-search/quarto-search.js",
+    "_site/site_libs/quarto-search/fuse.min.js",
+    "_site/site_libs/quarto-html/tippy.umd.min.js",
+    "_site/site_libs/quarto-search/autocomplete.umd.js",
+    "_site/site_libs/quarto-html/tippy.css",
     "agricultural-geography/Attachments/Pasted image 20260412233851.png",
-    "agricultural-geography/Attachments",
+    "agricultural-geography/agricultural-systems-of-the-world.md",
     "agricultural-geography/agricultural-revolutions.md",
     "agricultural-geography/agricultural-regionalisation.md",
     "environmental/ecosystem-their-management-and-conservation.md",
-    "ugc-net-pyq.html",
-    "ugc-net-pyq_files/mediabag",
-    "ugc-net-pyq_files",
-    "trade-and-transport.html",
-    "trade-and-transport_files/mediabag",
-    "trade-and-transport_files",
-    "teaching-learning-methodology.html",
-    "teaching-learning-methodology_files/mediabag",
-    "teaching-learning-methodology_files",
     "regional-development/theories-of-regional-development.md",
     "regional-development/regional-planning-approaches.md",
     "political-geography/course-content.md",
@@ -218,7 +221,6 @@
     "indian-socioeco/linkage-of-rivers.md",
     "indian-socioeco/environmental-awareness.md",
     "indian-socioeco/concept-of-sustainable-growth-and-development.md",
-    "indian-socioeco/regional-disparities-in-economic-development.md",
-    "indian-socioeco/problems-of-agrarian-and-industrial-unrest.md"
+    "indian-socioeco/regional-disparities-in-economic-development.md"
   ]
 }
