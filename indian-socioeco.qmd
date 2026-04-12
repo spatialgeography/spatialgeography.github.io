@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCourseWare. This course provides a comprehensive understanding of the socio-economic landscape of India — including population dynamics, urbanization patterns, industrial development, agricultural change, and regional disparities.
 
 ---
@@ -22,28 +23,52 @@ Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCours
 
 ---
 
-{{< include indian-socioeco/ecological-issues-environmental-hazards-landslides-earthquakes-tsunamis-floods-and-droughts-epidemics.md >}}
-
-{{< include indian-socioeco/issues-related-to-environmental-pollution.md >}}
+{{< include indian-socioeco/agriculture-and-agroclimatic-regions.md >}}
 
 {{< include indian-socioeco/changes-in-patterns-of-land-use.md >}}
 
-{{< include indian-socioeco/principles-of-environmental-impact-assessment-and-environmental-management.md >}}
+{{< include indian-socioeco/concept-of-sustainable-growth-and-development.md >}}
 
-{{< include indian-socioeco/population-explosion-and-food-security.md >}}
+{{< include indian-socioeco/course-content.md >}}
+
+{{< include indian-socioeco/deforestation-desertification-and-soil-erosion.md >}}
+
+{{< include indian-socioeco/ecological-issues-environmental-hazards-landslides-earthquakes-tsunamis-floods-and-droughts-epidemics.md >}}
+
+{{< include indian-socioeco/environmental-awareness.md >}}
 
 {{< include indian-socioeco/environmental-degradation.md >}}
 
-{{< include indian-socioeco/deforestation-desertification-and-soil-erosion.md >}}
+{{< include indian-socioeco/globalisation-and-indian-economy.md >}}
+
+{{< include indian-socioeco/india-s-population-dynamics.md >}}
+
+{{< include indian-socioeco/indian-agriculture.md >}}
+
+{{< include indian-socioeco/industrial-development.md >}}
+
+{{< include indian-socioeco/issues-related-to-environmental-pollution.md >}}
+
+{{< include indian-socioeco/linkage-of-rivers.md >}}
+
+{{< include indian-socioeco/mineral-and-power-resources.md >}}
+
+{{< include indian-socioeco/population-distribution-and-growth.md >}}
+
+{{< include indian-socioeco/population-explosion-and-food-security.md >}}
+
+{{< include indian-socioeco/principles-of-environmental-impact-assessment-and-environmental-management.md >}}
 
 {{< include indian-socioeco/problems-of-agrarian-and-industrial-unrest.md >}}
 
 {{< include indian-socioeco/regional-disparities-in-economic-development.md >}}
 
-{{< include indian-socioeco/concept-of-sustainable-growth-and-development.md >}}
+{{< include indian-socioeco/regional-disparities-in-social-and-economic-development.md >}}
 
-{{< include indian-socioeco/environmental-awareness.md >}}
+{{< include indian-socioeco/regional-disparities-planning.md >}}
 
-{{< include indian-socioeco/linkage-of-rivers.md >}}
+{{< include indian-socioeco/settlement-patterns.md >}}
 
-{{< include indian-socioeco/globalisation-and-indian-economy.md >}}
+{{< include indian-socioeco/transport-communication.md >}}
+
+{{< include indian-socioeco/urbanization-in-india.md >}}

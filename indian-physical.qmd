@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare. This course provides a comprehensive study of India's physiographic divisions, drainage systems, climate patterns, soils, and natural vegetation — the physical foundation of the subcontinent.
 
 ---
@@ -21,50 +22,58 @@ Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare.
 
 ---
 
-{{< include indian-physical/physiographic-divisions.md >}}
+{{< include indian-physical/biotic-and.md >}}
 
 {{< include indian-physical/climate-and-regional-variations.md >}}
 
-{{< include indian-physical/vegetation-types-and-regions.md >}}
-
-{{< include indian-physical/major-soil-types.md >}}
+{{< include indian-physical/climatic-regions.md >}}
 
 {{< include indian-physical/coastal-and-marine-resources.md >}}
 
-{{< include indian-physical/water-resources-and-irrigation.md >}}
+{{< include indian-physical/course-content.md >}}
+
+{{< include indian-physical/drainage-system-and-watersheds.md >}}
+
+{{< include indian-physical/drainage-systems.md >}}
+
+{{< include indian-physical/energy-crisis.md >}}
+
+{{< include indian-physical/floods-and-droughts.md >}}
+
+{{< include indian-physical/forest-and-wild-life-resources-and-their-conservation.md >}}
+
+{{< include indian-physical/ground-water.md >}}
+
+{{< include indian-physical/indian-climate.md >}}
+
+{{< include indian-physical/land-surface-and.md >}}
+
+{{< include indian-physical/major-industries-and-industrial-regions.md >}}
+
+{{< include indian-physical/major-soil-types.md >}}
+
+{{< include indian-physical/mechanism-of-indian-monsoons-and-rainfall-patterns.md >}}
+
+{{< include indian-physical/mineral-energy-resources.md >}}
+
+{{< include indian-physical/minerals.md >}}
+
+{{< include indian-physical/natural-vegetation.md >}}
+
+{{< include indian-physical/physiographic-divisions.md >}}
+
+{{< include indian-physical/physiographic-regions.md >}}
+
+{{< include indian-physical/soil-types-and-their-distributions.md >}}
+
+{{< include indian-physical/soils-of-india.md >}}
 
 {{< include indian-physical/space-relationship-of-india-with-neighbouring-countries.md >}}
 
 {{< include indian-physical/structure-and-relief.md >}}
 
-{{< include indian-physical/drainage-system-and-watersheds.md >}}
-
-{{< include indian-physical/physiographic-regions.md >}}
-
-{{< include indian-physical/mechanism-of-indian-monsoons-and-rainfall-patterns.md >}}
-
 {{< include indian-physical/tropical-cyclones-and-western-disturbances.md >}}
 
-{{< include indian-physical/floods-and-droughts.md >}}
+{{< include indian-physical/vegetation-types-and-regions.md >}}
 
-{{< include indian-physical/climatic-regions.md >}}
-
-{{< include indian-physical/natural-vegetation.md >}}
-
-{{< include indian-physical/soil-types-and-their-distributions.md >}}
-
-{{< include indian-physical/land-surface-and.md >}}
-
-{{< include indian-physical/ground-water.md >}}
-
-{{< include indian-physical/energy.md >}}
-
-{{< include indian-physical/minerals.md >}}
-
-{{< include indian-physical/biotic-and.md >}}
-
-{{< include indian-physical/marine-resources.md >}}
-
-{{< include indian-physical/forest-and-wild-life-resources-and-their-conservation.md >}}
-
-{{< include indian-physical/energy-crisis.md >}}
+{{< include indian-physical/water-resources-and-irrigation.md >}}

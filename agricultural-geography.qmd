@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. This course examines the spatial organization of agriculture — including farming systems, crop distribution, land use patterns, agricultural revolutions, and contemporary challenges of food security.
 
 ---
@@ -22,25 +23,31 @@ Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. Th
 
 ---
 
-{{< include agricultural-geography/delimitation-of-agricultural-regions.md >}}
+{{< include agricultural-geography/agricultural-regionalisation.md >}}
 
-{{< include agricultural-geography/measurement-of-agricultural-productivity-and-efficiency.md >}}
-
-{{< include agricultural-geography/crop-combinations-and-diversification.md >}}
-
-{{< include agricultural-geography/von-thunens-model.md >}}
+{{< include agricultural-geography/agricultural-revolutions.md >}}
 
 {{< include agricultural-geography/agricultural-systems-of-the-world.md >}}
 
-{{< include agricultural-geography/mineral-and-power-resources.md >}}
+{{< include agricultural-geography/agro-and-social-forestry.md >}}
 
-{{< include agricultural-geography/major-industries-and-industrial-regions.md >}}
+{{< include agricultural-geography/agro-climatic-zones.md >}}
 
-{{< include agricultural-geography/population-distribution-and-growth.md >}}
+{{< include agricultural-geography/agro-ecological-regions.md >}}
 
-{{< include agricultural-geography/settlement-patterns.md >}}
+{{< include agricultural-geography/course-content.md >}}
 
-{{< include agricultural-geography/regional-disparities-in-social-and-economic-development.md >}}
+{{< include agricultural-geography/crop-combinations-and-diversification.md >}}
+
+{{< include agricultural-geography/cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability.md >}}
+
+{{< include agricultural-geography/delimitation-of-agricultural-regions.md >}}
+
+{{< include agricultural-geography/food-security-contemporary-issues.md >}}
+
+{{< include agricultural-geography/fundamentals-of-agricultural-geography.md >}}
+
+{{< include agricultural-geography/green-revolution-and-its-socio-economic-and-ecological-implications.md >}}
 
 {{< include agricultural-geography/infrastructure-irrigation-seeds-fertilizers-power.md >}}
 
@@ -48,18 +55,26 @@ Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. Th
 
 {{< include agricultural-geography/land-holdings-land-tenure-and-land-reforms.md >}}
 
-{{< include agricultural-geography/cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability.md >}}
-
-{{< include agricultural-geography/agro-and-social-forestry.md >}}
-
-{{< include agricultural-geography/green-revolution-and-its-socio-economic-and-ecological-implications.md >}}
-
-{{< include agricultural-geography/significance-of-dry-farming.md >}}
+{{< include agricultural-geography/land-use-land-tenure.md >}}
 
 {{< include agricultural-geography/livestock-resources-and-white-revolution.md >}}
 
-{{< include agricultural-geography/agricultural-regionalisation.md >}}
+{{< include agricultural-geography/major-crops-distribution.md >}}
 
-{{< include agricultural-geography/agro-climatic-zones.md >}}
+{{< include agricultural-geography/major-industries-and-industrial-regions.md >}}
 
-{{< include agricultural-geography/agro-ecological-regions.md >}}
+{{< include agricultural-geography/measurement-of-agricultural-productivity-and-efficiency.md >}}
+
+{{< include agricultural-geography/mineral-and-power-resources.md >}}
+
+{{< include agricultural-geography/population-distribution-and-growth.md >}}
+
+{{< include agricultural-geography/regional-disparities-in-social-and-economic-development.md >}}
+
+{{< include agricultural-geography/settlement-patterns.md >}}
+
+{{< include agricultural-geography/significance-of-dry-farming.md >}}
+
+{{< include agricultural-geography/types-of-farming.md >}}
+
+{{< include agricultural-geography/von-thunens-model.md >}}

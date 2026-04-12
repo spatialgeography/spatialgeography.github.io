@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "climatology/insolation-heat-budget.md",
+                "file": "environmental/ecosystem-their-management-and-conservation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "insolation-heat-budget"
+              "title": "ecosystem-their-management-and-conservation"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "climatology/insolation-heat-budget.md",
+                "file": "environmental/ecosystem-their-management-and-conservation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for insolation-heat-budget"
+              "title": "Backlinks for ecosystem-their-management-and-conservation"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "climatology/insolation-heat-budget.md",
+                "file": "environmental/ecosystem-their-management-and-conservation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from insolation-heat-budget"
+              "title": "Outgoing links from ecosystem-their-management-and-conservation"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "climatology/insolation-heat-budget.md",
+                "file": "environmental/ecosystem-their-management-and-conservation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of insolation-heat-budget"
+              "title": "Outline of ecosystem-their-management-and-conservation"
             }
           }
         ]
@@ -183,8 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "b11d13870499f8b2",
+  "active": "8bacf287e87606e0",
   "lastOpenFiles": [
+    "cleanup_topics.py",
+    "environmental/ecology-ecosystems.md",
+    "environmental/conservation-and-management-of-ecosystems.md",
+    "environmental/classification-and-distribution-of-soils.md",
+    "environmental/biodiversity-and-sustainable-development.md",
+    "environmental/biodiversity-and-its-depletion-natural-and-human-induced-causes.md",
+    "climatology/insolation-heat-budget.md",
+    "ugc-net-pyq.html",
+    "ugc-net-pyq_files/mediabag",
+    "ugc-net-pyq_files",
+    "trade-and-transport.html",
+    "trade-and-transport_files/mediabag",
+    "trade-and-transport_files",
+    "teaching-learning-methodology.html",
+    "teaching-learning-methodology_files/mediabag",
+    "teaching-learning-methodology_files",
+    "statistical-geography.html",
     "indian-socioeco/globalisation-and-indian-economy.md",
     "indian-socioeco/linkage-of-rivers.md",
     "indian-socioeco/environmental-awareness.md",
@@ -203,23 +220,6 @@
     "regional-development/planning-for-backward-area-desert-drought-prone-hill-tribal-area-development.md",
     "regional-development/watershed-management.md",
     "regional-development/command-area-development.md",
-    "regional-development/panchayati-raj-and-decentralised-planning.md",
-    "regional-development/integrated-rural-development-programmes.md",
-    "regional-development/five-year-plans.md",
-    "regional-development/experience-of-regional-planning-in-india.md",
-    "regional-development/planning-for-sustainable-development.md",
-    "regional-development/environmental-issues-in-regional-planning.md",
-    "regional-development/regional-development-strategies.md",
-    "regional-development/growth-centres-and-growth-poles.md",
-    "merge_topics.py",
-    "ugc-net-pyq.html",
-    "ugc-net-pyq_files/mediabag",
-    "ugc-net-pyq_files",
-    "trade-and-transport.html",
-    "trade-and-transport_files/mediabag",
-    "trade-and-transport_files",
-    "teaching-learning-methodology.html",
-    "teaching-learning-methodology_files/mediabag",
-    "teaching-learning-methodology_files"
+    "regional-development/panchayati-raj-and-decentralised-planning.md"
   ]
 }

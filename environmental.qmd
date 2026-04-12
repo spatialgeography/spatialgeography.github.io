@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Environmental Geography** module of Geography OpenCourseWare. This course bridges physical and human geography by examining the complex interactions between human societies and the natural environment — from ecosystem dynamics to contemporary environmental crises.
 
 ---
@@ -22,58 +23,66 @@ Welcome to the **Environmental Geography** module of Geography OpenCourseWare. T
 
 ---
 
-{{< include environmental/physical-factors-influencing-world-distribution-of-plants-and-animals.md >}}
-
-{{< include environmental/forest.md >}}
-
-{{< include environmental/grassland.md >}}
-
-{{< include environmental/marine.md >}}
-
-{{< include environmental/mountain.md >}}
-
 {{< include environmental/biodiversity-and-its-depletion-natural-and-human-induced-causes.md >}}
 
-{{< include environmental/conservation-and-management-of-ecosystems.md >}}
-
-{{< include environmental/environmental-hazards-and-pollution.md >}}
-
-{{< include environmental/ozone-depletion.md >}}
-
-{{< include environmental/genesis-of-soils.md >}}
+{{< include environmental/biogeography.md >}}
 
 {{< include environmental/classification-and-distribution-of-soils.md >}}
 
-{{< include environmental/soil-profile.md >}}
+{{< include environmental/conservation-and-management-of-ecosystems.md >}}
 
-{{< include environmental/soil-erosion-degradation-and-conservation.md >}}
+{{< include environmental/course-content.md >}}
 
-{{< include environmental/factors-influencing-world-distribution-of-plants-and-animals.md >}}
+{{< include environmental/ecology-ecosystems.md >}}
 
-{{< include environmental/problems-of-deforestation-and-conservation-measures.md >}}
+{{< include environmental/ecosystem-their-management-and-conservation.md >}}
 
-{{< include environmental/social-forestry-agro-forestry.md >}}
+{{< include environmental/environmental-degradation.md >}}
 
-{{< include environmental/wild-life.md >}}
+{{< include environmental/environmental-education-and-legislation.md >}}
 
-{{< include environmental/major-gene-pool-centres.md >}}
+{{< include environmental/environmental-hazards-and-pollution.md >}}
 
-{{< include environmental/principle-ecology.md >}}
+{{< include environmental/environmental-hazards-and-remedial-measures.md >}}
+
+{{< include environmental/environmental-policies-governance.md >}}
+
+{{< include environmental/environmental-policy.md >}}
+
+{{< include environmental/forms-and-functions-of-ecosystems.md >}}
+
+{{< include environmental/genesis-of-soils.md >}}
+
+{{< include environmental/global-and-regional-ecological-changes-and-imbalances.md >}}
+
+{{< include environmental/grassland.md >}}
 
 {{< include environmental/human-ecological-adaptations.md >}}
 
 {{< include environmental/influence-of-man-on-ecology-and-environment.md >}}
 
-{{< include environmental/global-and-regional-ecological-changes-and-imbalances.md >}}
+{{< include environmental/major-gene-pool-centres.md >}}
 
-{{< include environmental/ecosystem-their-management-and-conservation.md >}}
+{{< include environmental/marine.md >}}
 
-{{< include environmental/environmental-degradation-management-and-conservation.md >}}
+{{< include environmental/mountain.md >}}
 
-{{< include environmental/biodiversity-and-sustainable-development.md >}}
+{{< include environmental/natural-hazards-disasters.md >}}
 
-{{< include environmental/environmental-policy.md >}}
+{{< include environmental/ozone-depletion.md >}}
 
-{{< include environmental/environmental-hazards-and-remedial-measures.md >}}
+{{< include environmental/physical-factors-influencing-world-distribution-of-plants-and-animals.md >}}
 
-{{< include environmental/environmental-education-and-legislation.md >}}
+{{< include environmental/principle-ecology.md >}}
+
+{{< include environmental/problems-of-deforestation-and-conservation-measures.md >}}
+
+{{< include environmental/social-forestry-agro-forestry.md >}}
+
+{{< include environmental/soil-erosion-degradation-and-conservation.md >}}
+
+{{< include environmental/soil-profile.md >}}
+
+{{< include environmental/sustainable-development.md >}}
+
+{{< include environmental/wild-life.md >}}

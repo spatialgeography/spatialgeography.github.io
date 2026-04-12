@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This course examines the spatial patterns of trade and the transportation systems that connect producers to consumers across local, national, and global scales.
 
 ---
@@ -22,24 +23,38 @@ Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This 
 
 ---
 
-{{< include trade-and-transport/models-of-transportation-and-transport-cost.md >}}
-
 {{< include trade-and-transport/accessibility-and-connectivity.md >}}
-
-{{< include trade-and-transport/inter-regional-and-intra-regional-trade.md >}}
 
 {{< include trade-and-transport/comparative-cost-advantages.md >}}
 
-{{< include trade-and-transport/road-railway-waterway-airway-and-pipeline-networks-and-their-complementary-roles-in-regional-development.md >}}
+{{< include trade-and-transport/course-content.md >}}
+
+{{< include trade-and-transport/developments-in-communication-and-information-technology-and-their-impacts-on-economy-and-society.md >}}
+
+{{< include trade-and-transport/export-processing-zones.md >}}
+
+{{< include trade-and-transport/global-trade-patterns.md >}}
 
 {{< include trade-and-transport/growing-importance-of-ports-on-national-and-foreign-trade.md >}}
+
+{{< include trade-and-transport/india-s-transport-system.md >}}
+
+{{< include trade-and-transport/indian-space-programme.md >}}
+
+{{< include trade-and-transport/inter-regional-and-intra-regional-trade.md >}}
+
+{{< include trade-and-transport/international-trade.md >}}
+
+{{< include trade-and-transport/models-of-transportation-and-transport-cost.md >}}
+
+{{< include trade-and-transport/modes-of-transport.md >}}
+
+{{< include trade-and-transport/road-railway-waterway-airway-and-pipeline-networks-and-their-complementary-roles-in-regional-development.md >}}
 
 {{< include trade-and-transport/trade-balance.md >}}
 
 {{< include trade-and-transport/trade-policy.md >}}
 
-{{< include trade-and-transport/export-processing-zones.md >}}
+{{< include trade-and-transport/transport-geography-fundamentals.md >}}
 
-{{< include trade-and-transport/developments-in-communication-and-information-technology-and-their-impacts-on-economy-and-society.md >}}
-
-{{< include trade-and-transport/indian-space-programme.md >}}
+{{< include trade-and-transport/transport-networks-models.md >}}

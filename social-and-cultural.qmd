@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWare. This course explores how culture, identity, religion, ethnicity, and social structures are distributed across space and how they interact with geographic landscapes and processes.
 
 ---
@@ -23,86 +24,92 @@ Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWar
 
 ---
 
-{{< include social-and-cultural/nature-and-scope-of-social-geography.md >}}
-
-{{< include social-and-cultural/social-structure-and-processes.md >}}
-
-{{< include social-and-cultural/ethnicity.md >}}
-
-{{< include social-and-cultural/tribe.md >}}
-
-{{< include social-and-cultural/dialect.md >}}
-
-{{< include social-and-cultural/language.md >}}
+{{< include social-and-cultural/application-of-regional-concepts-in-planning.md >}}
 
 {{< include social-and-cultural/caste.md >}}
 
-{{< include social-and-cultural/religion.md >}}
-
-{{< include social-and-cultural/concept-of-social-well-being.md >}}
-
-{{< include social-and-cultural/nature-and-scope-of-cultural-geography.md >}}
-
-{{< include social-and-cultural/environment-and-culture.md >}}
-
 {{< include social-and-cultural/concept-of-culture-areas-and-cultural-regions.md >}}
-
-{{< include social-and-cultural/theories-of-tribal-groups.md >}}
-
-{{< include social-and-cultural/dwelling-places-as-cultural-expressions.md >}}
-
-{{< include social-and-cultural/regional-concept-in-geography.md >}}
-
-{{< include social-and-cultural/application-of-regional-concepts-in-planning.md >}}
-
-{{< include social-and-cultural/concept-of-planning-region.md >}}
-
-{{< include social-and-cultural/regional-hierarchy.md >}}
-
-{{< include social-and-cultural/types-of-regions-and-regional-delineation-methods.md >}}
-
-{{< include social-and-cultural/conceptual-and-theoretical-framework-of-regional-planning.md >}}
-
-{{< include social-and-cultural/regional-planning-in-india.md >}}
 
 {{< include social-and-cultural/concept-of-development-and-indicators-of-development.md >}}
 
-{{< include social-and-cultural/regional-imbalances.md >}}
+{{< include social-and-cultural/concept-of-planning-region.md >}}
 
-{{< include social-and-cultural/historical-perspective-of-indian-society.md >}}
+{{< include social-and-cultural/concept-of-social-well-being.md >}}
 
-{{< include social-and-cultural/racial-linguistic-and-ethnic-diversities.md >}}
+{{< include social-and-cultural/conceptual-and-theoretical-framework-of-regional-planning.md >}}
 
-{{< include social-and-cultural/religious-minorities.md >}}
+{{< include social-and-cultural/conurbations-and-metropolitan-regions.md >}}
 
-{{< include social-and-cultural/major-tribes-tribal-areas-and-their-problems.md >}}
+{{< include social-and-cultural/course-content.md >}}
 
-{{< include social-and-cultural/cultural-regions.md >}}
+{{< include social-and-cultural/cultural-landscapes.md >}}
 
-{{< include social-and-cultural/growth-distribution-and-density-of-population.md >}}
+{{< include social-and-cultural/culture-geography.md >}}
 
 {{< include social-and-cultural/demographic-attributes-sex-ratio-age-structure-literacy-rate-work-force-dependency-ratio-longevity.md >}}
 
+{{< include social-and-cultural/dialect.md >}}
+
+{{< include social-and-cultural/dwelling-places-as-cultural-expressions.md >}}
+
+{{< include social-and-cultural/elements-of-social-geography.md >}}
+
+{{< include social-and-cultural/environment-and-culture.md >}}
+
+{{< include social-and-cultural/functional-classification-of-indian-cities.md >}}
+
+{{< include social-and-cultural/gender-geography.md >}}
+
+{{< include social-and-cultural/globalization-cultural-change.md >}}
+
+{{< include social-and-cultural/growth-distribution-and-density-of-population.md >}}
+
+{{< include social-and-cultural/health-indicators.md >}}
+
+{{< include social-and-cultural/historical-perspective-of-indian-society.md >}}
+
+{{< include social-and-cultural/language-religion.md >}}
+
+{{< include social-and-cultural/major-tribes-tribal-areas-and-their-problems.md >}}
+
 {{< include social-and-cultural/migration-inter-regional-interaregional-and-international-and-associated-problems.md >}}
+
+{{< include social-and-cultural/morphology-of-indian-cities.md >}}
+
+{{< include social-and-cultural/nature-and-scope-of-cultural-geography.md >}}
+
+{{< include social-and-cultural/nature-and-scope-of-social-geography.md >}}
 
 {{< include social-and-cultural/population-problems-and-policies.md >}}
 
-{{< include social-and-cultural/health-indicators.md >}}
+{{< include social-and-cultural/problems-of-urbanisation-and-remedies.md >}}
+
+{{< include social-and-cultural/race-ethnicity-identity.md >}}
+
+{{< include social-and-cultural/racial-linguistic-and-ethnic-diversities.md >}}
+
+{{< include social-and-cultural/regional-concept-in-geography.md >}}
+
+{{< include social-and-cultural/regional-hierarchy.md >}}
+
+{{< include social-and-cultural/regional-imbalances.md >}}
+
+{{< include social-and-cultural/regional-planning-in-india.md >}}
+
+{{< include social-and-cultural/religious-minorities.md >}}
+
+{{< include social-and-cultural/slums-and-associated-problems.md >}}
+
+{{< include social-and-cultural/social-structure-and-processes.md >}}
+
+{{< include social-and-cultural/theories-of-tribal-groups.md >}}
+
+{{< include social-and-cultural/town-planning.md >}}
+
+{{< include social-and-cultural/types-of-regions-and-regional-delineation-methods.md >}}
 
 {{< include social-and-cultural/types-patterns-and-morphology-of-rural-settlements.md >}}
 
 {{< include social-and-cultural/urban-developments.md >}}
 
-{{< include social-and-cultural/morphology-of-indian-cities.md >}}
-
-{{< include social-and-cultural/functional-classification-of-indian-cities.md >}}
-
-{{< include social-and-cultural/conurbations-and-metropolitan-regions.md >}}
-
 {{< include social-and-cultural/urban-sprawl.md >}}
-
-{{< include social-and-cultural/slums-and-associated-problems.md >}}
-
-{{< include social-and-cultural/town-planning.md >}}
-
-{{< include social-and-cultural/problems-of-urbanisation-and-remedies.md >}}

@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This course traces the intellectual history of geography as a discipline — from the earliest map-makers and travelers to modern critical and quantitative paradigms.
 
 ---
@@ -24,66 +25,82 @@ Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This
 
 ---
 
-{{< include geographical-thought/geographic-knowledge-during-the-ancient-and-medieval-period.md >}}
-
-{{< include geographical-thought/german-schools.md >}}
-
-{{< include geographical-thought/french-schools.md >}}
-
-{{< include geographical-thought/british-schools.md >}}
-
 {{< include geographical-thought/american-schools.md >}}
 
-{{< include geographical-thought/conceptual-and-methodological-developments-during-the-20th-century.md >}}
-
-{{< include geographical-thought/changing-paradigms-in-geography.md >}}
-
-{{< include geographical-thought/man-and-environment-determinism-and-possibilism.md >}}
+{{< include geographical-thought/ancient-classical-geography.md >}}
 
 {{< include geographical-thought/area-differentiation-and-spatial-organization.md >}}
 
-{{< include geographical-thought/quantitative-revolution.md >}}
-
-{{< include geographical-thought/positivism.md >}}
-
-{{< include geographical-thought/humanism.md >}}
-
-{{< include geographical-thought/radicalism.md >}}
+{{< include geographical-thought/areal-differentiation.md >}}
 
 {{< include geographical-thought/behavioralism.md >}}
 
-{{< include geographical-thought/areal-differentiation.md >}}
+{{< include geographical-thought/behavioural-humanistic-geography.md >}}
 
-{{< include geographical-thought/regional-synthesis.md >}}
+{{< include geographical-thought/british-schools.md >}}
+
+{{< include geographical-thought/central-place-theories-of-christaller-and-losch.md >}}
+
+{{< include geographical-thought/changing-paradigms-in-geography.md >}}
+
+{{< include geographical-thought/conceptual-and-methodological-developments-during-the-20th-century.md >}}
+
+{{< include geographical-thought/course-content.md >}}
+
+{{< include geographical-thought/cultural-regions-of-the-world.md >}}
 
 {{< include geographical-thought/dichotomy-and-dualism.md >}}
 
 {{< include geographical-thought/environmentalism.md >}}
 
+{{< include geographical-thought/foundations-of-modern-geography-contributions-of.md >}}
+
+{{< include geographical-thought/french-schools.md >}}
+
+{{< include geographical-thought/geographic-knowledge-during-the-ancient-and-medieval-period.md >}}
+
+{{< include geographical-thought/german-schools.md >}}
+
+{{< include geographical-thought/heart-land-and-rimland-theories.md >}}
+
+{{< include geographical-thought/human-development-index.md >}}
+
+{{< include geographical-thought/humanism.md >}}
+
+{{< include geographical-thought/impact-of.md >}}
+
+{{< include geographical-thought/languages-religions-and-secularisation.md >}}
+
+{{< include geographical-thought/laws-of-international-boundaries-and-frontiers.md >}}
+
+{{< include geographical-thought/malthusian-marxian-and-demographic-transition-models.md >}}
+
+{{< include geographical-thought/man-and-environment-determinism-and-possibilism.md >}}
+
+{{< include geographical-thought/medieval-renaissance-geography.md >}}
+
+{{< include geographical-thought/modern-geographical-thought.md >}}
+
+{{< include geographical-thought/perroux-and-boudeville.md >}}
+
+{{< include geographical-thought/positivism.md >}}
+
+{{< include geographical-thought/postmodern-geography.md >}}
+
 {{< include geographical-thought/quantitative-revolution-and-locational-analysis.md >}}
 
 {{< include geographical-thought/radical-behavioural-human-and-welfare-approaches.md >}}
 
-{{< include geographical-thought/languages-religions-and-secularisation.md >}}
+{{< include geographical-thought/radical-critical-geography.md >}}
 
-{{< include geographical-thought/cultural-regions-of-the-world.md >}}
+{{< include geographical-thought/radicalism.md >}}
 
-{{< include geographical-thought/human-development-index.md >}}
+{{< include geographical-thought/regional-synthesis.md >}}
+
+{{< include geographical-thought/rostows-model-of-stages-of-growth.md >}}
 
 {{< include geographical-thought/system-analysis-in-human-geography.md >}}
-
-{{< include geographical-thought/malthusian-marxian-and-demographic-transition-models.md >}}
-
-{{< include geographical-thought/central-place-theories-of-christaller-and-losch.md >}}
-
-{{< include geographical-thought/perroux-and-boudeville.md >}}
 
 {{< include geographical-thought/von-thunens-model-of-agricultural-location.md >}}
 
 {{< include geographical-thought/webers-model-of-industrial-location.md >}}
-
-{{< include geographical-thought/rostows-model-of-stages-of-growth.md >}}
-
-{{< include geographical-thought/heart-land-and-rimland-theories.md >}}
-
-{{< include geographical-thought/laws-of-international-boundaries-and-frontiers.md >}}

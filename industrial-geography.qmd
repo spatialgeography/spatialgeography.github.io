@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Industrial Geography** module of Geography OpenCourseWare. This course examines the spatial distribution of industries, the factors influencing industrial location, theories of industrial geography, and the changing nature of manufacturing in the global economy.
 
 ---
@@ -23,22 +24,36 @@ Welcome to the **Industrial Geography** module of Geography OpenCourseWare. This
 
 {{< include industrial-geography/classification-of-industries.md >}}
 
-{{< include industrial-geography/webers-approach.md >}}
+{{< include industrial-geography/contemporary-industrial-trends.md >}}
 
-{{< include industrial-geography/loschs-approach.md >}}
-
-{{< include industrial-geography/resource-based-and-footloose-industries.md >}}
+{{< include industrial-geography/course-content.md >}}
 
 {{< include industrial-geography/evolution-of-industries.md >}}
 
-{{< include industrial-geography/locational-factors-of-cotton-jute-textile-iron-and-steel-aluminium-fertiliser-paper-chemical-and-pharmaceutical-automobile-cottage-and-ago-based-industries.md >}}
+{{< include industrial-geography/indian-industrial-landscape.md >}}
 
 {{< include industrial-geography/industrial-houses-and-complexes-including-public-sector-underkings-industrial-regionalisation.md >}}
 
-{{< include industrial-geography/new-industrial-policy.md >}}
+{{< include industrial-geography/industrial-location-factors.md >}}
+
+{{< include industrial-geography/industrial-location-theories.md >}}
+
+{{< include industrial-geography/locational-factors-of-cotton-jute-textile-iron-and-steel-aluminium-fertiliser-paper-chemical-and-pharmaceutical-automobile-cottage-and-ago-based-industries.md >}}
+
+{{< include industrial-geography/loschs-approach.md >}}
+
+{{< include industrial-geography/major-industrial-regions-of-the-world.md >}}
 
 {{< include industrial-geography/multinationals-and-liberalisation.md >}}
+
+{{< include industrial-geography/new-industrial-policy.md >}}
+
+{{< include industrial-geography/resource-based-and-footloose-industries.md >}}
 
 {{< include industrial-geography/special-economic-zones.md >}}
 
 {{< include industrial-geography/tourism-including-ecotourism.md >}}
+
+{{< include industrial-geography/types-of-industries.md >}}
+
+{{< include industrial-geography/webers-approach.md >}}

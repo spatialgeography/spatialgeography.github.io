@@ -8,6 +8,7 @@ toc-depth: 3
 
 
 
+
 Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course explores the origin, evolution, and classification of landforms across Earth's surface — from towering mountain ranges to the smallest river meanders.
 
 ---
@@ -22,58 +23,56 @@ Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course
 
 ---
 
-{{< include geomorphology/fundamental-concepts-of-geomorphology.md >}}
+{{< include geomorphology/aeolian-processes.md >}}
 
-{{< include geomorphology/factors-controlling-landform-development.md >}}
-
-{{< include geomorphology/endogenetic-and-exogenetic-forces.md >}}
-
-{{< include geomorphology/denudation-processes-weathering-and-erosion.md >}}
-
-{{< include geomorphology/geosynclines.md >}}
-
-{{< include geomorphology/mountain-building.md >}}
-
-{{< include geomorphology/continental-drift-and-plate-tectonics.md >}}
-
-{{< include geomorphology/concept-of-the-geomorphic-cycle.md >}}
-
-{{< include geomorphology/fluvial-cycles.md >}}
-
-{{< include geomorphology/glacial-cycles.md >}}
-
-{{< include geomorphology/arid-cycles.md >}}
-
-{{< include geomorphology/coastal-cycles.md >}}
-
-{{< include geomorphology/karst-cycles.md >}}
-
-{{< include geomorphology/slope-forms-and-processes.md >}}
-
-{{< include geomorphology/origin-and-evolution-of-the-earths-crusts.md >}}
-
-{{< include geomorphology/fundamentals-of-geomagnetism.md >}}
-
-{{< include geomorphology/physical-conditions-of-the-earths-interior.md >}}
-
-{{< include geomorphology/continental-drift.md >}}
-
-{{< include geomorphology/isostasy.md >}}
-
-{{< include geomorphology/plate-tectonics.md >}}
-
-{{< include geomorphology/recent-views-on-mountain-building.md >}}
-
-{{< include geomorphology/volcanicity.md >}}
-
-{{< include geomorphology/earthquakes-and-tsunamis.md >}}
-
-{{< include geomorphology/concepts-of-geomorphic-cycles-and-land-scape-development.md >}}
-
-{{< include geomorphology/denudation-chronology.md >}}
+{{< include geomorphology/applied-geomorphology.md >}}
 
 {{< include geomorphology/channel-morphology.md >}}
 
+{{< include geomorphology/coastal-geomorphology.md >}}
+
+{{< include geomorphology/concept-of-the-geomorphic-cycle.md >}}
+
+{{< include geomorphology/continental-drift-and-plate-tectonics.md >}}
+
+{{< include geomorphology/course-content.md >}}
+
+{{< include geomorphology/denudation-chronology.md >}}
+
+{{< include geomorphology/denudation-processes-weathering-and-erosion.md >}}
+
+{{< include geomorphology/earthquakes-and-tsunamis.md >}}
+
+{{< include geomorphology/endogenic-processes.md >}}
+
 {{< include geomorphology/erosion-surfaces.md >}}
 
-{{< include geomorphology/slope-development.md >}}
+{{< include geomorphology/exogenic-processes.md >}}
+
+{{< include geomorphology/factors-controlling-landform-development.md >}}
+
+{{< include geomorphology/fluvial-geomorphology.md >}}
+
+{{< include geomorphology/fundamental-concepts.md >}}
+
+{{< include geomorphology/fundamentals-of-geomagnetism.md >}}
+
+{{< include geomorphology/geosynclines.md >}}
+
+{{< include geomorphology/glacial-periglacial-landforms.md >}}
+
+{{< include geomorphology/isostasy.md >}}
+
+{{< include geomorphology/karst-cycles.md >}}
+
+{{< include geomorphology/landforms-associated-with.md >}}
+
+{{< include geomorphology/origin-and-evolution-of-the-earths-crusts.md >}}
+
+{{< include geomorphology/physical-conditions-of-the-earths-interior.md >}}
+
+{{< include geomorphology/recent-views-on-mountain-building.md >}}
+
+{{< include geomorphology/slope-forms-and-processes.md >}}
+
+{{< include geomorphology/volcanicity.md >}}
