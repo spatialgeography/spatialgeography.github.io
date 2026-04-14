@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include geography-of-odisha/00-syllabus.md >}}
+
+
 {{< include geography-of-odisha/01-physiography-climate.md >}}
 
 {{< include geography-of-odisha/02-population-demography.md >}}

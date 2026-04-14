@@ -103,10 +103,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#resources-types" id="toc-resources-types" class="nav-link active" data-scroll-target="#resources-types">01 Resources Types</a></li>
+  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a>
+  <ul class="collapse">
+  <li><a href="#resources-types" id="toc-resources-types" class="nav-link" data-scroll-target="#resources-types">01 Resources Types</a></li>
   <li><a href="#conservation-policies" id="toc-conservation-policies" class="nav-link" data-scroll-target="#conservation-policies">02 Conservation Policies</a></li>
   <li><a href="#geoinformatics-application" id="toc-geoinformatics-application" class="nav-link" data-scroll-target="#geoinformatics-application">03 Geoinformatics Application</a></li>
   <li><a href="#practical" id="toc-practical" class="nav-link" data-scroll-target="#practical">04 Practical</a></li>
+  </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -132,6 +135,44 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="official-syllabus-nep-2020" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Core I Paper XVIII Natural Resource Management a nd Geo informatics<br>
+(4 Credit, Theory: 45hrs, Practical: 30hrs)<br>
+Unit -I Learning Outcome:<br>
+Understand and appreciate the importance of natural resources and identify different challenges associated with the natural resources<br>
+Natural Resource Base (land, water, forest, biodiversity, minerals ), classification of resources,<br>
+Resource depletion and problem of pollution, Resource Curse, historical evolution of NRM<br>
+Measures : policy and practices; threats to NR and need for management, Valuation methods of<br>
+Natural resources.</p>
+<p>Unit -II:<br>
+Learning Outcome:<br>
+Analyse the outcome of managing the Natural resources under different resource regimes and<br>
+evaluate various options available to carry out sustainable resource management.<br>
+Management of Resources under different property regimes: (Public, Private, Commons and Open Access). Threats to commons, tragedy of commons, Ostrom’s idea on institutional designs; Measures of NRMs: Watershed Management, Forest Management, JFM -Forest Righ ts Act, CAMPA, Wetland Management, Grassland Management, Ecosystem services of Nature as per MEA (Millennium Ecosystem Assessment).<br>
+Unit -III:<br>
+Learning Outcome:<br>
+Understand the debate between environment and development and evaluate the alternative options available to plan for sustainable development.<br>
+Application of Geoinformatics in mapping and monitoring NR: watershed delineation, soil erosion estimation, forest area and health monitoring, forest fire studies, water body monitoring, ground water management, Conjunctive use of tank -groundwater, Adaptiv e crop planning. Examples from governmental and -governmental practices of NRM.<br>
+Unit -IV: Practical<br>
+Learning Outcome:<br>
+Apply different GIS techniques to measure, analyse challenges of NR degradation and create suitable models for management.<br>
+1. Open sources Remote sensing data, watershed management<br>
+2. Geo-spatial analysis operation using DEM data, USLE through GIS, NDVI and other indices, change detection, hot spot analysis.<br>
+3. Field visit and reporting on Common Property Resource/ Open Access Resource/Ecosystem Services (from a nearby area in Odisha)<br>
+4. Viva -Voce</p>
+</div>
+</div>
 <section id="resources-types" class="level3">
 <h3 class="anchored" data-anchor-id="resources-types">01 Resources Types</h3>
 <p>Content for 01 Resources Types coming soon.</p>
@@ -149,6 +190,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Content for 04 Practical coming soon.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -249,7 +291,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

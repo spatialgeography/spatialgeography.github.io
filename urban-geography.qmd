@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include urban-geography/00-syllabus.md >}}
+
+
 {{< include urban-geography/01-concept-classification.md >}}
 
 {{< include urban-geography/02-evolution-structure.md >}}

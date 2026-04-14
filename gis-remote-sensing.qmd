@@ -6,6 +6,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include gis-remote-sensing/00-syllabus.md >}}
+
+
 Welcome to the **GIS & Remote Sensing** module of Geography OpenCourseWare. This course covers the principles and applications of Geographic Information Systems and satellite-based remote sensing.
 
 ---

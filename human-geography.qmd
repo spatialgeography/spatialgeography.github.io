@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include human-geography/00-syllabus.md >}}
+
+
 {{< include human-geography/01-nature-scope.md >}}
 
 {{< include human-geography/02-population-culture.md >}}

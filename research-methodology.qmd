@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include research-methodology/00-syllabus.md >}}
+
+
 {{< include research-methodology/01-meaning-design.md >}}
 
 {{< include research-methodology/02-materials-methods.md >}}

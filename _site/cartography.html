@@ -103,10 +103,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#basics" id="toc-basics" class="nav-link active" data-scroll-target="#basics">01 Basics</a></li>
+  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a>
+  <ul class="collapse">
+  <li><a href="#basics" id="toc-basics" class="nav-link" data-scroll-target="#basics">01 Basics</a></li>
   <li><a href="#projections-slope" id="toc-projections-slope" class="nav-link" data-scroll-target="#projections-slope">02 Projections Slope</a></li>
   <li><a href="#gis-remote-sensing" id="toc-gis-remote-sensing" class="nav-link" data-scroll-target="#gis-remote-sensing">03 Gis Remote Sensing</a></li>
   <li><a href="#practical" id="toc-practical" class="nav-link" data-scroll-target="#practical">04 Practical</a></li>
+  </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -132,6 +135,39 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="official-syllabus-nep-2020" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Core I Paper IV Cartography a nd Geo -Spatial Techniques<br>
+(4 Credit, Theory: 45hrs, Practical: 30hrs)<br>
+Unit -I: Learning Outcome:<br>
+Develop the ability to design and produce effective and aesthetically appealing maps using modern cartographic techniques and software. They will understand principles of cartographic design, color theory, and typography to create maps that convey spatial information clearly and accurately . Scientific basis of Cartography, needs of map making, characteristics of maps, Geographical Coordinates (Latitude and Longitude), Graticules , types of Scales (Plain, and Diagonal Scale.)<br>
+Unit -II Learning Outcome:<br>
+Acquire knowledge in selecting and applying appropriate map projections for representing geographical data accurately, as well as mastering the skills to create and interpret dip strike maps to analyze geological structures effectively.<br>
+Meaning, Uses and types of Map Projection, Transformation of area, Distance and Direction, Choice of map projection, Interpretation of Bedding plane, Strike, Dip, structure &amp; stratigraphy of Geological map, methods of determination of slope (Wentworth’s method and Smith).<br>
+Unit -III Learning Outcome:<br>
+Gain proficiency in using GIS software to capture, store, manipulate, and analyze geospatial data. They will learn how to integrate various data layers, perform spatial queries, and create interactive maps to solve real -world geographical problems.<br>
+History of Geographical Information System, Components of GIS, Dimensions of GIS data - Conceptual (field/object) and logical (raster/vector), Data sources, data types (raster/vector/attribute), History of Remote Sensing, Types of Platform, Sensor characteri stics, Aerial photographs and Visual interpretation of Satellite images, Global Positioning System (GPS) and Global Navigation Satellite System (GNSS), Applications of GIS and RS.<br>
+Unit -IV: Practical<br>
+Learning Outcome:<br>
+Acquire hands -on cum practical skills in using modern cartographic tools and geospatial technologies to create visually compelling maps and effectively analyze spatial data for various applications in geography, environmental studies, and other related fi elds. 1. Construction of Graphical, RF &amp; Statement Scale, Diagonal Scale<br>
+2. Construction of Map Projections: Cylindrical and Conical Projection with one and two standard parallels and Zenithal.<br>
+3. Drawing of Choropleth and isopleth maps,<br>
+4. Slope Analysis (Wentworth’s method).<br>
+5. Identification and mapping of water bodies from satellite imageries<br>
+6. Digitization of map and drawing of few point, line and polygon features.<br>
+7. Practical record and viva -voce</p>
+</div>
+</div>
 <section id="basics" class="level3">
 <h3 class="anchored" data-anchor-id="basics">01 Basics</h3>
 <p>Content for 01 Basics coming soon.</p>
@@ -149,6 +185,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Content for 04 Practical coming soon.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -249,7 +286,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -103,10 +103,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nature-scope" id="toc-nature-scope" class="nav-link active" data-scroll-target="#nature-scope">01 Nature Scope</a></li>
+  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a>
+  <ul class="collapse">
+  <li><a href="#nature-scope" id="toc-nature-scope" class="nav-link" data-scroll-target="#nature-scope">01 Nature Scope</a></li>
   <li><a href="#population-culture" id="toc-population-culture" class="nav-link" data-scroll-target="#population-culture">02 Population Culture</a></li>
   <li><a href="#settlements-inequalities" id="toc-settlements-inequalities" class="nav-link" data-scroll-target="#settlements-inequalities">03 Settlements Inequalities</a></li>
   <li><a href="#practical" id="toc-practical" class="nav-link" data-scroll-target="#practical">04 Practical</a></li>
+  </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -132,6 +135,38 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="official-syllabus-nep-2020" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Core I Paper II<br>
+(4 Credit, Theory: 45hrs, Practical: 30hrs)</p>
+<p>Unit -I:<br>
+Learning Outcome:<br>
+Analyse the complex relationships between humans and their physical and social environments. Identify and analyze the key concepts of human geography and its evolution.</p>
+<p>Meaning , Nature and Scope of Human Geography; Its Contemporary Relevance; Major Themes and concepts of Human Geography (Location, Place, Region and Movement, Accessibility, Agglomeration, Mental Map, Space, Space -time continuum,Landscape, Regionalism, Topophilia and topophobia, Diffusion, and Distribution) Man -nature inter - relationship (Determinism, Possibilism and Neo -determinism), Development of human geography - contributions of Germans, French and Americans .<br>
+Unit - II: Learning Outcome:<br>
+Understand patterns and processes of population growth and its implications. Demonstrate cultural awareness and sensitivity in understanding diverse race, religion, linguistic, ethnicity and cultural practices and beliefs that shape human geography and their implic ations for society.</p>
+<p>World Distribution of racial, religious, linguistic and e thnic groups ; Evolution of Culture and Cultural realms of the world; World Population Growth , Population Problems. Global cultural diversities - diffusion of culture.<br>
+Unit -III:<br>
+Learning Outcome:<br>
+Understand types and patterns of human settlement and its dynamism. understand different forms of inequalities.</p>
+<p>Types and Patterns of Rural Settlements; Concept and Classification of Urban Settlements; World Urbanization with special reference to developing countries, Salient Features of cultural globalization. Regional diversity and disparity (Gender, Ethnicity and Income).</p>
+<p>Unit -IV: Practical Learning Outcome:<br>
+Design and implement research projects related to human geography, including the collection, analysis, and interpretation of data related to socio -cultural and economic status of local/regional ethnic communities. Communicate complex ideas related to human geogr aphy to a range of audiences, both orally and in writing.</p>
+<p>Project Report and Presentation on<br>
+1. Socio -cultural and economic status of any ethnic group in India .<br>
+Or 2. Evolution of the settlement where you live/local settlement.</p>
+</div>
+</div>
 <section id="nature-scope" class="level3">
 <h3 class="anchored" data-anchor-id="nature-scope">01 Nature Scope</h3>
 <p>Content for 01 Nature Scope coming soon.</p>
@@ -149,6 +184,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Content for 04 Practical coming soon.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -249,7 +285,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

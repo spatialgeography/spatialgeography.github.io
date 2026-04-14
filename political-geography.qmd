@@ -6,6 +6,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include political-geography/00-syllabus.md >}}
+
+
 
 
 Welcome to the **Political Geography** module of Geography OpenCourseWare. This course examines how political power is organized spatially — from the formation of nation-states and boundary disputes to contemporary geopolitical rivalries and electoral geography.

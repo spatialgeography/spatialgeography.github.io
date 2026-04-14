@@ -104,7 +104,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link active" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a>
+  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a></li>
+  <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a>
   <ul class="collapse">
   <li><a href="#regional-concept-in-geography" id="toc-regional-concept-in-geography" class="nav-link" data-scroll-target="#regional-concept-in-geography">Regional concept in geography</a></li>
   <li><a href="#application-of-regional-concepts-in-planning" id="toc-application-of-regional-concepts-in-planning" class="nav-link" data-scroll-target="#application-of-regional-concepts-in-planning">Application of regional concepts in planning</a></li>
@@ -182,8 +183,37 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="official-syllabus-nep-2020" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Core I Paper XI REGIONAL PLANNING AND DEVELOPMENT<br>
+(4 Credit, Theory: 45hrs, Practical: 30hrs)<br>
+Unit -1 Learning Outcome:<br>
+Understand regional dynamics and can delineate the boundary of different regions.<br>
+Concept of Region, Types of regions: Formal, Functional and Planning Region, Need for Regional Planning, Characteristics of an Ideal Planning Region and delineation of Formal and Functional regions. Planning Regions; Approaches and Methods.<br>
+Unit -II Learning Outcome:<br>
+Understand the theories and models associated with regional planning at global and local level.<br>
+Theories and Models for Regional Planning: Growth Pole Model of Perroux; Myrdal, Hirschman, Rostow, Export Base Model, Core -Periphery Model and Modified Growth Foci approach of R.P.Mishra . Unit -III Learning Outcome:<br>
+Acquainted with different type’s plans associated with urban and rural planning as well as their method of preparation.<br>
+Regional Disparity and Imbalances in India, Strategies for balanced regional development in India through Policies and Programmes in FYPs, concept and characteristics of city master plan, NCR Planning, Decentralised planning in India: District Plan and Mul ti Level Planning in India, Formulation and function of Niti Ayog, Development planning skills, Welfare program of different sectors, Special Component plan: Tribal Sub Plan and Weaker Section plan Allocation and Principles and Methods of participatory pla nning .<br>
+Unit -IV: Practical<br>
+Learning Outcome:<br>
+Plan, manage and deliver the end quality product required by the country in the field of regional planning, at various levels and in various areas . 1. Regional Disparity based on socio -economic indicators at C.D Block/ Tehsil / District/ state by range equalization/ Z -Score method and prepare choropleth maps.<br>
+2. Practical record and viva -voce.</p>
+</div>
+</div>
 <p>Welcome to the <strong>Regional Development</strong> module of Geography OpenCourseWare. This course examines the theories and practices of regional planning and development — addressing spatial inequalities, planning strategies, and the quest for balanced territorial development.</p>
 <hr>
+</section>
 <section id="ugc-net-syllabus" class="level2">
 <h2 class="anchored" data-anchor-id="ugc-net-syllabus">UGC NET Syllabus</h2>
 <ul>
@@ -555,7 +585,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

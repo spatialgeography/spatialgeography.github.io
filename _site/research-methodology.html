@@ -103,10 +103,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#meaning-design" id="toc-meaning-design" class="nav-link active" data-scroll-target="#meaning-design">01 Meaning Design</a></li>
+  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a>
+  <ul class="collapse">
+  <li><a href="#meaning-design" id="toc-meaning-design" class="nav-link" data-scroll-target="#meaning-design">01 Meaning Design</a></li>
   <li><a href="#materials-methods" id="toc-materials-methods" class="nav-link" data-scroll-target="#materials-methods">02 Materials Methods</a></li>
   <li><a href="#fieldwork" id="toc-fieldwork" class="nav-link" data-scroll-target="#fieldwork">03 Fieldwork</a></li>
   <li><a href="#practical" id="toc-practical" class="nav-link" data-scroll-target="#practical">04 Practical</a></li>
+  </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -132,6 +135,42 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="official-syllabus-nep-2020" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Core I Paper XVI Research Methodology<br>
+(4 Credit, Theory: 45hrs, Practical: 30hrs)<br>
+Unit -I Learning Outcome:<br>
+The learners will get the initial training on various steps involved in geographical research.<br>
+Research in Geography: Meaning and significance; Need for research; Types of research; Research Design; Defining research problems; Development of theoretical background - literature review, identifying research gap and research questions and objectives of study; Hypothesis building; Framewo rk of research writing; research ethics.<br>
+Unit -II Learning Outcome:<br>
+They will develop the idea on fundamentals of research methodology including data collection, methodology and report writing.<br>
+Definition and type of research materials and methods; Methods of data collection - primary and secondary; Differentiating Questionnaire and Schedule; Techniques of writing dissertation: preparing drafts, abstract and keywords, citations, references, biblio graphy; Plagiarism: classification and prevention.<br>
+Unit -III Learning Outcome:<br>
+This course also aims to develop fundamental research aptitude among all the students. Besides the course explores the theoretical background to some extent<br>
+Fieldwork in Geographical studies: role and significance; Selection of study area and objectives; Pre -field academic preparations. Ethics of fieldwork. Field techniques and tools: Observation (participant, non -participant), questionnaires (open, LOsed, str uctured, non - structured); Interview; Landscape survey using transects and quadrants, constructing a sketch, photo and video recording; Post -field tabulation, processing and analysis of quantitative and qualitative data; Fieldwork: logistics and handling of emergencies.<br>
+Unit IV: Practical<br>
+Learning Outcome:<br>
+Above all consists of practical components with programs built on open source. Basic programming is included<br>
+1. Identification of research problem<br>
+2. Keyword and search query development<br>
+3. Searching literature using google scholar and dimension<br>
+4. Effective summarizing of literature and writing literature review<br>
+5. Problematization/mapping research gap<br>
+6. Framing research objective and methodology<br>
+7. Development and submission of a research proposal<br>
+8. Viva -Voce</p>
+</div>
+</div>
 <section id="meaning-design" class="level3">
 <h3 class="anchored" data-anchor-id="meaning-design">01 Meaning Design</h3>
 <p>Content for 01 Meaning Design coming soon.</p>
@@ -149,6 +188,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Content for 04 Practical coming soon.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -249,7 +289,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

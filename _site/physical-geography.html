@@ -103,10 +103,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#fundamentals" id="toc-fundamentals" class="nav-link active" data-scroll-target="#fundamentals">01 Fundamentals</a></li>
+  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a>
+  <ul class="collapse">
+  <li><a href="#fundamentals" id="toc-fundamentals" class="nav-link" data-scroll-target="#fundamentals">01 Fundamentals</a></li>
   <li><a href="#weather-climate" id="toc-weather-climate" class="nav-link" data-scroll-target="#weather-climate">02 Weather Climate</a></li>
   <li><a href="#hydrology-oceanography" id="toc-hydrology-oceanography" class="nav-link" data-scroll-target="#hydrology-oceanography">03 Hydrology Oceanography</a></li>
   <li><a href="#practical" id="toc-practical" class="nav-link" data-scroll-target="#practical">04 Practical</a></li>
+  </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -132,6 +135,46 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="official-syllabus-nep-2020" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Core I Paper I<br>
+(4 Credit, Theory: 45hrs, Practical: 30hrs)</p>
+<p>Unit - I:<br>
+Learning Outcome : Comprehend the fundamentals of geomorphic processes, landforms, climate systems, and hydrology, enabling them to analyze and explain the interconnectedness of these elements within global ecosystems</p>
+<p>Meaning, scope, and components of physical geography, Interior of the Earth; Origin of continents and oceans; Isostasy; Earthquakes and volcanoes; Earth movements; Faults, folds; Continental Drift and Plate Tectonic Theories; ; Cycle of erosion: Davis and Penck; Weathering and Mass Wasting.<br>
+Unit -II:<br>
+Learning Outcome:<br>
+Gain comprehensive understanding of the Earth’s atmospheric structure, composition, and characteristics, and be able to analyze and interpret climate patterns, factors influencing climate, and the impact of climatic changes on various ecosystems and human socie ties.</p>
+<p>Elements of weather and climate; Structure and composition of atmosphere. Insolation and heat budget, vertical and horizontal distribution of temperature; Atmospheric pressure and winds - Air mass, Frontogenesis, Tropical CyLOne and Origin; and mechanism of Monsoon.<br>
+Unit -III: Learning Outcome:<br>
+Acquaint themselves with thorough understanding of the hydrological cycle, the movement and distribution of water across terrestrial and marine systems, allowing them to ocean bottom topography, ocean temperature and salinity, ocean currents, and sediment deposits.<br>
+Hydrological Cycle: Factors affecting run -off, infiltration and groundwater. Water Storage and Circulation; Ocean bottom topography; Temperature and salinity of ocean water; Ocean current and deposits.<br>
+Unit -IV: (Practical) Learning Outcome:<br>
+Honed their fieldwork and laboratory skills, enabling them to apply physical geographic methods to collect, analyze, and interpret data from real -world environments.<br>
+proficient in representing relief features such as Mountains, Valleys (U shaped and V shape), Waterfalls, Plateaus, and</p>
+<ol type="1">
+<li>Drawing of Contour Features – Mountain, Valley (U shaped and V shape), Waterfall, Plateau and Escarpment;<br>
+</li>
+<li>Calculation of time of place with reference to GMT;<br>
+</li>
+<li>Introduction to use of simple weather observation instruments: Thermometer (Wet and dry bulb temperature), Barometer, hygrometer, anemometer, wind vane, Rain Gauge, Stevenson Screen,<br>
+</li>
+<li>Interpretation of weather maps; Construction and interpretation hydrographs and unit hydrographs; T -S Diagram.<br>
+</li>
+<li>Practical Record and Viva.</li>
+</ol>
+</div>
+</div>
 <section id="fundamentals" class="level3">
 <h3 class="anchored" data-anchor-id="fundamentals">01 Fundamentals</h3>
 <p>Content for 01 Fundamentals coming soon.</p>
@@ -149,6 +192,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Content for 04 Practical coming soon.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -249,7 +293,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

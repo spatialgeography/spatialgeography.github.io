@@ -6,6 +6,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include geomorphology/00-syllabus.md >}}
+
+
 Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course explores the origin, evolution, and classification of landforms across Earth's surface.
 
 ---

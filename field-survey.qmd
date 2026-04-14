@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include field-survey/00-syllabus.md >}}
+
+
 {{< include field-survey/01-designing-survey.md >}}
 
 {{< include field-survey/02-tools-techniques.md >}}

@@ -103,10 +103,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#physiography-climate" id="toc-physiography-climate" class="nav-link active" data-scroll-target="#physiography-climate">01 Physiography Climate</a></li>
+  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a>
+  <ul class="collapse">
+  <li><a href="#physiography-climate" id="toc-physiography-climate" class="nav-link" data-scroll-target="#physiography-climate">01 Physiography Climate</a></li>
   <li><a href="#population-demography" id="toc-population-demography" class="nav-link" data-scroll-target="#population-demography">02 Population Demography</a></li>
   <li><a href="#history-culture" id="toc-history-culture" class="nav-link" data-scroll-target="#history-culture">03 History Culture</a></li>
   <li><a href="#economy-disaster" id="toc-economy-disaster" class="nav-link" data-scroll-target="#economy-disaster">04 Economy Disaster</a></li>
+  </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -132,6 +135,33 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="official-syllabus-nep-2020" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Core I Paper XII Geography of Odisha<br>
+(4 Credit, Theory: 45hrs, Practical: 30hrs)</p>
+<p>Unit -I: Learning Outcome:<br>
+Understand the locations, physiography, climatic conditions, and distribution of soils in Odisha.<br>
+Geological Structure: Distribution of Major Rock Systems; Physiographic Divisions; Factors Influencing Climate of Odisha; Climatic Regions; Major Soil Types; Natural Vegetation.<br>
+Unit -II Learning Outcome:<br>
+Acquaint themselves with thorough understanding of the demographic structure<br>
+Growth, Distribution and Density of Population; Population Composition: Linguistic, Rural - Urban; Distribution of Cities and Towns; Regional Variation in Folk Housing Types in Rural Odisha; Processes and Dynamics of Migration in Odisha.<br>
+Unit -III Learning Outcome:<br>
+Familiar with the socio -cultural activity in Odisha . Geographical Factors Behind Odisha’s History and Culture; Evolution of Odia Language and Regional Variations; Diversity of Tribes and Social Formation; Regional Variation of Food Preferences and Habits; Folk and Popular Odia Cultures; Identifying Vernacula r Cultural Regions of Odisha.<br>
+Unit -IV Learning Outcome:<br>
+Understand economy and Natural Disaster of Odisha.<br>
+Major Farming Types; Industrial Belts of Odisha; Cottage and Handicraft Industries of Odisha; Fisheries: Fresh and Marine; Aspirational districts and other major welfare schemes, Natural Disaster and Odisha (Cyclone, Flood): Risk and Vulnerability; Paradig m Shifts in Disaster Management: Success Stories of Odisha.</p>
+</div>
+</div>
 <section id="physiography-climate" class="level3">
 <h3 class="anchored" data-anchor-id="physiography-climate">01 Physiography Climate</h3>
 <p>Content for 01 Physiography Climate coming soon.</p>
@@ -149,6 +179,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Content for 04 Economy Disaster coming soon.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -249,7 +280,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

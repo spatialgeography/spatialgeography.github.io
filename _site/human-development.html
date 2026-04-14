@@ -103,10 +103,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#human-development" id="toc-human-development" class="nav-link active" data-scroll-target="#human-development">01 Human Development</a></li>
+  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a>
+  <ul class="collapse">
+  <li><a href="#human-development" id="toc-human-development" class="nav-link" data-scroll-target="#human-development">01 Human Development</a></li>
   <li><a href="#sustainable-development" id="toc-sustainable-development" class="nav-link" data-scroll-target="#sustainable-development">02 Sustainable Development</a></li>
   <li><a href="#indicators" id="toc-indicators" class="nav-link" data-scroll-target="#indicators">03 Indicators</a></li>
   <li><a href="#practical" id="toc-practical" class="nav-link" data-scroll-target="#practical">04 Practical</a></li>
+  </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -132,6 +135,55 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="official-syllabus-nep-2020" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Core I Paper XIX Human Development a nd Sustainable Development<br>
+(4 Credit, Theory: 45hrs, Practical: 30hrs)<br>
+Unit -I Learning Outcome:<br>
+Understand the concepts of sustainable development, human health and well -being.<br>
+Development: Concept and Indicators, Physical Quality of Life Index (PQLI) and Human Development Index (HDI), Goals of Development -Economic Growth, Distributive Justice, Ecological Sustainability; Sustainable development -Concept and Approaches.<br>
+Unit -II Learning Outcome:<br>
+Comprehend the need, importance and features of SDGs.<br>
+Goals to Sustainability - UN’s 17 SDGs; Localizing sustainable development goals; Population dynamics and Sustainable Development goals, Global health and Sustainable development goals.<br>
+Unit -III Learning Outcome:<br>
+Deliberate the basic concepts of epidemiology and public health.<br>
+Concepts of Health and Wellbeing; Factors affecting Human Health and Diseases; Concepts of morbidity and its measurements, WHO International Classification of Diseases; communicable and non -communicable diseases; Epidemiological Transition Theory; Evolutio n of population and health policies in India; Health Inequalities in India with special reference to Odisha - Regional, Social and economic; India’s performance in health related SDGs.<br>
+Unit -IV: Practical<br>
+Learning Outcome:<br>
+Can accomplish various practical outlines about the SDGs.<br>
+1. Identification and estimation of development indicators<br>
+2. Measurement of PQLI<br>
+3. Measurement of HDI<br>
+4. Tracking SDGs with reference to health indicators.<br>
+5. Viva -Voce<br>
+Suggested Readings<br>
+Text Books : ✓ Sundaram, K.V. (1983). Geography of Underdevelopment: Spatial Dimensions of Underdevelopment, Concept, New Delhi<br>
+✓ United Nations (1990). Human Development Report -1990<br>
+Reference Books:<br>
+✓ Desai, V and Potter. R (2001). The Companion to Development Studies, Hodder Arnold.<br>
+✓ Gatrell, A.C. (2002). Geographies of Health: An Introduction, Blackwell,<br>
+✓ Gatrell, A., and Loytonen (1998). GIS and Health. London: Taylor and Francis Ltd.<br>
+✓ Gesler, W.M. (1992). Therapeutic landscapes: Medical issues in light of the new cultural geography. Social Science and Medicine 34: 735 –46. ✓ Meade. M.S and Emch M (2010). Medical Geography. London: The Guilford Press.<br>
+✓ Rais, A. and Learmonth, A.T.A (2018). Geographical Aspects of Health and Diseases in India. Concept Publishing Company Pvt. Ltd<br>
+✓ Smyth, Fiona (2008). Medical geography: Understanding health inequalities. Progress in Human Geography 32 (1): 119 -127. ✓ Niti Ayog (2019). Localising SDGS: Early Lessons from India,<br>
+✓ https://www.niti.gov.in/sites/default/files/2020 -07/LSDGs_July_8_Web.pdf<br>
+✓ https://sdgs.un.org/goals<br>
+✓ https://sdghelpdesk.unescap.org/e -library/localizing -sdgs-strategies -and-plans<br>
+✓ https://mphdegree.usc.edu/blog/global -public -health -the-sustainable -development - goals -report/<br>
+✓ https://populationmatters.org/un -sdgs/<br>
+✓ http://sdg.iisd.org/news/unfpa -report -highlights -role-of-population -dynamics -in- sustainable -development -agenda/</p>
+</div>
+</div>
 <section id="human-development" class="level3">
 <h3 class="anchored" data-anchor-id="human-development">01 Human Development</h3>
 <p>Content for 01 Human Development coming soon.</p>
@@ -149,6 +201,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Content for 04 Practical coming soon.</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -249,7 +302,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

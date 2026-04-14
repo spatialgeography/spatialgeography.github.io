@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include natural-hazards/00-syllabus.md >}}
+
+
 {{< include natural-hazards/01-concept-classification.md >}}
 
 {{< include natural-hazards/02-major-hazards.md >}}

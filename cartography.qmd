@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include cartography/00-syllabus.md >}}
+
+
 {{< include cartography/01-basics.md >}}
 
 {{< include cartography/02-projections-slope.md >}}

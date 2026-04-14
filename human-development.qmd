@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include human-development/00-syllabus.md >}}
+
+
 {{< include human-development/01-human-development.md >}}
 
 {{< include human-development/02-sustainable-development.md >}}

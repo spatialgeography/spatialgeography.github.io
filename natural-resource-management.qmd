@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include natural-resource-management/00-syllabus.md >}}
+
+
 {{< include natural-resource-management/01-resources-types.md >}}
 
 {{< include natural-resource-management/02-conservation-policies.md >}}

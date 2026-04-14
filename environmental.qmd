@@ -6,6 +6,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include environmental/00-syllabus.md >}}
+
+
 
 
 Welcome to the **Environmental Geography** module of Geography OpenCourseWare. This course bridges physical and human geography by examining the complex interactions between human societies and the natural environment — from ecosystem dynamics to contemporary environmental crises.

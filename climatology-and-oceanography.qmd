@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include climatology-and-oceanography/00-syllabus.md >}}
+
+
 {{< include climatology-and-oceanography/01-weather-system.md >}}
 
 {{< include climatology-and-oceanography/02-atmospheric-circulation.md >}}

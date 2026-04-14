@@ -4,6 +4,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include physical-geography/00-syllabus.md >}}
+
+
 {{< include physical-geography/01-fundamentals.md >}}
 
 {{< include physical-geography/02-weather-climate.md >}}

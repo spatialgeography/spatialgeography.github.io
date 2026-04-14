@@ -6,6 +6,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include economic-geography/00-syllabus.md >}}
+
+
 
 
 Welcome to the **Economic Geography** module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes.

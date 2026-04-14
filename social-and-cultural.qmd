@@ -6,6 +6,9 @@ toc: true
 toc-depth: 3
 ---
 
+{{< include social-and-cultural/00-syllabus.md >}}
+
+
 
 
 Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWare. This course explores how culture, identity, religion, ethnicity, and social structures are distributed across space and how they interact with geographic landscapes and processes.
