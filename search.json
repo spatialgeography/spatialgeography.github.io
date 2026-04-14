@@ -452,28 +452,21 @@
     "href": "gis-remote-sensing.html",
     "title": "GIS & Remote Sensing",
     "section": "",
-    "text": "Welcome to the GIS & Remote Sensing module of Geography OpenCourseWare. This course covers the principles and applications of Geographic Information Systems and satellite-based remote sensing — the technological backbone of modern geographical analysis."
+    "text": "Welcome to the GIS & Remote Sensing module of Geography OpenCourseWare. This course covers the principles and applications of Geographic Information Systems and satellite-based remote sensing."
   },
   {
-    "objectID": "gis-remote-sensing.html#ugc-net-syllabus",
-    "href": "gis-remote-sensing.html#ugc-net-syllabus",
+    "objectID": "gis-remote-sensing.html#remote-sensing-principles-dip",
+    "href": "gis-remote-sensing.html#remote-sensing-principles-dip",
     "title": "GIS & Remote Sensing",
-    "section": "UGC NET Syllabus",
-    "text": "UGC NET Syllabus\n\nGIS Database (raster and vector data formats and attribute data formats), Functions of GIS (conversion, editing and analysis).\nDigital Elevation Model (DEM), Georeferencing (coordinate system and map projections and Datum).\nGIS Applications (thematic cartography, spatial decision support system).\nBasics of Remote Sensing (Electromagnetic Spectrum, Sensors and Platforms, Resolution and Types, Elements of Air Photo and Satellite Image Interpretation and Photogrammetry), Types of Aerial Photographs.\nDigital Image Processing: Developments in Remote Sensing Technology and Big Data Sharing and its applications in Natural Resources Management in India.\nGPS Components (space, ground control and receiver segments) and Applications.\n\n\n\nRemote sensing applications\nContent for Remote sensing applications coming soon.\n\n\nDigital mapping\nContent for Digital mapping coming soon.\n\n\nGeographic Information System (GIS)\nContent for Geographic Information System (GIS) coming soon.\n\n\nThematic maps\nContent for Thematic maps coming soon.\n\n\nMaps as a tool in geographical studies\nContent for Maps as a tool in geographical studies coming soon.\n\n\nTypes of maps\nContent for Types of maps coming soon.\n\n\nTechniques for studying spatial patterns of distribution\nContent for Techniques for studying spatial patterns of distribution coming soon.\n\n\nSingle-purpose and composite maps\nContent for Single-purpose and composite maps coming soon.\n\n\nMapping techniques:\nContent for Mapping techniques: coming soon.\n\n\nChoropleth maps\nContent for Choropleth maps coming soon.\n\n\nIsopleth maps\nContent for Isopleth maps coming soon.\n\n\nChorochromatic maps\nContent for Chorochromatic maps coming soon.\n\n\nPie diagrams\nContent for Pie diagrams coming soon.\n\n\nAccessibility and flow maps\nContent for Accessibility and flow maps coming soon."
+    "section": "Remote Sensing Principles & DIP",
+    "text": "Remote Sensing Principles & DIP"
   },
   {
-    "objectID": "gis-remote-sensing.html#applications-of-gis-rs",
-    "href": "gis-remote-sensing.html#applications-of-gis-rs",
+    "objectID": "gis-remote-sensing.html#remote-sensing-principles",
+    "href": "gis-remote-sensing.html#remote-sensing-principles",
     "title": "GIS & Remote Sensing",
-    "section": "Applications of GIS & RS",
-    "text": "Applications of GIS & RS\nPractical deployment of geospatial technologies.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantDomain Applications\n\n\n\n\nLand Use / Land Cover Mapping: Change detection and urban expansion monitoring.\nNatural Hazard Mapping: Flood, landslide, and drought risk assessment.\nAgricultural Monitoring: Crop health, yield estimation, and precision agriculture.\nUrban Planning: Site suitability, infrastructure planning, and smart city mapping.\nEnvironmental Monitoring: Deforestation tracking, water quality assessment, and carbon mapping."
-  },
-  {
-    "objectID": "gis-remote-sensing.html#course-content",
-    "href": "gis-remote-sensing.html#course-content",
-    "title": "GIS & Remote Sensing",
-    "section": "Course Content",
-    "text": "Course Content\n\nFundamentals of GIS\nSpatial Data Models\nSpatial Analysis Techniques\nRemote Sensing Principles\nDigital Image Processing\nApplications of GIS & RS\nRecent Advances"
+    "section": "Remote Sensing Principles",
+    "text": "Remote Sensing Principles\nThe science of acquiring information about the Earth without direct contact.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteElectromagnetic Spectrum & Sensors\n\n\n\n\nElectromagnetic Spectrum: Visible, infrared, thermal, and microwave regions used in remote sensing.\nPassive vs. Active Sensors: Optical/thermal sensors vs. RADAR and LiDAR.\nSpatial, Spectral, Temporal & Radiometric Resolution: The four pillars of sensor capability.\nKey Satellites: Landsat, Sentinel, MODIS, ASTER, and commercial high-resolution platforms.\n\n\n\n\nRemote sensing applications\nContent for Remote sensing applications coming soon."
   },
   {
     "objectID": "gis-remote-sensing.html#digital-image-processing",
@@ -483,25 +476,32 @@
     "text": "Digital Image Processing\nConverting raw satellite data into useful information.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipProcessing Workflows\n\n\n\n\nPre-processing: Geometric correction, atmospheric correction, and radiometric calibration.\nImage Enhancement: Contrast stretching, histogram equalization, spatial filtering, and PCA.\nImage Classification: Supervised (Maximum Likelihood, SVM, Random Forest) and Unsupervised (K-Means, ISODATA) methods.\nAccuracy Assessment: Confusion matrix, Kappa statistic, overall accuracy, producer’s and user’s accuracy.\nSpectral Indices: NDVI, NDWI, NDBI, EVI, SAVI, and their applications."
   },
   {
+    "objectID": "gis-remote-sensing.html#gis-fundamentals-spatial-data-models",
+    "href": "gis-remote-sensing.html#gis-fundamentals-spatial-data-models",
+    "title": "GIS & Remote Sensing",
+    "section": "GIS Fundamentals & Spatial Data Models",
+    "text": "GIS Fundamentals & Spatial Data Models"
+  },
+  {
     "objectID": "gis-remote-sensing.html#fundamentals-of-gis",
     "href": "gis-remote-sensing.html#fundamentals-of-gis",
     "title": "GIS & Remote Sensing",
     "section": "Fundamentals of GIS",
-    "text": "Fundamentals of GIS\nCore concepts underlying Geographic Information Systems.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteGIS Foundations\n\n\n\n\nWhat is GIS?: A framework for capturing, managing, analyzing, and displaying spatial data.\nComponents of GIS: Hardware, software, data, people, and methods.\nCoordinate Systems & Projections: Geographic (lat/long) vs. projected (UTM, State Plane) coordinate systems.\nMap Scale & Generalization: Principles governing cartographic representation at different scales."
+    "text": "Fundamentals of GIS\nCore concepts underlying Geographic Information Systems.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteGIS Foundations\n\n\n\n\nWhat is GIS?: A framework for capturing, managing, analyzing, and displaying spatial data.\nComponents of GIS: Hardware, software, data, people, and methods.\nCoordinate Systems & Projections: Geographic (lat/long) vs. projected (UTM, State Plane) coordinate systems.\nMap Scale & Generalization: Principles governing cartographic representation at different scales.\n\n\n\n\nGeographic Information System (GIS)\nContent for Geographic Information System (GIS) coming soon."
   },
   {
-    "objectID": "gis-remote-sensing.html#recent-advances",
-    "href": "gis-remote-sensing.html#recent-advances",
+    "objectID": "gis-remote-sensing.html#spatial-data-models",
+    "href": "gis-remote-sensing.html#spatial-data-models",
     "title": "GIS & Remote Sensing",
-    "section": "Recent Advances",
-    "text": "Recent Advances\nCutting-edge developments in geospatial technology.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipEmerging Technologies\n\n\n\n\nGoogle Earth Engine: Cloud-based planetary-scale analysis.\nDeep Learning for RS: CNNs, U-Net, and transformer architectures for image segmentation.\nUAV/Drone Remote Sensing: Very high resolution, on-demand data acquisition.\nSAR Interferometry (InSAR): Land subsidence and deformation monitoring.\nSTAC & Cloud-Native Geospatial: Modern data cataloging and analysis-ready data formats.\n\n\n\n\n\nBooks and Further Readings\nGIS & Remote Sensing provide the technological toolkit for all branches of geography. Explore Statistical Geography to complement your analytical skills with quantitative methods."
+    "section": "Spatial Data Models",
+    "text": "Spatial Data Models\nHow geographic phenomena are represented in digital form.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipVector & Raster\n\n\n\n\nVector Data: Points, lines, polygons — ideal for discrete features (roads, boundaries, locations).\nRaster Data: Grid of cells — ideal for continuous phenomena (elevation, temperature, satellite imagery).\nTIN (Triangulated Irregular Network): Surface representation using irregular triangles for terrain modeling.\nTopology: Spatial relationships (adjacency, connectivity, containment) essential for network and overlay analysis.\n\n\n\n\nDigital mapping\nContent for Digital mapping coming soon."
   },
   {
-    "objectID": "gis-remote-sensing.html#remote-sensing-principles",
-    "href": "gis-remote-sensing.html#remote-sensing-principles",
+    "objectID": "gis-remote-sensing.html#spatial-analysis-geospatial-applications",
+    "href": "gis-remote-sensing.html#spatial-analysis-geospatial-applications",
     "title": "GIS & Remote Sensing",
-    "section": "Remote Sensing Principles",
-    "text": "Remote Sensing Principles\nThe science of acquiring information about the Earth without direct contact.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteElectromagnetic Spectrum & Sensors\n\n\n\n\nElectromagnetic Spectrum: Visible, infrared, thermal, and microwave regions used in remote sensing.\nPassive vs. Active Sensors: Optical/thermal sensors vs. RADAR and LiDAR.\nSpatial, Spectral, Temporal & Radiometric Resolution: The four pillars of sensor capability.\nKey Satellites: Landsat, Sentinel, MODIS, ASTER, and commercial high-resolution platforms."
+    "section": "Spatial Analysis & Geospatial Applications",
+    "text": "Spatial Analysis & Geospatial Applications"
   },
   {
     "objectID": "gis-remote-sensing.html#spatial-analysis-techniques",
@@ -511,11 +511,39 @@
     "text": "Spatial Analysis Techniques\nThe analytical power of GIS.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantCore GIS Operations\n\n\n\n\nOverlay Analysis: Intersection, union, and identity operations for combining spatial datasets.\nBuffer Analysis: Proximity-based zones around features.\nNetwork Analysis: Shortest path, service area, and location-allocation modeling.\nInterpolation: IDW, Kriging, and Spline methods for estimating values at unsampled locations.\nTerrain Analysis: Slope, aspect, hillshade, viewshed, and watershed delineation from DEMs."
   },
   {
-    "objectID": "gis-remote-sensing.html#spatial-data-models",
-    "href": "gis-remote-sensing.html#spatial-data-models",
+    "objectID": "gis-remote-sensing.html#applications-of-gis-rs",
+    "href": "gis-remote-sensing.html#applications-of-gis-rs",
     "title": "GIS & Remote Sensing",
-    "section": "Spatial Data Models",
-    "text": "Spatial Data Models\nHow geographic phenomena are represented in digital form.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipVector & Raster\n\n\n\n\nVector Data: Points, lines, polygons — ideal for discrete features (roads, boundaries, locations).\nRaster Data: Grid of cells — ideal for continuous phenomena (elevation, temperature, satellite imagery).\nTIN (Triangulated Irregular Network): Surface representation using irregular triangles for terrain modeling.\nTopology: Spatial relationships (adjacency, connectivity, containment) essential for network and overlay analysis."
+    "section": "Applications of GIS & RS",
+    "text": "Applications of GIS & RS\nPractical deployment of geospatial technologies.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantDomain Applications\n\n\n\n\nLand Use / Land Cover Mapping: Change detection and urban expansion monitoring.\nNatural Hazard Mapping: Flood, landslide, and drought risk assessment.\nAgricultural Monitoring: Crop health, yield estimation, and precision agriculture.\nUrban Planning: Site suitability, infrastructure planning, and smart city mapping.\nEnvironmental Monitoring: Deforestation tracking, water quality assessment, and carbon mapping."
+  },
+  {
+    "objectID": "gis-remote-sensing.html#recent-advances",
+    "href": "gis-remote-sensing.html#recent-advances",
+    "title": "GIS & Remote Sensing",
+    "section": "Recent Advances",
+    "text": "Recent Advances\nCutting-edge developments in geospatial technology.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipEmerging Technologies\n\n\n\n\nGoogle Earth Engine: Cloud-based planetary-scale analysis.\nDeep Learning for RS: CNNs, U-Net, and transformer architectures for image segmentation.\nUAV/Drone Remote Sensing: Very high resolution, on-demand data acquisition.\nSAR Interferometry (InSAR): Land subsidence and deformation monitoring.\nSTAC & Cloud-Native Geospatial: Modern data cataloging and analysis-ready data formats.\n\n\n\n\n\nBooks and Further Readings\nGIS & Remote Sensing provide the technological toolkit for all branches of geography. Explore Statistical Geography to complement your analytical skills with quantitative methods."
+  },
+  {
+    "objectID": "gis-remote-sensing.html#cartography-advanced-mapping-techniques",
+    "href": "gis-remote-sensing.html#cartography-advanced-mapping-techniques",
+    "title": "GIS & Remote Sensing",
+    "section": "Cartography & Advanced Mapping Techniques",
+    "text": "Cartography & Advanced Mapping Techniques\n\nMaps as a tool in geographical studies\nContent for Maps as a tool in geographical studies coming soon.\n\n\nTypes of maps\nContent for Types of maps coming soon.\n\n\nThematic maps\nContent for Thematic maps coming soon.\n\n\nMapping techniques:\nContent for Mapping techniques: coming soon.\n\n\nChoropleth maps\nContent for Choropleth maps coming soon.\n\n\nIsopleth maps\nContent for Isopleth maps coming soon.\n\n\nChorochromatic maps\nContent for Chorochromatic maps coming soon.\n\n\nPie diagrams\nContent for Pie diagrams coming soon.\n\n\nAccessibility and flow maps\nContent for Accessibility and flow maps coming soon.\n\n\nTechniques for studying spatial patterns of distribution\nContent for Techniques for studying spatial patterns of distribution coming soon.\n\n\nSingle-purpose and composite maps\nContent for Single-purpose and composite maps coming soon."
+  },
+  {
+    "objectID": "gis-remote-sensing.html#practical-resources-interview-prep",
+    "href": "gis-remote-sensing.html#practical-resources-interview-prep",
+    "title": "GIS & Remote Sensing",
+    "section": "Practical Resources & Interview Prep",
+    "text": "Practical Resources & Interview Prep\n\nGIS & Remote Sensing: Short Q&A for Interviews\nThis section provides concise answers to technical concepts frequently asked during academic and professional interviews in the field of Geoinformatics.\n\n\n1. What is the fundamental difference between GIS and Remote Sensing?\nAnswer: Remote Sensing is the technology of acquiring information about Earth’s surface from a distance (satellites/drones), while GIS (Geographic Information System) is the tool used for storing, analyzing, and visualizing that spatial data. RS provides the data, and GIS provides the analysis framework.\n\n\n2. Explain ‘Passive’ vs. ‘Active’ Remote Sensing.\nAnswer: - Passive RS: Sensors detect natural energy (sunlight) reflected or emitted from the Earth’s surface (e.g., Landsat). - Active RS: Sensors provide their own energy source, emit a pulse, and measure the return (e.g., RADAR, LiDAR).\n\n\n3. What is the ‘Spectral Signature’?\nAnswer: It is the unique pattern of reflectance or emittance of an object across different wavelengths of the electromagnetic spectrum. Just like a human fingerprint, it allows us to identify materials (e.g., distinguishing healthy vegetation from stressed vegetation).\n\n\n4. Define ‘Raster’ and ‘Vector’ Data Models.\nAnswer: - Raster: Represents data as a grid of cells or pixels (best for continuous data like elevation or satellite imagery). - Vector: Represents data using points, lines, and polygons (best for discrete data like boundaries, roads, or wells).\n\n\n5. What are the four types of Resolution in Remote Sensing?\nAnswer: 1. Spatial: The smallest area on the ground represented by a pixel. 2. Spectral: The number and width of wavelength bands the sensor can detect. 3. Radiometric: The ability of a sensor to distinguish small differences in energy (bit depth). 4. Temporal: The revisit time (how often the satellite images the same spot).\n\n\n6. What is ‘Georeferencing’?\nAnswer: The process of assigning real-world geographic coordinates (like Latitude/Longitude) to a digital image or map so that it can be correctly aligned with other spatial data.\n\n\n7. What is the difference between ‘GCP’ and ‘DGPS’?\nAnswer: - GCP (Ground Control Point): A physical point on the ground with known coordinates used for georeferencing. - DGPS (Differential GPS): An enhancement to standard GPS that provides sub-meter accuracy by using a fixed base station to correct errors in mobile receivers.\n\n\n8. What is ‘Topology’ in GIS?\nAnswer: It is a set of rules and mathematical relationships that define how geometric features (points, lines, polygons) share common space, ensuring data integrity (e.g., no overlapping polygons or disconnected road segments).\n\n\n9. Explain ‘NDVI’.\nAnswer: The Normalized Difference Vegetation Index is a formula (NIR - Red) / (NIR + Red) used to measure the “greenness” or health of vegetation by comparing high reflectance in Near-Infrared and high absorption in Red light.\n\n\n10. What is a ‘Buffer Analysis’?\nAnswer: A spatial analysis tool used to create a zone of a specific distance around a feature (e.g., identifying all houses within 500 meters of a proposed highway).\n\n\n[!TIP] Interview Strategy: When answering, always try to give a real-world example (e.g., “NDVI is used in crop monitoring to detect drought stress before it’s visible to the naked eye”)."
+  },
+  {
+    "objectID": "gis-remote-sensing.html#course-content",
+    "href": "gis-remote-sensing.html#course-content",
+    "title": "GIS & Remote Sensing",
+    "section": "Course Content",
+    "text": "Course Content\n\nFundamentals of GIS\nSpatial Data Models\nSpatial Analysis Techniques\nRemote Sensing Principles\nDigital Image Processing\nApplications of GIS & RS\nRecent Advances"
   },
   {
     "objectID": "geography-in-news.html",
