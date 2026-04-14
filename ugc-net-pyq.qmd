@@ -10,6 +10,46 @@ Welcome to the **UGC NET Previous Year Questions** module of Geography OpenCours
 
 ---
 
+### Demands of the UGC NET Geography Exam
+
+To succeed in the current UGC NET cycle, students must move beyond simple rote learning. The exam now demands:
+- **Strong Subject Knowledge**: In-depth understanding of standard theories and models.
+- **New Patterns**: Adaptation to the shifting focus of recent exams (more analytical).
+- **Practice - Revise - Practice - Revise**: The core mantra for retention and speed.
+
+---
+
+### Understanding Question Types
+
+The exam features a diverse set of question formats:
+1. **Direct Questions**: Straightforward factual or conceptual queries.
+2. **Pair Matching**: Matching scholars to their works, or landforms to their processes.
+3. **Assertion-Reason (A-R)**: Testing the logical link between two statements (most challenging).
+4. **Multiple Option / Code Based**: Selecting the correct combination of statements.
+5. **Elimination Technique**: Using known incorrect options to narrow down the answer.
+6. **Sequence Based**: Arranging events, years (e.g., Census growth rates), or landforms in order.
+7. **Passage Based**: Comprehensive analysis of a technical paragraph (e.g., Climatology lapse rates).
+
+---
+
+### Conceptual vs. Fact-Based Geography
+
+| Category | Description | Strategy |
+|:---|:---|:---|
+| **Concept Geography** | Theories, models, and physical processes. | Study and **Understand** the core principles. |
+| **Fact & Figure Geography** | Data, years, locations, and specific names. | Requires systematic **Revision & Memorization**. |
+| **Mixed (Most Difficult)** | Questions that apply facts to conceptual frameworks. | Requires deep integration of knowledge. |
+
+> [!IMPORTANT]
+> **Checklist for PYQ Practice**:
+> - Can I identify the **WRONG** statement among four plausible ones?
+> - Does my knowledge base cover the specific **Census years** or **Geographic coordinates**?
+> - Am I prepared for **Picture-based** or **Tabular** information questions?
+> - Do I need to perform **Map reading** for this specific topic (e.g., Indian Rivers/Peaks)?
+> - Have any questions been asked about **Current Affairs** related to this unit (e.g., recent Earthquakes/Treaties)?
+
+---
+
 ### PYQ Distribution & Exam Trends
 
 To crack the UGC NET Geography exam, it is vital to understand the weightage of each unit. Below is the average question distribution based on the last few cycles (June 2023, Dec 2023, and June 2024).

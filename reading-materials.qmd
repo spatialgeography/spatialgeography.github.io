@@ -35,6 +35,21 @@ A collaborative environment that encourages peer-to-peer knowledge sharing, grou
 
 ---
 
+### Efficiency of Learning
+
+We base our methodology on **Academic Research** (Chi et al., 1989) regarding self-explanations and the "Learning Pyramid." The effectiveness of different learning modes is reflected in our design:
+
+- **10%** from **Reading** (Passive)
+- **20%** from **Seeing** (Visual)
+- **30%** from **Hearing** (Auditory)
+- **50%** from **Seeing & Hearing** (Multi-sensory)
+- **70%** from **Collaboration** (Active Learning)
+- **80%** from **Doing** (Application & Practical)
+
+Our platform prioritizes the **70-80%** retention bracket by encouraging student interaction and "learning by doing" through module-based exercises.
+
+---
+
 ### Curated E-learning Portals
 
 To support your self-study, we recommend the following authoritative platforms:
@@ -60,6 +75,31 @@ Online courses in Geography and related disciplines provided by India's top tech
 :::
 
 :::
+
+---
+
+### Standard Reference Books
+
+For in-depth study, we recommend the following authoritative textbooks across various sub-disciplines of Geography.
+
+| Subject | Recommended Textbook | Author(s) |
+|:---|:---|:---|
+| **Physical Geography** | Physical Geography | Savindra Singh / DR Khullar |
+| **Climatology** | Climatology / Physical Geography | Lal. D.S / Savindra Singh |
+| **Oceanography** | Oceanography for Geographers | R.C Sharma & M Vatal |
+| **Environmental** | Environment / Environmental Geography | Shankar IAS / Savindra Singh |
+| **Geogr. Thought** | Evolution of Geographical Thought | Majid Husain |
+| **Geography of India** | Geography of India | Majid Husain |
+| **Settlement Geogr.** | Urban Geography | L N Varma |
+| **Population Geogr.** | Human Geography / Population Geogr. | Majid Husain / M. Izhar Hassan |
+| **Political Geogr.** | Political Geography | Sudeepta Adhikari |
+| **Social & Cultural** | Human Geography / Social Geography | Majid Husain / Aijazuddin Ahmad |
+| **Economic Geogr.** | Advanced Economic Geography | Dr. Alka Gautam |
+| **Agricultural Geogr.**| Systematic Agricultural Geography | Majid Husain |
+| **Reg. Development** | Regional Planning In India / Reg. Planning | Mahesh Chand / R C Chandna |
+| **Cartography** | Advanced Practical Geography | Pijushkanti Saha & Partha Basu |
+| **Statistics** | Statistics | R S N Pillai & Bagavathi |
+| **GIS & RS** | Remote Sensing and GIS | Basudeb Bhatta |
 
 ---
 
