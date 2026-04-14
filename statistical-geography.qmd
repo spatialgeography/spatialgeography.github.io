@@ -8,60 +8,44 @@ toc-depth: 3
 
 {{< include statistical-geography/00-syllabus.md >}}
 
+---
 
-
-
-Welcome to the **Statistical Geography** module of Geography OpenCourseWare. This course covers the quantitative and statistical techniques essential for rigorous geographic research — from basic descriptive statistics to advanced spatial modeling.
+Welcome to the **Statistical Geography** module of Geography OpenCourseWare.
 
 ---
 
-## UGC NET Syllabus
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-* **Sources of Geographic Information and Data (spatial and non-spatial).**
-* **Types of Maps, Techniques of Map Making (Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps) Data Representation on Maps (Pie diagrams, Bar diagrams and Line Graph).**
-* **Applications of Measures of Central Tendency, Dispersion and Inequalities, Sampling, Sampling Procedure and Hypothesis Testing (chi square test, t test, ANOVA).**
-* **Time Series Analysis, Correlation and Regression Analysis.**
-* **Measurement of Indices, Making Indicators Scale Free, Computation of Composite Index, Principal Component Analysis and Cluster Analysis.**
-* **Morphometric Analysis: Ordering of Streams, Bifurcation Ratio, Drainage Density and Drainage Frequency, Basin Circularity Ratio and Form Factor, Profiles, Slope Analysis, Clinographic Curve, Hypsographic Curve and Altimetric Frequency Graph.**
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
+
+{{< include statistical-geography/01-geographic-data-sources.md >}}
+
+{{< include statistical-geography/02-measures-of-central-tendency-dispersion.md >}}
+
+{{< include statistical-geography/03-correlation-regression.md >}}
+
+{{< include statistical-geography/04-map-projections-and-scales.md >}}
+
+{{< include statistical-geography/05-thematic-mapping-techniques.md >}}
+
+{{< include statistical-geography/06-spatial-statistics-indices.md >}}
 
 ---
 
-{{< include statistical-geography/01-data-sources-and-types.md >}}
+## Part B: NEP-2020 Specific Topics
 
-{{< include statistical-geography/02-statistical-diagrams.md >}}
+These topics are part of the NEP-2020 undergraduate programme only.
 
-{{< include statistical-geography/03-frequency-distribution-and-cumulative-frequency.md >}}
+{{< include statistical-geography/07-agricultural-delineation-methods.md >}}
 
-{{< include statistical-geography/04-measures-of-central-tendency.md >}}
+---
 
-{{< include statistical-geography/05-class-intervals-for-mapping.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include statistical-geography/06-measures-of-dispersion-and-concentration.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include statistical-geography/07-standard-deviation.md >}}
+{{< include statistical-geography/08-hypothesis-testing.md >}}
 
-{{< include statistical-geography/08-lorenz-curve.md >}}
+{{< include statistical-geography/09-advanced-multivariate-techniques.md >}}
 
-{{< include statistical-geography/09-measuring-association-among-attributes.md >}}
-
-{{< include statistical-geography/10-correlation-simple-and-multiple.md >}}
-
-{{< include statistical-geography/11-measurement-of-spatial-patterns-nearest-neighbour-analysis.md >}}
-
-{{< include statistical-geography/12-scaling-techniques-rank-score-weighted-score.md >}}
-
-{{< include statistical-geography/13-sampling-techniques-for-geographical-analysis.md >}}
-
-{{< include statistical-geography/14-cartographic-graphical-methods.md >}}
-
-{{< include statistical-geography/15-correlation-regression.md >}}
-
-{{< include statistical-geography/16-course-content.md >}}
-
-{{< include statistical-geography/17-descriptive-statistics.md >}}
-
-{{< include statistical-geography/18-inferential-statistics.md >}}
-
-{{< include statistical-geography/19-probability-sampling.md >}}
-
-{{< include statistical-geography/20-spatial-statistics.md >}}
+---

@@ -1,47 +1,64 @@
-## Official Syllabus (NEP-2020)
+## Official Syllabus
+
+### NEP-2020 Syllabus
 
 ::: {.callout-note}
+#### Core I Paper V — Environmental Geography and Biogeography
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
 
-Core I Paper V  Environmental Geography and Biogeography   
-(4 Credit,  Theory:  45hrs,  Practical:  30hrs)  
- 
-Unit -I: 
-Learning Outcome:  
-Understand the concept of the environmental ecosystem, their types, structure, and functions, 
-again they can also get a clear idea about biogeochemical cycles including Carbon, Oxygen, 
-Nitrogen cycle etc.  
-Environment: Concept, Types and Characteristics and Principles; Environmental Controls and 
-Concept of tolerance; Ecosystem: Concept, Types, Structure and Functions (Food Chain and 
-Food Web, Trophic Level, Ecological Pyramid); Energy flow in Ecosystem; Bio -geo-chemical 
-Cycles (Nitrogen, Carbon, Oxygen); Concept and Types of Biomes: (Equatorial, Subtropical, 
-Temperate and Polar).  
-Unit -II 
-Learning Outcome:  
-Recognize the spatial aspects of biodiversity including the processes, dynamics, and 
-distributions. They also get an idea about the different biodiversity including critical, 
-endangered, and threatened and their related issues.  
-Introduction to Biogeography: Nature, Scope, Development; Ecological Succession: 
-Succession, Change and Equilibrium; Key processes in Biogeography: Evolution, Speciation, 
-Extinction, Dispersal; World Distribution patterns of Biota: Biogeographical Regions;  
-Distribution of World’s Biodiversity hotspots: Critical and Endangered, Threatened, relatively 
-stable/intact.  
-Unit -III:   
-Learning Outcome:  
-Gain the basic knowledge about pedology, including, the origin of soil, factors affecting soil 
-formation, elements of soils and classification of soil on the basis of different criteria.  
-Soil Colour, Soil Texture and Soil Structure; Soil horizons; Soil forming Processes and Factors; 
-Soils Classification: (a) Soil Classification by Maturity (Entisols, Inceptisols, Alfisols, 
-Spodosols, Ultisols, Oxisols), (b) Soil Classification by Climate ( Mollisols, Ardisols, Gelisols), 
-(c) Soils Characterized by Parent Material (Vertisols, Andisols).   
-Unit -IV: Practical  
-Learning Outcome:  
-Students will realize the extension of different biomes and Man -Environment relationship in 
-different biomes.  
-1. Submission of a Project Report on any environmental problem of global/national/local 
-significance.  
-                                                                       Or 
-2. Prepare a Seminar paper on biodiversity hotspots of India with special reference to the 
-distribution, biotic characteristics, major threats, and possible solutions.  
-3.  Report and Viva -Voce
+**Unit I — Environment & Ecosystem**
 
+- Environment: Concept, Types, Characteristics and Principles
+- Environmental Controls and Concept of Tolerance
+- Ecosystem: Concept, Types, Structure and Functions (Food Chain, Food Web, Trophic Level, Ecological Pyramid)
+- Energy Flow in Ecosystem
+- Bio-geo-chemical Cycles (Nitrogen, Carbon, Oxygen)
+- Concept and Types of Biomes (Equatorial, Subtropical, Temperate and Polar)
+
+**Unit II — Biogeography**
+
+- Introduction to Biogeography: Nature, Scope, Development
+- Ecological Succession: Succession, Change and Equilibrium
+- Key Processes in Biogeography: Evolution, Speciation, Extinction, Dispersal
+- World Distribution Patterns of Biota: Biogeographical Regions
+- Distribution of World's Biodiversity Hotspots: Critical, Endangered, Threatened, Relatively Stable/Intact
+
+**Unit III — Pedology (Soil Geography)**
+
+- Soil Colour, Soil Texture and Soil Structure
+- Soil Horizons
+- Soil Forming Processes and Factors
+- Soil Classification:
+  - (a) By Maturity: Entisols, Inceptisols, Alfisols, Spodosols, Ultisols, Oxisols
+  - (b) By Climate: Mollisols, Ardisols, Gelisols
+  - (c) By Parent Material: Vertisols, Andisols
+
+**Unit IV — Practical**
+
+1. Project Report on any environmental problem of global/national/local significance
+2. Seminar paper on biodiversity hotspots of India (distribution, biotic characteristics, major threats, solutions)
+3. Report and Viva-Voce
+:::
+
+---
+
+### UGC NET Syllabus
+
+::: {.callout-tip}
+#### Unit III — Oceanography and Bio-Geography (Bio-Geography Section)
+
+- Physical factors influencing world distribution of plants and animals
+- Forms and functions of ecosystems: Forest, Grassland, Marine, Mountain
+- Biodiversity and its depletion: natural and human-induced causes
+- Conservation and management of ecosystems
+- Environmental hazards and pollution
+- Ozone depletion
+
+#### Environmental Geography (Paper II Topics)
+
+- **Components**: Ecosystem (Geographic Classification) and Human Ecology
+- **Functions**: Trophic Levels, Energy Flows, Cycles (geo-chemical, carbon, nitrogen, oxygen), Food Chain, Food Web and Ecological Pyramid
+- **Human Interaction and Impacts**, Environmental Ethics and Deep Ecology
+- **Environmental Hazards and Disasters**: Global Warming, Urban Heat Island, Atmospheric Pollution, Water Pollution, Land Degradation
+- **National Programmes and Policies**: Legal Framework, Environmental Policy, International Treaties, International Programmes and Policies (Brundtland Commission, Kyoto Protocol, Agenda 21, Sustainable Development Goals, Paris Agreement)
 :::

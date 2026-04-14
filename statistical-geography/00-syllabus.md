@@ -1,42 +1,41 @@
-## Official Syllabus (NEP-2020)
+## Official Syllabus
+
+### NEP-2020 Syllabus
 
 ::: {.callout-note}
+#### Core I Paper IV — Cartography and Geo-Spatial Techniques
+*(Note: Quantitative topics are distributed in practical sections of various NEP papers)*
 
-Core I Paper VII       Economic Geography  
-    (4 Credit,  Theory:  45hrs,  Practical:  30hrs)  
- 
-Unit -I:   
-Learning Outcome:  
-Understand and differentiate different types of economic activities and their utilities. Analyse 
-the factors responsible for the location and distribution of economic activities.  
- 
-Meaning and scope of economic geography; classification of economic activities; Factors 
-affecting location of Economic Activity with special reference to agriculture, manufacturing 
-and Services; Classification of world agricultural system of Whittlesey. Vo n Thunen theory of 
-location of agricultural activity.  
-Unit –II  
-Learning Outcome:  
-Evaluate the significance and relevance of theories in relation to the location of different 
-economic activities.  
-Secondary Activities: Manufacturing (Cotton Textile, Iron and Steel, Petrochemical), Major 
-Industrial Regions of the world, Special Economic Zones and Technology Parks. Tertiary 
-Activities: Transport (Land, Air, Water and Pipelines), Trade (National and International) ; 
-Weber and Smith’s Industrial location Theory.  
-Unit -III: 
-Learning Outcome:  
-Define and differentiate types of resources, their management and sustainable use.  
-Resource  ‐ Concept and Classification, Functional Theory of Resources, Distribution, 
-Utilization, Problems and Management of World’s Resources (Land, Water, Forest and Energy 
-(Coal, petroleum and non -conventional), Mineral resources ( Iron, Bauxite). Resource 
-Development Regions of India; Resource depletion, conservation and Sustainable use of 
-resources.  
-Unit -IV: Practical  
-Learning Outcome:  
-Create different types of thematic maps, charts and diagrams.  
-1. Determination and representation of agricultural efficiency (Kendall and Bhatia 
-method).  
-2. Method of delineation of crop combination regions by Weaver and Doi’s method.  
-3. Traffic flow diagram and Drawing of Isochrones, Isotims, Isodapanes.  
-4.  Practical Record and viva –voce.
+**Cartography & Data:**
+- Scientific basis of Cartography, needs of map making, characteristics of maps
+- Geographical Coordinates, Graticules, Types of Scales (Plain, Diagonal)
+- Types of Map Projection, Transformation of area, Distance and Direction
+- Drawing of Choropleth and isopleth maps
+- Traffic flow diagram and Drawing of Isochrones, Isotims, Isodapanes
+- Slope Analysis (Wentworth's method and Smith)
+- Determination of agricultural efficiency (Kendall and Bhatia method)
+- Delineation of crop combination regions (Weaver and Doi's method)
+- Nearest Neighbour Analysis, Rank Size Rule
+:::
 
+---
+
+### UGC NET Syllabus
+
+::: {.callout-tip}
+#### Unit IX/X — Statistical Methods and Cartography
+
+**I. Statistical Methods**
+- Sources of Geographic Information and Data (spatial and non-spatial)
+- Applications of Measures of Central Tendency, Dispersion and Inequalities
+- Sampling, Sampling Procedure and Hypothesis Testing (chi square, t-test, ANOVA)
+- Time Series Analysis, Correlation and Regression Analysis
+- Measurement of Indices, Making Indicators Scale Free, Computation of Composite Index
+- Principal Component Analysis and Cluster Analysis
+- Morphometric Analysis: Stream ordering, Bifurcation ratio, Drainage density, Slope Analysis
+
+**II. Cartography**
+- Types of Maps, Techniques of Map Making
+- Data Representation on Maps (Pie diagrams, Bar diagrams, Line Graph)
+- Thematic maps: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps
 :::

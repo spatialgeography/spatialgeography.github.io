@@ -8,110 +8,50 @@ toc-depth: 3
 
 {{< include social-and-cultural/00-syllabus.md >}}
 
+---
 
-
-
-Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWare. This course explores how culture, identity, religion, ethnicity, and social structures are distributed across space and how they interact with geographic landscapes and processes.
+Welcome to the **Social & Cultural Geography** module of Geography OpenCourseWare.
 
 ---
 
-## UGC NET Syllabus
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-* **Concept of Culture, Cultural Complexes, Areas and Region, Cultural Heritage, Cultural Ecology, Cultural Convergence.**
-* **Social Structure and Processes, Social Well-being and Quality of Life, Social Exclusion.**
-* **Spatial distribution of social groups in India (Tribe, Caste, Religion and Language).**
-* **Environment and Human Health, Diseases Ecology.**
-* **Nutritional Status (etiological conditions, classification and spatial and seasonal distributional patterns with special reference to India).**
-* **Health Care Planning and Policies in India, Medical Tourism in India.**
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
+
+{{< include social-and-cultural/01-social-geography-nature-scope.md >}}
+
+{{< include social-and-cultural/02-social-structure-indian-context.md >}}
+
+{{< include social-and-cultural/03-social-justice-wellbeing.md >}}
+
+{{< include social-and-cultural/04-cultural-geography-nature-scope.md >}}
+
+{{< include social-and-cultural/05-cultural-regions-and-hearths.md >}}
+
+{{< include social-and-cultural/06-heritage-and-dwellings.md >}}
+
+{{< include social-and-cultural/07-urban-social-geography.md >}}
 
 ---
 
-{{< include social-and-cultural/01-nature-and-scope-of-social-geography.md >}}
+## Part B: NEP-2020 Specific Topics
 
-{{< include social-and-cultural/02-social-structure-and-processes.md >}}
+These topics are part of the NEP-2020 undergraduate programme only.
 
-{{< include social-and-cultural/03-elements-of-social-geography.md >}}
+{{< include social-and-cultural/08-social-formations-india.md >}}
 
-{{< include social-and-cultural/04-race-ethnicity-identity.md >}}
+{{< include social-and-cultural/09-social-empowerment-housing.md >}}
 
-{{< include social-and-cultural/05-major-tribes-tribal-areas-and-their-problems.md >}}
+---
 
-{{< include social-and-cultural/06-dialect.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include social-and-cultural/07-language-religion.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include social-and-cultural/08-caste.md >}}
+{{< include social-and-cultural/10-geography-of-health.md >}}
 
-{{< include social-and-cultural/09-concept-of-social-well-being.md >}}
+{{< include social-and-cultural/11-nutrition-and-healthcare.md >}}
 
-{{< include social-and-cultural/10-nature-and-scope-of-cultural-geography.md >}}
+{{< include social-and-cultural/12-theories-of-tribal-groups.md >}}
 
-{{< include social-and-cultural/11-environment-and-culture.md >}}
-
-{{< include social-and-cultural/12-concept-of-culture-areas-and-cultural-regions.md >}}
-
-{{< include social-and-cultural/13-theories-of-tribal-groups.md >}}
-
-{{< include social-and-cultural/14-dwelling-places-as-cultural-expressions.md >}}
-
-{{< include social-and-cultural/15-regional-concept-in-geography.md >}}
-
-{{< include social-and-cultural/16-application-of-regional-concepts-in-planning.md >}}
-
-{{< include social-and-cultural/17-concept-of-planning-region.md >}}
-
-{{< include social-and-cultural/18-regional-hierarchy.md >}}
-
-{{< include social-and-cultural/19-types-of-regions-and-regional-delineation-methods.md >}}
-
-{{< include social-and-cultural/20-conceptual-and-theoretical-framework-of-regional-planning.md >}}
-
-{{< include social-and-cultural/21-regional-planning-in-india.md >}}
-
-{{< include social-and-cultural/22-concept-of-development-and-indicators-of-development.md >}}
-
-{{< include social-and-cultural/23-regional-imbalances.md >}}
-
-{{< include social-and-cultural/24-conurbations-and-metropolitan-regions.md >}}
-
-{{< include social-and-cultural/25-course-content.md >}}
-
-{{< include social-and-cultural/26-cultural-landscapes.md >}}
-
-{{< include social-and-cultural/27-culture-geography.md >}}
-
-{{< include social-and-cultural/28-demographic-attributes-sex-ratio-age-structure-literacy-rate-work-force-dependency-ratio-longevity.md >}}
-
-{{< include social-and-cultural/29-functional-classification-of-indian-cities.md >}}
-
-{{< include social-and-cultural/30-gender-geography.md >}}
-
-{{< include social-and-cultural/31-globalization-cultural-change.md >}}
-
-{{< include social-and-cultural/32-growth-distribution-and-density-of-population.md >}}
-
-{{< include social-and-cultural/33-health-indicators.md >}}
-
-{{< include social-and-cultural/34-historical-perspective-of-indian-society.md >}}
-
-{{< include social-and-cultural/35-migration-inter-regional-interaregional-and-international-and-associated-problems.md >}}
-
-{{< include social-and-cultural/36-morphology-of-indian-cities.md >}}
-
-{{< include social-and-cultural/37-population-problems-and-policies.md >}}
-
-{{< include social-and-cultural/38-problems-of-urbanisation-and-remedies.md >}}
-
-{{< include social-and-cultural/39-racial-linguistic-and-ethnic-diversities.md >}}
-
-{{< include social-and-cultural/40-religious-minorities.md >}}
-
-{{< include social-and-cultural/41-slums-and-associated-problems.md >}}
-
-{{< include social-and-cultural/42-town-planning.md >}}
-
-{{< include social-and-cultural/43-types-patterns-and-morphology-of-rural-settlements.md >}}
-
-{{< include social-and-cultural/44-urban-developments.md >}}
-
-{{< include social-and-cultural/45-urban-sprawl.md >}}
+---

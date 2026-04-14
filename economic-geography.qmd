@@ -8,63 +8,52 @@ toc-depth: 3
 
 {{< include economic-geography/00-syllabus.md >}}
 
+---
 
-
-
-Welcome to the **Economic Geography** module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes.
+Welcome to the **Economic Geography** module of Geography OpenCourseWare.
 
 ---
 
-## UGC NET Syllabus
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-* **Factors affecting spatial organisation of economic activities (primary, secondary, tertiary and quarternary).**
-* **Natural Resources (classification, distribution and associated problems), Natural Resources Management.**
-* **World Energy Crises in Developed and Developing Countries.**
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
+
+{{< include economic-geography/01-economic-activities-and-sectors.md >}}
+
+{{< include economic-geography/02-factors-of-location.md >}}
+
+{{< include economic-geography/03-agricultural-systems.md >}}
+
+{{< include economic-geography/04-von-thunen-model.md >}}
+
+{{< include economic-geography/05-industrial-location-theories.md >}}
+
+{{< include economic-geography/06-manufacturing-industries.md >}}
+
+{{< include economic-geography/07-transport-and-trade.md >}}
+
+{{< include economic-geography/08-resources-concept-classification.md >}}
+
+{{< include economic-geography/09-energy-resources.md >}}
 
 ---
 
-{{< include economic-geography/01-location-of-economic-activities.md >}}
+## Part B: NEP-2020 Specific Topics
 
-{{< include economic-geography/02-spatial-organization-of-economies.md >}}
+These topics are part of the NEP-2020 undergraduate programme only.
 
-{{< include economic-geography/03-classification-of-economies.md >}}
+{{< include economic-geography/10-sez-technology-parks.md >}}
 
-{{< include economic-geography/04-sectors-of-the-economy.md >}}
+{{< include economic-geography/11-resource-development-conservation.md >}}
 
-{{< include economic-geography/05-primary-activities.md >}}
+---
 
-{{< include economic-geography/06-secondary-activities.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include economic-geography/07-tertiary-quaternary-activities.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include economic-geography/08-natural-resources-renewable-and-non-renewable.md >}}
+{{< include economic-geography/12-agriculture-measurement-methods.md >}}
 
-{{< include economic-geography/09-conservation-of-resources.md >}}
+{{< include economic-geography/13-contemporary-industry-trends.md >}}
 
-{{< include economic-geography/10-agricultural-inputs-and-productivity.md >}}
-
-{{< include economic-geography/11-course-content.md >}}
-
-{{< include economic-geography/12-energy-crisis.md >}}
-
-{{< include economic-geography/13-food-and-nutritions-problems.md >}}
-
-{{< include economic-geography/14-food-security-famine-causes-effects-and-remedies.md >}}
-
-{{< include economic-geography/15-fundamentals-of-economic-geography.md >}}
-
-{{< include economic-geography/16-globalization-economic-space.md >}}
-
-{{< include economic-geography/17-location-theories.md >}}
-
-{{< include economic-geography/18-measurement-and-problems.md >}}
-
-{{< include economic-geography/19-patterns-of-world-trade.md >}}
-
-{{< include economic-geography/20-the-limits-to-growth.md >}}
-
-{{< include economic-geography/21-world-agriculture-typology-of-agricultural-regions.md >}}
-
-{{< include economic-geography/22-world-industries-location-patterns-and-problems.md >}}
-
-{{< include economic-geography/23-world-resources-and-their-distribution.md >}}
+---

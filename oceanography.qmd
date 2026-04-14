@@ -6,54 +6,36 @@ toc: true
 toc-depth: 3
 ---
 
-
-
-Welcome to the **Oceanography** module of Geography OpenCourseWare. This course explores the physical, chemical, and biological dynamics of the world's oceans — covering ocean floor topography, water masses, currents, tides, and the marine environment.
+{{< include oceanography/00-syllabus.md >}}
 
 ---
 
-## UGC NET Syllabus
-
-* **Relief of Oceans.**
-* **Composition: Temperature, Density and Salinity.**
-* **Circulation: Warm and Cold Currents, Waves, Tides.**
-* **Sea Level Changes.**
-* **Hazards: Tsunami and Cyclone.**
+Welcome to the **Oceanography** module of Geography OpenCourseWare.
 
 ---
+
+## Part A: Common Topics (NEP-2020 & UGC NET)
+
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
 
 {{< include oceanography/01-origin-of-ocean-basins.md >}}
 
-{{< include oceanography/02-bottom-relief-of-indian-atlantic-and-pacific-oceans.md >}}
+{{< include oceanography/02-ocean-floor-relief.md >}}
 
-{{< include oceanography/03-ocean-deposits.md >}}
+{{< include oceanography/03-temperature-salinity-density.md >}}
 
-{{< include oceanography/04-coral-reefs-coral-bleaching.md >}}
+{{< include oceanography/04-waves-tides-currents.md >}}
 
-{{< include oceanography/05-temperature-and-salinity-of-the-oceans.md >}}
+{{< include oceanography/05-sea-level-changes.md >}}
 
-{{< include oceanography/06-density-of-seawater.md >}}
+{{< include oceanography/06-coral-reefs.md >}}
 
-{{< include oceanography/07-ocean-currents.md >}}
+---
 
-{{< include oceanography/08-sea-level-changes.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include oceanography/09-bottom-topography-of-the-atlantic-indian-and-pacific-oceans.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include oceanography/10-course-content.md >}}
+{{< include oceanography/07-oceanic-hazards.md >}}
 
-{{< include oceanography/11-heat-and-salt-budgets.md >}}
-
-{{< include oceanography/12-law-of-the-sea-and-marine-pollution.md >}}
-
-{{< include oceanography/13-marine-resources.md >}}
-
-{{< include oceanography/14-ocean-climate-interaction.md >}}
-
-{{< include oceanography/15-ocean-floor-topography.md >}}
-
-{{< include oceanography/16-temperature-salinity.md >}}
-
-{{< include oceanography/17-waves-currents-and-tides.md >}}
-
-{{< include oceanography/18-waves-tides.md >}}
+---

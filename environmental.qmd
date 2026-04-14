@@ -1,6 +1,6 @@
 ---
-title: "Environmental Geography"
-subtitle: "Human-environment interactions, ecosystems, and contemporary environmental challenges."
+title: "Environmental Geography & Biogeography"
+subtitle: "Human-environment interactions, ecosystems, biogeography, pedology, and contemporary environmental challenges."
 author: "Geography Team"
 toc: true
 toc-depth: 3
@@ -8,83 +8,93 @@ toc-depth: 3
 
 {{< include environmental/00-syllabus.md >}}
 
+---
 
-
-
-Welcome to the **Environmental Geography** module of Geography OpenCourseWare. This course bridges physical and human geography by examining the complex interactions between human societies and the natural environment — from ecosystem dynamics to contemporary environmental crises.
+Welcome to the **Environmental Geography & Biogeography** module of Geography OpenCourseWare. This course bridges physical and human geography by examining the complex interactions between human societies and the natural environment — from ecosystem dynamics and biogeography to soil science and contemporary environmental crises.
 
 ---
 
-## UGC NET Syllabus
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-* **Components: Ecosystem (Geographic Classification) and Human Ecology.**
-* **Functions: Trophic Levels, Energy Flows, Cycles (geo-chemical, carbon, nitrogen and oxygen), Food Chain, Food Web and Ecological Pyramid.**
-* **Human Interaction and Impacts, Environmental Ethics and Deep Ecology.**
-* **Environmental Hazards and Disasters (Global Warming, Urban Heat Island, Atmospheric Pollution, Water Pollution, Land Degradation).**
-* **National Programmes and Policies: Legal Framework, Environmental Policy, International Treaties, International Programmes and Polices (Brundtland Commission, Kyoto Protocol, Agenda 21, Sustainable Development Goals, Paris Agreement).**
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus. The content below highlights syllabus-specific divisions for each topic.
+
+{{< include environmental/01-environment-concept-types-characteristics.md >}}
+
+{{< include environmental/02-ecosystem-structure-functions.md >}}
+
+{{< include environmental/03-energy-flow-in-ecosystem.md >}}
+
+{{< include environmental/04-biogeochemical-cycles.md >}}
+
+{{< include environmental/05-biomes-concept-types.md >}}
+
+{{< include environmental/06-biodiversity-and-depletion.md >}}
+
+{{< include environmental/07-environmental-hazards-pollution.md >}}
+
+{{< include environmental/08-conservation-management-ecosystems.md >}}
 
 ---
 
-{{< include environmental/01-physical-factors-influencing-world-distribution-of-plants-and-animals.md >}}
+## Part B: NEP-2020 Specific Topics
 
-{{< include environmental/02-forms-and-functions-of-ecosystems.md >}}
+These topics are part of the NEP-2020 undergraduate programme only.
 
-{{< include environmental/03-social-forestry-agro-forestry.md >}}
+### Biogeography (Unit II)
 
-{{< include environmental/04-grassland.md >}}
+{{< include environmental/09-environmental-controls-tolerance.md >}}
 
-{{< include environmental/05-marine.md >}}
+{{< include environmental/10-biogeography-nature-scope.md >}}
 
-{{< include environmental/06-mountain.md >}}
+{{< include environmental/11-ecological-succession.md >}}
 
-{{< include environmental/07-biodiversity-and-its-depletion-natural-and-human-induced-causes.md >}}
+{{< include environmental/12-biogeographic-processes.md >}}
 
-{{< include environmental/08-conservation-and-management-of-ecosystems.md >}}
+{{< include environmental/13-biogeographical-regions.md >}}
 
-{{< include environmental/09-environmental-hazards-and-pollution.md >}}
+### Pedology — Soil Geography (Unit III)
 
-{{< include environmental/10-ozone-depletion.md >}}
+{{< include environmental/14-soil-colour-texture-structure.md >}}
 
-{{< include environmental/11-biogeography.md >}}
+{{< include environmental/15-soil-horizons.md >}}
 
-{{< include environmental/12-classification-and-distribution-of-soils.md >}}
+{{< include environmental/16-soil-forming-processes-factors.md >}}
 
-{{< include environmental/13-course-content.md >}}
+{{< include environmental/17-soil-classification.md >}}
 
-{{< include environmental/14-ecology-ecosystems.md >}}
+---
 
-{{< include environmental/15-ecosystem-their-management-and-conservation.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include environmental/16-environmental-degradation.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include environmental/17-environmental-education-and-legislation.md >}}
+### Bio-Geography
 
-{{< include environmental/18-environmental-hazards-and-remedial-measures.md >}}
+{{< include environmental/18-physical-factors-plant-animal-distribution.md >}}
 
-{{< include environmental/19-environmental-policies-governance.md >}}
+### Human Ecology & Environmental Ethics
 
-{{< include environmental/20-environmental-policy.md >}}
+{{< include environmental/19-human-ecology.md >}}
 
-{{< include environmental/21-genesis-of-soils.md >}}
+{{< include environmental/20-environmental-ethics-deep-ecology.md >}}
 
-{{< include environmental/22-global-and-regional-ecological-changes-and-imbalances.md >}}
+### Environmental Hazards & Disasters
 
-{{< include environmental/23-human-ecological-adaptations.md >}}
+{{< include environmental/21-ozone-depletion.md >}}
 
-{{< include environmental/24-influence-of-man-on-ecology-and-environment.md >}}
+{{< include environmental/22-global-warming-climate-change.md >}}
 
-{{< include environmental/25-major-gene-pool-centres.md >}}
+{{< include environmental/23-urban-heat-island.md >}}
 
-{{< include environmental/26-natural-hazards-disasters.md >}}
+### Environmental Policy & Governance
 
-{{< include environmental/27-principle-ecology.md >}}
+{{< include environmental/24-national-programmes-policies.md >}}
 
-{{< include environmental/28-soil-erosion-degradation-and-conservation.md >}}
+{{< include environmental/25-international-treaties-agreements.md >}}
 
-{{< include environmental/29-soil-profile.md >}}
+---
 
-{{< include environmental/30-sustainable-development.md >}}
+### Books and Further Readings
 
-{{< include environmental/31-wild-life.md >}}
+Environmental Geography provides the essential bridge between physical processes and human impacts. Explore [Climatology](climatology.html) and [Oceanography](oceanography.html) for deeper physical science perspectives.
 
-{{< include environmental/32-problems-of-deforestation-and-conservation-measures.md >}}

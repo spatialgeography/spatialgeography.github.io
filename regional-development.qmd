@@ -8,79 +8,44 @@ toc-depth: 3
 
 {{< include regional-development/00-syllabus.md >}}
 
+---
 
-
-
-Welcome to the **Regional Development** module of Geography OpenCourseWare. This course examines the theories and practices of regional planning and development — addressing spatial inequalities, planning strategies, and the quest for balanced territorial development.
+Welcome to the **Regional Development** module of Geography OpenCourseWare.
 
 ---
 
-## UGC NET Syllabus
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-* **Typology of Regions, Formal and Fictional Regions.**
-* **World Regional Disparities.**
-* **Theories of Regional Development (Albert O. Hirschman, Gunnar Myrdal, John Friedman), Dependency theory of Underdevelopment.**
-* **Global Economic Blocks.**
-* **Regional Development and Social Movements in India.**
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
+
+{{< include regional-development/01-concept-and-types-of-regions.md >}}
+
+{{< include regional-development/02-delineation-of-regions.md >}}
+
+{{< include regional-development/03-development-indicators-disparities.md >}}
+
+{{< include regional-development/04-theories-of-regional-development-1.md >}}
+
+{{< include regional-development/05-theories-of-regional-development-2.md >}}
+
+{{< include regional-development/06-regional-planning-india.md >}}
 
 ---
 
-{{< include regional-development/01-regional-concept-in-geography.md >}}
+## Part B: NEP-2020 Specific Topics
 
-{{< include regional-development/02-application-of-regional-concepts-in-planning.md >}}
+These topics are part of the NEP-2020 undergraduate programme only.
 
-{{< include regional-development/03-concept-of-planning-region.md >}}
+{{< include regional-development/07-urban-planning-ncr.md >}}
 
-{{< include regional-development/04-regional-hierarchy.md >}}
+---
 
-{{< include regional-development/05-types-of-regions-and-regional-delineation-methods.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include regional-development/06-conceptual-and-theoretical-framework-of-regional-planning.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include regional-development/07-experience-of-regional-planning-in-india.md >}}
+{{< include regional-development/08-dependency-world-systems.md >}}
 
-{{< include regional-development/08-concept-of-development-and-indicators-of-development.md >}}
+{{< include regional-development/09-social-movements-regional-development.md >}}
 
-{{< include regional-development/09-regional-imbalances.md >}}
-
-{{< include regional-development/10-command-area-development.md >}}
-
-{{< include regional-development/11-concept-of-a-region.md >}}
-
-{{< include regional-development/12-course-content.md >}}
-
-{{< include regional-development/13-environmental-issues-in-regional-planning.md >}}
-
-{{< include regional-development/14-five-year-plans.md >}}
-
-{{< include regional-development/15-growth-centres-and-growth-poles.md >}}
-
-{{< include regional-development/16-india-s-regional-development.md >}}
-
-{{< include regional-development/17-integrated-rural-development-programmes.md >}}
-
-{{< include regional-development/18-international-perspectives.md >}}
-
-{{< include regional-development/19-multi-level-planning.md >}}
-
-{{< include regional-development/20-panchayati-raj-and-decentralised-planning.md >}}
-
-{{< include regional-development/21-planning-for-backward-area-desert-drought-prone-hill-tribal-area-development.md >}}
-
-{{< include regional-development/22-planning-for-sustainable-development.md >}}
-
-{{< include regional-development/23-regional-concepts-delineation.md >}}
-
-{{< include regional-development/24-regional-development-strategies.md >}}
-
-{{< include regional-development/25-regional-disparities.md >}}
-
-{{< include regional-development/26-regional-planning-and-development-of-island-territories.md >}}
-
-{{< include regional-development/27-regional-planning-approaches.md >}}
-
-{{< include regional-development/28-theories-of-regional-development.md >}}
-
-{{< include regional-development/29-types-of-regions-and-methods-of-regionalisation.md >}}
-
-{{< include regional-development/30-watershed-management.md >}}
+---

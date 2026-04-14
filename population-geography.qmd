@@ -8,43 +8,42 @@ toc-depth: 3
 
 {{< include population-geography/00-syllabus.md >}}
 
+---
 
-
-
-Welcome to the **Population Geography** module of Geography OpenCourseWare. This course studies the spatial dimensions of human population — including distribution, density, growth trends, demographic transitions, migration, and their implications for development.
+Welcome to the **Population Geography** module of Geography OpenCourseWare.
 
 ---
 
-## UGC NET Syllabus
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-* **Sources of population data (census, sample surveys and vital statistics, data reliability and errors).**
-* **World Population Distribution (measures, patterns and determinants), World Population Growth (prehistoric to modern period).**
-* **Demographic Transition, Theories of Population Growth (Malthus, Sadler, and Ricardo).**
-* **Fertility and Mortality Analysis (indices, determinants and world patterns).**
-* **Migration (types, causes and consequences and models).**
-* **Population Composition and Characteristics (age, sex, rural-urban, occupational structure and educational levels).**
-* **Population Policies in Developed and Developing Countries.**
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
+
+{{< include population-geography/01-population-distribution-density.md >}}
+
+{{< include population-geography/02-demographic-transition.md >}}
+
+{{< include population-geography/03-migration.md >}}
+
+{{< include population-geography/04-population-policy.md >}}
 
 ---
 
-{{< include population-geography/01-nature-scope-and-recent-trends.md >}}
+## Part B: NEP-2020 Specific Topics
 
-{{< include population-geography/02-patterns-of-world-distribution-growth-and-density-of-population.md >}}
+These topics are part of the NEP-2020 undergraduate programme only.
 
-{{< include population-geography/03-population-policy-issues.md >}}
+{{< include population-geography/05-population-resource-regions.md >}}
 
-{{< include population-geography/04-migration.md >}}
+---
 
-{{< include population-geography/05-demographic-transition.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include population-geography/06-population-resource-regions.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include population-geography/07-course-content.md >}}
+{{< include population-geography/06-population-data-sources.md >}}
+
+{{< include population-geography/07-fertility-mortality-analysis.md >}}
 
 {{< include population-geography/08-population-composition.md >}}
 
-{{< include population-geography/09-population-distribution-density.md >}}
-
-{{< include population-geography/10-population-growth.md >}}
-
-{{< include population-geography/11-population-policies.md >}}
+---

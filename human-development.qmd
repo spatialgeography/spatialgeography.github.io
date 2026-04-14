@@ -1,17 +1,27 @@
 ---
 title: "Human Development and Sustainable Development"
+subtitle: "Indicators of development, global sustainability goals, and geographies of health."
+author: "Geography Team"
 toc: true
 toc-depth: 3
 ---
 
 {{< include human-development/00-syllabus.md >}}
 
+---
 
-{{< include human-development/01-human-development.md >}}
+Welcome to the **Human Development and Sustainable Development** module of Geography OpenCourseWare.
 
-{{< include human-development/02-sustainable-development.md >}}
+---
 
-{{< include human-development/03-indicators.md >}}
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-{{< include human-development/04-practical.md >}}
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
 
+{{< include human-development/01-development-indicators.md >}}
+
+{{< include human-development/02-sustainable-development-goals.md >}}
+
+{{< include human-development/03-health-geography-epidemiology.md >}}
+
+---

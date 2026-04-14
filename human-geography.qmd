@@ -1,17 +1,49 @@
 ---
 title: "Human Geography"
+subtitle: "The study of human societies, cultures, settlements, and their interaction with the environment."
+author: "Geography Team"
 toc: true
 toc-depth: 3
 ---
 
 {{< include human-geography/00-syllabus.md >}}
 
+---
 
-{{< include human-geography/01-nature-scope.md >}}
+Welcome to the **Human Geography** module of Geography OpenCourseWare.
 
-{{< include human-geography/02-population-culture.md >}}
+---
 
-{{< include human-geography/03-settlements-inequalities.md >}}
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-{{< include human-geography/04-practical.md >}}
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
 
+{{< include human-geography/01-nature-and-scope.md >}}
+
+{{< include human-geography/02-man-environment-relationship.md >}}
+
+{{< include human-geography/03-race-religion-language.md >}}
+
+{{< include human-geography/04-rural-settlements.md >}}
+
+{{< include human-geography/05-urban-settlements.md >}}
+
+---
+
+## Part B: NEP-2020 Specific Topics
+
+These topics are part of the NEP-2020 undergraduate programme only.
+
+{{< include human-geography/06-cultural-globalization-diversity.md >}}
+
+---
+
+## Part C: UGC NET Specific Topics
+
+These topics are part of the UGC NET syllabus only.
+
+{{< include human-geography/07-urban-morphology.md >}}
+
+{{< include human-geography/08-central-place-theory.md >}}
+
+---

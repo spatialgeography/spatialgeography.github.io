@@ -1,42 +1,54 @@
-## Official Syllabus (NEP-2020)
+## Official Syllabus
+
+### NEP-2020 Syllabus
 
 ::: {.callout-note}
+#### Core I Paper VII — Economic Geography
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
 
-Core I Paper VII       Economic Geography  
-    (4 Credit,  Theory:  45hrs,  Practical:  30hrs)  
- 
-Unit -I:   
-Learning Outcome:  
-Understand and differentiate different types of economic activities and their utilities. Analyse 
-the factors responsible for the location and distribution of economic activities.  
- 
-Meaning and scope of economic geography; classification of economic activities; Factors 
-affecting location of Economic Activity with special reference to agriculture, manufacturing 
-and Services; Classification of world agricultural system of Whittlesey. Vo n Thunen theory of 
-location of agricultural activity.  
-Unit –II  
-Learning Outcome:  
-Evaluate the significance and relevance of theories in relation to the location of different 
-economic activities.  
-Secondary Activities: Manufacturing (Cotton Textile, Iron and Steel, Petrochemical), Major 
-Industrial Regions of the world, Special Economic Zones and Technology Parks. Tertiary 
-Activities: Transport (Land, Air, Water and Pipelines), Trade (National and International) ; 
-Weber and Smith’s Industrial location Theory.  
-Unit -III: 
-Learning Outcome:  
-Define and differentiate types of resources, their management and sustainable use.  
-Resource  ‐ Concept and Classification, Functional Theory of Resources, Distribution, 
-Utilization, Problems and Management of World’s Resources (Land, Water, Forest and Energy 
-(Coal, petroleum and non -conventional), Mineral resources ( Iron, Bauxite). Resource 
-Development Regions of India; Resource depletion, conservation and Sustainable use of 
-resources.  
-Unit -IV: Practical  
-Learning Outcome:  
-Create different types of thematic maps, charts and diagrams.  
-1. Determination and representation of agricultural efficiency (Kendall and Bhatia 
-method).  
-2. Method of delineation of crop combination regions by Weaver and Doi’s method.  
-3. Traffic flow diagram and Drawing of Isochrones, Isotims, Isodapanes.  
-4.  Practical Record and viva –voce.
+**Unit I:**
+- Meaning and scope of economic geography; classification of economic activities
+- Factors affecting location of Economic Activity (agriculture, manufacturing, services)
+- Classification of world agricultural system of Whittlesey
+- Von Thunen theory of location of agricultural activity
 
+**Unit II:**
+- Secondary Activities: Manufacturing (Cotton Textile, Iron and Steel, Petrochemical)
+- Major Industrial Regions of the world
+- Special Economic Zones and Technology Parks
+- Tertiary Activities: Transport (Land, Air, Water, Pipelines), Trade (National/International)
+- Weber and Smith's Industrial location Theory
+
+**Unit III:**
+- Resource: Concept, Classification, Functional Theory of Resources
+- Distribution, Utilization, Problems and Management of World's Resources (Land, Water, Forest, Energy)
+- Mineral resources (Iron, Bauxite)
+- Resource Development Regions of India
+- Resource depletion, conservation and Sustainable use of resources
+:::
+
+---
+
+### UGC NET Syllabus
+
+::: {.callout-tip}
+#### Unit VI — Geography of Economic Activities and Regional Development
+
+**I. Economic Geography**
+- Factors affecting spatial organisation of economic activities (primary, secondary, tertiary and quarternary)
+- Natural Resources (classification, distribution and associated problems), Natural Resources Management
+- World Energy Crises in Developed and Developing Countries
+
+**II. Agricultural Geography**
+- Land capability classification and Land Use Planning
+- Cropping Pattern: Methods of delineating crop combination regions (Weaver, Doi and Rafiullah), Crop diversification
+- Von Thunen's Model of Land Use Planning
+- Measurement and Determinants of Agricultural Productivity, Regional variations
+- Agricultural Systems of the World
+
+**III. Industrial Geography**
+- Classification of Industries, Factors of Industrial Location
+- Theories of Industrial Location (A. Weber, E. M. Hoover, August Losch, A. Pred and D. M. Smith)
+- World Industrial Regions, Impact of Globalisation on manufacturing sector
+- Tourism Industry, ICT and Knowledge Production Industries
 :::

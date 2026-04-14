@@ -8,103 +8,34 @@ toc-depth: 3
 
 {{< include geographical-thought/00-syllabus.md >}}
 
+---
 
-
-
-Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This course traces the intellectual history of geography as a discipline — from the earliest map-makers and travelers to modern critical and quantitative paradigms.
+Welcome to the **Geographical Thought** module of Geography OpenCourseWare.
 
 ---
 
-## UGC NET Syllabus
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-* **Contributions of Greek, Roman, Arab, Chinese and Indian Scholars.**
-* **Contributions of Geographers (Bernhardus Varenius, Immanuel Kant, Alexander von Humboldt, Carl Ritter, Scheafer & Hartshorne).**
-* **Impact of Darwinian Theory on Geographical Thought.**
-* **Contemporary trends in Indian Geography: Cartography, Thematic and Methodological contributions.**
-* **Major Geographic Traditions (Earth Science, man-environment relationship, area studies and spatial analysis).**
-* **Dualisms in Geographic Studies (physical vs. human, regional vs. systematic, qualitative vs. quantitative, ideographic vs. nomothetic).**
-* **Paradigm Shift, Perspectives in Geography (Positivism, Behaviouralism, Humanism, Structuralism, Feminism and Postmodernism).**
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
+
+{{< include geographical-thought/01-ancient-medieval-geography.md >}}
+
+{{< include geographical-thought/02-modern-geography-foundations.md >}}
+
+{{< include geographical-thought/03-dualisms-and-dichotomies.md >}}
+
+{{< include geographical-thought/04-paradigm-shifts-perspectives.md >}}
 
 ---
 
-{{< include geographical-thought/01-geographic-knowledge-during-the-ancient-and-medieval-period.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include geographical-thought/02-foundations-of-modern-geography-contributions-of.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include geographical-thought/03-german-schools.md >}}
+{{< include geographical-thought/05-geographic-schools.md >}}
 
-{{< include geographical-thought/04-french-schools.md >}}
+{{< include geographical-thought/06-geographic-traditions.md >}}
 
-{{< include geographical-thought/05-british-schools.md >}}
+{{< include geographical-thought/07-darwinian-impact.md >}}
 
-{{< include geographical-thought/06-american-schools.md >}}
-
-{{< include geographical-thought/41-geographers-by-school.md >}}
-
-{{< include geographical-thought/07-conceptual-and-methodological-developments-during-the-20th-century.md >}}
-
-{{< include geographical-thought/08-changing-paradigms-in-geography.md >}}
-
-{{< include geographical-thought/09-man-and-environment-determinism-and-possibilism.md >}}
-
-{{< include geographical-thought/10-area-differentiation-and-spatial-organization.md >}}
-
-{{< include geographical-thought/11-quantitative-revolution-and-locational-analysis.md >}}
-
-{{< include geographical-thought/12-impact-of.md >}}
-
-{{< include geographical-thought/13-positivism.md >}}
-
-{{< include geographical-thought/14-humanism.md >}}
-
-{{< include geographical-thought/15-radicalism.md >}}
-
-{{< include geographical-thought/16-behavioralism.md >}}
-
-{{< include geographical-thought/17-ancient-classical-geography.md >}}
-
-{{< include geographical-thought/18-areal-differentiation.md >}}
-
-{{< include geographical-thought/19-behavioural-humanistic-geography.md >}}
-
-{{< include geographical-thought/20-central-place-theories-of-christaller-and-losch.md >}}
-
-{{< include geographical-thought/21-course-content.md >}}
-
-{{< include geographical-thought/22-cultural-regions-of-the-world.md >}}
-
-{{< include geographical-thought/23-dichotomy-and-dualism.md >}}
-
-{{< include geographical-thought/24-environmentalism.md >}}
-
-{{< include geographical-thought/25-heart-land-and-rimland-theories.md >}}
-
-{{< include geographical-thought/26-human-development-index.md >}}
-
-{{< include geographical-thought/27-languages-religions-and-secularisation.md >}}
-
-{{< include geographical-thought/28-laws-of-international-boundaries-and-frontiers.md >}}
-
-{{< include geographical-thought/29-malthusian-marxian-and-demographic-transition-models.md >}}
-
-{{< include geographical-thought/30-medieval-renaissance-geography.md >}}
-
-{{< include geographical-thought/31-modern-geographical-thought.md >}}
-
-{{< include geographical-thought/32-perroux-and-boudeville.md >}}
-
-{{< include geographical-thought/33-postmodern-geography.md >}}
-
-{{< include geographical-thought/34-radical-behavioural-human-and-welfare-approaches.md >}}
-
-{{< include geographical-thought/35-radical-critical-geography.md >}}
-
-{{< include geographical-thought/36-regional-synthesis.md >}}
-
-{{< include geographical-thought/37-rostows-model-of-stages-of-growth.md >}}
-
-{{< include geographical-thought/38-system-analysis-in-human-geography.md >}}
-
-{{< include geographical-thought/39-von-thunens-model-of-agricultural-location.md >}}
-
-{{< include geographical-thought/40-webers-model-of-industrial-location.md >}}
+---

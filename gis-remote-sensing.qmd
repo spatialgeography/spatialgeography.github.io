@@ -8,50 +8,24 @@ toc-depth: 3
 
 {{< include gis-remote-sensing/00-syllabus.md >}}
 
+---
 
-Welcome to the **GIS & Remote Sensing** module of Geography OpenCourseWare. This course covers the principles and applications of Geographic Information Systems and satellite-based remote sensing.
+Welcome to the **GIS & Remote Sensing** module of Geography OpenCourseWare.
 
 ---
 
-## Remote Sensing Principles & DIP
-{{< include gis-remote-sensing/20-remote-sensing-principles.md >}}
-{{< include gis-remote-sensing/01-remote-sensing-applications.md >}}
-{{< include gis-remote-sensing/17-digital-image-processing.md >}}
+## Part A: Common Topics (NEP-2020 & UGC NET)
+
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
+
+{{< include gis-remote-sensing/01-remote-sensing-fundamentals.md >}}
+
+{{< include gis-remote-sensing/02-gis-data-models.md >}}
+
+{{< include gis-remote-sensing/03-image-interpretation.md >}}
+
+{{< include gis-remote-sensing/04-spatial-analysis.md >}}
+
+{{< include gis-remote-sensing/05-applications-of-rs-gis.md >}}
 
 ---
-
-## GIS Fundamentals & Spatial Data Models
-{{< include gis-remote-sensing/18-fundamentals-of-gis.md >}}
-{{< include gis-remote-sensing/03-geographic-information-system-gis.md >}}
-{{< include gis-remote-sensing/22-spatial-data-models.md >}}
-{{< include gis-remote-sensing/02-digital-mapping.md >}}
-
----
-
-## Spatial Analysis & Geospatial Applications
-{{< include gis-remote-sensing/21-spatial-analysis-techniques.md >}}
-{{< include gis-remote-sensing/15-applications-of-gis-rs.md >}}
-{{< include gis-remote-sensing/19-recent-advances.md >}}
-
----
-
-## Cartography & Advanced Mapping Techniques
-{{< include gis-remote-sensing/05-maps-as-a-tool-in-geographical-studies.md >}}
-{{< include gis-remote-sensing/06-types-of-maps.md >}}
-{{< include gis-remote-sensing/04-thematic-maps.md >}}
-{{< include gis-remote-sensing/09-mapping-techniques.md >}}
-{{< include gis-remote-sensing/10-choropleth-maps.md >}}
-{{< include gis-remote-sensing/11-isopleth-maps.md >}}
-{{< include gis-remote-sensing/12-chorochromatic-maps.md >}}
-{{< include gis-remote-sensing/13-pie-diagrams.md >}}
-{{< include gis-remote-sensing/14-accessibility-and-flow-maps.md >}}
-{{< include gis-remote-sensing/07-techniques-for-studying-spatial-patterns-of-distribution.md >}}
-{{< include gis-remote-sensing/08-single-purpose-and-composite-maps.md >}}
-
----
-
-## Practical Resources & Interview Prep
-{{< include gis-remote-sensing/23-gis-rs-interview-qa.md >}}
-
-<!-- Metadata Cleanup -->
-{{< include gis-remote-sensing/16-course-content.md >}}

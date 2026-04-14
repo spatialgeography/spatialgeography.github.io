@@ -1,17 +1,29 @@
 ---
 title: "Natural Hazards and Disaster Management"
+subtitle: "Understanding extreme events, vulnerability, and resilience strategies."
+author: "Geography Team"
 toc: true
 toc-depth: 3
 ---
 
 {{< include natural-hazards/00-syllabus.md >}}
 
+---
 
-{{< include natural-hazards/01-concept-classification.md >}}
+Welcome to the **Natural Hazards and Disaster Management** module of Geography OpenCourseWare.
 
-{{< include natural-hazards/02-major-hazards.md >}}
+---
 
-{{< include natural-hazards/03-disaster-management.md >}}
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-{{< include natural-hazards/04-practical.md >}}
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
 
+{{< include natural-hazards/01-hazards-vulnerability-risk.md >}}
+
+{{< include natural-hazards/02-climate-change-impacts.md >}}
+
+{{< include natural-hazards/03-types-of-disasters.md >}}
+
+{{< include natural-hazards/04-disaster-management-framework.md >}}
+
+---

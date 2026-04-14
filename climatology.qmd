@@ -6,77 +6,58 @@ toc: true
 toc-depth: 3
 ---
 
-
-
-Welcome to the **Climatology** module of Geography OpenCourseWare. This course explores the Earth's atmosphere, climate systems, and the physical processes that drive weather and climate variability at local, regional, and global scales.
+{{< include climatology/00-syllabus.md >}}
 
 ---
 
-## UGC NET Syllabus
-
-* **Composition and Structure of Atmosphere; Insolation, Heat Budget of Earth.**
-* **Temperature, Pressure and Winds, Atmospheric Circulation (air-masses, fronts and upper air circulation, cyclones and anticyclones).**
-* **Climatic Classification of Koppen & Thornthwaite.**
-* **ENSO Events (El Nino, La Nina and Southern Oscillations).**
-* **Meteorological Hazards and Disasters (Cyclones, Thunderstorms, Tornadoes, Hailstorms, Heat and Cold waves, Drought and Cloudburst, GLOF).**
-* **Climate Change: Evidences and Causes of Climatic Change in the past, Human impact on Global Climate.**
+Welcome to the **Climatology** module of Geography OpenCourseWare.
 
 ---
 
-{{< include climatology/01-composition-and-structure-of-the-atmosphere.md >}}
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-{{< include climatology/02-insolation-and-heat-budget-of-the-earth.md >}}
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
 
-{{< include climatology/03-distribution-of-temperature.md >}}
+{{< include climatology/01-atmosphere-composition-structure.md >}}
 
-{{< include climatology/04-atmospheric-pressure-and-general-circulation-of-winds.md >}}
+{{< include climatology/02-insolation-and-heat-budget.md >}}
+
+{{< include climatology/03-temperature-distribution.md >}}
+
+{{< include climatology/04-atmospheric-pressure-and-circulation.md >}}
 
 {{< include climatology/05-monsoons-and-jet-streams.md >}}
 
-{{< include climatology/06-stability-and-instability-of-the-atmosphere.md >}}
+{{< include climatology/06-air-masses-and-fronts.md >}}
 
-{{< include climatology/07-air-masses-and-fronts.md >}}
+{{< include climatology/07-cyclones.md >}}
 
-{{< include climatology/08-temperate-and-tropical-cyclones.md >}}
+{{< include climatology/08-precipitation.md >}}
 
-{{< include climatology/09-types-and-distribution-of-precipitation.md >}}
+{{< include climatology/09-climate-classification.md >}}
 
-{{< include climatology/10-classification-of-world-climates.md >}}
+{{< include climatology/10-hydrological-cycle.md >}}
 
-{{< include climatology/11-hydrological-cycle.md >}}
+{{< include climatology/11-global-warming.md >}}
 
-{{< include climatology/12-global-warming.md >}}
+---
 
-{{< include climatology/13-air-masses-and-fronto.md >}}
+## Part B: NEP-2020 Specific Topics
 
-{{< include climatology/14-applied-climatology.md >}}
+These topics are part of the NEP-2020 undergraduate programme only.
 
-{{< include climatology/15-atmosphere-structure-composition.md >}}
+{{< include climatology/12-stability-instability-atmosphere.md >}}
 
-{{< include climatology/16-atmospheric-circulation.md >}}
+---
 
-{{< include climatology/17-atmospheric-stability-and-instability.md >}}
+## Part C: UGC NET Specific Topics
 
-{{< include climatology/18-climate-change.md >}}
+These topics are part of the UGC NET syllabus only.
 
-{{< include climatology/19-climate-classification.md >}}
+{{< include climatology/13-enso-events.md >}}
 
-{{< include climatology/20-course-content.md >}}
+{{< include climatology/14-meteorological-hazards.md >}}
 
-{{< include climatology/21-global-climatic-change-and-role-and-response-of-man-in-climatic-changes.md >}}
+{{< include climatology/15-applied-climatology.md >}}
 
-{{< include climatology/22-insolation-heat-budget.md >}}
-
-{{< include climatology/23-koppens-thornthwaites-and-trewar-thas-classification-of-world-climate.md >}}
-
-{{< include climatology/24-köppens-scheme.md >}}
-
-{{< include climatology/25-moisture-precipitation.md >}}
-
-{{< include climatology/26-planetary-and-local-winds.md >}}
-
-{{< include climatology/27-temperature-and-pressure-belts-of-the-world.md >}}
-
-{{< include climatology/28-thornthwaites-scheme.md >}}
-
-{{< include climatology/29-weather-and-climate.md >}}
+---

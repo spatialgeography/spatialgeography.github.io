@@ -1,17 +1,27 @@
 ---
-title: "Field Survey: Tools and Technique"
+title: "Field Survey: Tools and Techniques"
+subtitle: "Practical methods for primary data collection and physical surveying in Geography."
+author: "Geography Team"
 toc: true
 toc-depth: 3
 ---
 
 {{< include field-survey/00-syllabus.md >}}
 
+---
 
-{{< include field-survey/01-designing-survey.md >}}
+Welcome to the **Field Survey: Tools and Techniques** module of Geography OpenCourseWare.
 
-{{< include field-survey/02-tools-techniques.md >}}
+---
 
-{{< include field-survey/03-data-analysis.md >}}
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-{{< include field-survey/04-report-writing.md >}}
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
 
+{{< include field-survey/01-principles-of-field-survey.md >}}
+
+{{< include field-survey/02-physical-survey-instruments.md >}}
+
+{{< include field-survey/03-socio-economic-survey.md >}}
+
+---
