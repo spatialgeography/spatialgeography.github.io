@@ -6,72 +6,61 @@ toc: true
 toc-depth: 3
 ---
 
-
-
-Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course explores the origin, evolution, and classification of landforms across Earth's surface — from towering mountain ranges to the smallest river meanders.
+Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course explores the origin, evolution, and classification of landforms across Earth's surface.
 
 ---
 
-## UGC NET Syllabus
-
-* **Continental Drift, Plate Tectonics, Endogenetic and Exogenetic forces.**
-* **Denudation and Weathering, Geomorphic Cycle (Davis and Penck).**
-* **Theories and Process of Slope Development.**
-* **Earth Movements (seismicity, folding, faulting and vulcanicity).**
-* **Landform Occurrence and Causes of Geomorphic Hazards (earthquakes, volcanoes, landslides and avalanche).**
-
----
-
+## Unit Overview: Fundamental Concepts
 {{< include geomorphology/01-fundamental-concepts.md >}}
-
 {{< include geomorphology/02-factors-controlling-landform-development.md >}}
 
-{{< include geomorphology/03-denudation-processes-weathering-and-erosion.md >}}
+---
 
-{{< include geomorphology/04-geosynclines.md >}}
-
-{{< include geomorphology/05-recent-views-on-mountain-building.md >}}
-
-{{< include geomorphology/06-continental-drift-and-plate-tectonics.md >}}
-
-{{< include geomorphology/07-concept-of-the-geomorphic-cycle.md >}}
-
-{{< include geomorphology/08-landforms-associated-with.md >}}
-
-{{< include geomorphology/09-karst-cycles.md >}}
-
-{{< include geomorphology/10-slope-forms-and-processes.md >}}
-
-{{< include geomorphology/11-applied-geomorphology.md >}}
-
-{{< include geomorphology/12-aeolian-processes.md >}}
-
-{{< include geomorphology/13-channel-morphology.md >}}
-
-{{< include geomorphology/14-coastal-geomorphology.md >}}
-
-{{< include geomorphology/15-course-content.md >}}
-
-{{< include geomorphology/16-denudation-chronology.md >}}
-
-{{< include geomorphology/17-earthquakes-and-tsunamis.md >}}
-
-{{< include geomorphology/18-endogenic-processes.md >}}
-
-{{< include geomorphology/19-erosion-surfaces.md >}}
-
-{{< include geomorphology/20-exogenic-processes.md >}}
-
-{{< include geomorphology/21-fluvial-geomorphology.md >}}
-
+## Earth's Interior & Crustal Evolution
+{{< include geomorphology/26-physical-conditions-of-the-earths-interior.md >}}
+{{< include geomorphology/25-origin-and-evolution-of-the-earths-crusts.md >}}
 {{< include geomorphology/22-fundamentals-of-geomagnetism.md >}}
-
-{{< include geomorphology/23-glacial-periglacial-landforms.md >}}
-
 {{< include geomorphology/24-isostasy.md >}}
 
-{{< include geomorphology/25-origin-and-evolution-of-the-earths-crusts.md >}}
+---
 
-{{< include geomorphology/26-physical-conditions-of-the-earths-interior.md >}}
+## Tectonics & Mountain Building
+{{< include geomorphology/06-continental-drift-and-plate-tectonics.md >}}
+{{< include geomorphology/04-geosynclines.md >}}
+{{< include geomorphology/05-recent-views-on-mountain-building.md >}}
 
+---
+
+## Geomorphic Processes (Endogenic & Exogenic)
+{{< include geomorphology/18-endogenic-processes.md >}}
 {{< include geomorphology/27-volcanicity.md >}}
+{{< include geomorphology/17-earthquakes-and-tsunamis.md >}}
+{{< include geomorphology/20-exogenic-processes.md >}}
+{{< include geomorphology/03-denudation-processes-weathering-and-erosion.md >}}
+
+---
+
+## The Geomorphic Cycle & Slope Development
+{{< include geomorphology/07-concept-of-the-geomorphic-cycle.md >}}
+{{< include geomorphology/16-denudation-chronology.md >}}
+{{< include geomorphology/19-erosion-surfaces.md >}}
+{{< include geomorphology/10-slope-forms-and-processes.md >}}
+
+---
+
+## Systematic Landform Geography
+{{< include geomorphology/21-fluvial-geomorphology.md >}}
+{{< include geomorphology/13-channel-morphology.md >}}
+{{< include geomorphology/12-aeolian-processes.md >}}
+{{< include geomorphology/09-karst-cycles.md >}}
+{{< include geomorphology/14-coastal-geomorphology.md >}}
+{{< include geomorphology/23-glacial-periglacial-landforms.md >}}
+
+---
+
+## Applied Geomorphology
+{{< include geomorphology/11-applied-geomorphology.md >}}
+
+<!-- Cleanup hidden includes -->
+{{< include geomorphology/08-landforms-associated-with.md >}}
+{{< include geomorphology/15-course-content.md >}}
