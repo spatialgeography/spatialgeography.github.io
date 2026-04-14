@@ -592,7 +592,56 @@
     "href": "geospatial-ai.html",
     "title": "Geospatial Modelling, Artificial Intelligence and Machine Learning",
     "section": "",
-    "text": "01 Spatial Modelling\nContent for 01 Spatial Modelling coming soon.\n\n\n02 Artificial Intelligence\nContent for 02 Artificial Intelligence coming soon.\n\n\n03 Machine Learning In Gis\nContent for 03 Machine Learning In Gis coming soon.\n\n\n04 Practical\nContent for 04 Practical coming soon."
+    "text": "NotePaper XXII — Geospatial Modelling, Artificial Intelligence and Machine Learning\n\n\n\n(4 Credit, Theory: 45hrs, Practical: 30hrs)\nUnit I: Spatial Modelling Fundamentals - Meaning, scope, and objectives of spatial modelling. - Types of models: Deterministic, Stochastic, Static, and Dynamic. - Introduction to Cellular Automata (CA) and Agent-Based Modelling (ABM).\nUnit II: Foundations of GeoAI - Concept of Artificial Intelligence (AI) and its evolution in Geography. - Artificial Neural Networks (ANN): Architecture and working principles. - Expert Systems and Knowledge-Based Systems in the geosciences.\nUnit III: Machine Learning for Geospatial Data - Supervised Learning: Linear Regression, Support Vector Machines (SVM), and Random Forest. - Unsupervised Learning: K-means clustering and Principal Component Analysis (PCA). - Deep Learning: Convolutional Neural Networks (CNN) for image interpretation.\nUnit IV: Big Data and Cloud-based Analytics - Practical applications of ML in Land Use Land Cover (LULC) change detection. - Introduction to Google Earth Engine (GEE) and its API. - Case studies in environmental modeling (Flood, Landslide, Groundwater Potential).\n\n\n\n\n\n\n\n\n\n\n\n\nTipUnit X — Geographic Information System (GIS) and Recent Trends\n\n\n\n\nGIS Data Structures: Raster and Vector models.\nSpatial analysis and Modelling.\nRemote Sensing and GIS applications in various fields of Geography.\nEmerging technologies: AI and Big Data in spatial research.\n\n\n\n\nWelcome to the Geospatial Modelling, AI and Machine Learning module. This advanced course explores how modern computing and data science are transforming the way we analyze and predict spatial phenomena."
+  },
+  {
+    "objectID": "geospatial-ai.html#official-syllabus",
+    "href": "geospatial-ai.html#official-syllabus",
+    "title": "Geospatial Modelling, Artificial Intelligence and Machine Learning",
+    "section": "",
+    "text": "NotePaper XXII — Geospatial Modelling, Artificial Intelligence and Machine Learning\n\n\n\n(4 Credit, Theory: 45hrs, Practical: 30hrs)\nUnit I: Spatial Modelling Fundamentals - Meaning, scope, and objectives of spatial modelling. - Types of models: Deterministic, Stochastic, Static, and Dynamic. - Introduction to Cellular Automata (CA) and Agent-Based Modelling (ABM).\nUnit II: Foundations of GeoAI - Concept of Artificial Intelligence (AI) and its evolution in Geography. - Artificial Neural Networks (ANN): Architecture and working principles. - Expert Systems and Knowledge-Based Systems in the geosciences.\nUnit III: Machine Learning for Geospatial Data - Supervised Learning: Linear Regression, Support Vector Machines (SVM), and Random Forest. - Unsupervised Learning: K-means clustering and Principal Component Analysis (PCA). - Deep Learning: Convolutional Neural Networks (CNN) for image interpretation.\nUnit IV: Big Data and Cloud-based Analytics - Practical applications of ML in Land Use Land Cover (LULC) change detection. - Introduction to Google Earth Engine (GEE) and its API. - Case studies in environmental modeling (Flood, Landslide, Groundwater Potential).\n\n\n\n\n\n\n\n\n\n\n\n\nTipUnit X — Geographic Information System (GIS) and Recent Trends\n\n\n\n\nGIS Data Structures: Raster and Vector models.\nSpatial analysis and Modelling.\nRemote Sensing and GIS applications in various fields of Geography.\nEmerging technologies: AI and Big Data in spatial research.\n\n\n\n\nWelcome to the Geospatial Modelling, AI and Machine Learning module. This advanced course explores how modern computing and data science are transforming the way we analyze and predict spatial phenomena."
+  },
+  {
+    "objectID": "geospatial-ai.html#part-a-core-concepts-in-geoai",
+    "href": "geospatial-ai.html#part-a-core-concepts-in-geoai",
+    "title": "Geospatial Modelling, Artificial Intelligence and Machine Learning",
+    "section": "Part A: Core Concepts in GeoAI",
+    "text": "Part A: Core Concepts in GeoAI"
+  },
+  {
+    "objectID": "geospatial-ai.html#spatial-modelling-fundamentals",
+    "href": "geospatial-ai.html#spatial-modelling-fundamentals",
+    "title": "Geospatial Modelling, Artificial Intelligence and Machine Learning",
+    "section": "Spatial Modelling Fundamentals",
+    "text": "Spatial Modelling Fundamentals\n\n\n\n\n\n\nWarning📘 Syllabus Coverage\n\n\n\n\n\n\n\n\n\n\nSyllabus\nTopic Details\n\n\n\n\nNEP-2020\nUnit I — Concepts, Types of models (Conceptual, Mathematical, Physical), Spatial simulation\n\n\nUGC NET\nUnit X — Geospatial analysis, spatial statistics, and modelling\n\n\n\n\n\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteKey Concepts\n\n\n\n\nSpatial Modeling: The process of representing spatial processes and relationships using mathematical or logical structures to simulate real-world phenomena.\nTypes of Models:\n\nConceptual Models: Theoretical frameworks describing how things work.\nPhysical Models: Scaled-down versions of the real world (e.g., a physical river model).\nMathematical/Numerical Models: Using equations to describe relationships (e.g., Hydrological models).\n\nDeterministic vs. Stochastic Models:\n\nDeterministic: Always produces the same output for a given input (no randomness).\nStochastic: Incorporates randomness or probability distributions (e.g., Monte Carlo simulations).\n\nCellular Automata (CA): A discrete model consisting of a regular grid of cells, each in one of a finite number of states. Useful for simulating urban sprawl and land-use change.\nAgent-Based Modeling (ABM): Simulating the actions and interactions of autonomous agents (individuals, organizations) to understand the behavior of a system as a whole."
+  },
+  {
+    "objectID": "geospatial-ai.html#artificial-intelligence-in-geosciences",
+    "href": "geospatial-ai.html#artificial-intelligence-in-geosciences",
+    "title": "Geospatial Modelling, Artificial Intelligence and Machine Learning",
+    "section": "Artificial Intelligence in Geosciences",
+    "text": "Artificial Intelligence in Geosciences\n\n\n\n\n\n\nWarning📘 Syllabus Coverage\n\n\n\n\n\n\n\n\n\n\nSyllabus\nTopic Details\n\n\n\n\nNEP-2020\nUnit II — Foundations of AI, ANN, Deep Learning applications in Geography\n\n\nUGC NET\nUnit X — Recent trends in geospatial technology\n\n\n\n\n\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteKey Concepts\n\n\n\n\nArtificial Intelligence (AI): The simulation of human intelligence processes by machines, especially computer systems. In geography, this involves pattern recognition, reasoning, and self-correction in spatial data.\nArtificial Neural Networks (ANNs): Computational models inspired by the human brain’s neural structure. Used for predicting earthquakes, rainfall, and land degradation susceptibility.\nDeep Learning (DL): A subfield of ML based on ANNs with multiple layers (Convolutional Neural Networks - CNNs).\n\nCNNs in Geography: Excellent for feature extraction from high-resolution satellite imagery (detecting buildings, roads, vegetation types).\nRecurrent Neural Networks (RNNs): Useful for temporal spatial data (e.g., weather forecasting over time).\n\nComputer Vision: Enabling computers to gain high-level understanding from digital images or videos. Crucial for automated mapping and autonomous vehicle navigation in geographic spaces."
+  },
+  {
+    "objectID": "geospatial-ai.html#machine-learning-in-gis",
+    "href": "geospatial-ai.html#machine-learning-in-gis",
+    "title": "Geospatial Modelling, Artificial Intelligence and Machine Learning",
+    "section": "Machine Learning in GIS",
+    "text": "Machine Learning in GIS\n\n\n\n\n\n\nWarning📘 Syllabus Coverage\n\n\n\n\n\n\n\n\n\n\nSyllabus\nTopic Details\n\n\n\n\nNEP-2020\nUnit III — Supervised vs Unsupervised learning, Algorithms (Random Forest, SVM, K-means)\n\n\nUGC NET\nUnit X — Statistical techniques and automated mapping\n\n\n\n\n\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteKey Concepts\n\n\n\n\nMachine Learning (ML): Algorithms that learn from data and make predictions. Unlike traditional GIS queries, ML “learns” patterns directly from the training data.\nSupervised Learning: Training a model on labeled data (e.g., using known land cover types to train a classifier).\n\nSupport Vector Machines (SVM): Finding the optimal hyperplane that separates data classes in high-dimensional space.\nRandom Forest (RF): An ensemble method using multiple decision trees to improve accuracy and prevent overfitting. Widely used for Land Use Land Cover (LULC) classification.\nXGBoost: Extreme Gradient Boosting; high-performance algorithm for tabular spatial data and risk mapping.\n\nUnsupervised Learning: Finding hidden patterns in unlabeled data.\n\nK-means Clustering: Grouping spatial points into clusters based on proximity and similarity (e.g., identifying hot spots or regional divisions).\n\nModel Evaluation: Using metrics like Accuracy, Precision, Recall, and F1-score to validate geospatial predictions."
+  },
+  {
+    "objectID": "geospatial-ai.html#part-b-practical-implementations",
+    "href": "geospatial-ai.html#part-b-practical-implementations",
+    "title": "Geospatial Modelling, Artificial Intelligence and Machine Learning",
+    "section": "Part B: Practical Implementations",
+    "text": "Part B: Practical Implementations"
+  },
+  {
+    "objectID": "geospatial-ai.html#practical-applications-and-case-studies",
+    "href": "geospatial-ai.html#practical-applications-and-case-studies",
+    "title": "Geospatial Modelling, Artificial Intelligence and Machine Learning",
+    "section": "Practical Applications and Case Studies",
+    "text": "Practical Applications and Case Studies\n\n\n\n\n\n\nWarning📘 Syllabus Coverage\n\n\n\n\n\n\n\n\n\n\nSyllabus\nTopic Details\n\n\n\n\nNEP-2020\nUnit IV — Python for Geospatial Data, Google Earth Engine, Case Studies\n\n\nUGC NET\nPractical applications of modern GIS\n\n\n\n\n\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteKey Concepts\n\n\n\n\nGeospatial Python: Using libraries like Geopandas, Rasterio, Shapely, and Scikit-Learn for automated spatial data processing and modeling.\nGoogle Earth Engine (GEE): A cloud-based platform for planetary-scale geospatial analysis. Allows running ML models (like Random Forest) on massive archives of satellite data without local processing power.\nCase Study: Groundwater Potential Mapping: Using factors like slope, lineament density, rainfall, and land cover as input features to a model (e.g., Random Forest) to predict areas with high groundwater availability.\nCase Study: Landslide Susceptibility: Using Deep Learning to predict the probability of landslides based on historical events and geomorphic triggers.\nBig Data Challenges: Managing the Volume, Velocity, and Variety of spatial data (GPS pings, satellite streams, IoT sensors) in AI-driven smart city initiatives."
   },
   {
     "objectID": "geography-of-odisha.html",
