@@ -518,151 +518,144 @@
     "text": "Spatial Data Models\nHow geographic phenomena are represented in digital form.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipVector & Raster\n\n\n\n\nVector Data: Points, lines, polygons — ideal for discrete features (roads, boundaries, locations).\nRaster Data: Grid of cells — ideal for continuous phenomena (elevation, temperature, satellite imagery).\nTIN (Triangulated Irregular Network): Surface representation using irregular triangles for terrain modeling.\nTopology: Spatial relationships (adjacency, connectivity, containment) essential for network and overlay analysis."
   },
   {
-    "objectID": "geographical-thought.html",
-    "href": "geographical-thought.html",
-    "title": "Geographical Thought",
+    "objectID": "geography-in-news.html",
+    "href": "geography-in-news.html",
+    "title": "Geography in News",
     "section": "",
-    "text": "Welcome to the Geographical Thought module of Geography OpenCourseWare. This course traces the intellectual history of geography as a discipline — from the earliest map-makers and travelers to modern critical and quantitative paradigms."
+    "text": "Welcome to the Geography in News section. This page serves as a dynamic hub for tracking real-world applications of geographical theories and staying updated on critical global events that shape our spatial reality.\n\n\nRecent Geographical Events\n\n\n\n\n\n\n\n\n\nEvent Date\nTopic\nCategory\nSignificance\n\n\n\n\nApril 2026\nHimalayan Glacial Retreat Accelerates\nClimatology\nImpacts water security for 1.3 billion people.\n\n\nMarch 2026\nNew Urban Heat Island Data released for Delhi\nEnvironmental\nHighlights urgent need for sustainable urban planning.\n\n\nFebruary 2026\nMajor Tectonic Shift detected in East African Rift\nGeomorphology\nOngoing evolution of a new ocean basin.\n\n\nJanuary 2026\nRemote Sensing confirms 15% recovery in Mangrove cover\nGIS & RS\nSuccess of community-led restoration projects in Sundarbans.\n\n\n\n\n\n\nCritical Analysis of News Items\n\n1. The Geopolitics of Chip Manufacturing\nAs global supply chains shift, Southeast Asia is emerging as a critical geographical node for semiconductor fabrication. This reflects concepts of Industrial Location and Global Trade Patterns.\n\n\n2. Climate Change and Migration\nRecent droughts in the Sahel region have triggered new patterns of international migration. This intersection of Environmental Geography and Population Dynamics illustrates the “push” and “pull” factors discussed in demographic models.\n\n\n3. Precision Agriculture in Small Landholdings\nThe adoption of low-cost drones in Indian agriculture is revolutionizing the Green Revolution 2.0, emphasizing productivity without ecological depletion.\n\n\n\n\nStay Connected\nWe update this section monthly with insights mapped directly to your course modules. Use these real-world examples in your UPSC/UGC NET answers for extra marks!\n\n[!TIP] Suggested Reading: Follow portals like Down To Earth, NASA Earth Observatory, and The Guardian Environment to stay ahead."
   },
   {
-    "objectID": "geographical-thought.html#ugc-net-syllabus",
-    "href": "geographical-thought.html#ugc-net-syllabus",
-    "title": "Geographical Thought",
-    "section": "UGC NET Syllabus",
-    "text": "UGC NET Syllabus\n\nContributions of Greek, Roman, Arab, Chinese and Indian Scholars.\nContributions of Geographers (Bernhardus Varenius, Immanuel Kant, Alexander von Humboldt, Carl Ritter, Scheafer & Hartshorne).\nImpact of Darwinian Theory on Geographical Thought.\nContemporary trends in Indian Geography: Cartography, Thematic and Methodological contributions.\nMajor Geographic Traditions (Earth Science, man-environment relationship, area studies and spatial analysis).\nDualisms in Geographic Studies (physical vs. human, regional vs. systematic, qualitative vs. quantitative, ideographic vs. nomothetic).\nParadigm Shift, Perspectives in Geography (Positivism, Behaviouralism, Humanism, Structuralism, Feminism and Postmodernism)."
-  },
-  {
-    "objectID": "geographical-thought.html#geographic-knowledge-during-the-ancient-and-medieval-periods",
-    "href": "geographical-thought.html#geographic-knowledge-during-the-ancient-and-medieval-periods",
-    "title": "Geographical Thought",
-    "section": "Geographic Knowledge During the Ancient and Medieval Periods",
-    "text": "Geographic Knowledge During the Ancient and Medieval Periods\nThe foundations of geography as a field of study were laid by ancient civilizations. Their contributions ranged from astronomical observations and mathematical calculations to descriptive accounts of people and places.\n\nAncient Greek Scholars\nThe Greeks were pioneers in mathematical and descriptive geography. - Homer: The father of geography; author of Iliad and Odyssey. - Thales of Miletus: Proposed the first theorems of geometry; believed Earth to be a disk floating in water. - Anaximander: Credited with drawing the first map of the known world to scale; used the Gnomon. - Hecataeus: The father of prose; wrote Ges-periodos (Description of the Earth). - Herodotus: Known for his historical and ethnographic geoinformation; “All history must be treated geographically.” - Aristotle: Laid the foundations of mathematical geography; argued for the sphericity of the Earth. - Eratosthenes: Calculated the Earth’s circumference almost exactly; termed the word “Geography.” - Hipparchus: Divided the circle into 360 degrees; developed the concept of latitude and longitude.\n\n\nAncient Roman Scholars\n\nStrabo: Compiled the 17-volume Geographica, providing a comprehensive account of the Roman world.\nClaudius Ptolemy: Created the Geographica atlas; developed map projections (conic and stereographic).\n\n\n\nAncient Indian Scholars\n\nVarahamihira: Discussed the shape of the Earth and its rotation in Surya Siddhanta.\nBrahmagupta: Contributed significantly to mathematical geography and base mathematics for navigation.\nAryabhatta: Proposed that the Earth rotates on its axis and orbits the Sun.\nBhaskaracharya: Discussed gravity and spherical trigonometry in Siddhanta Shiromani.\n\n\n\nAncient Chinese Scholars\n\nZhang Heng: Invented the world’s first seismoscope.\nChang Chien: Known for his explorations and reports on Central Asia (Silk Road).\nHuan Tsang (Xuanzang): Detailed accounts of geography and culture in South Asia/India.\nZheng He: Great explorer who conducted seven voyages covering the Indian Ocean.\n\n\n\nMedieval Arab Geographers\nArab scholars preserved and expanded upon Greek and Roman knowledge during the “Dark Ages” in Europe. - Al-Battani: Improved calculations of the length of the year and planetary motion. - Al-Masudi: The “Herodotus of the Arabs”; detailed descriptions of climates and cultures. - Ibn Sina (Avicenna): Contributed to geomorphology and climatology. - Al-Idrisi: Created the Tabula Rogeriana, one of the most advanced world maps of the Middle Ages. - Ibn Battuta: Traveled over 75,000 miles; wrote Rihla (The Travels). - Ibn Khaldun: A pioneer of sociology and political geography; author of Muqaddimah. - Al-Biruni: Expert in geodesy; calculated the Earth’s radius and geographic coordinates."
-  },
-  {
-    "objectID": "geographical-thought.html#foundations-of-modern-geography",
-    "href": "geographical-thought.html#foundations-of-modern-geography",
-    "title": "Geographical Thought",
-    "section": "Foundations of Modern Geography",
-    "text": "Foundations of Modern Geography\nThe transition from descriptive classical geography to the modern scientific discipline was marked by the era of exploration and the philosophical contributions of European thinkers.\n\nThe Age of Discovery and Transition\nPioneers who advanced cartography and regional description during the 16th to 18th centuries: - Gerardus Mercator: Developed the Mercator projection, revolutionizing navigation. - Sebastian Münster: Author of Cosmographia, the earliest German description of the world. - Peter Apian: Astronomer and cartographer; worked on mathematical geography. - Cluverius (Philipp Clüver): The founder of historical geography. - Waldseemüller: Created the first map to use the name “America.” - Abraham Ortelius: Created the first modern atlas, Theatrum Orbis Terrarum. - Bernhard Varenius: Distinguished between “General” (Universal) and “Special” (Regional) geography in his work Geographica Generalis. - Immanuel Kant: Proposed the “Exceptionalism” of geography; viewed geography as a “chorological” science (study of space).\n\n\nThe Founders of Modern Geography\nThe early 19th century saw geography established as a rigorous academic field through two major German scholars:\n\nAlexander von Humboldt (1769–1859)\n\nAuthor of the 5-volume Cosmos.\nEmphasized systematic, empirical research and the Unity of Nature.\nIntroduced isotherms and studied the relationship between elevation and vegetation.\n\nCarl Ritter (1779–1859)\n\nAuthor of the 19-volume Die Erdkunde.\nEmphasized regional geography (Länderkunde) and the teleological view (Earth designed for humans).\nFocused on the relationship between man and land.\n\n\n\n\nGerman schools\nContent for German schools coming soon.\n\n\nFrench schools\nContent for French schools coming soon.\n\n\nBritish schools\nContent for British schools coming soon.\n\n\nAmerican schools\nContent for American schools coming soon."
-  },
-  {
-    "objectID": "geographical-thought.html#summary-of-geographers-by-historical-period-and-school",
-    "href": "geographical-thought.html#summary-of-geographers-by-historical-period-and-school",
-    "title": "Geographical Thought",
-    "section": "Summary of Geographers by Historical Period and School",
-    "text": "Summary of Geographers by Historical Period and School\nThis table provides a quick reference to the major thinkers who have shaped geographical thought throughout history.\n\n\n\n\n\n\n\nPeriod / School\nKey Geographers and Contributors\n\n\n\n\nAncient Greek\nHomer, Thales, Anaximander, Hecataeus, Herodotus, Plato, Aristotle, Eratosthenes, Hipparchus, Posidonius\n\n\nAncient Roman\nStrabo, Claudius Ptolemy, Polybius, Pomponius Mela\n\n\nAncient Indian\nAryabhatta, Varahamihira, Brahmagupta, Bhaskaracharya\n\n\nAncient Chinese\nZhang Heng, Confucius, Laotze, Chang Chien, Huan Tsang, Zheng He\n\n\nMedieval Arab\nAl-Battani, Al-Masudi, Ibn Sina, Al-Idrisi, Ibn Battuta, Al-Biruni, Ibn Khaldun, Al-Khwarizmi, Al-Balkhi\n\n\nTransition Period\nPeter Apian, Munster, Cluverius, Waldseemuller, Mercator, Phillippe Buache, Bernhard Varenius\n\n\nGerman School\nImmanuel Kant, Alexander Von Humboldt, Carl Ritter, Oscar Peschel, Ferdinand Von Richthofen, Friedrich Ratzel, Albrecht Penck, Walther Penck, Alfred Wegener, Alfred Hettner, Otto Schluter\n\n\nFrench School\nPaul Vidal de la Blache, Louis Himly, Elisee Reclus, Jean Bruhnes, Camille Vallaux, Albert Demangeon, Emmanuel de Martonne, Andre Siegfried, Raoul Blanchard, L. Gallois, Le Play\n\n\nBritish School\nHerbert Spencer, Patrick Geddes, Halford J. Mackinder, Andrew J. Herbertson, Griffith Taylor, Sir Dudley Stamp, H Robert Mill, HJ Fleure, PM Roxby, Wooldridge, Chorley, Haggett, Spate, David Harvey\n\n\nAmerican School\nLouis Agassiz, Arnold Guyot, GB Marsh, Elias Loomis, Isaiah Bowman, John Wesley Powell, Grove Karl Gilbert, Whittlesey, William Morris Davis, Ellen Churchill Semple, Ellsworth Huntington, Harlan Barrows, Carl O Sauer, Richard Hartshorne\n\n\nSoviet Russian\nLomonosov, Pyotr Petrovich Semyonov, Alexander Ivanovich Voikov, V. V. Dokuchaev, P. A. Kropotkin, D. N. Anuchin, Carl Marx, Friedrich Engels, Vladimir Lenin\n\n\n\n\nHistorical Timeline Overview\n\nAncient Period: Focused on mathematical foundations, exploration, and descriptive regional accounts (Greeks and Romans).\nMiddle Ages (Arab Period): Preserved classical knowledge and advanced mapping/travel writing.\nRenaissance/Transition: Great Age of Discovery; invention of sophisticated map projections (Mercator).\nModern Period: Institutionalization of Geography as a science; development of schools of thought (German, French, etc.).\nPost-Modern Period: Shift towards critical theories, quantitative methods, and diverse perspectives (Humanism, Radicalism).\n\n\n\nConceptual and methodological developments during the 20th century\nContent for Conceptual and methodological developments during the 20th century coming soon.\n\n\nChanging paradigms in geography\nContent for Changing paradigms in geography coming soon.\n\n\nMan and environment: determinism and possibilism\nContent for Man and environment: determinism and possibilism coming soon.\n\n\nArea differentiation and spatial organization\nContent for Area differentiation and spatial organization coming soon.\n\n\nQuantitative revolution and locational analysis\nContent for Quantitative revolution and locational analysis coming soon.\n\n\nImpact of:\nContent for Impact of: coming soon.\n\n\nPositivism\nContent for Positivism coming soon.\n\n\nHumanism\nContent for Humanism coming soon.\n\n\nRadicalism\nContent for Radicalism coming soon.\n\n\nBehavioralism\nContent for Behavioralism coming soon."
-  },
-  {
-    "objectID": "geographical-thought.html#ancient-classical-geography",
-    "href": "geographical-thought.html#ancient-classical-geography",
-    "title": "Geographical Thought",
-    "section": "Ancient & Classical Geography",
-    "text": "Ancient & Classical Geography\nThe earliest attempts to describe and understand the Earth.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteFoundations of Geographic Knowledge\n\n\n\n\nGreek Contributions: Eratosthenes (measurement of Earth’s circumference), Strabo (descriptive geography), Ptolemy (cartographic projections).\nRoman Geography: Practical geographic knowledge for administration and military campaigns.\nIndian & Chinese Traditions: Ancient Vedic cosmography, Chinese cartographic innovations.\nArab Geographers: Al-Idrisi’s world map, Ibn Battuta’s travelogues, Al-Biruni’s geodetic measurements.\n\n\n\n\nAreal differentiation\nContent for Areal differentiation coming soon."
-  },
-  {
-    "objectID": "geographical-thought.html#behavioural-humanistic-geography",
-    "href": "geographical-thought.html#behavioural-humanistic-geography",
-    "title": "Geographical Thought",
-    "section": "Behavioural & Humanistic Geography",
-    "text": "Behavioural & Humanistic Geography\nShifting focus from space to people and perception.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteSubjective & Experiential Approaches\n\n\n\n\nMental Maps: How individuals perceive and navigate geographic space.\nPlace & Sense of Place (Yi-Fu Tuan): Topophilia and the emotional bonds between people and places.\nPhenomenology in Geography: Experiential understanding of lived space.\nBehavioural Decision-Making: Bounded rationality and satisficing in spatial choices.\n\n\n\n\nCentral Place theories of Christaller and Losch\nContent for Central Place theories of Christaller and Losch coming soon."
-  },
-  {
-    "objectID": "geographical-thought.html#course-content",
-    "href": "geographical-thought.html#course-content",
-    "title": "Geographical Thought",
-    "section": "Course Content",
-    "text": "Course Content\n\nAncient & Classical Geography\nMedieval & Renaissance Geography\nModern Geographical Thought\nQuantitative Revolution\nBehavioural & Humanistic Geography\nRadical & Critical Geography\nPostmodern Geography\n\n\n\nCultural regions of the world\nContent for Cultural regions of the world coming soon.\n\n\nDichotomy and dualism\nContent for Dichotomy and dualism coming soon.\n\n\nEnvironmentalism\nContent for Environmentalism coming soon.\n\n\nHeart-land and Rimland theories\nContent for Heart-land and Rimland theories coming soon.\n\n\nHuman development Index.\nContent for Human development Index. coming soon.\n\n\nLanguages, religions and secularisation\nContent for Languages, religions and secularisation coming soon.\n\n\nLaws of international boundaries and frontiers\nContent for Laws of international boundaries and frontiers coming soon.\n\n\nMalthusian, Marxian and demographic transition models\nContent for Malthusian, Marxian and demographic transition models coming soon."
-  },
-  {
-    "objectID": "geographical-thought.html#medieval-renaissance-geography",
-    "href": "geographical-thought.html#medieval-renaissance-geography",
-    "title": "Geographical Thought",
-    "section": "Medieval & Renaissance Geography",
-    "text": "Medieval & Renaissance Geography\nThe transition from theological to empirical understanding.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipAge of Exploration\n\n\n\n\nEuropean Voyages: Columbus, Vasco da Gama, Magellan and their geographic impact.\nCartographic Revolution: Mercator projection, globe-making, and the rise of atlases.\nBernhardus Varenius: Geographia Generalis (1650) — distinguishing general and special geography."
-  },
-  {
-    "objectID": "geographical-thought.html#modern-geographical-thought",
-    "href": "geographical-thought.html#modern-geographical-thought",
-    "title": "Geographical Thought",
-    "section": "Modern Geographical Thought",
-    "text": "Modern Geographical Thought\nThe founding of geography as an academic discipline.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantThe German & French Schools\n\n\n\n\nAlexander von Humboldt: Systematic physical geography, Kosmos, and the holistic view of nature.\nCarl Ritter: Teleological approach and regional comparative geography.\nFriedrich Ratzel: Anthropogeography, environmental determinism, and political geography.\nPaul Vidal de la Blache: French school of genre de vie, possibilism, and regional monographs.\nDeterminism vs. Possibilism: The foundational debate shaping modern geographic methodology.\n\n\n\n\nPerroux and Boudeville\nContent for Perroux and Boudeville coming soon."
-  },
-  {
-    "objectID": "geographical-thought.html#postmodern-geography",
-    "href": "geographical-thought.html#postmodern-geography",
-    "title": "Geographical Thought",
-    "section": "Postmodern Geography",
-    "text": "Postmodern Geography\nQuestioning grand narratives and embracing plurality.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipContemporary Directions\n\n\n\n\nEdward Soja: Postmodern Geographies and Thirdspace.\nCultural Turn: Representation, identity, and discourse in geographic research.\nGIS & Critical Cartography: Power, knowledge, and ethics in mapping technologies.\nMore-than-Human Geography: Agency of non-human actors, assemblage theory, and relational space.\n\n\n\n\n\nBooks and Further Readings\nUnderstanding the evolution of geographic thought is essential for positioning your own research within contemporary debate. Explore Political Geography and Social & Cultural modules for deeper thematic engagement.\n\n\nRadical, behavioural, human and welfare approaches\nContent for Radical, behavioural, human and welfare approaches coming soon."
-  },
-  {
-    "objectID": "geographical-thought.html#radical-critical-geography",
-    "href": "geographical-thought.html#radical-critical-geography",
-    "title": "Geographical Thought",
-    "section": "Radical & Critical Geography",
-    "text": "Radical & Critical Geography\nGeography as a tool for social justice and critique.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantMarxist & Feminist Perspectives\n\n\n\n\nDavid Harvey: Social Justice and the City, the geography of capital accumulation.\nMarxist Geography: Class relations, uneven development, and spatial fix.\nFeminist Geography: Gender, space, and the critique of masculinist geographic epistemologies.\nPostcolonial Geography: Decolonizing geographic knowledge, subaltern perspectives.\n\n\n\n\nRegional synthesis\nContent for Regional synthesis coming soon.\n\n\nRostow’s model of stages of growth.\nContent for Rostow’s model of stages of growth. coming soon.\n\n\nSystem analysis in Human geography\nContent for System analysis in Human geography coming soon.\n\n\nVon Thunen’s model of agricultural location\nContent for Von Thunen’s model of agricultural location coming soon.\n\n\nWeber’s model of industrial location\nContent for Weber’s model of industrial location coming soon."
-  },
-  {
-    "objectID": "economic-geography.html",
-    "href": "economic-geography.html",
-    "title": "Economic Geography",
+    "objectID": "environmental.html",
+    "href": "environmental.html",
+    "title": "Environmental Geography",
     "section": "",
-    "text": "Welcome to the Economic Geography module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes."
+    "text": "Welcome to the Environmental Geography module of Geography OpenCourseWare. This course bridges physical and human geography by examining the complex interactions between human societies and the natural environment — from ecosystem dynamics to contemporary environmental crises."
   },
   {
-    "objectID": "economic-geography.html#ugc-net-syllabus",
-    "href": "economic-geography.html#ugc-net-syllabus",
-    "title": "Economic Geography",
+    "objectID": "environmental.html#ugc-net-syllabus",
+    "href": "environmental.html#ugc-net-syllabus",
+    "title": "Environmental Geography",
     "section": "UGC NET Syllabus",
-    "text": "UGC NET Syllabus\n\nFactors affecting spatial organisation of economic activities (primary, secondary, tertiary and quarternary).\nNatural Resources (classification, distribution and associated problems), Natural Resources Management.\nWorld Energy Crises in Developed and Developing Countries.\n\n\n\nLocation of economic activities\nContent for Location of economic activities coming soon.\n\n\nSpatial organization of economies\nContent for Spatial organization of economies coming soon.\n\n\nClassification of economies\nContent for Classification of economies coming soon.\n\n\nSectors of the economy:\nContent for Sectors of the economy: coming soon."
+    "text": "UGC NET Syllabus\n\nComponents: Ecosystem (Geographic Classification) and Human Ecology.\nFunctions: Trophic Levels, Energy Flows, Cycles (geo-chemical, carbon, nitrogen and oxygen), Food Chain, Food Web and Ecological Pyramid.\nHuman Interaction and Impacts, Environmental Ethics and Deep Ecology.\nEnvironmental Hazards and Disasters (Global Warming, Urban Heat Island, Atmospheric Pollution, Water Pollution, Land Degradation).\nNational Programmes and Policies: Legal Framework, Environmental Policy, International Treaties, International Programmes and Polices (Brundtland Commission, Kyoto Protocol, Agenda 21, Sustainable Development Goals, Paris Agreement).\n\n\n\nPhysical factors influencing world distribution of plants and animals\nContent for Physical factors influencing world distribution of plants and animals coming soon.\n\n\nForms and functions of ecosystems:\nContent for Forms and functions of ecosystems: coming soon.\n\n\nSocial forestry, agro-forestry\nContent for Social forestry, agro-forestry coming soon.\n\n\nGrassland\nContent for Grassland coming soon.\n\n\nMarine\nContent for Marine coming soon.\n\n\nMountain\nContent for Mountain coming soon.\n\n\nBiodiversity and its depletion: natural and human-induced causes\nContent for Biodiversity and its depletion: natural and human-induced causes coming soon.\n\n\nConservation and management of ecosystems\nContent for Conservation and management of ecosystems coming soon.\n\n\nEnvironmental hazards and pollution\nContent for Environmental hazards and pollution coming soon.\n\n\nOzone depletion\nContent for Ozone depletion coming soon."
   },
   {
-    "objectID": "economic-geography.html#primary-activities",
-    "href": "economic-geography.html#primary-activities",
-    "title": "Economic Geography",
-    "section": "Primary Activities",
-    "text": "Primary Activities\nExtraction and harvesting of natural resources.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipResource-Based Economies\n\n\n\n\nAgriculture: Subsistence vs. commercial farming, types of agriculture (intensive, extensive, plantation, mixed).\nMining: Metallic and non-metallic minerals, spatial distribution of mineral resources.\nFishing: Marine and inland fisheries, aquaculture, and global fishing zones.\nForestry: Types of forests, timber production, and non-timber forest products.\nPastoral Activities: Nomadic herding, commercial ranching, and transhumance."
+    "objectID": "environmental.html#biogeography",
+    "href": "environmental.html#biogeography",
+    "title": "Environmental Geography",
+    "section": "Biogeography",
+    "text": "Biogeography\nThe spatial distribution of plants and animals.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipDistribution Patterns\n\n\n\n\nIsland Biogeography Theory (MacArthur & Wilson): Species richness as a function of island area and isolation.\nZoogeographic Realms: Palaearctic, Nearctic, Neotropical, Ethiopian, Oriental, and Australasian.\nFloristic Kingdoms: Boreal, Palaeotropical, Neotropical, South African, Australian, and Antarctic.\nEndemism & Hotspots: Biodiversity hotspots — Western Ghats, Eastern Himalayas, Sundaland.\nMigration & Dispersal: Animal migration routes and barriers to species dispersal.\n\n\n\n\nClassification and distribution of soils\nContent for Classification and distribution of soils coming soon."
   },
   {
-    "objectID": "economic-geography.html#secondary-activities",
-    "href": "economic-geography.html#secondary-activities",
-    "title": "Economic Geography",
-    "section": "Secondary Activities",
-    "text": "Secondary Activities\nManufacturing and industrial transformation.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantIndustrial Geography\n\n\n\n\nTypes of Industries: Heavy, light, cottage, and agro-based industries.\nIndustrial Location Factors: Raw materials, labor, market, transport, capital, and government policy.\nMajor Industrial Regions: Ruhr Valley, Great Lakes, Tokyo-Yokohama, Mumbai-Pune corridor.\nIndustrial Revolution: Phases, spatial diffusion, and contemporary deindustrialization.\nSpecial Economic Zones (SEZs): Purpose, global distribution, and impact on development."
-  },
-  {
-    "objectID": "economic-geography.html#tertiary-quaternary-activities",
-    "href": "economic-geography.html#tertiary-quaternary-activities",
-    "title": "Economic Geography",
-    "section": "Tertiary & Quaternary Activities",
-    "text": "Tertiary & Quaternary Activities\nServices and knowledge-based economies.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteService & Knowledge Economy\n\n\n\n\nTertiary Sector: Retail, transport, healthcare, education, and personal services.\nQuaternary Sector: Research, IT, financial services, and knowledge processing.\nQuinary Activities: Top-level decision-making (government, science, academia).\nOutsourcing & Offshoring: The global shift of services — call centers, IT hubs, and BPO.\nTourism Geography: Types of tourism, global tourist flows, and economic impact.\n\n\n\n\nNatural resources: renewable and non-renewable\nContent for Natural resources: renewable and non-renewable coming soon.\n\n\nConservation of resources\nContent for Conservation of resources coming soon.\n\n\nAgricultural inputs and productivity\nContent for Agricultural inputs and productivity coming soon."
-  },
-  {
-    "objectID": "economic-geography.html#course-content",
-    "href": "economic-geography.html#course-content",
-    "title": "Economic Geography",
+    "objectID": "environmental.html#course-content",
+    "href": "environmental.html#course-content",
+    "title": "Environmental Geography",
     "section": "Course Content",
-    "text": "Course Content\n\nFundamentals of Economic Geography\nPrimary Activities\nSecondary Activities\nTertiary & Quaternary Activities\nLocation Theories\nGlobalization & Economic Space\n\n\n\nEnergy crisis\nContent for Energy crisis coming soon.\n\n\nFood and nutritions problems\nContent for Food and nutritions problems coming soon.\n\n\nFood security; famine: causes, effects and remedies\nContent for Food security; famine: causes, effects and remedies coming soon."
+    "text": "Course Content\n\nEcology & Ecosystems\nBiogeography\nEnvironmental Degradation\nNatural Hazards & Disasters\nEnvironmental Policies & Governance\nSustainable Development"
   },
   {
-    "objectID": "economic-geography.html#fundamentals-of-economic-geography",
-    "href": "economic-geography.html#fundamentals-of-economic-geography",
-    "title": "Economic Geography",
-    "section": "Fundamentals of Economic Geography",
-    "text": "Fundamentals of Economic Geography\nCore concepts of spatial economics.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteKey Principles\n\n\n\n\nSpatial Division of Labour: Why different regions specialize in different economic activities.\nFactors of Production: Land, labor, capital, and enterprise in a spatial context.\nEconomic Sectors: Primary (agriculture, mining), Secondary (manufacturing), Tertiary (services), Quaternary (knowledge).\nCore-Periphery Model: Uneven development between advanced core regions and dependent peripheries."
+    "objectID": "environmental.html#ecology-ecosystems",
+    "href": "environmental.html#ecology-ecosystems",
+    "title": "Environmental Geography",
+    "section": "Ecology & Ecosystems",
+    "text": "Ecology & Ecosystems\nThe structure and functioning of ecological systems.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteEcosystem Fundamentals\n\n\n\n\nEcosystem Components: Biotic (producers, consumers, decomposers) and abiotic (climate, soil, water) factors.\nEnergy Flow: Food chains, food webs, trophic levels, and ecological pyramids.\nBiogeochemical Cycles: Carbon, nitrogen, phosphorus, and hydrological cycles.\nEcological Succession: Primary and secondary succession — from bare rock to climax community.\nBiomes: Tropical rainforest, savanna, desert, temperate, taiga, tundra, and aquatic biomes.\n\n\n\n\nEcosystem their management and conservation\nContent for Ecosystem their management and conservation coming soon."
   },
   {
-    "objectID": "economic-geography.html#globalization-economic-space",
-    "href": "economic-geography.html#globalization-economic-space",
-    "title": "Economic Geography",
-    "section": "Globalization & Economic Space",
-    "text": "Globalization & Economic Space\nThe reshaping of economic geography in a connected world.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantGlobal Economic Dynamics\n\n\n\n\nMultinational Corporations (MNCs): Spatial strategies, supply chains, and global production networks.\nGlobal Financial Centres: New York, London, Hong Kong, Singapore — the geography of capital.\nDigital Economy: E-commerce, platform economies, and the geography of data centres.\nFair Trade & Ethical Consumption: Alternative economic geographies.\nEconomic Regionalism: Trade blocs, economic corridors, and bilateral agreements.\n\n\n\n\n\nBooks and Further Readings\nEconomic Geography reveals how spatial factors shape livelihoods and development. Continue with Industrial Geography and Agricultural Geography for sector-specific analysis."
+    "objectID": "environmental.html#environmental-degradation",
+    "href": "environmental.html#environmental-degradation",
+    "title": "Environmental Geography",
+    "section": "Environmental Degradation",
+    "text": "Environmental Degradation\nHuman-induced deterioration of the natural environment.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantDegradation Processes\n\n\n\n\nDeforestation: Causes, rates, and consequences — Amazon, Congo Basin, Southeast Asia.\nSoil Degradation: Erosion, salinization, waterlogging, and desertification.\nWater Pollution: Point and non-point source pollution, eutrophication, and groundwater contamination.\nAir Pollution: Sources, types of pollutants, smog, acid rain, and particulate matter.\nBiodiversity Loss: Habitat destruction, overexploitation, invasive species, and the sixth mass extinction.\n\n\n\n\nEnvironmental education and legislation.\nContent for Environmental education and legislation. coming soon.\n\n\nEnvironmental hazards and remedial measures\nContent for Environmental hazards and remedial measures coming soon."
   },
   {
-    "objectID": "economic-geography.html#location-theories",
-    "href": "economic-geography.html#location-theories",
-    "title": "Economic Geography",
-    "section": "Location Theories",
-    "text": "Location Theories\nTheoretical models explaining the spatial distribution of economic activities.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipClassical Models\n\n\n\n\nVon Thünen’s Agricultural Model: Concentric rings of land use around a central market.\nWeber’s Industrial Location Theory: Minimum transport cost, labor cost, and agglomeration.\nChristaller’s Central Place Theory: Hierarchical arrangement of market centers.\nLösch’s Profit Maximization: Modifying Christaller’s model with demand and profit zones.\nPerroux’s Growth Pole Theory: Economic growth radiating from key propulsive industries.\n\n\n\n\nMeasurement and problems\nContent for Measurement and problems coming soon.\n\n\nPatterns of world trade.\nContent for Patterns of world trade. coming soon.\n\n\nthe limits to growth\nContent for the limits to growth coming soon.\n\n\nWorld agriculture: typology of agricultural regions\nContent for World agriculture: typology of agricultural regions coming soon.\n\n\nWorld industries: location patterns and problems\nContent for World industries: location patterns and problems coming soon.\n\n\nWorld resources and their distribution\nContent for World resources and their distribution coming soon."
+    "objectID": "environmental.html#environmental-policies-governance",
+    "href": "environmental.html#environmental-policies-governance",
+    "title": "Environmental Geography",
+    "section": "Environmental Policies & Governance",
+    "text": "Environmental Policies & Governance\nNational and international responses to environmental challenges.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipPolicy Frameworks\n\n\n\n\nStockholm Conference (1972): The beginning of global environmental consciousness.\nRio Earth Summit (1992): Agenda 21, CBD, UNFCCC, and the principle of common but differentiated responsibilities.\nKyoto Protocol & Paris Agreement: Climate change mitigation frameworks and nationally determined contributions.\nIndian Environmental Policy: Wildlife Protection Act, Forest Conservation Act, EIA notifications, National Action Plan on Climate Change.\nEnvironmental Impact Assessment (EIA): Process, stages, and significance in project planning.\n\n\n\n\nEnvironmental policy\nContent for Environmental policy coming soon.\n\n\nGenesis of soils\nContent for Genesis of soils coming soon.\n\n\nGlobal and regional ecological changes and imbalances\nContent for Global and regional ecological changes and imbalances coming soon.\n\n\nHuman ecological adaptations\nContent for Human ecological adaptations coming soon.\n\n\nInfluence of man on ecology and environment\nContent for Influence of man on ecology and environment coming soon.\n\n\nMajor gene pool centres.\nContent for Major gene pool centres. coming soon."
+  },
+  {
+    "objectID": "environmental.html#natural-hazards-disasters",
+    "href": "environmental.html#natural-hazards-disasters",
+    "title": "Environmental Geography",
+    "section": "Natural Hazards & Disasters",
+    "text": "Natural Hazards & Disasters\nGeographic perspectives on natural hazards and disaster management.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteHazard Assessment\n\n\n\n\nEarthquakes: Seismic zones, plate boundaries, and earthquake-prone regions of India.\nVolcanic Eruptions: Types of volcanoes, eruption styles, and volcanic hazard zones.\nFloods: Fluvial, pluvial, and coastal flooding — causes, frequency, and mitigation.\nCyclones: Tropical cyclone formation, tracks, intensity scales, and warning systems.\nDroughts: Meteorological, hydrological, and agricultural droughts — vulnerability mapping.\nLandslides: Trigger factors, susceptibility mapping, and early warning.\n\n\n\n\nPrinciple ecology\nContent for Principle ecology coming soon.\n\n\nSoil erosion, Degradation and conservation\nContent for Soil erosion, Degradation and conservation coming soon.\n\n\nSoil profile\nContent for Soil profile coming soon."
+  },
+  {
+    "objectID": "environmental.html#sustainable-development",
+    "href": "environmental.html#sustainable-development",
+    "title": "Environmental Geography",
+    "section": "Sustainable Development",
+    "text": "Sustainable Development\nBalancing development with environmental conservation.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantSustainability Frameworks\n\n\n\n\nBrundtland Definition: “Meeting the needs of the present without compromising future generations.”\nSDGs (Sustainable Development Goals): The 17 UN goals — a geographic perspective.\nEcological Footprint: Measuring human demand on Earth’s ecosystems.\nCircular Economy: Waste reduction, resource efficiency, and cradle-to-cradle design.\nGreen Technology: Renewable energy, green infrastructure, and sustainable urban design.\n\n\n\n\n\nBooks and Further Readings\nEnvironmental Geography provides the essential bridge between physical processes and human impacts. Explore Climatology and Oceanography for deeper physical science perspectives.\n\n\nWild life\nContent for Wild life coming soon.\n\n\nProblems of deforestation and conservation measures\nContent for Problems of deforestation and conservation measures coming soon."
+  },
+  {
+    "objectID": "climatology.html",
+    "href": "climatology.html",
+    "title": "Climatology",
+    "section": "",
+    "text": "Welcome to the Climatology module of Geography OpenCourseWare. This course explores the Earth’s atmosphere, climate systems, and the physical processes that drive weather and climate variability at local, regional, and global scales."
+  },
+  {
+    "objectID": "climatology.html#ugc-net-syllabus",
+    "href": "climatology.html#ugc-net-syllabus",
+    "title": "Climatology",
+    "section": "UGC NET Syllabus",
+    "text": "UGC NET Syllabus\n\nComposition and Structure of Atmosphere; Insolation, Heat Budget of Earth.\nTemperature, Pressure and Winds, Atmospheric Circulation (air-masses, fronts and upper air circulation, cyclones and anticyclones).\nClimatic Classification of Koppen & Thornthwaite.\nENSO Events (El Nino, La Nina and Southern Oscillations).\nMeteorological Hazards and Disasters (Cyclones, Thunderstorms, Tornadoes, Hailstorms, Heat and Cold waves, Drought and Cloudburst, GLOF).\nClimate Change: Evidences and Causes of Climatic Change in the past, Human impact on Global Climate.\n\n\n\nComposition and structure of the atmosphere\nContent for Composition and structure of the atmosphere coming soon.\n\n\nInsolation and heat budget of the earth\nContent for Insolation and heat budget of the earth coming soon.\n\n\nDistribution of temperature\nContent for Distribution of temperature coming soon.\n\n\nAtmospheric pressure and general circulation of winds\nContent for Atmospheric pressure and general circulation of winds coming soon.\n\n\nMonsoons and jet streams\nContent for Monsoons and jet streams coming soon.\n\n\nStability and instability of the atmosphere\nContent for Stability and instability of the atmosphere coming soon.\n\n\nAir-masses and fronts\nContent for Air-masses and fronts coming soon.\n\n\nTemperate and tropical cyclones\nContent for Temperate and tropical cyclones coming soon.\n\n\nTypes and distribution of precipitation\nContent for Types and distribution of precipitation coming soon.\n\n\nClassification of world climates:\nContent for Classification of world climates: coming soon.\n\n\nHydrological cycle\nContent for Hydrological cycle coming soon.\n\n\nGlobal warming\nContent for Global warming coming soon.\n\n\nAir masses and fronto\nContent for Air masses and fronto coming soon."
+  },
+  {
+    "objectID": "climatology.html#applied-climatology",
+    "href": "climatology.html#applied-climatology",
+    "title": "Climatology",
+    "section": "Applied Climatology",
+    "text": "Applied Climatology\nPractical applications of climate science.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipClimate in Practice\n\n\n\n\nAgricultural Climatology: Crop-weather relationships, growing degree days, and agro-climatic zones.\nUrban Climatology: Urban heat islands, air quality, and microclimate modification.\nWeather Forecasting: Synoptic charts, weather models, and satellite meteorology.\nDisaster Risk: Cyclones, droughts, floods, heat waves, and early warning systems.\n\n\n\n\n\nBooks and Further Readings\nClimatology is fundamental to understanding both physical and human geography. Continue to Oceanography and Environmental for related Earth system topics."
+  },
+  {
+    "objectID": "climatology.html#atmosphere-structure-composition",
+    "href": "climatology.html#atmosphere-structure-composition",
+    "title": "Climatology",
+    "section": "Atmosphere: Structure & Composition",
+    "text": "Atmosphere: Structure & Composition\nThe Earth’s atmosphere is a complex, dynamic gaseous envelope that sustains life and drives all climatic phenomena. Understanding its vertical structure and chemical composition is fundamental to climatology.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteAtmospheric Layers & Composition\n\n\n\n\nTroposphere: The lowermost layer (0–12 km), where almost all weather events occur. Temperature decreases with altitude at an average environmental lapse rate of 6.5°C per kilometer. It contains 75% of the atmosphere’s mass and almost all its water vapor.\nStratosphere: Extending from the tropopause up to 50 km, this layer contains the ozone layer (ozonosphere), which absorbs harmful ultraviolet (UV) radiation. Temperature inverts and increases with altitude here due to UV absorption.\nMesosphere & Thermosphere: Above the stratosphere, the mesosphere sees temperatures drop sharply, while the thermosphere experiences extreme temperature increases due to solar radiation absorption. The ionosphere within this region reflects radio waves.\nAtmospheric Composition: The permanent gases include Nitrogen (78%), Oxygen (21%), and Argon (0.9%). Variable gases, though present in trace amounts, are critical for the greenhouse effect, including Carbon Dioxide (CO₂), Water Vapor, and Methane (CH₄)."
+  },
+  {
+    "objectID": "climatology.html#atmospheric-circulation",
+    "href": "climatology.html#atmospheric-circulation",
+    "title": "Climatology",
+    "section": "Atmospheric Circulation",
+    "text": "Atmospheric Circulation\nThe unequal heating of the Earth’s surface creates pressure gradients, giving rise to complex global and regional wind systems that transport heat and moisture across the globe.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantWind Systems & Pressure Belts\n\n\n\n\nGeneral Circulation (Tri-Cellular Model): The Hadley Cell drives trade winds near the equator; the Ferrel Cell drives westerlies in the mid-latitudes; and the Polar Cell creates polar easterlies. This three-cell structure explains the primary latitudinal shifting of climate zones.\nPressure Belts: Include the Equatorial Low (Doldrums), Subtropical High (Horse Latitudes), Subpolar Low, and Polar High. Their seasonal migration, following the apparent movement of the sun, dictates wet and dry seasons across the tropics.\nJet Streams: Narrow, high-speed meandering air currents in the upper troposphere. The Subtropical and Polar jet streams significantly influence the paths of surface weather systems and aviation routes.\nMonsoons: Massive seasonal reversals of wind direction caused by the differential heating of land and sea. The Indian Monsoon is the most prominent, fundamentally shaping the hydrology, agriculture, and economy of South Asia.\nLocal Winds: Thermally driven local circulations including land/sea breezes, mountain/valley anabatic and katabatic winds, and regional phenomena like the warm/dry Chinook (Rockies), Foehn (Alps), and the cold Mistral (France).\n\n\n\n\nAtmospheric stability and instability.\nContent for Atmospheric stability and instability. coming soon."
+  },
+  {
+    "objectID": "climatology.html#climate-change",
+    "href": "climatology.html#climate-change",
+    "title": "Climatology",
+    "section": "Climate Change",
+    "text": "Climate Change\nUnderstanding past, present, and future climate variability.\n\n\n\n305\n\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantGlobal Climate Dynamics\n\n\n\n\nPaleoclimatology: Ice cores, tree rings, ocean sediments, and reconstructing past climates.\nGreenhouse Effect & Global Warming: Enhanced greenhouse forcing from CO₂, CH₄, and N₂O.\nIPCC Assessment Reports: Key findings, emission scenarios (RCPs/SSPs), and projected impacts.\nEl Niño & La Niña (ENSO): Pacific Ocean-atmosphere coupling and its global climate influence.\nOzone Depletion: Causes, the Montreal Protocol, and the Antarctic ozone hole."
+  },
+  {
+    "objectID": "climatology.html#climate-classification",
+    "href": "climatology.html#climate-classification",
+    "title": "Climatology",
+    "section": "Climate Classification",
+    "text": "Climate Classification\nOrganizing the world’s climates into meaningful categories.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipClassification Systems\n\n\n\n\nKöppen System: The most widely used system — Af, Am, Aw, BSh, BWh, Cfa, Cfb, Dfa, ET, EF.\nThornthwaite System: Based on potential evapotranspiration and moisture index.\nTrewartha Modification: Refined Köppen boundaries for better representation.\nClimatic Regions of India: Tropical, subtropical, arid, semi-arid, and montane zones."
+  },
+  {
+    "objectID": "climatology.html#course-content",
+    "href": "climatology.html#course-content",
+    "title": "Climatology",
+    "section": "Course Content",
+    "text": "Course Content\n\nAtmosphere: Structure & Composition\nInsolation & Heat Budget\nAtmospheric Circulation\nMoisture & Precipitation\nClimate Classification\nClimate Change\nApplied Climatology\n\n\n\nGlobal climatic change, and role and response of man in climatic changes\nContent for Global climatic change, and role and response of man in climatic changes coming soon."
+  },
+  {
+    "objectID": "climatology.html#insolation-heat-budget",
+    "href": "climatology.html#insolation-heat-budget",
+    "title": "Climatology",
+    "section": "Insolation & Heat Budget",
+    "text": "Insolation & Heat Budget\nThe sun is the primary engine of Earth’s climate. The balance between incoming solar radiation and outgoing terrestrial radiation determines the average global temperature and climatic zones.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipSolar Energy & Earth’s Energy Balance\n\n\n\n\nInsolation: Incoming solar radiation is fundamentally controlled by Earth’s spherical shape and axial tilt. Latitude determines the angle of incidence, while the season determines the daylight duration. Atmospheric transparency also affects how much radiation reaches the surface.\nAlbedo: This refers to the reflectivity of different Earth surfaces. Snow and ice have high albedos (reflecting up to 90% of insolation), while oceans and dark forests have low albedos, absorbing more heat. This plays a critical role in ice-albedo feedback loops.\nTerrestrial Radiation: The Earth absorbs shortwave solar radiation and re-emits it as long-wave infrared radiation. Certain atmospheric gases trap this long-wave radiation, creating the necessary greenhouse effect that keeps the planet habitable.\nHeat Budget: This represents the equilibrium between incoming and outgoing energy. While the whole Earth maintains a balance (ensuring it doesn’t perpetually heat or cool), the tropics receive a surplus of energy and the poles operate at a deficit, driving global wind and ocean currents to redistribute this heat.\n\n\n\n\nKoppen’s Thornthwaite’s and Trewar Tha’s classification of world climate\nContent for Koppen’s Thornthwaite’s and Trewar Tha’s classification of world climate coming soon.\n\n\nKöppen’s scheme\nContent for Köppen’s scheme coming soon."
+  },
+  {
+    "objectID": "climatology.html#moisture-precipitation",
+    "href": "climatology.html#moisture-precipitation",
+    "title": "Climatology",
+    "section": "Moisture & Precipitation",
+    "text": "Moisture & Precipitation\nWater exists in all three states in the atmosphere, and its phase changes release or absorb vast amounts of latent heat, which fuels severe weather systems.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteHumidity, Clouds & Rainfall\n\n\n\n\nHumidity: Measured as absolute, specific, or relative humidity. Relative humidity is crucial for human comfort and cloud formation. Condensation occurs when air cools to its dew point, leading to fog, dew, or clouds.\nCloud Formation & Types: Clouds form through convection (surface heating), orographic lift (forced over mountains), frontal wedging, or low-level convergence. High cirrus clouds indicate fair weather; layered stratus clouds bring steady drizzle; and towering cumulonimbus clouds are responsible for severe thunderstorms.\nTypes of Rainfall:\n\nConvectional: Intense local showers common in equatorial regions.\nOrographic: Heavy rain on the windward side of mountains, leaving a dry ‘rain shadow’ on the leeward side.\nCyclonic/Frontal: Widespread precipitation when contrasting air masses collide.\n\nGlobal Patterns: High precipitation characterizes the ITCZ and monsoon domains; arid zones dominate the Subtropical Highs and deep continental interiors.\n\n\n\n\nPlanetary and local winds\nContent for Planetary and local winds coming soon.\n\n\nTemperature and pressure belts of the world\nContent for Temperature and pressure belts of the world coming soon.\n\n\nThornthwaite’s scheme\nContent for Thornthwaite’s scheme coming soon.\n\n\nWeather and Climate\nContent for Weather and Climate coming soon."
   },
   {
     "objectID": "agricultural-geography.html",
@@ -749,137 +742,151 @@
     "text": "Types of Farming\nDifferent parts of the world have cultivated distinct farming systems adapted to their specific environmental constraints and economic demands.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipFarming Systems\n\n\n\n\nShifting Cultivation: Also known as slash-and-burn, this is the oldest form of agriculture (e.g., Jhum in India, Milpa in Central America). Farmers clear forest patches, burn the debris for nutrient-rich ash, and move to a new plot when soil fertility declines.\nPastoral Nomadism: A subsistence strategy based on the herding of domesticated animals over expansive dryland territories, such as the Sahel or Central Asian steppes, dictated by the seasonal availability of pasture and water.\nIntensive Subsistence (Wet Rice): Dominant in densely populated Monsoon Asia. It is highly labor-intensive, relying on meticulous water management and terracing to maximize the yield of small landholdings.\nPlantation Agriculture: A legacy of colonialism, involving large-scale commercial monoculture of cash crops like tea, coffee, rubber, sugarcane, and palm oil, primarily located in the tropics but owned by multinational corporations.\nCommercial Grain Farming: Highly mechanized, extensive farming of single cereal crops (wheat, corn) on vast plains, such as the North American Prairies, the Pampas of Argentina, and the Steppes of Russia.\nMediterranean Agriculture: Highly specialized farming occurring along the Mediterranean Sea, California, and South Africa, focusing on high-value crops like olives, grapes, citrus fruits, and winter vegetables that thrive in mild, wet winters and hot, dry summers.\n\n\n\n\nVon Thunen’s Model\nContent for Von Thunen’s Model coming soon."
   },
   {
-    "objectID": "climatology.html",
-    "href": "climatology.html",
-    "title": "Climatology",
+    "objectID": "economic-geography.html",
+    "href": "economic-geography.html",
+    "title": "Economic Geography",
     "section": "",
-    "text": "Welcome to the Climatology module of Geography OpenCourseWare. This course explores the Earth’s atmosphere, climate systems, and the physical processes that drive weather and climate variability at local, regional, and global scales."
+    "text": "Welcome to the Economic Geography module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes."
   },
   {
-    "objectID": "climatology.html#ugc-net-syllabus",
-    "href": "climatology.html#ugc-net-syllabus",
-    "title": "Climatology",
+    "objectID": "economic-geography.html#ugc-net-syllabus",
+    "href": "economic-geography.html#ugc-net-syllabus",
+    "title": "Economic Geography",
     "section": "UGC NET Syllabus",
-    "text": "UGC NET Syllabus\n\nComposition and Structure of Atmosphere; Insolation, Heat Budget of Earth.\nTemperature, Pressure and Winds, Atmospheric Circulation (air-masses, fronts and upper air circulation, cyclones and anticyclones).\nClimatic Classification of Koppen & Thornthwaite.\nENSO Events (El Nino, La Nina and Southern Oscillations).\nMeteorological Hazards and Disasters (Cyclones, Thunderstorms, Tornadoes, Hailstorms, Heat and Cold waves, Drought and Cloudburst, GLOF).\nClimate Change: Evidences and Causes of Climatic Change in the past, Human impact on Global Climate.\n\n\n\nComposition and structure of the atmosphere\nContent for Composition and structure of the atmosphere coming soon.\n\n\nInsolation and heat budget of the earth\nContent for Insolation and heat budget of the earth coming soon.\n\n\nDistribution of temperature\nContent for Distribution of temperature coming soon.\n\n\nAtmospheric pressure and general circulation of winds\nContent for Atmospheric pressure and general circulation of winds coming soon.\n\n\nMonsoons and jet streams\nContent for Monsoons and jet streams coming soon.\n\n\nStability and instability of the atmosphere\nContent for Stability and instability of the atmosphere coming soon.\n\n\nAir-masses and fronts\nContent for Air-masses and fronts coming soon.\n\n\nTemperate and tropical cyclones\nContent for Temperate and tropical cyclones coming soon.\n\n\nTypes and distribution of precipitation\nContent for Types and distribution of precipitation coming soon.\n\n\nClassification of world climates:\nContent for Classification of world climates: coming soon.\n\n\nHydrological cycle\nContent for Hydrological cycle coming soon.\n\n\nGlobal warming\nContent for Global warming coming soon.\n\n\nAir masses and fronto\nContent for Air masses and fronto coming soon."
+    "text": "UGC NET Syllabus\n\nFactors affecting spatial organisation of economic activities (primary, secondary, tertiary and quarternary).\nNatural Resources (classification, distribution and associated problems), Natural Resources Management.\nWorld Energy Crises in Developed and Developing Countries.\n\n\n\nLocation of economic activities\nContent for Location of economic activities coming soon.\n\n\nSpatial organization of economies\nContent for Spatial organization of economies coming soon.\n\n\nClassification of economies\nContent for Classification of economies coming soon.\n\n\nSectors of the economy:\nContent for Sectors of the economy: coming soon."
   },
   {
-    "objectID": "climatology.html#applied-climatology",
-    "href": "climatology.html#applied-climatology",
-    "title": "Climatology",
-    "section": "Applied Climatology",
-    "text": "Applied Climatology\nPractical applications of climate science.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipClimate in Practice\n\n\n\n\nAgricultural Climatology: Crop-weather relationships, growing degree days, and agro-climatic zones.\nUrban Climatology: Urban heat islands, air quality, and microclimate modification.\nWeather Forecasting: Synoptic charts, weather models, and satellite meteorology.\nDisaster Risk: Cyclones, droughts, floods, heat waves, and early warning systems.\n\n\n\n\n\nBooks and Further Readings\nClimatology is fundamental to understanding both physical and human geography. Continue to Oceanography and Environmental for related Earth system topics."
+    "objectID": "economic-geography.html#primary-activities",
+    "href": "economic-geography.html#primary-activities",
+    "title": "Economic Geography",
+    "section": "Primary Activities",
+    "text": "Primary Activities\nExtraction and harvesting of natural resources.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipResource-Based Economies\n\n\n\n\nAgriculture: Subsistence vs. commercial farming, types of agriculture (intensive, extensive, plantation, mixed).\nMining: Metallic and non-metallic minerals, spatial distribution of mineral resources.\nFishing: Marine and inland fisheries, aquaculture, and global fishing zones.\nForestry: Types of forests, timber production, and non-timber forest products.\nPastoral Activities: Nomadic herding, commercial ranching, and transhumance."
   },
   {
-    "objectID": "climatology.html#atmosphere-structure-composition",
-    "href": "climatology.html#atmosphere-structure-composition",
-    "title": "Climatology",
-    "section": "Atmosphere: Structure & Composition",
-    "text": "Atmosphere: Structure & Composition\nThe Earth’s atmosphere is a complex, dynamic gaseous envelope that sustains life and drives all climatic phenomena. Understanding its vertical structure and chemical composition is fundamental to climatology.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteAtmospheric Layers & Composition\n\n\n\n\nTroposphere: The lowermost layer (0–12 km), where almost all weather events occur. Temperature decreases with altitude at an average environmental lapse rate of 6.5°C per kilometer. It contains 75% of the atmosphere’s mass and almost all its water vapor.\nStratosphere: Extending from the tropopause up to 50 km, this layer contains the ozone layer (ozonosphere), which absorbs harmful ultraviolet (UV) radiation. Temperature inverts and increases with altitude here due to UV absorption.\nMesosphere & Thermosphere: Above the stratosphere, the mesosphere sees temperatures drop sharply, while the thermosphere experiences extreme temperature increases due to solar radiation absorption. The ionosphere within this region reflects radio waves.\nAtmospheric Composition: The permanent gases include Nitrogen (78%), Oxygen (21%), and Argon (0.9%). Variable gases, though present in trace amounts, are critical for the greenhouse effect, including Carbon Dioxide (CO₂), Water Vapor, and Methane (CH₄)."
+    "objectID": "economic-geography.html#secondary-activities",
+    "href": "economic-geography.html#secondary-activities",
+    "title": "Economic Geography",
+    "section": "Secondary Activities",
+    "text": "Secondary Activities\nManufacturing and industrial transformation.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantIndustrial Geography\n\n\n\n\nTypes of Industries: Heavy, light, cottage, and agro-based industries.\nIndustrial Location Factors: Raw materials, labor, market, transport, capital, and government policy.\nMajor Industrial Regions: Ruhr Valley, Great Lakes, Tokyo-Yokohama, Mumbai-Pune corridor.\nIndustrial Revolution: Phases, spatial diffusion, and contemporary deindustrialization.\nSpecial Economic Zones (SEZs): Purpose, global distribution, and impact on development."
   },
   {
-    "objectID": "climatology.html#atmospheric-circulation",
-    "href": "climatology.html#atmospheric-circulation",
-    "title": "Climatology",
-    "section": "Atmospheric Circulation",
-    "text": "Atmospheric Circulation\nThe unequal heating of the Earth’s surface creates pressure gradients, giving rise to complex global and regional wind systems that transport heat and moisture across the globe.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantWind Systems & Pressure Belts\n\n\n\n\nGeneral Circulation (Tri-Cellular Model): The Hadley Cell drives trade winds near the equator; the Ferrel Cell drives westerlies in the mid-latitudes; and the Polar Cell creates polar easterlies. This three-cell structure explains the primary latitudinal shifting of climate zones.\nPressure Belts: Include the Equatorial Low (Doldrums), Subtropical High (Horse Latitudes), Subpolar Low, and Polar High. Their seasonal migration, following the apparent movement of the sun, dictates wet and dry seasons across the tropics.\nJet Streams: Narrow, high-speed meandering air currents in the upper troposphere. The Subtropical and Polar jet streams significantly influence the paths of surface weather systems and aviation routes.\nMonsoons: Massive seasonal reversals of wind direction caused by the differential heating of land and sea. The Indian Monsoon is the most prominent, fundamentally shaping the hydrology, agriculture, and economy of South Asia.\nLocal Winds: Thermally driven local circulations including land/sea breezes, mountain/valley anabatic and katabatic winds, and regional phenomena like the warm/dry Chinook (Rockies), Foehn (Alps), and the cold Mistral (France).\n\n\n\n\nAtmospheric stability and instability.\nContent for Atmospheric stability and instability. coming soon."
+    "objectID": "economic-geography.html#tertiary-quaternary-activities",
+    "href": "economic-geography.html#tertiary-quaternary-activities",
+    "title": "Economic Geography",
+    "section": "Tertiary & Quaternary Activities",
+    "text": "Tertiary & Quaternary Activities\nServices and knowledge-based economies.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteService & Knowledge Economy\n\n\n\n\nTertiary Sector: Retail, transport, healthcare, education, and personal services.\nQuaternary Sector: Research, IT, financial services, and knowledge processing.\nQuinary Activities: Top-level decision-making (government, science, academia).\nOutsourcing & Offshoring: The global shift of services — call centers, IT hubs, and BPO.\nTourism Geography: Types of tourism, global tourist flows, and economic impact.\n\n\n\n\nNatural resources: renewable and non-renewable\nContent for Natural resources: renewable and non-renewable coming soon.\n\n\nConservation of resources\nContent for Conservation of resources coming soon.\n\n\nAgricultural inputs and productivity\nContent for Agricultural inputs and productivity coming soon."
   },
   {
-    "objectID": "climatology.html#climate-change",
-    "href": "climatology.html#climate-change",
-    "title": "Climatology",
-    "section": "Climate Change",
-    "text": "Climate Change\nUnderstanding past, present, and future climate variability.\n\n\n\n305\n\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantGlobal Climate Dynamics\n\n\n\n\nPaleoclimatology: Ice cores, tree rings, ocean sediments, and reconstructing past climates.\nGreenhouse Effect & Global Warming: Enhanced greenhouse forcing from CO₂, CH₄, and N₂O.\nIPCC Assessment Reports: Key findings, emission scenarios (RCPs/SSPs), and projected impacts.\nEl Niño & La Niña (ENSO): Pacific Ocean-atmosphere coupling and its global climate influence.\nOzone Depletion: Causes, the Montreal Protocol, and the Antarctic ozone hole."
-  },
-  {
-    "objectID": "climatology.html#climate-classification",
-    "href": "climatology.html#climate-classification",
-    "title": "Climatology",
-    "section": "Climate Classification",
-    "text": "Climate Classification\nOrganizing the world’s climates into meaningful categories.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipClassification Systems\n\n\n\n\nKöppen System: The most widely used system — Af, Am, Aw, BSh, BWh, Cfa, Cfb, Dfa, ET, EF.\nThornthwaite System: Based on potential evapotranspiration and moisture index.\nTrewartha Modification: Refined Köppen boundaries for better representation.\nClimatic Regions of India: Tropical, subtropical, arid, semi-arid, and montane zones."
-  },
-  {
-    "objectID": "climatology.html#course-content",
-    "href": "climatology.html#course-content",
-    "title": "Climatology",
+    "objectID": "economic-geography.html#course-content",
+    "href": "economic-geography.html#course-content",
+    "title": "Economic Geography",
     "section": "Course Content",
-    "text": "Course Content\n\nAtmosphere: Structure & Composition\nInsolation & Heat Budget\nAtmospheric Circulation\nMoisture & Precipitation\nClimate Classification\nClimate Change\nApplied Climatology\n\n\n\nGlobal climatic change, and role and response of man in climatic changes\nContent for Global climatic change, and role and response of man in climatic changes coming soon."
+    "text": "Course Content\n\nFundamentals of Economic Geography\nPrimary Activities\nSecondary Activities\nTertiary & Quaternary Activities\nLocation Theories\nGlobalization & Economic Space\n\n\n\nEnergy crisis\nContent for Energy crisis coming soon.\n\n\nFood and nutritions problems\nContent for Food and nutritions problems coming soon.\n\n\nFood security; famine: causes, effects and remedies\nContent for Food security; famine: causes, effects and remedies coming soon."
   },
   {
-    "objectID": "climatology.html#insolation-heat-budget",
-    "href": "climatology.html#insolation-heat-budget",
-    "title": "Climatology",
-    "section": "Insolation & Heat Budget",
-    "text": "Insolation & Heat Budget\nThe sun is the primary engine of Earth’s climate. The balance between incoming solar radiation and outgoing terrestrial radiation determines the average global temperature and climatic zones.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipSolar Energy & Earth’s Energy Balance\n\n\n\n\nInsolation: Incoming solar radiation is fundamentally controlled by Earth’s spherical shape and axial tilt. Latitude determines the angle of incidence, while the season determines the daylight duration. Atmospheric transparency also affects how much radiation reaches the surface.\nAlbedo: This refers to the reflectivity of different Earth surfaces. Snow and ice have high albedos (reflecting up to 90% of insolation), while oceans and dark forests have low albedos, absorbing more heat. This plays a critical role in ice-albedo feedback loops.\nTerrestrial Radiation: The Earth absorbs shortwave solar radiation and re-emits it as long-wave infrared radiation. Certain atmospheric gases trap this long-wave radiation, creating the necessary greenhouse effect that keeps the planet habitable.\nHeat Budget: This represents the equilibrium between incoming and outgoing energy. While the whole Earth maintains a balance (ensuring it doesn’t perpetually heat or cool), the tropics receive a surplus of energy and the poles operate at a deficit, driving global wind and ocean currents to redistribute this heat.\n\n\n\n\nKoppen’s Thornthwaite’s and Trewar Tha’s classification of world climate\nContent for Koppen’s Thornthwaite’s and Trewar Tha’s classification of world climate coming soon.\n\n\nKöppen’s scheme\nContent for Köppen’s scheme coming soon."
+    "objectID": "economic-geography.html#fundamentals-of-economic-geography",
+    "href": "economic-geography.html#fundamentals-of-economic-geography",
+    "title": "Economic Geography",
+    "section": "Fundamentals of Economic Geography",
+    "text": "Fundamentals of Economic Geography\nCore concepts of spatial economics.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteKey Principles\n\n\n\n\nSpatial Division of Labour: Why different regions specialize in different economic activities.\nFactors of Production: Land, labor, capital, and enterprise in a spatial context.\nEconomic Sectors: Primary (agriculture, mining), Secondary (manufacturing), Tertiary (services), Quaternary (knowledge).\nCore-Periphery Model: Uneven development between advanced core regions and dependent peripheries."
   },
   {
-    "objectID": "climatology.html#moisture-precipitation",
-    "href": "climatology.html#moisture-precipitation",
-    "title": "Climatology",
-    "section": "Moisture & Precipitation",
-    "text": "Moisture & Precipitation\nWater exists in all three states in the atmosphere, and its phase changes release or absorb vast amounts of latent heat, which fuels severe weather systems.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteHumidity, Clouds & Rainfall\n\n\n\n\nHumidity: Measured as absolute, specific, or relative humidity. Relative humidity is crucial for human comfort and cloud formation. Condensation occurs when air cools to its dew point, leading to fog, dew, or clouds.\nCloud Formation & Types: Clouds form through convection (surface heating), orographic lift (forced over mountains), frontal wedging, or low-level convergence. High cirrus clouds indicate fair weather; layered stratus clouds bring steady drizzle; and towering cumulonimbus clouds are responsible for severe thunderstorms.\nTypes of Rainfall:\n\nConvectional: Intense local showers common in equatorial regions.\nOrographic: Heavy rain on the windward side of mountains, leaving a dry ‘rain shadow’ on the leeward side.\nCyclonic/Frontal: Widespread precipitation when contrasting air masses collide.\n\nGlobal Patterns: High precipitation characterizes the ITCZ and monsoon domains; arid zones dominate the Subtropical Highs and deep continental interiors.\n\n\n\n\nPlanetary and local winds\nContent for Planetary and local winds coming soon.\n\n\nTemperature and pressure belts of the world\nContent for Temperature and pressure belts of the world coming soon.\n\n\nThornthwaite’s scheme\nContent for Thornthwaite’s scheme coming soon.\n\n\nWeather and Climate\nContent for Weather and Climate coming soon."
+    "objectID": "economic-geography.html#globalization-economic-space",
+    "href": "economic-geography.html#globalization-economic-space",
+    "title": "Economic Geography",
+    "section": "Globalization & Economic Space",
+    "text": "Globalization & Economic Space\nThe reshaping of economic geography in a connected world.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantGlobal Economic Dynamics\n\n\n\n\nMultinational Corporations (MNCs): Spatial strategies, supply chains, and global production networks.\nGlobal Financial Centres: New York, London, Hong Kong, Singapore — the geography of capital.\nDigital Economy: E-commerce, platform economies, and the geography of data centres.\nFair Trade & Ethical Consumption: Alternative economic geographies.\nEconomic Regionalism: Trade blocs, economic corridors, and bilateral agreements.\n\n\n\n\n\nBooks and Further Readings\nEconomic Geography reveals how spatial factors shape livelihoods and development. Continue with Industrial Geography and Agricultural Geography for sector-specific analysis."
   },
   {
-    "objectID": "environmental.html",
-    "href": "environmental.html",
-    "title": "Environmental Geography",
+    "objectID": "economic-geography.html#location-theories",
+    "href": "economic-geography.html#location-theories",
+    "title": "Economic Geography",
+    "section": "Location Theories",
+    "text": "Location Theories\nTheoretical models explaining the spatial distribution of economic activities.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipClassical Models\n\n\n\n\nVon Thünen’s Agricultural Model: Concentric rings of land use around a central market.\nWeber’s Industrial Location Theory: Minimum transport cost, labor cost, and agglomeration.\nChristaller’s Central Place Theory: Hierarchical arrangement of market centers.\nLösch’s Profit Maximization: Modifying Christaller’s model with demand and profit zones.\nPerroux’s Growth Pole Theory: Economic growth radiating from key propulsive industries.\n\n\n\n\nMeasurement and problems\nContent for Measurement and problems coming soon.\n\n\nPatterns of world trade.\nContent for Patterns of world trade. coming soon.\n\n\nthe limits to growth\nContent for the limits to growth coming soon.\n\n\nWorld agriculture: typology of agricultural regions\nContent for World agriculture: typology of agricultural regions coming soon.\n\n\nWorld industries: location patterns and problems\nContent for World industries: location patterns and problems coming soon.\n\n\nWorld resources and their distribution\nContent for World resources and their distribution coming soon."
+  },
+  {
+    "objectID": "geographical-thought.html",
+    "href": "geographical-thought.html",
+    "title": "Geographical Thought",
     "section": "",
-    "text": "Welcome to the Environmental Geography module of Geography OpenCourseWare. This course bridges physical and human geography by examining the complex interactions between human societies and the natural environment — from ecosystem dynamics to contemporary environmental crises."
+    "text": "Welcome to the Geographical Thought module of Geography OpenCourseWare. This course traces the intellectual history of geography as a discipline — from the earliest map-makers and travelers to modern critical and quantitative paradigms."
   },
   {
-    "objectID": "environmental.html#ugc-net-syllabus",
-    "href": "environmental.html#ugc-net-syllabus",
-    "title": "Environmental Geography",
+    "objectID": "geographical-thought.html#ugc-net-syllabus",
+    "href": "geographical-thought.html#ugc-net-syllabus",
+    "title": "Geographical Thought",
     "section": "UGC NET Syllabus",
-    "text": "UGC NET Syllabus\n\nComponents: Ecosystem (Geographic Classification) and Human Ecology.\nFunctions: Trophic Levels, Energy Flows, Cycles (geo-chemical, carbon, nitrogen and oxygen), Food Chain, Food Web and Ecological Pyramid.\nHuman Interaction and Impacts, Environmental Ethics and Deep Ecology.\nEnvironmental Hazards and Disasters (Global Warming, Urban Heat Island, Atmospheric Pollution, Water Pollution, Land Degradation).\nNational Programmes and Policies: Legal Framework, Environmental Policy, International Treaties, International Programmes and Polices (Brundtland Commission, Kyoto Protocol, Agenda 21, Sustainable Development Goals, Paris Agreement).\n\n\n\nPhysical factors influencing world distribution of plants and animals\nContent for Physical factors influencing world distribution of plants and animals coming soon.\n\n\nForms and functions of ecosystems:\nContent for Forms and functions of ecosystems: coming soon.\n\n\nSocial forestry, agro-forestry\nContent for Social forestry, agro-forestry coming soon.\n\n\nGrassland\nContent for Grassland coming soon.\n\n\nMarine\nContent for Marine coming soon.\n\n\nMountain\nContent for Mountain coming soon.\n\n\nBiodiversity and its depletion: natural and human-induced causes\nContent for Biodiversity and its depletion: natural and human-induced causes coming soon.\n\n\nConservation and management of ecosystems\nContent for Conservation and management of ecosystems coming soon.\n\n\nEnvironmental hazards and pollution\nContent for Environmental hazards and pollution coming soon.\n\n\nOzone depletion\nContent for Ozone depletion coming soon."
+    "text": "UGC NET Syllabus\n\nContributions of Greek, Roman, Arab, Chinese and Indian Scholars.\nContributions of Geographers (Bernhardus Varenius, Immanuel Kant, Alexander von Humboldt, Carl Ritter, Scheafer & Hartshorne).\nImpact of Darwinian Theory on Geographical Thought.\nContemporary trends in Indian Geography: Cartography, Thematic and Methodological contributions.\nMajor Geographic Traditions (Earth Science, man-environment relationship, area studies and spatial analysis).\nDualisms in Geographic Studies (physical vs. human, regional vs. systematic, qualitative vs. quantitative, ideographic vs. nomothetic).\nParadigm Shift, Perspectives in Geography (Positivism, Behaviouralism, Humanism, Structuralism, Feminism and Postmodernism)."
   },
   {
-    "objectID": "environmental.html#biogeography",
-    "href": "environmental.html#biogeography",
-    "title": "Environmental Geography",
-    "section": "Biogeography",
-    "text": "Biogeography\nThe spatial distribution of plants and animals.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipDistribution Patterns\n\n\n\n\nIsland Biogeography Theory (MacArthur & Wilson): Species richness as a function of island area and isolation.\nZoogeographic Realms: Palaearctic, Nearctic, Neotropical, Ethiopian, Oriental, and Australasian.\nFloristic Kingdoms: Boreal, Palaeotropical, Neotropical, South African, Australian, and Antarctic.\nEndemism & Hotspots: Biodiversity hotspots — Western Ghats, Eastern Himalayas, Sundaland.\nMigration & Dispersal: Animal migration routes and barriers to species dispersal.\n\n\n\n\nClassification and distribution of soils\nContent for Classification and distribution of soils coming soon."
+    "objectID": "geographical-thought.html#geographic-knowledge-during-the-ancient-and-medieval-periods",
+    "href": "geographical-thought.html#geographic-knowledge-during-the-ancient-and-medieval-periods",
+    "title": "Geographical Thought",
+    "section": "Geographic Knowledge During the Ancient and Medieval Periods",
+    "text": "Geographic Knowledge During the Ancient and Medieval Periods\nThe foundations of geography as a field of study were laid by ancient civilizations. Their contributions ranged from astronomical observations and mathematical calculations to descriptive accounts of people and places.\n\nAncient Greek Scholars\nThe Greeks were pioneers in mathematical and descriptive geography. - Homer: The father of geography; author of Iliad and Odyssey. - Thales of Miletus: Proposed the first theorems of geometry; believed Earth to be a disk floating in water. - Anaximander: Credited with drawing the first map of the known world to scale; used the Gnomon. - Hecataeus: The father of prose; wrote Ges-periodos (Description of the Earth). - Herodotus: Known for his historical and ethnographic geoinformation; “All history must be treated geographically.” - Aristotle: Laid the foundations of mathematical geography; argued for the sphericity of the Earth. - Eratosthenes: Calculated the Earth’s circumference almost exactly; termed the word “Geography.” - Hipparchus: Divided the circle into 360 degrees; developed the concept of latitude and longitude.\n\n\nAncient Roman Scholars\n\nStrabo: Compiled the 17-volume Geographica, providing a comprehensive account of the Roman world.\nClaudius Ptolemy: Created the Geographica atlas; developed map projections (conic and stereographic).\n\n\n\nAncient Indian Scholars\n\nVarahamihira: Discussed the shape of the Earth and its rotation in Surya Siddhanta.\nBrahmagupta: Contributed significantly to mathematical geography and base mathematics for navigation.\nAryabhatta: Proposed that the Earth rotates on its axis and orbits the Sun.\nBhaskaracharya: Discussed gravity and spherical trigonometry in Siddhanta Shiromani.\n\n\n\nAncient Chinese Scholars\n\nZhang Heng: Invented the world’s first seismoscope.\nChang Chien: Known for his explorations and reports on Central Asia (Silk Road).\nHuan Tsang (Xuanzang): Detailed accounts of geography and culture in South Asia/India.\nZheng He: Great explorer who conducted seven voyages covering the Indian Ocean.\n\n\n\nMedieval Arab Geographers\nArab scholars preserved and expanded upon Greek and Roman knowledge during the “Dark Ages” in Europe. - Al-Battani: Improved calculations of the length of the year and planetary motion. - Al-Masudi: The “Herodotus of the Arabs”; detailed descriptions of climates and cultures. - Ibn Sina (Avicenna): Contributed to geomorphology and climatology. - Al-Idrisi: Created the Tabula Rogeriana, one of the most advanced world maps of the Middle Ages. - Ibn Battuta: Traveled over 75,000 miles; wrote Rihla (The Travels). - Ibn Khaldun: A pioneer of sociology and political geography; author of Muqaddimah. - Al-Biruni: Expert in geodesy; calculated the Earth’s radius and geographic coordinates."
   },
   {
-    "objectID": "environmental.html#course-content",
-    "href": "environmental.html#course-content",
-    "title": "Environmental Geography",
+    "objectID": "geographical-thought.html#foundations-of-modern-geography",
+    "href": "geographical-thought.html#foundations-of-modern-geography",
+    "title": "Geographical Thought",
+    "section": "Foundations of Modern Geography",
+    "text": "Foundations of Modern Geography\nThe transition from descriptive classical geography to the modern scientific discipline was marked by the era of exploration and the philosophical contributions of European thinkers.\n\nThe Age of Discovery and Transition\nPioneers who advanced cartography and regional description during the 16th to 18th centuries: - Gerardus Mercator: Developed the Mercator projection, revolutionizing navigation. - Sebastian Münster: Author of Cosmographia, the earliest German description of the world. - Peter Apian: Astronomer and cartographer; worked on mathematical geography. - Cluverius (Philipp Clüver): The founder of historical geography. - Waldseemüller: Created the first map to use the name “America.” - Abraham Ortelius: Created the first modern atlas, Theatrum Orbis Terrarum. - Bernhard Varenius: Distinguished between “General” (Universal) and “Special” (Regional) geography in his work Geographica Generalis. - Immanuel Kant: Proposed the “Exceptionalism” of geography; viewed geography as a “chorological” science (study of space).\n\n\nThe Founders of Modern Geography\nThe early 19th century saw geography established as a rigorous academic field through two major German scholars:\n\nAlexander von Humboldt (1769–1859)\n\nAuthor of the 5-volume Cosmos.\nEmphasized systematic, empirical research and the Unity of Nature.\nIntroduced isotherms and studied the relationship between elevation and vegetation.\n\nCarl Ritter (1779–1859)\n\nAuthor of the 19-volume Die Erdkunde.\nEmphasized regional geography (Länderkunde) and the teleological view (Earth designed for humans).\nFocused on the relationship between man and land.\n\n\n\n\nGerman schools\nContent for German schools coming soon.\n\n\nFrench schools\nContent for French schools coming soon.\n\n\nBritish schools\nContent for British schools coming soon.\n\n\nAmerican schools\nContent for American schools coming soon."
+  },
+  {
+    "objectID": "geographical-thought.html#summary-of-geographers-by-historical-period-and-school",
+    "href": "geographical-thought.html#summary-of-geographers-by-historical-period-and-school",
+    "title": "Geographical Thought",
+    "section": "Summary of Geographers by Historical Period and School",
+    "text": "Summary of Geographers by Historical Period and School\nThis table provides a quick reference to the major thinkers who have shaped geographical thought throughout history.\n\n\n\n\n\n\n\nPeriod / School\nKey Geographers and Contributors\n\n\n\n\nAncient Greek\nHomer, Thales, Anaximander, Hecataeus, Herodotus, Plato, Aristotle, Eratosthenes, Hipparchus, Posidonius\n\n\nAncient Roman\nStrabo, Claudius Ptolemy, Polybius, Pomponius Mela\n\n\nAncient Indian\nAryabhatta, Varahamihira, Brahmagupta, Bhaskaracharya\n\n\nAncient Chinese\nZhang Heng, Confucius, Laotze, Chang Chien, Huan Tsang, Zheng He\n\n\nMedieval Arab\nAl-Battani, Al-Masudi, Ibn Sina, Al-Idrisi, Ibn Battuta, Al-Biruni, Ibn Khaldun, Al-Khwarizmi, Al-Balkhi\n\n\nTransition Period\nPeter Apian, Munster, Cluverius, Waldseemuller, Mercator, Phillippe Buache, Bernhard Varenius\n\n\nGerman School\nImmanuel Kant, Alexander Von Humboldt, Carl Ritter, Oscar Peschel, Ferdinand Von Richthofen, Friedrich Ratzel, Albrecht Penck, Walther Penck, Alfred Wegener, Alfred Hettner, Otto Schluter\n\n\nFrench School\nPaul Vidal de la Blache, Louis Himly, Elisee Reclus, Jean Bruhnes, Camille Vallaux, Albert Demangeon, Emmanuel de Martonne, Andre Siegfried, Raoul Blanchard, L. Gallois, Le Play\n\n\nBritish School\nHerbert Spencer, Patrick Geddes, Halford J. Mackinder, Andrew J. Herbertson, Griffith Taylor, Sir Dudley Stamp, H Robert Mill, HJ Fleure, PM Roxby, Wooldridge, Chorley, Haggett, Spate, David Harvey\n\n\nAmerican School\nLouis Agassiz, Arnold Guyot, GB Marsh, Elias Loomis, Isaiah Bowman, John Wesley Powell, Grove Karl Gilbert, Whittlesey, William Morris Davis, Ellen Churchill Semple, Ellsworth Huntington, Harlan Barrows, Carl O Sauer, Richard Hartshorne\n\n\nSoviet Russian\nLomonosov, Pyotr Petrovich Semyonov, Alexander Ivanovich Voikov, V. V. Dokuchaev, P. A. Kropotkin, D. N. Anuchin, Carl Marx, Friedrich Engels, Vladimir Lenin\n\n\n\n\nHistorical Timeline Overview\n\nAncient Period: Focused on mathematical foundations, exploration, and descriptive regional accounts (Greeks and Romans).\nMiddle Ages (Arab Period): Preserved classical knowledge and advanced mapping/travel writing.\nRenaissance/Transition: Great Age of Discovery; invention of sophisticated map projections (Mercator).\nModern Period: Institutionalization of Geography as a science; development of schools of thought (German, French, etc.).\nPost-Modern Period: Shift towards critical theories, quantitative methods, and diverse perspectives (Humanism, Radicalism).\n\n\n\nConceptual and methodological developments during the 20th century\nContent for Conceptual and methodological developments during the 20th century coming soon.\n\n\nChanging paradigms in geography\nContent for Changing paradigms in geography coming soon.\n\n\nMan and environment: determinism and possibilism\nContent for Man and environment: determinism and possibilism coming soon.\n\n\nArea differentiation and spatial organization\nContent for Area differentiation and spatial organization coming soon.\n\n\nQuantitative revolution and locational analysis\nContent for Quantitative revolution and locational analysis coming soon.\n\n\nImpact of:\nContent for Impact of: coming soon.\n\n\nPositivism\nContent for Positivism coming soon.\n\n\nHumanism\nContent for Humanism coming soon.\n\n\nRadicalism\nContent for Radicalism coming soon.\n\n\nBehavioralism\nContent for Behavioralism coming soon."
+  },
+  {
+    "objectID": "geographical-thought.html#ancient-classical-geography",
+    "href": "geographical-thought.html#ancient-classical-geography",
+    "title": "Geographical Thought",
+    "section": "Ancient & Classical Geography",
+    "text": "Ancient & Classical Geography\nThe earliest attempts to describe and understand the Earth.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteFoundations of Geographic Knowledge\n\n\n\n\nGreek Contributions: Eratosthenes (measurement of Earth’s circumference), Strabo (descriptive geography), Ptolemy (cartographic projections).\nRoman Geography: Practical geographic knowledge for administration and military campaigns.\nIndian & Chinese Traditions: Ancient Vedic cosmography, Chinese cartographic innovations.\nArab Geographers: Al-Idrisi’s world map, Ibn Battuta’s travelogues, Al-Biruni’s geodetic measurements.\n\n\n\n\nAreal differentiation\nContent for Areal differentiation coming soon."
+  },
+  {
+    "objectID": "geographical-thought.html#behavioural-humanistic-geography",
+    "href": "geographical-thought.html#behavioural-humanistic-geography",
+    "title": "Geographical Thought",
+    "section": "Behavioural & Humanistic Geography",
+    "text": "Behavioural & Humanistic Geography\nShifting focus from space to people and perception.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteSubjective & Experiential Approaches\n\n\n\n\nMental Maps: How individuals perceive and navigate geographic space.\nPlace & Sense of Place (Yi-Fu Tuan): Topophilia and the emotional bonds between people and places.\nPhenomenology in Geography: Experiential understanding of lived space.\nBehavioural Decision-Making: Bounded rationality and satisficing in spatial choices.\n\n\n\n\nCentral Place theories of Christaller and Losch\nContent for Central Place theories of Christaller and Losch coming soon."
+  },
+  {
+    "objectID": "geographical-thought.html#course-content",
+    "href": "geographical-thought.html#course-content",
+    "title": "Geographical Thought",
     "section": "Course Content",
-    "text": "Course Content\n\nEcology & Ecosystems\nBiogeography\nEnvironmental Degradation\nNatural Hazards & Disasters\nEnvironmental Policies & Governance\nSustainable Development"
+    "text": "Course Content\n\nAncient & Classical Geography\nMedieval & Renaissance Geography\nModern Geographical Thought\nQuantitative Revolution\nBehavioural & Humanistic Geography\nRadical & Critical Geography\nPostmodern Geography\n\n\n\nCultural regions of the world\nContent for Cultural regions of the world coming soon.\n\n\nDichotomy and dualism\nContent for Dichotomy and dualism coming soon.\n\n\nEnvironmentalism\nContent for Environmentalism coming soon.\n\n\nHeart-land and Rimland theories\nContent for Heart-land and Rimland theories coming soon.\n\n\nHuman development Index.\nContent for Human development Index. coming soon.\n\n\nLanguages, religions and secularisation\nContent for Languages, religions and secularisation coming soon.\n\n\nLaws of international boundaries and frontiers\nContent for Laws of international boundaries and frontiers coming soon.\n\n\nMalthusian, Marxian and demographic transition models\nContent for Malthusian, Marxian and demographic transition models coming soon."
   },
   {
-    "objectID": "environmental.html#ecology-ecosystems",
-    "href": "environmental.html#ecology-ecosystems",
-    "title": "Environmental Geography",
-    "section": "Ecology & Ecosystems",
-    "text": "Ecology & Ecosystems\nThe structure and functioning of ecological systems.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteEcosystem Fundamentals\n\n\n\n\nEcosystem Components: Biotic (producers, consumers, decomposers) and abiotic (climate, soil, water) factors.\nEnergy Flow: Food chains, food webs, trophic levels, and ecological pyramids.\nBiogeochemical Cycles: Carbon, nitrogen, phosphorus, and hydrological cycles.\nEcological Succession: Primary and secondary succession — from bare rock to climax community.\nBiomes: Tropical rainforest, savanna, desert, temperate, taiga, tundra, and aquatic biomes.\n\n\n\n\nEcosystem their management and conservation\nContent for Ecosystem their management and conservation coming soon."
+    "objectID": "geographical-thought.html#medieval-renaissance-geography",
+    "href": "geographical-thought.html#medieval-renaissance-geography",
+    "title": "Geographical Thought",
+    "section": "Medieval & Renaissance Geography",
+    "text": "Medieval & Renaissance Geography\nThe transition from theological to empirical understanding.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipAge of Exploration\n\n\n\n\nEuropean Voyages: Columbus, Vasco da Gama, Magellan and their geographic impact.\nCartographic Revolution: Mercator projection, globe-making, and the rise of atlases.\nBernhardus Varenius: Geographia Generalis (1650) — distinguishing general and special geography."
   },
   {
-    "objectID": "environmental.html#environmental-degradation",
-    "href": "environmental.html#environmental-degradation",
-    "title": "Environmental Geography",
-    "section": "Environmental Degradation",
-    "text": "Environmental Degradation\nHuman-induced deterioration of the natural environment.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantDegradation Processes\n\n\n\n\nDeforestation: Causes, rates, and consequences — Amazon, Congo Basin, Southeast Asia.\nSoil Degradation: Erosion, salinization, waterlogging, and desertification.\nWater Pollution: Point and non-point source pollution, eutrophication, and groundwater contamination.\nAir Pollution: Sources, types of pollutants, smog, acid rain, and particulate matter.\nBiodiversity Loss: Habitat destruction, overexploitation, invasive species, and the sixth mass extinction.\n\n\n\n\nEnvironmental education and legislation.\nContent for Environmental education and legislation. coming soon.\n\n\nEnvironmental hazards and remedial measures\nContent for Environmental hazards and remedial measures coming soon."
+    "objectID": "geographical-thought.html#modern-geographical-thought",
+    "href": "geographical-thought.html#modern-geographical-thought",
+    "title": "Geographical Thought",
+    "section": "Modern Geographical Thought",
+    "text": "Modern Geographical Thought\nThe founding of geography as an academic discipline.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantThe German & French Schools\n\n\n\n\nAlexander von Humboldt: Systematic physical geography, Kosmos, and the holistic view of nature.\nCarl Ritter: Teleological approach and regional comparative geography.\nFriedrich Ratzel: Anthropogeography, environmental determinism, and political geography.\nPaul Vidal de la Blache: French school of genre de vie, possibilism, and regional monographs.\nDeterminism vs. Possibilism: The foundational debate shaping modern geographic methodology.\n\n\n\n\nPerroux and Boudeville\nContent for Perroux and Boudeville coming soon."
   },
   {
-    "objectID": "environmental.html#environmental-policies-governance",
-    "href": "environmental.html#environmental-policies-governance",
-    "title": "Environmental Geography",
-    "section": "Environmental Policies & Governance",
-    "text": "Environmental Policies & Governance\nNational and international responses to environmental challenges.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipPolicy Frameworks\n\n\n\n\nStockholm Conference (1972): The beginning of global environmental consciousness.\nRio Earth Summit (1992): Agenda 21, CBD, UNFCCC, and the principle of common but differentiated responsibilities.\nKyoto Protocol & Paris Agreement: Climate change mitigation frameworks and nationally determined contributions.\nIndian Environmental Policy: Wildlife Protection Act, Forest Conservation Act, EIA notifications, National Action Plan on Climate Change.\nEnvironmental Impact Assessment (EIA): Process, stages, and significance in project planning.\n\n\n\n\nEnvironmental policy\nContent for Environmental policy coming soon.\n\n\nGenesis of soils\nContent for Genesis of soils coming soon.\n\n\nGlobal and regional ecological changes and imbalances\nContent for Global and regional ecological changes and imbalances coming soon.\n\n\nHuman ecological adaptations\nContent for Human ecological adaptations coming soon.\n\n\nInfluence of man on ecology and environment\nContent for Influence of man on ecology and environment coming soon.\n\n\nMajor gene pool centres.\nContent for Major gene pool centres. coming soon."
+    "objectID": "geographical-thought.html#postmodern-geography",
+    "href": "geographical-thought.html#postmodern-geography",
+    "title": "Geographical Thought",
+    "section": "Postmodern Geography",
+    "text": "Postmodern Geography\nQuestioning grand narratives and embracing plurality.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nTipContemporary Directions\n\n\n\n\nEdward Soja: Postmodern Geographies and Thirdspace.\nCultural Turn: Representation, identity, and discourse in geographic research.\nGIS & Critical Cartography: Power, knowledge, and ethics in mapping technologies.\nMore-than-Human Geography: Agency of non-human actors, assemblage theory, and relational space.\n\n\n\n\n\nBooks and Further Readings\nUnderstanding the evolution of geographic thought is essential for positioning your own research within contemporary debate. Explore Political Geography and Social & Cultural modules for deeper thematic engagement.\n\n\nRadical, behavioural, human and welfare approaches\nContent for Radical, behavioural, human and welfare approaches coming soon."
   },
   {
-    "objectID": "environmental.html#natural-hazards-disasters",
-    "href": "environmental.html#natural-hazards-disasters",
-    "title": "Environmental Geography",
-    "section": "Natural Hazards & Disasters",
-    "text": "Natural Hazards & Disasters\nGeographic perspectives on natural hazards and disaster management.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nNoteHazard Assessment\n\n\n\n\nEarthquakes: Seismic zones, plate boundaries, and earthquake-prone regions of India.\nVolcanic Eruptions: Types of volcanoes, eruption styles, and volcanic hazard zones.\nFloods: Fluvial, pluvial, and coastal flooding — causes, frequency, and mitigation.\nCyclones: Tropical cyclone formation, tracks, intensity scales, and warning systems.\nDroughts: Meteorological, hydrological, and agricultural droughts — vulnerability mapping.\nLandslides: Trigger factors, susceptibility mapping, and early warning.\n\n\n\n\nPrinciple ecology\nContent for Principle ecology coming soon.\n\n\nSoil erosion, Degradation and conservation\nContent for Soil erosion, Degradation and conservation coming soon.\n\n\nSoil profile\nContent for Soil profile coming soon."
-  },
-  {
-    "objectID": "environmental.html#sustainable-development",
-    "href": "environmental.html#sustainable-development",
-    "title": "Environmental Geography",
-    "section": "Sustainable Development",
-    "text": "Sustainable Development\nBalancing development with environmental conservation.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantSustainability Frameworks\n\n\n\n\nBrundtland Definition: “Meeting the needs of the present without compromising future generations.”\nSDGs (Sustainable Development Goals): The 17 UN goals — a geographic perspective.\nEcological Footprint: Measuring human demand on Earth’s ecosystems.\nCircular Economy: Waste reduction, resource efficiency, and cradle-to-cradle design.\nGreen Technology: Renewable energy, green infrastructure, and sustainable urban design.\n\n\n\n\n\nBooks and Further Readings\nEnvironmental Geography provides the essential bridge between physical processes and human impacts. Explore Climatology and Oceanography for deeper physical science perspectives.\n\n\nWild life\nContent for Wild life coming soon.\n\n\nProblems of deforestation and conservation measures\nContent for Problems of deforestation and conservation measures coming soon."
+    "objectID": "geographical-thought.html#radical-critical-geography",
+    "href": "geographical-thought.html#radical-critical-geography",
+    "title": "Geographical Thought",
+    "section": "Radical & Critical Geography",
+    "text": "Radical & Critical Geography\nGeography as a tool for social justice and critique.\n\nGet the Presentation ↗   |   Watch the Video ↗\n\n\n\n\n\n\nImportantMarxist & Feminist Perspectives\n\n\n\n\nDavid Harvey: Social Justice and the City, the geography of capital accumulation.\nMarxist Geography: Class relations, uneven development, and spatial fix.\nFeminist Geography: Gender, space, and the critique of masculinist geographic epistemologies.\nPostcolonial Geography: Decolonizing geographic knowledge, subaltern perspectives.\n\n\n\n\nRegional synthesis\nContent for Regional synthesis coming soon.\n\n\nRostow’s model of stages of growth.\nContent for Rostow’s model of stages of growth. coming soon.\n\n\nSystem analysis in Human geography\nContent for System analysis in Human geography coming soon.\n\n\nVon Thunen’s model of agricultural location\nContent for Von Thunen’s model of agricultural location coming soon.\n\n\nWeber’s model of industrial location\nContent for Weber’s model of industrial location coming soon."
   },
   {
     "objectID": "geomorphology.html",
@@ -963,7 +970,7 @@
     "href": "index.html",
     "title": "Geography",
     "section": "",
-    "text": "Welcome to Geography OpenCourseWare — a curated, open-access platform designed to help you master the full breadth of geographical knowledge. From physical landscapes and climatic systems to human settlement patterns and economic forces, each module below provides structured, high-quality educational content for students, educators, and researchers.\n\n\nPhysical Geography\n\nGeomorphology\nClimatology\nOceanography\nEnvironmental\n\n\n\nHuman Geography\n\nPopulation Geography\nSettlement Geography\nSocial & Cultural\nPolitical Geography\n\n\n\nEconomic Geography\n\nEconomic Geography\nAgricultural Geography\nIndustrial Geography\nTrade and Transport\nRegional Development\n\n\n\nGeographical Techniques & Thought\n\nGeographical Thought\nGIS & Remote Sensing\nStatistical Geography\n\n\n\nIndian Geography\n\nIndian Physical\nIndian SocioEco\n\n\n\nSupplementary Resources\n\nUGC NET Previous Year Questions\nReading Materials & Methodology"
+    "text": "Welcome to Geography OpenCourseWare — a curated, open-access platform designed to help you master the full breadth of geographical knowledge. From physical landscapes and climatic systems to human settlement patterns and economic forces, each module below provides structured, high-quality educational content for students, educators, and researchers.\n\n\nPhysical Geography\n\nGeomorphology\nClimatology\nOceanography\nEnvironmental\n\n\n\nHuman Geography\n\nPopulation Geography\nSettlement Geography\nSocial & Cultural\nPolitical Geography\n\n\n\nEconomic Geography\n\nEconomic Geography\nAgricultural Geography\nIndustrial Geography\nTrade and Transport\nRegional Development\n\n\n\nGeographical Techniques & Thought\n\nGeographical Thought\nGIS & Remote Sensing\nStatistical Geography\n\n\n\nIndian Geography\n\nIndian Physical\nIndian SocioEco\n\n\n\nSupplementary Resources\n\nUGC NET Previous Year Questions\nGeography in News\nReading Materials & Methodology"
   },
   {
     "objectID": "indian-socioeco.html",

@@ -10,6 +10,37 @@ Welcome to the **UGC NET Previous Year Questions** module of Geography OpenCours
 
 ---
 
+### PYQ Distribution & Exam Trends
+
+To crack the UGC NET Geography exam, it is vital to understand the weightage of each unit. Below is the average question distribution based on the last few cycles (June 2023, Dec 2023, and June 2024).
+
+| Module / Unit | Relevant QMD File | Avg. Questions | Priority |
+|:---|:---|:---:|:---:|
+| **Unit I: Geomorphology** | [geomorphology.qmd](geomorphology.qmd) | 8-10 | High |
+| **Unit II: Climatology** | [climatology.qmd](climatology.qmd) | 8-10 | High |
+| **Unit III: Oceanography** | [oceanography.qmd](oceanography.qmd) | 4-6 | Medium |
+| **Unit IV: Environment** | [environmental.qmd](environmental.qmd) | 8-10 | High |
+| **Unit V: Pop. & Settlement** | [population-geography.qmd](population-geography.qmd) | 10-12 | Very High |
+| **Unit VI: Economic & Reg.** | [economic-geography.qmd](economic-geography.qmd) | 10-12 | Very High |
+| **Unit VII: Social & Pol.** | [political-geography.qmd](political-geography.qmd) | 6-8 | Medium |
+| **Unit VIII: Geographic Thought** | [geographical-thought.qmd](geographical-thought.qmd) | 10-12 | Very High |
+| **Unit IX: Techniques** | [gis-remote-sensing.qmd](gis-remote-sensing.qmd) | 10-12 | High |
+| **Unit X: Geography of India** | [indian-physical.qmd](indian-physical.qmd) | 12-15 | Critical |
+
+---
+
+### Recent Exam Breakdowns
+
+#### [June 2024 Cycle]
+- **Focus**: Heavy emphasis on Unit IX (Statistical Techniques) and Unit X (Indian Drainage & Monsoon).
+- **Format**: Increase in Assertion-Reason and Statement-based questions (~35%).
+
+#### [December 2023 Cycle]
+- **Focus**: Quantitative Revolution models and Contemporary Environmental Treaties.
+- **Format**: High number of Match-the-Following questions from Geographic Thought.
+
+---
+
 ## Unit I: Geomorphology
 
 ::: {.callout-note}
