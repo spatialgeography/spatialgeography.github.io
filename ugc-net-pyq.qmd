@@ -14,18 +14,26 @@ Welcome to the **UGC NET Previous Year Questions** module of Geography OpenCours
 
 To crack the UGC NET Geography exam, it is vital to understand the weightage of each unit. Below is the average question distribution based on the last few cycles (June 2023, Dec 2023, and June 2024).
 
-| Module / Unit | Relevant QMD File | Avg. Questions | Priority |
+| Syllabus Unit | Relevant Module | Avg. Questions | Priority |
 |:---|:---|:---:|:---:|
-| **Unit I: Geomorphology** | [geomorphology.qmd](geomorphology.qmd) | 8-10 | High |
-| **Unit II: Climatology** | [climatology.qmd](climatology.qmd) | 8-10 | High |
-| **Unit III: Oceanography** | [oceanography.qmd](oceanography.qmd) | 4-6 | Medium |
-| **Unit IV: Environment** | [environmental.qmd](environmental.qmd) | 8-10 | High |
-| **Unit V: Pop. & Settlement** | [population-geography.qmd](population-geography.qmd) | 10-12 | Very High |
-| **Unit VI: Economic & Reg.** | [economic-geography.qmd](economic-geography.qmd) | 10-12 | Very High |
-| **Unit VII: Social & Pol.** | [political-geography.qmd](political-geography.qmd) | 6-8 | Medium |
-| **Unit VIII: Geographic Thought** | [geographical-thought.qmd](geographical-thought.qmd) | 10-12 | Very High |
-| **Unit IX: Techniques** | [gis-remote-sensing.qmd](gis-remote-sensing.qmd) | 10-12 | High |
-| **Unit X: Geography of India** | [indian-physical.qmd](indian-physical.qmd) | 12-15 | Critical |
+| **Unit I: Geomorphology** | [Geomorphology](geomorphology.qmd) | 8-10 | High |
+| **Unit II: Climatology** | [Climatology](climatology.qmd) | 8-10 | High |
+| **Unit III: Oceanography** | [Oceanography](oceanography.qmd) | 4-6 | Medium |
+| **Unit IV: Environment** | [Environmental Geography](environmental.qmd) | 8-10 | High |
+| **Unit V: Population & Settlement** | [Population Geography](population-geography.qmd) | 5-6 | High |
+| | [Settlement Geography](settlement-geography.qmd) | 5-6 | High |
+| **Unit VI: Economic & Regional** | [Economic Geography](economic-geography.qmd) | 2-3 | Medium |
+| | [Agricultural Geography](agricultural-geography.qmd) | 3-4 | High |
+| | [Industrial Geography](industrial-geography.qmd) | 2-3 | Medium |
+| | [Trade and Transport](trade-and-transport.qmd) | 2-3 | Medium |
+| | [Regional Development](regional-development.qmd) | 2-3 | Medium |
+| **Unit VII: Social & Political** | [Social & Cultural](social-and-cultural.qmd) | 3-4 | Medium |
+| | [Political Geography](political-geography.qmd) | 3-4 | Medium |
+| **Unit VIII: Geographic Thought** | [Geographical Thought](geographical-thought.qmd) | 10-12 | Very High |
+| **Unit IX: Techniques** | [Statistical Geography](statistical-geography.qmd) | 5-6 | High |
+| | [GIS & Remote Sensing](gis-remote-sensing.qmd) | 5-6 | High |
+| **Unit X: Geography of India** | [Indian Physical](indian-physical.qmd) | 7-8 | Critical |
+| | [Indian SocioEco](indian-socioeco.qmd) | 5-7 | Critical |
 
 ---
 
