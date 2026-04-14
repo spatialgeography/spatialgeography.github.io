@@ -1,0 +1,40 @@
+---
+title: "Geography in News"
+subtitle: "Stay updated with contemporary geographical events, environmental changes, and spatial breakthroughs."
+author: "Geography Team"
+toc: true
+---
+
+Welcome to the **Geography in News** section. This page serves as a dynamic hub for tracking real-world applications of geographical theories and staying updated on critical global events that shape our spatial reality.
+
+---
+
+### Recent Geographical Events
+
+| Event Date | Topic | Category | Significance |
+|:---|:---|:---|:---|
+| April 2026 | **Himalayan Glacial Retreat Accelerates** | Climatology | Impacts water security for 1.3 billion people. |
+| March 2026 | **New Urban Heat Island Data released for Delhi** | Environmental | Highlights urgent need for sustainable urban planning. |
+| February 2026 | **Major Tectonic Shift detected in East African Rift** | Geomorphology | Ongoing evolution of a new ocean basin. |
+| January 2026 | **Remote Sensing confirms 15% recovery in Mangrove cover** | GIS & RS | Success of community-led restoration projects in Sundarbans. |
+
+---
+
+### Critical Analysis of News Items
+
+#### 1. The Geopolitics of Chip Manufacturing
+As global supply chains shift, Southeast Asia is emerging as a critical geographical node for semiconductor fabrication. This reflects concepts of **Industrial Location** and **Global Trade Patterns**.
+
+#### 2. Climate Change and Migration
+Recent droughts in the Sahel region have triggered new patterns of international migration. This intersection of **Environmental Geography** and **Population Dynamics** illustrates the "push" and "pull" factors discussed in demographic models.
+
+#### 3. Precision Agriculture in Small Landholdings
+The adoption of low-cost drones in Indian agriculture is revolutionizing the **Green Revolution 2.0**, emphasizing productivity without ecological depletion.
+
+---
+
+### Stay Connected
+We update this section monthly with insights mapped directly to your course modules. Use these real-world examples in your UPSC/UGC NET answers for extra marks!
+
+> [!TIP]
+> **Suggested Reading**: Follow portals like *Down To Earth*, *NASA Earth Observatory*, and *The Guardian Environment* to stay ahead.

@@ -42,7 +42,5 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 ### Supplementary Resources
 
 * [UGC NET Previous Year Questions](ugc-net-pyq.html)
-* [Reading Materials Sources](reading-materials.html)
-* [Teaching Learning methodology](teaching-learning-methodology.html)
-
----
+* [Geography in News](geography-in-news.html)
+* [Reading Materials 
