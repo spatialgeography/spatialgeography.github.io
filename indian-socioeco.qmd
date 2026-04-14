@@ -24,52 +24,52 @@ Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCours
 
 ---
 
-{{< include indian-socioeco/agriculture-and-agroclimatic-regions.md >}}
+{{< include indian-socioeco/01-agriculture-and-agroclimatic-regions.md >}}
 
-{{< include indian-socioeco/changes-in-patterns-of-land-use.md >}}
+{{< include indian-socioeco/07-changes-in-patterns-of-land-use.md >}}
 
-{{< include indian-socioeco/concept-of-sustainable-growth-and-development.md >}}
+{{< include indian-socioeco/08-concept-of-sustainable-growth-and-development.md >}}
 
-{{< include indian-socioeco/course-content.md >}}
+{{< include indian-socioeco/09-course-content.md >}}
 
-{{< include indian-socioeco/deforestation-desertification-and-soil-erosion.md >}}
+{{< include indian-socioeco/10-deforestation-desertification-and-soil-erosion.md >}}
 
-{{< include indian-socioeco/ecological-issues-environmental-hazards-landslides-earthquakes-tsunamis-floods-and-droughts-epidemics.md >}}
+{{< include indian-socioeco/11-ecological-issues-environmental-hazards-landslides-earthquakes-tsunamis-floods-and-droughts-epidemics.md >}}
 
-{{< include indian-socioeco/environmental-awareness.md >}}
+{{< include indian-socioeco/12-environmental-awareness.md >}}
 
-{{< include indian-socioeco/environmental-degradation.md >}}
+{{< include indian-socioeco/13-environmental-degradation.md >}}
 
-{{< include indian-socioeco/globalisation-and-indian-economy.md >}}
+{{< include indian-socioeco/14-globalisation-and-indian-economy.md >}}
 
-{{< include indian-socioeco/india-s-population-dynamics.md >}}
+{{< include indian-socioeco/15-india-s-population-dynamics.md >}}
 
-{{< include indian-socioeco/indian-agriculture.md >}}
+{{< include indian-socioeco/16-indian-agriculture.md >}}
 
-{{< include indian-socioeco/industrial-development.md >}}
+{{< include indian-socioeco/17-industrial-development.md >}}
 
-{{< include indian-socioeco/issues-related-to-environmental-pollution.md >}}
+{{< include indian-socioeco/18-issues-related-to-environmental-pollution.md >}}
 
-{{< include indian-socioeco/linkage-of-rivers.md >}}
+{{< include indian-socioeco/19-linkage-of-rivers.md >}}
 
-{{< include indian-socioeco/mineral-and-power-resources.md >}}
+{{< include indian-socioeco/02-mineral-and-power-resources.md >}}
 
-{{< include indian-socioeco/population-distribution-and-growth.md >}}
+{{< include indian-socioeco/03-population-distribution-and-growth.md >}}
 
-{{< include indian-socioeco/population-explosion-and-food-security.md >}}
+{{< include indian-socioeco/20-population-explosion-and-food-security.md >}}
 
-{{< include indian-socioeco/principles-of-environmental-impact-assessment-and-environmental-management.md >}}
+{{< include indian-socioeco/21-principles-of-environmental-impact-assessment-and-environmental-management.md >}}
 
-{{< include indian-socioeco/problems-of-agrarian-and-industrial-unrest.md >}}
+{{< include indian-socioeco/22-problems-of-agrarian-and-industrial-unrest.md >}}
 
-{{< include indian-socioeco/regional-disparities-in-economic-development.md >}}
+{{< include indian-socioeco/23-regional-disparities-in-economic-development.md >}}
 
-{{< include indian-socioeco/regional-disparities-in-social-and-economic-development.md >}}
+{{< include indian-socioeco/05-regional-disparities-in-social-and-economic-development.md >}}
 
-{{< include indian-socioeco/regional-disparities-planning.md >}}
+{{< include indian-socioeco/24-regional-disparities-planning.md >}}
 
-{{< include indian-socioeco/settlement-patterns.md >}}
+{{< include indian-socioeco/04-settlement-patterns.md >}}
 
-{{< include indian-socioeco/transport-communication.md >}}
+{{< include indian-socioeco/25-transport-communication.md >}}
 
-{{< include indian-socioeco/urbanization-in-india.md >}}
+{{< include indian-socioeco/26-urbanization-in-india.md >}}

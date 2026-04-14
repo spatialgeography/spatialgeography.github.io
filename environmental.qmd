@@ -24,66 +24,66 @@ Welcome to the **Environmental Geography** module of Geography OpenCourseWare. T
 
 ---
 
-{{< include environmental/biodiversity-and-its-depletion-natural-and-human-induced-causes.md >}}
+{{< include environmental/07-biodiversity-and-its-depletion-natural-and-human-induced-causes.md >}}
 
-{{< include environmental/biogeography.md >}}
+{{< include environmental/11-biogeography.md >}}
 
-{{< include environmental/classification-and-distribution-of-soils.md >}}
+{{< include environmental/12-classification-and-distribution-of-soils.md >}}
 
-{{< include environmental/conservation-and-management-of-ecosystems.md >}}
+{{< include environmental/08-conservation-and-management-of-ecosystems.md >}}
 
-{{< include environmental/course-content.md >}}
+{{< include environmental/13-course-content.md >}}
 
-{{< include environmental/ecology-ecosystems.md >}}
+{{< include environmental/14-ecology-ecosystems.md >}}
 
-{{< include environmental/ecosystem-their-management-and-conservation.md >}}
+{{< include environmental/15-ecosystem-their-management-and-conservation.md >}}
 
-{{< include environmental/environmental-degradation.md >}}
+{{< include environmental/16-environmental-degradation.md >}}
 
-{{< include environmental/environmental-education-and-legislation.md >}}
+{{< include environmental/17-environmental-education-and-legislation.md >}}
 
-{{< include environmental/environmental-hazards-and-pollution.md >}}
+{{< include environmental/09-environmental-hazards-and-pollution.md >}}
 
-{{< include environmental/environmental-hazards-and-remedial-measures.md >}}
+{{< include environmental/18-environmental-hazards-and-remedial-measures.md >}}
 
-{{< include environmental/environmental-policies-governance.md >}}
+{{< include environmental/19-environmental-policies-governance.md >}}
 
-{{< include environmental/environmental-policy.md >}}
+{{< include environmental/20-environmental-policy.md >}}
 
-{{< include environmental/forms-and-functions-of-ecosystems.md >}}
+{{< include environmental/02-forms-and-functions-of-ecosystems.md >}}
 
-{{< include environmental/genesis-of-soils.md >}}
+{{< include environmental/21-genesis-of-soils.md >}}
 
-{{< include environmental/global-and-regional-ecological-changes-and-imbalances.md >}}
+{{< include environmental/22-global-and-regional-ecological-changes-and-imbalances.md >}}
 
-{{< include environmental/grassland.md >}}
+{{< include environmental/04-grassland.md >}}
 
-{{< include environmental/human-ecological-adaptations.md >}}
+{{< include environmental/23-human-ecological-adaptations.md >}}
 
-{{< include environmental/influence-of-man-on-ecology-and-environment.md >}}
+{{< include environmental/24-influence-of-man-on-ecology-and-environment.md >}}
 
-{{< include environmental/major-gene-pool-centres.md >}}
+{{< include environmental/25-major-gene-pool-centres.md >}}
 
-{{< include environmental/marine.md >}}
+{{< include environmental/05-marine.md >}}
 
-{{< include environmental/mountain.md >}}
+{{< include environmental/06-mountain.md >}}
 
-{{< include environmental/natural-hazards-disasters.md >}}
+{{< include environmental/26-natural-hazards-disasters.md >}}
 
-{{< include environmental/ozone-depletion.md >}}
+{{< include environmental/10-ozone-depletion.md >}}
 
-{{< include environmental/physical-factors-influencing-world-distribution-of-plants-and-animals.md >}}
+{{< include environmental/01-physical-factors-influencing-world-distribution-of-plants-and-animals.md >}}
 
-{{< include environmental/principle-ecology.md >}}
+{{< include environmental/27-principle-ecology.md >}}
 
-{{< include environmental/problems-of-deforestation-and-conservation-measures.md >}}
+{{< include environmental/32-problems-of-deforestation-and-conservation-measures.md >}}
 
-{{< include environmental/social-forestry-agro-forestry.md >}}
+{{< include environmental/03-social-forestry-agro-forestry.md >}}
 
-{{< include environmental/soil-erosion-degradation-and-conservation.md >}}
+{{< include environmental/28-soil-erosion-degradation-and-conservation.md >}}
 
-{{< include environmental/soil-profile.md >}}
+{{< include environmental/29-soil-profile.md >}}
 
-{{< include environmental/sustainable-development.md >}}
+{{< include environmental/30-sustainable-development.md >}}
 
-{{< include environmental/wild-life.md >}}
+{{< include environmental/31-wild-life.md >}}

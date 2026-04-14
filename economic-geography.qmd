@@ -22,48 +22,48 @@ Welcome to the **Economic Geography** module of Geography OpenCourseWare. This c
 
 ---
 
-{{< include economic-geography/agricultural-inputs-and-productivity.md >}}
+{{< include economic-geography/10-agricultural-inputs-and-productivity.md >}}
 
-{{< include economic-geography/classification-of-economies.md >}}
+{{< include economic-geography/03-classification-of-economies.md >}}
 
-{{< include economic-geography/conservation-of-resources.md >}}
+{{< include economic-geography/09-conservation-of-resources.md >}}
 
-{{< include economic-geography/course-content.md >}}
+{{< include economic-geography/11-course-content.md >}}
 
-{{< include economic-geography/energy-crisis.md >}}
+{{< include economic-geography/12-energy-crisis.md >}}
 
-{{< include economic-geography/food-and-nutritions-problems.md >}}
+{{< include economic-geography/13-food-and-nutritions-problems.md >}}
 
-{{< include economic-geography/food-security-famine-causes-effects-and-remedies.md >}}
+{{< include economic-geography/14-food-security-famine-causes-effects-and-remedies.md >}}
 
-{{< include economic-geography/fundamentals-of-economic-geography.md >}}
+{{< include economic-geography/15-fundamentals-of-economic-geography.md >}}
 
-{{< include economic-geography/globalization-economic-space.md >}}
+{{< include economic-geography/16-globalization-economic-space.md >}}
 
-{{< include economic-geography/location-of-economic-activities.md >}}
+{{< include economic-geography/01-location-of-economic-activities.md >}}
 
-{{< include economic-geography/location-theories.md >}}
+{{< include economic-geography/17-location-theories.md >}}
 
-{{< include economic-geography/measurement-and-problems.md >}}
+{{< include economic-geography/18-measurement-and-problems.md >}}
 
-{{< include economic-geography/natural-resources-renewable-and-non-renewable.md >}}
+{{< include economic-geography/08-natural-resources-renewable-and-non-renewable.md >}}
 
-{{< include economic-geography/patterns-of-world-trade.md >}}
+{{< include economic-geography/19-patterns-of-world-trade.md >}}
 
-{{< include economic-geography/primary-activities.md >}}
+{{< include economic-geography/05-primary-activities.md >}}
 
-{{< include economic-geography/secondary-activities.md >}}
+{{< include economic-geography/06-secondary-activities.md >}}
 
-{{< include economic-geography/sectors-of-the-economy.md >}}
+{{< include economic-geography/04-sectors-of-the-economy.md >}}
 
-{{< include economic-geography/spatial-organization-of-economies.md >}}
+{{< include economic-geography/02-spatial-organization-of-economies.md >}}
 
-{{< include economic-geography/tertiary-quaternary-activities.md >}}
+{{< include economic-geography/07-tertiary-quaternary-activities.md >}}
 
-{{< include economic-geography/the-limits-to-growth.md >}}
+{{< include economic-geography/20-the-limits-to-growth.md >}}
 
-{{< include economic-geography/world-agriculture-typology-of-agricultural-regions.md >}}
+{{< include economic-geography/21-world-agriculture-typology-of-agricultural-regions.md >}}
 
-{{< include economic-geography/world-industries-location-patterns-and-problems.md >}}
+{{< include economic-geography/22-world-industries-location-patterns-and-problems.md >}}
 
-{{< include economic-geography/world-resources-and-their-distribution.md >}}
+{{< include economic-geography/23-world-resources-and-their-distribution.md >}}

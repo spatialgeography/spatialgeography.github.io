@@ -25,62 +25,62 @@ Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This
 
 ---
 
-{{< include settlement-geography/august-loschs-market-centre-theory.md >}}
+{{< include settlement-geography/10-august-loschs-market-centre-theory.md >}}
 
-{{< include settlement-geography/causes-and-consequences-of-migration.md >}}
+{{< include settlement-geography/11-causes-and-consequences-of-migration.md >}}
 
-{{< include settlement-geography/christallers-central-place-theory.md >}}
+{{< include settlement-geography/12-christallers-central-place-theory.md >}}
 
-{{< include settlement-geography/city-region-concepts.md >}}
+{{< include settlement-geography/06-city-region-concepts.md >}}
 
-{{< include settlement-geography/concepts-of-over-under-and-optimum-population.md >}}
+{{< include settlement-geography/13-concepts-of-over-under-and-optimum-population.md >}}
 
-{{< include settlement-geography/course-content.md >}}
+{{< include settlement-geography/14-course-content.md >}}
 
-{{< include settlement-geography/demographic-attributes.md >}}
+{{< include settlement-geography/15-demographic-attributes.md >}}
 
-{{< include settlement-geography/ecological-processes-of-urban-growth.md >}}
+{{< include settlement-geography/04-ecological-processes-of-urban-growth.md >}}
 
-{{< include settlement-geography/functional-classification-of-towns.md >}}
+{{< include settlement-geography/16-functional-classification-of-towns.md >}}
 
-{{< include settlement-geography/growth-and-distribution-of-world-population.md >}}
+{{< include settlement-geography/17-growth-and-distribution-of-world-population.md >}}
 
-{{< include settlement-geography/population-as-social-capital.md >}}
+{{< include settlement-geography/18-population-as-social-capital.md >}}
 
-{{< include settlement-geography/population-theories.md >}}
+{{< include settlement-geography/19-population-theories.md >}}
 
-{{< include settlement-geography/problems-and-remedies-of-urbanization.md >}}
+{{< include settlement-geography/20-problems-and-remedies-of-urbanization.md >}}
 
-{{< include settlement-geography/rural-settlements.md >}}
+{{< include settlement-geography/21-rural-settlements.md >}}
 
-{{< include settlement-geography/rural-urban-fringe.md >}}
+{{< include settlement-geography/05-rural-urban-fringe.md >}}
 
-{{< include settlement-geography/satellite-towns.md >}}
+{{< include settlement-geography/22-satellite-towns.md >}}
 
-{{< include settlement-geography/settlement-hierarchy.md >}}
+{{< include settlement-geography/09-settlement-hierarchy.md >}}
 
-{{< include settlement-geography/settlement-systems.md >}}
+{{< include settlement-geography/07-settlement-systems.md >}}
 
-{{< include settlement-geography/settlement-types-classification.md >}}
+{{< include settlement-geography/23-settlement-types-classification.md >}}
 
-{{< include settlement-geography/site-and-situation-of-settlements.md >}}
+{{< include settlement-geography/01-site-and-situation-of-settlements.md >}}
 
-{{< include settlement-geography/smart-cities-future-urbanism.md >}}
+{{< include settlement-geography/24-smart-cities-future-urbanism.md >}}
 
-{{< include settlement-geography/social-well-being-and-quality-of-life.md >}}
+{{< include settlement-geography/25-social-well-being-and-quality-of-life.md >}}
 
-{{< include settlement-geography/sphere-of-urban-influence.md >}}
+{{< include settlement-geography/26-sphere-of-urban-influence.md >}}
 
-{{< include settlement-geography/sustainable-development-of-cities.md >}}
+{{< include settlement-geography/27-sustainable-development-of-cities.md >}}
 
-{{< include settlement-geography/types-size-and-spacing-of-settlements.md >}}
+{{< include settlement-geography/02-types-size-and-spacing-of-settlements.md >}}
 
-{{< include settlement-geography/urban-morphology-concept-of-primate-city-and-rank-size-rule.md >}}
+{{< include settlement-geography/08-urban-morphology-concept-of-primate-city-and-rank-size-rule.md >}}
 
-{{< include settlement-geography/urban-morphology-models.md >}}
+{{< include settlement-geography/28-urban-morphology-models.md >}}
 
-{{< include settlement-geography/urban-settlements.md >}}
+{{< include settlement-geography/03-urban-settlements.md >}}
 
-{{< include settlement-geography/urbanization-processes.md >}}
+{{< include settlement-geography/29-urbanization-processes.md >}}
 
-{{< include settlement-geography/world-population-problems-and-policies.md >}}
+{{< include settlement-geography/30-world-population-problems-and-policies.md >}}

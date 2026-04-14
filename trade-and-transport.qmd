@@ -24,38 +24,38 @@ Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This 
 
 ---
 
-{{< include trade-and-transport/accessibility-and-connectivity.md >}}
+{{< include trade-and-transport/02-accessibility-and-connectivity.md >}}
 
-{{< include trade-and-transport/comparative-cost-advantages.md >}}
+{{< include trade-and-transport/04-comparative-cost-advantages.md >}}
 
-{{< include trade-and-transport/course-content.md >}}
+{{< include trade-and-transport/05-course-content.md >}}
 
-{{< include trade-and-transport/developments-in-communication-and-information-technology-and-their-impacts-on-economy-and-society.md >}}
+{{< include trade-and-transport/06-developments-in-communication-and-information-technology-and-their-impacts-on-economy-and-society.md >}}
 
-{{< include trade-and-transport/export-processing-zones.md >}}
+{{< include trade-and-transport/07-export-processing-zones.md >}}
 
-{{< include trade-and-transport/global-trade-patterns.md >}}
+{{< include trade-and-transport/08-global-trade-patterns.md >}}
 
-{{< include trade-and-transport/growing-importance-of-ports-on-national-and-foreign-trade.md >}}
+{{< include trade-and-transport/09-growing-importance-of-ports-on-national-and-foreign-trade.md >}}
 
-{{< include trade-and-transport/india-s-transport-system.md >}}
+{{< include trade-and-transport/10-india-s-transport-system.md >}}
 
-{{< include trade-and-transport/indian-space-programme.md >}}
+{{< include trade-and-transport/11-indian-space-programme.md >}}
 
-{{< include trade-and-transport/inter-regional-and-intra-regional-trade.md >}}
+{{< include trade-and-transport/03-inter-regional-and-intra-regional-trade.md >}}
 
-{{< include trade-and-transport/international-trade.md >}}
+{{< include trade-and-transport/12-international-trade.md >}}
 
-{{< include trade-and-transport/models-of-transportation-and-transport-cost.md >}}
+{{< include trade-and-transport/01-models-of-transportation-and-transport-cost.md >}}
 
-{{< include trade-and-transport/modes-of-transport.md >}}
+{{< include trade-and-transport/13-modes-of-transport.md >}}
 
-{{< include trade-and-transport/road-railway-waterway-airway-and-pipeline-networks-and-their-complementary-roles-in-regional-development.md >}}
+{{< include trade-and-transport/14-road-railway-waterway-airway-and-pipeline-networks-and-their-complementary-roles-in-regional-development.md >}}
 
-{{< include trade-and-transport/trade-balance.md >}}
+{{< include trade-and-transport/15-trade-balance.md >}}
 
-{{< include trade-and-transport/trade-policy.md >}}
+{{< include trade-and-transport/16-trade-policy.md >}}
 
-{{< include trade-and-transport/transport-geography-fundamentals.md >}}
+{{< include trade-and-transport/17-transport-geography-fundamentals.md >}}
 
-{{< include trade-and-transport/transport-networks-models.md >}}
+{{< include trade-and-transport/18-transport-networks-models.md >}}

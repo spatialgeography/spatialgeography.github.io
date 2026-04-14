@@ -24,38 +24,38 @@ Welcome to the **Oceanography** module of Geography OpenCourseWare. This course 
 
 ---
 
-{{< include oceanography/bottom-relief-of-indian-atlantic-and-pacific-oceans.md >}}
+{{< include oceanography/02-bottom-relief-of-indian-atlantic-and-pacific-oceans.md >}}
 
-{{< include oceanography/bottom-topography-of-the-atlantic-indian-and-pacific-oceans.md >}}
+{{< include oceanography/09-bottom-topography-of-the-atlantic-indian-and-pacific-oceans.md >}}
 
-{{< include oceanography/coral-reefs-coral-bleaching.md >}}
+{{< include oceanography/04-coral-reefs-coral-bleaching.md >}}
 
-{{< include oceanography/course-content.md >}}
+{{< include oceanography/10-course-content.md >}}
 
-{{< include oceanography/density-of-seawater.md >}}
+{{< include oceanography/06-density-of-seawater.md >}}
 
-{{< include oceanography/heat-and-salt-budgets.md >}}
+{{< include oceanography/11-heat-and-salt-budgets.md >}}
 
-{{< include oceanography/law-of-the-sea-and-marine-pollution.md >}}
+{{< include oceanography/12-law-of-the-sea-and-marine-pollution.md >}}
 
-{{< include oceanography/marine-resources.md >}}
+{{< include oceanography/13-marine-resources.md >}}
 
-{{< include oceanography/ocean-climate-interaction.md >}}
+{{< include oceanography/14-ocean-climate-interaction.md >}}
 
-{{< include oceanography/ocean-currents.md >}}
+{{< include oceanography/07-ocean-currents.md >}}
 
-{{< include oceanography/ocean-deposits.md >}}
+{{< include oceanography/03-ocean-deposits.md >}}
 
-{{< include oceanography/ocean-floor-topography.md >}}
+{{< include oceanography/15-ocean-floor-topography.md >}}
 
-{{< include oceanography/origin-of-ocean-basins.md >}}
+{{< include oceanography/01-origin-of-ocean-basins.md >}}
 
-{{< include oceanography/sea-level-changes.md >}}
+{{< include oceanography/08-sea-level-changes.md >}}
 
-{{< include oceanography/temperature-and-salinity-of-the-oceans.md >}}
+{{< include oceanography/05-temperature-and-salinity-of-the-oceans.md >}}
 
-{{< include oceanography/temperature-salinity.md >}}
+{{< include oceanography/16-temperature-salinity.md >}}
 
-{{< include oceanography/waves-currents-and-tides.md >}}
+{{< include oceanography/17-waves-currents-and-tides.md >}}
 
-{{< include oceanography/waves-tides.md >}}
+{{< include oceanography/18-waves-tides.md >}}
