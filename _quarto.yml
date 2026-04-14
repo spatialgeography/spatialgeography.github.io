@@ -1,5 +1,6 @@
 project:
   type: website
+  pre-render: python update_date.py
   output-dir: _site
   resources:
     - "img/"
@@ -17,7 +18,7 @@ website:
       This content is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
     center: |
       &copy; 2026 Geography OpenCourseWare<br>
-      Last Updated: April 12, 2026
+      Last Updated: April 14, 2026
 
     right: |
       [<i class="bi bi-youtube"></i> YouTube](https://www.youtube.com/@SpatialGeography)
