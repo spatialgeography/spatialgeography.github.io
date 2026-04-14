@@ -1,0 +1,14 @@
+---
+title: "Climatology and Oceanography"
+toc: true
+toc-depth: 3
+---
+
+{{< include climatology-and-oceanography/01-weather-system.md >}}
+
+{{< include climatology-and-oceanography/02-atmospheric-circulation.md >}}
+
+{{< include climatology-and-oceanography/03-ocean-bottom-salinity.md >}}
+
+{{< include climatology-and-oceanography/04-practical.md >}}
+

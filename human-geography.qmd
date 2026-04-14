@@ -1,0 +1,14 @@
+---
+title: "Human Geography"
+toc: true
+toc-depth: 3
+---
+
+{{< include human-geography/01-nature-scope.md >}}
+
+{{< include human-geography/02-population-culture.md >}}
+
+{{< include human-geography/03-settlements-inequalities.md >}}
+
+{{< include human-geography/04-practical.md >}}
+

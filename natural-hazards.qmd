@@ -1,0 +1,14 @@
+---
+title: "Natural Hazards and Disaster Management"
+toc: true
+toc-depth: 3
+---
+
+{{< include natural-hazards/01-concept-classification.md >}}
+
+{{< include natural-hazards/02-major-hazards.md >}}
+
+{{< include natural-hazards/03-disaster-management.md >}}
+
+{{< include natural-hazards/04-practical.md >}}
+

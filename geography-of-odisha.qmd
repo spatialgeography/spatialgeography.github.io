@@ -1,0 +1,14 @@
+---
+title: "Geography of Odisha"
+toc: true
+toc-depth: 3
+---
+
+{{< include geography-of-odisha/01-physiography-climate.md >}}
+
+{{< include geography-of-odisha/02-population-demography.md >}}
+
+{{< include geography-of-odisha/03-history-culture.md >}}
+
+{{< include geography-of-odisha/04-economy-disaster.md >}}
+

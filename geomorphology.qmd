@@ -58,8 +58,15 @@ Welcome to the **Geomorphology** module of Geography OpenCourseWare. This course
 
 ---
 
-## Applied Geomorphology
+## Applied Geomorphology & Modern Techniques
 {{< include geomorphology/11-applied-geomorphology.md >}}
+{{< include geomorphology/29-environmental-geomorphology.md >}}
+{{< include geomorphology/30-modern-techniques-in-geomorphology.md >}}
+
+---
+
+## Interview Questions & Answers
+{{< include geomorphology/28-geomorphology-interview-qa.md >}}
 
 <!-- Cleanup hidden includes -->
 {{< include geomorphology/08-landforms-associated-with.md >}}

@@ -1,0 +1,14 @@
+---
+title: "Physical Geography"
+toc: true
+toc-depth: 3
+---
+
+{{< include physical-geography/01-fundamentals.md >}}
+
+{{< include physical-geography/02-weather-climate.md >}}
+
+{{< include physical-geography/03-hydrology-oceanography.md >}}
+
+{{< include physical-geography/04-practical.md >}}
+

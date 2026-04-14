@@ -1,0 +1,14 @@
+---
+title: "Field Survey: Tools and Technique"
+toc: true
+toc-depth: 3
+---
+
+{{< include field-survey/01-designing-survey.md >}}
+
+{{< include field-survey/02-tools-techniques.md >}}
+
+{{< include field-survey/03-data-analysis.md >}}
+
+{{< include field-survey/04-report-writing.md >}}
+

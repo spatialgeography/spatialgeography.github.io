@@ -1,0 +1,14 @@
+---
+title: "Geospatial Modelling, Artificial Intelligence and Machine Learning"
+toc: true
+toc-depth: 3
+---
+
+{{< include geospatial-ai/01-spatial-modelling.md >}}
+
+{{< include geospatial-ai/02-artificial-intelligence.md >}}
+
+{{< include geospatial-ai/03-machine-learning-in-gis.md >}}
+
+{{< include geospatial-ai/04-practical.md >}}
+

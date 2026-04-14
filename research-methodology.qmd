@@ -1,0 +1,14 @@
+---
+title: "Research Methodology"
+toc: true
+toc-depth: 3
+---
+
+{{< include research-methodology/01-meaning-design.md >}}
+
+{{< include research-methodology/02-materials-methods.md >}}
+
+{{< include research-methodology/03-fieldwork.md >}}
+
+{{< include research-methodology/04-practical.md >}}
+

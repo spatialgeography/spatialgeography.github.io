@@ -2,45 +2,62 @@
 title: "Geography"
 ---
 
-Welcome to **Geography OpenCourseWare** — a curated, open-access platform designed to help you master the full breadth of geographical knowledge. From physical landscapes and climatic systems to human settlement patterns and economic forces, each module below provides structured, high-quality educational content for students, educators, and researchers.
+Welcome to **Geography OpenCourseWare** — a curated, open-access platform designed to help you master the full breadth of geographical knowledge, now aligned with the **NEP-2020 Undergraduate Curriculum**.
 
 ---
 
-### Physical Geography
+### Semester I
+* [Physical Geography](physical-geography.html)
+* [Human Geography](human-geography.html)
 
-* [Geomorphology](geomorphology.html)
-* [Climatology](climatology.html)
-* [Oceanography](oceanography.html)
-* [Environmental](environmental.html)
-
-### Human Geography
-
+### Semester II
 * [Population Geography](population-geography.html)
-* [Settlement Geography](settlement-geography.html)
-* [Social & Cultural](social-and-cultural.html)
-* [Political Geography](political-geography.html)
+* [Cartography and Geo-Spatial Techniques](cartography.html)
 
-### Economic Geography
-
+### Semester III
+* [Environmental Geography and Biogeography](environmental.html)
+* [Quantitative Techniques in Geography](statistical-geography.html)
 * [Economic Geography](economic-geography.html)
+
+### Semester IV
+* [Remote Sensing and GIS](gis-remote-sensing.html)
+* [Geomorphology](geomorphology.html)
+* [Evolution of Geographical Thought](geographical-thought.html)
+
+### Semester V
+* [Regional Planning and Development](regional-development.html)
+* [Geography of Odisha](geography-of-odisha.html)
+* [Climatology and Oceanography](climatology-and-oceanography.html)
+
+### Semester VI
+* [Geography of India](geography-of-india.html)
+* [Urban Geography](urban-geography.html)
+
+### Semester VII (With Research)
+* [Research Methodology](research-methodology.html)
+* [Natural Hazards and Disaster Management](natural-hazards.html)
+* [Natural Resource Management and Geo informatics](natural-resource-management.html)
+* [Human Development and Sustainable Development](human-development.html)
+
+### Semester VIII (With Research)
+* [Geospatial Modelling, AI and Machine Learning](geospatial-ai.html)
+* [Field Survey: Tools and Technique](field-survey.html)
+* [Political Geography and Globalisation](political-geography.html)
+* [Social and Cultural Geography](social-and-cultural.html)
+
+---
+
+### Electives & Additional Modules (Existing Notes)
+* [Climatology (Detailed Course)](climatology.html)
+* [Oceanography (Detailed Course)](oceanography.html)
+* [Settlement Geography](settlement-geography.html)
 * [Agricultural Geography](agricultural-geography.html)
 * [Industrial Geography](industrial-geography.html)
 * [Trade and Transport](trade-and-transport.html)
-* [Regional Development](regional-development.html)
-
-### Geographical Techniques & Thought
-
-* [Geographical Thought](geographical-thought.html)
-* [GIS & Remote Sensing](gis-remote-sensing.html)
-* [Statistical Geography](statistical-geography.html)
-
-### Indian Geography
-
-* [Indian Physical](indian-physical.html)
-* [Indian SocioEco](indian-socioeco.html)
+* [Indian Physical Geography](indian-physical.html)
+* [Indian Socio-Economic Geography](indian-socioeco.html)
 
 ### Supplementary Resources
-
 * [UGC NET Previous Year Questions](ugc-net-pyq.html)
 * [Reading Materials & Methodology](reading-materials.html)
 * [Geography in News](geography-in-news.html)

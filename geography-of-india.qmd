@@ -1,0 +1,14 @@
+---
+title: "Geography of India"
+toc: true
+toc-depth: 3
+---
+
+{{< include geography-of-india/01-physiography-climate.md >}}
+
+{{< include geography-of-india/02-agriculture-energy.md >}}
+
+{{< include geography-of-india/03-industries-transport.md >}}
+
+{{< include geography-of-india/04-regional-planning-politics.md >}}
+

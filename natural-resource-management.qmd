@@ -1,0 +1,14 @@
+---
+title: "Natural Resource Management and Geo informatics"
+toc: true
+toc-depth: 3
+---
+
+{{< include natural-resource-management/01-resources-types.md >}}
+
+{{< include natural-resource-management/02-conservation-policies.md >}}
+
+{{< include natural-resource-management/03-geoinformatics-application.md >}}
+
+{{< include natural-resource-management/04-practical.md >}}
+
