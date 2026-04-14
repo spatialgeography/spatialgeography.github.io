@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1838bd19ecf9f68f",
+        "id": "05d9b080b0907539",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1bd04ee4e1b25a",
+            "id": "e27954e6f52119cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,12 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f1bd04ee4e1b25a",
+  "active": "8bacf287e87606e0",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260412233851.png",
+    "Attachments",
     "_site/search.json",
-    "_site/agricultural-geography/Attachments/Pasted image 20260412233851.png",
-    "_site/agricultural-geography/Attachments",
-    "_site/agricultural-geography",
     "_site/styles.css",
     "_site/site_libs/quarto-html/tabsets/tabsets.js",
     "_site/site_libs/quarto-html/axe/axe-check.js",
@@ -197,10 +196,20 @@
     "_site/site_libs/quarto-search/autocomplete.umd.js",
     "_site/site_libs/quarto-nav/quarto-nav.js",
     "_site/site_libs/quarto-nav/headroom.min.js",
+    "agricultural-geography/Pasted image 20260412233851.png",
+    "_site/Attachments/Pasted.md",
     "agricultural-geography/agricultural-systems-of-the-world.md",
-    "agricultural-geography/Attachments/Pasted image 20260412233851.png",
+    "site.md",
     "agricultural-geography/agricultural-revolutions.md",
     "agricultural-geography/agricultural-regionalisation.md",
+    "_site/Attachments/Pasted image 20260412233851.png",
+    "agricultural-geography/land-use-land-tenure.md",
+    "agricultural-geography/crop-combinations-and-diversification.md",
+    "agricultural-geography/agro-ecological-regions.md",
+    "agricultural-geography/agro-and-social-forestry.md",
+    "agricultural-geography/infrastructure-irrigation-seeds-fertilizers-power.md",
+    "agricultural-geography/agro-climatic-zones.md",
+    "agricultural-geography/Attachments/Pasted image 20260412233851.png",
     "environmental/ecosystem-their-management-and-conservation.md",
     "regional-development/theories-of-regional-development.md",
     "regional-development/regional-planning-approaches.md",
@@ -214,14 +223,6 @@
     "indian-socioeco/agro-climatic-zones.md",
     "environmental/ecology-ecosystems.md",
     "environmental/conservation-and-management-of-ecosystems.md",
-    "environmental/classification-and-distribution-of-soils.md",
-    "environmental/biodiversity-and-sustainable-development.md",
-    "environmental/biodiversity-and-its-depletion-natural-and-human-induced-causes.md",
-    "climatology/insolation-heat-budget.md",
-    "indian-socioeco/globalisation-and-indian-economy.md",
-    "indian-socioeco/linkage-of-rivers.md",
-    "indian-socioeco/environmental-awareness.md",
-    "indian-socioeco/concept-of-sustainable-growth-and-development.md",
-    "indian-socioeco/regional-disparities-in-economic-development.md"
+    "environmental/classification-and-distribution-of-soils.md"
   ]
 }
