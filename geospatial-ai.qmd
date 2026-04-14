@@ -1,8 +1,20 @@
 ---
 title: "Geospatial Modelling, Artificial Intelligence and Machine Learning"
+subtitle: "The cutting edge of geographic analysis: from spatial simulation to cloud-based AI."
+author: "Geography Team"
 toc: true
 toc-depth: 3
 ---
+
+{{< include geospatial-ai/00-syllabus.md >}}
+
+---
+
+Welcome to the **Geospatial Modelling, AI and Machine Learning** module. This advanced course explores how modern computing and data science are transforming the way we analyze and predict spatial phenomena.
+
+---
+
+## Part A: Core Concepts in GeoAI
 
 {{< include geospatial-ai/01-spatial-modelling.md >}}
 
@@ -10,5 +22,10 @@ toc-depth: 3
 
 {{< include geospatial-ai/03-machine-learning-in-gis.md >}}
 
+---
+
+## Part B: Practical Implementations
+
 {{< include geospatial-ai/04-practical.md >}}
 
+---
