@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05d9b080b0907539",
+        "id": "6c61534e4d95c881",
         "type": "tabs",
         "children": [
           {
-            "id": "e27954e6f52119cd",
+            "id": "524f691a449c7fcf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -179,8 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e27954e6f52119cd",
+  "active": "524f691a449c7fcf",
   "lastOpenFiles": [
+    "img/Whittlesey.png",
+    "img",
     "trade-and-transport/18-transport-networks-models.md",
     "trade-and-transport/17-transport-geography-fundamentals.md",
     "trade-and-transport/16-trade-policy.md",
@@ -206,7 +208,6 @@
     "social-and-cultural/44-urban-developments.md",
     "social-and-cultural/43-types-patterns-and-morphology-of-rural-settlements.md",
     "social-and-cultural/42-town-planning.md",
-    "social-and-cultural/41-slums-and-associated-problems.md",
     "number_md_files_v2.py",
     "agricultural-geography_files/mediabag",
     "agricultural-geography_files",
@@ -216,7 +217,6 @@
     "geographical-thought.qmd",
     "environmental.qmd",
     "economic-geography.qmd",
-    "climatology.qmd",
     "_site/Attachments/Whittlesey.png",
     "_site/Attachments/Pasted image 20260412233851.png",
     "Attachments/Whittlesey.png",
