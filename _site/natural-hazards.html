@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Geography Team">
 
 <title>Natural Hazards and Disaster Management – Geography</title>
 <style>
@@ -69,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -103,13 +133,16 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a>
+  <li><a href="#official-syllabus" id="toc-official-syllabus" class="nav-link active" data-scroll-target="#official-syllabus">Official Syllabus</a>
   <ul class="collapse">
-  <li><a href="#concept-classification" id="toc-concept-classification" class="nav-link" data-scroll-target="#concept-classification">01 Concept Classification</a></li>
-  <li><a href="#major-hazards" id="toc-major-hazards" class="nav-link" data-scroll-target="#major-hazards">02 Major Hazards</a></li>
-  <li><a href="#disaster-management" id="toc-disaster-management" class="nav-link" data-scroll-target="#disaster-management">03 Disaster Management</a></li>
-  <li><a href="#practical" id="toc-practical" class="nav-link" data-scroll-target="#practical">04 Practical</a></li>
+  <li><a href="#nep-2020-syllabus" id="toc-nep-2020-syllabus" class="nav-link" data-scroll-target="#nep-2020-syllabus">NEP-2020 Syllabus</a></li>
+  <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a></li>
   </ul></li>
+  <li><a href="#part-a-common-topics-nep-2020-ugc-net" id="toc-part-a-common-topics-nep-2020-ugc-net" class="nav-link" data-scroll-target="#part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</a></li>
+  <li><a href="#concepts-of-hazards-vulnerability-and-risk" id="toc-concepts-of-hazards-vulnerability-and-risk" class="nav-link" data-scroll-target="#concepts-of-hazards-vulnerability-and-risk">Concepts of Hazards, Vulnerability, and Risk</a></li>
+  <li><a href="#climate-change-and-global-warming" id="toc-climate-change-and-global-warming" class="nav-link" data-scroll-target="#climate-change-and-global-warming">Climate Change and Global Warming</a></li>
+  <li><a href="#types-of-disasters-natural-and-man-made" id="toc-types-of-disasters-natural-and-man-made" class="nav-link" data-scroll-target="#types-of-disasters-natural-and-man-made">Types of Disasters: Natural and Man-Made</a></li>
+  <li><a href="#disaster-management-and-frameworks" id="toc-disaster-management-and-frameworks" class="nav-link" data-scroll-target="#disaster-management-and-frameworks">Disaster Management and Frameworks</a></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -119,12 +152,19 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Natural Hazards and Disaster Management</h1>
+<p class="subtitle lead">Understanding extreme events, vulnerability, and resilience strategies.</p>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Geography Team </p>
+          </div>
+  </div>
     
   
     
@@ -135,71 +175,299 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="official-syllabus-nep-2020" class="level2">
-<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<section id="official-syllabus" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus">Official Syllabus</h2>
+<section id="nep-2020-syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="nep-2020-syllabus">NEP-2020 Syllabus</h3>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Note
+<span class="screen-reader-only">Note</span>Core I Paper XVII — Natural Hazards and Disaster Management
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Core I Paper XVII Natural Hazards a nd Disaster Management<br>
-(4 Credit, Theory: 45hrs, Practical: 30hrs)</p>
-<p>Unit -I: Learning Outcome: To understand the nature and scope of Climate Change and Disaster Management.<br>
-Understanding Climate Change: Overview of climate change:Definition of climate change and climate variability, climate risks, Disasters, Hazards, Risk, Vulnerability - Definition, Concept and Classification. Global warming, Greenhouse effect, sea level rise , Climate change adaptation strategy.<br>
-Unit -II: Learning Outcome:<br>
-To learn the Climate Change and Disaster Adaptation and Mitigation strategy.<br>
-Physical, social and economic vulnerability, disaster management - Disaster Management Cycle, Community Based Disaster Management. Role of NDMA and SDMA in Disaster Mitigation Strategy.<br>
-Unit -III:<br>
-Learning Outcome:<br>
-To learn the extreme climatic events and their effects.<br>
-Types of Disasters: Natural and Man made, Floods, Droughts, Cyclones, thunderstorms, tornado, Earthquakes and landslides, lightning, Oil spills, Chemical and Biological attacks.<br>
-Unit -IV: Practical:<br>
-Learning Outcome:<br>
-To apply the tools and techniques for disaster awareness and mitigation.<br>
-Project report/Term paper<br>
-1. Disaster management: International - Yokohama Strategy for a Safer World 1994,<br>
-2. Hyogo framework for Action 2005 -2015; Sendai Framework for Disaster Risk Reduction 2015 -2030;<br>
-3. Indian Policy for disaster management: Disaster Management Act 2005,<br>
-4. 10 point Agenda of Prime minister on DRR.<br>
-5. Viva -Voce.<br>
-Suggestive readings:<br>
-Text Books : ✓ Ravindranath, N.H., &amp; Joshi, P.K. (2012). Climate change, disasters and vulnerabilities in India. Springer.<br>
-✓ Singh, S. (2021). Disaster Management. Pravalika Publication.<br>
-Reference Books : ✓ Asthana, N.C. and Asthana P. (2014). Disaster Management. Pointer Publishers<br>
-✓ Bryant, E. (2004). Natural Hazards. Cambridge University Press, India<br>
-✓ Barry, R.G, Chorley R.J. 2009. Atmosphere Weather and Climate., Routledge.<br>
-✓ Huq, S., Rajan, S.C., &amp; Pachauri, R.K. (2014). Climate change and disaster management in India. Springer.<br>
-✓ Kapur, A. (2010). Vulnerable India: A Geographical Study of Disasters. Sage Publications,<br>
-✓ Smith, Keith (2013). Environmental Hazards: Assessing risk and reducing disasters. Routledge, Taylor and Francis Group.<br>
-✓ Wisner, B., Blaikie P et al.&nbsp;(2004). At Risk: Natural Hazards, People’s Vulnerability and Disasters. Routledge, Taylor and Francis Group , NY,(https://www.preventionweb.net/files/670_72351.pdf)<br>
-✓ Singh R.B. (ed.) (2006). Natural Hazards and Disaster Management: Vulnerability and Mitigation . Rawat Publications, Jaipur.<br>
-✓ Singh, J. (2007). Disaster Management: Future Challenges and Opportunities.IK International Pvt. Ltd, New Delhi. Sinha, A. (2001). Disaster Management: Lessons drawn and Strategies for Future. New United Press, New Delhi.<br>
-✓ Modh, S. (2010). Managing Natural Disaster: Hydrological, Marine and Geological Disasters. Macmillan, Delhi.</p>
+<p><strong>(4 Credit, Theory: 45hrs, Practical: 30hrs)</strong></p>
+<p><strong>Unit I:</strong> - Understanding Climate Change: Definition, variability, risks - Disasters, Hazards, Risk, Vulnerability (Concept and Classification) - Global warming, Greenhouse effect, sea level rise, Adaptation strategy</p>
+<p><strong>Unit II:</strong> - Physical, social and economic vulnerability - Disaster Management Cycle, Community Based Disaster Management - Role of NDMA and SDMA in Mitigation Strategy</p>
+<p><strong>Unit III:</strong> - Types of Disasters (Natural and Man-made) - Floods, Droughts, Cyclones, Thunderstorms, Tornado, Earthquakes, Landslides, oil spills, chemical attacks</p>
 </div>
 </div>
-<section id="concept-classification" class="level3">
-<h3 class="anchored" data-anchor-id="concept-classification">01 Concept Classification</h3>
-<p>Content for 01 Concept Classification coming soon.</p>
+<hr>
 </section>
-<section id="major-hazards" class="level3">
-<h3 class="anchored" data-anchor-id="major-hazards">02 Major Hazards</h3>
-<p>Content for 02 Major Hazards coming soon.</p>
+<section id="ugc-net-syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="ugc-net-syllabus">UGC NET Syllabus</h3>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>UGC NET Overlaps
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Natural Disasters in India (Earthquake, Drought, Flood, Cyclone, Tsunami)</li>
+<li>Geopolitics of Climate Change</li>
+<li>Meteorological Hazards and Disasters</li>
+</ul>
+</div>
+</div>
+<hr>
+<p>Welcome to the <strong>Natural Hazards and Disaster Management</strong> module of Geography OpenCourseWare.</p>
+<hr>
 </section>
-<section id="disaster-management" class="level3">
-<h3 class="anchored" data-anchor-id="disaster-management">03 Disaster Management</h3>
-<p>Content for 03 Disaster Management coming soon.</p>
 </section>
-<section id="practical" class="level3">
-<h3 class="anchored" data-anchor-id="practical">04 Practical</h3>
-<p>Content for 04 Practical coming soon.</p>
+<section id="part-a-common-topics-nep-2020-ugc-net" class="level2">
+<h2 class="anchored" data-anchor-id="part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</h2>
+<p>These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.</p>
+</section>
+<section id="concepts-of-hazards-vulnerability-and-risk" class="level2">
+<h2 class="anchored" data-anchor-id="concepts-of-hazards-vulnerability-and-risk">Concepts of Hazards, Vulnerability, and Risk</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I &amp; II — Hazards, Risk, Vulnerability (Physical, social, economic)</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Natural Disasters Fundamentals</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Hazard</strong>: A dangerous phenomenon, substance, human activity, or condition that may cause loss of life, injury, property damage, or environmental degradation (The potential threat).</li>
+<li><strong>Vulnerability</strong>: The characteristics and circumstances of a community, system, or asset that make it susceptible to the damaging effects of a hazard. Types: Physical, Social, Economic, Environmental.</li>
+<li><strong>Risk</strong>: The probability of harmful consequences. Equation: <span class="math inline">\(\text{Risk} = \text{Hazard} \times \text{Vulnerability} / \text{Capacity}\)</span>.</li>
+<li><strong>Disaster</strong>: A serious disruption of the functioning of a community involving widespread losses which exceed the ability of the affected community to cope using its own resources. (A hazard becomes a disaster when it hits a vulnerable population).</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="climate-change-and-global-warming" class="level2">
+<h2 class="anchored" data-anchor-id="climate-change-and-global-warming">Climate Change and Global Warming</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Climate change, variability, Global warming, sea level rise</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Geopolitics of Climate Change</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Greenhouse Effect</strong>: Natural process warming the Earth’s surface. Enhanced greenhouse effect due to anthropogenic emissions (<span class="math inline">\(CO_2, CH_4\)</span>, CFCs, <span class="math inline">\(N_2O\)</span>).</li>
+<li><strong>Indicators of Climate Change</strong>: Rising global average temperatures, melting ice caps and glaciers, ocean acidification, increasing frequency of extreme weather events.</li>
+<li><strong>Sea Level Rise</strong>: Caused by thermal expansion and melting ice. Threatens low-lying coastal areas and island nations.</li>
+<li><strong>Adaptation vs.&nbsp;Mitigation</strong>:
+<ul>
+<li><em>Mitigation</em>: Reducing emissions (renewable energy, carbon sinks).</li>
+<li><em>Adaptation</em>: Adjusting to the effects of climate change (building sea walls, drought-resistant crops).</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="types-of-disasters-natural-and-man-made" class="level2">
+<h2 class="anchored" data-anchor-id="types-of-disasters-natural-and-man-made">Types of Disasters: Natural and Man-Made</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Floods, Droughts, Cyclones, Earthquakes, etc.</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Natural Disasters in India; Meteorological Hazards</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Geological Disasters</strong>: Earthquakes (seismic waves along fault lines), Landslides/Avalanches, Volcanoes, Tsunamis (seismically generated sea waves).</li>
+<li><strong>Hydrometeorological Disasters</strong>: Tropical Cyclones (intense low-pressure systems over warm oceans), Floods (riverine, flash, urban), Droughts (meteorological, hydrological, agricultural), Heat/Cold Waves.</li>
+<li><strong>Man-Made (Anthropogenic) Disasters</strong>:
+<ul>
+<li><em>Industrial/Chemical</em>: Bhopal Gas Tragedy (1984), oil spills (Exxon Valdez).</li>
+<li><em>Biological</em>: Epidemics, biological warfare.</li>
+<li><em>Nuclear</em>: Chernobyl, Fukushima.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="disaster-management-and-frameworks" class="level2">
+<h2 class="anchored" data-anchor-id="disaster-management-and-frameworks">Disaster Management and Frameworks</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit II — Disaster Management Cycle, NDMA, SDMA</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Disaster management applications</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Disaster Management Cycle</strong>:
+<ol type="1">
+<li><em>Pre-Disaster</em>: Prevention, Mitigation (structural and non-structural), Preparedness.</li>
+<li><em>During Disaster</em>: Early warning, Response (rescue/relief).</li>
+<li><em>Post-Disaster</em>: Recovery, Rehabilitation, Reconstruction (Build Back Better).</li>
+</ol></li>
+<li><strong>Institutional Framework in India</strong>: Disaster Management Act 2005 shifted approach from relief-centric to proactive mitigation.
+<ul>
+<li><em>NDMA</em> (National Disaster Management Authority) headed by PM.</li>
+<li><em>SDMA</em> (State level) headed by CM.</li>
+<li><em>DDMA</em> (District level) headed by District Magistrate.</li>
+</ul></li>
+<li><strong>Global Frameworks</strong>: Yokohama Strategy (1994), Hyogo Framework (2005), Sendai Framework for Disaster Risk Reduction (2015-2030).</li>
+</ul>
+</div>
+</div>
+<hr>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

@@ -1,17 +1,47 @@
 ---
 title: "Geography of India"
+subtitle: "Comprehensive study of India's physical environment, resources, economy, and society."
+author: "Geography Team"
 toc: true
 toc-depth: 3
 ---
 
 {{< include geography-of-india/00-syllabus.md >}}
 
+---
 
-{{< include geography-of-india/01-physiography-climate.md >}}
+Welcome to the **Geography of India** module of Geography OpenCourseWare.
 
-{{< include geography-of-india/02-agriculture-energy.md >}}
+---
 
-{{< include geography-of-india/03-industries-transport.md >}}
+## Part A: Common Topics (NEP-2020 & UGC NET)
 
-{{< include geography-of-india/04-regional-planning-politics.md >}}
+These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
 
+{{< include geography-of-india/01-physiography-of-india.md >}}
+
+{{< include geography-of-india/02-drainage-systems.md >}}
+
+{{< include geography-of-india/03-indian-climate-and-monsoon.md >}}
+
+{{< include geography-of-india/04-soils-and-vegetation.md >}}
+
+{{< include geography-of-india/05-indian-agriculture.md >}}
+
+{{< include geography-of-india/06-industries-and-development.md >}}
+
+{{< include geography-of-india/07-transport-trade-planning.md >}}
+
+---
+
+## Part C: UGC NET Specific Topics
+
+These topics are part of the UGC NET syllabus only.
+
+{{< include geography-of-india/08-natural-disasters.md >}}
+
+{{< include geography-of-india/09-population-dynamics.md >}}
+
+{{< include geography-of-india/10-globalisation-impact.md >}}
+
+---

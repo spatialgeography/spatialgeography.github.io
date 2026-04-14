@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -104,33 +133,23 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a></li>
-  <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a>
+  <li><a href="#official-syllabus" id="toc-official-syllabus" class="nav-link active" data-scroll-target="#official-syllabus">Official Syllabus</a>
   <ul class="collapse">
-  <li><a href="#data-sources-and-types" id="toc-data-sources-and-types" class="nav-link" data-scroll-target="#data-sources-and-types">Data sources and types</a></li>
-  <li><a href="#statistical-diagrams" id="toc-statistical-diagrams" class="nav-link" data-scroll-target="#statistical-diagrams">Statistical diagrams</a></li>
-  <li><a href="#frequency-distribution-and-cumulative-frequency" id="toc-frequency-distribution-and-cumulative-frequency" class="nav-link" data-scroll-target="#frequency-distribution-and-cumulative-frequency">Frequency distribution and cumulative frequency</a></li>
-  <li><a href="#measures-of-central-tendency" id="toc-measures-of-central-tendency" class="nav-link" data-scroll-target="#measures-of-central-tendency">Measures of central tendency</a></li>
-  <li><a href="#class-intervals-for-mapping" id="toc-class-intervals-for-mapping" class="nav-link" data-scroll-target="#class-intervals-for-mapping">Class intervals for mapping</a></li>
-  <li><a href="#measures-of-dispersion-and-concentration" id="toc-measures-of-dispersion-and-concentration" class="nav-link" data-scroll-target="#measures-of-dispersion-and-concentration">Measures of dispersion and concentration</a></li>
-  <li><a href="#standard-deviation" id="toc-standard-deviation" class="nav-link" data-scroll-target="#standard-deviation">Standard deviation</a></li>
-  <li><a href="#lorenz-curve" id="toc-lorenz-curve" class="nav-link" data-scroll-target="#lorenz-curve">Lorenz curve</a></li>
-  <li><a href="#measuring-association-among-attributes" id="toc-measuring-association-among-attributes" class="nav-link" data-scroll-target="#measuring-association-among-attributes">Measuring association among attributes</a></li>
-  <li><a href="#correlation-simple-and-multiple" id="toc-correlation-simple-and-multiple" class="nav-link" data-scroll-target="#correlation-simple-and-multiple">Correlation: simple and multiple</a></li>
-  <li><a href="#measurement-of-spatial-patterns-nearest-neighbour-analysis" id="toc-measurement-of-spatial-patterns-nearest-neighbour-analysis" class="nav-link" data-scroll-target="#measurement-of-spatial-patterns-nearest-neighbour-analysis">Measurement of spatial patterns: nearest-neighbour analysis</a></li>
-  <li><a href="#scaling-techniques-rank-score-weighted-score" id="toc-scaling-techniques-rank-score-weighted-score" class="nav-link" data-scroll-target="#scaling-techniques-rank-score-weighted-score">Scaling techniques: rank score, weighted score</a></li>
-  <li><a href="#sampling-techniques-for-geographical-analysis" id="toc-sampling-techniques-for-geographical-analysis" class="nav-link" data-scroll-target="#sampling-techniques-for-geographical-analysis">Sampling techniques for geographical analysis</a></li>
+  <li><a href="#nep-2020-syllabus" id="toc-nep-2020-syllabus" class="nav-link" data-scroll-target="#nep-2020-syllabus">NEP-2020 Syllabus</a></li>
+  <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a></li>
   </ul></li>
-  <li><a href="#cartographic-graphical-methods" id="toc-cartographic-graphical-methods" class="nav-link" data-scroll-target="#cartographic-graphical-methods">Cartographic &amp; Graphical Methods</a>
-  <ul class="collapse">
-  <li><a href="#books-and-further-readings" id="toc-books-and-further-readings" class="nav-link" data-scroll-target="#books-and-further-readings">Books and Further Readings</a></li>
-  </ul></li>
-  <li><a href="#correlation-regression" id="toc-correlation-regression" class="nav-link" data-scroll-target="#correlation-regression">Correlation &amp; Regression</a></li>
-  <li><a href="#course-content" id="toc-course-content" class="nav-link" data-scroll-target="#course-content">Course Content</a></li>
-  <li><a href="#descriptive-statistics" id="toc-descriptive-statistics" class="nav-link" data-scroll-target="#descriptive-statistics">Descriptive Statistics</a></li>
-  <li><a href="#inferential-statistics" id="toc-inferential-statistics" class="nav-link" data-scroll-target="#inferential-statistics">Inferential Statistics</a></li>
-  <li><a href="#probability-sampling" id="toc-probability-sampling" class="nav-link" data-scroll-target="#probability-sampling">Probability &amp; Sampling</a></li>
-  <li><a href="#spatial-statistics" id="toc-spatial-statistics" class="nav-link" data-scroll-target="#spatial-statistics">Spatial Statistics</a></li>
+  <li><a href="#part-a-common-topics-nep-2020-ugc-net" id="toc-part-a-common-topics-nep-2020-ugc-net" class="nav-link" data-scroll-target="#part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</a></li>
+  <li><a href="#geographic-data-sources-and-types" id="toc-geographic-data-sources-and-types" class="nav-link" data-scroll-target="#geographic-data-sources-and-types">Geographic Data Sources and Types</a></li>
+  <li><a href="#measures-of-central-tendency-and-dispersion" id="toc-measures-of-central-tendency-and-dispersion" class="nav-link" data-scroll-target="#measures-of-central-tendency-and-dispersion">Measures of Central Tendency and Dispersion</a></li>
+  <li><a href="#correlation-and-regression-analysis" id="toc-correlation-and-regression-analysis" class="nav-link" data-scroll-target="#correlation-and-regression-analysis">Correlation and Regression Analysis</a></li>
+  <li><a href="#map-projections-and-scales" id="toc-map-projections-and-scales" class="nav-link" data-scroll-target="#map-projections-and-scales">Map Projections and Scales</a></li>
+  <li><a href="#thematic-mapping-techniques" id="toc-thematic-mapping-techniques" class="nav-link" data-scroll-target="#thematic-mapping-techniques">Thematic Mapping Techniques</a></li>
+  <li><a href="#spatial-statistics-and-morphometry" id="toc-spatial-statistics-and-morphometry" class="nav-link" data-scroll-target="#spatial-statistics-and-morphometry">Spatial Statistics and Morphometry</a></li>
+  <li><a href="#part-b-nep-2020-specific-topics" id="toc-part-b-nep-2020-specific-topics" class="nav-link" data-scroll-target="#part-b-nep-2020-specific-topics">Part B: NEP-2020 Specific Topics</a></li>
+  <li><a href="#agricultural-delineation-methods" id="toc-agricultural-delineation-methods" class="nav-link" data-scroll-target="#agricultural-delineation-methods">Agricultural Delineation Methods</a></li>
+  <li><a href="#part-c-ugc-net-specific-topics" id="toc-part-c-ugc-net-specific-topics" class="nav-link" data-scroll-target="#part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</a></li>
+  <li><a href="#sampling-and-hypothesis-testing" id="toc-sampling-and-hypothesis-testing" class="nav-link" data-scroll-target="#sampling-and-hypothesis-testing">Sampling and Hypothesis Testing</a></li>
+  <li><a href="#advanced-multivariate-analysis" id="toc-advanced-multivariate-analysis" class="nav-link" data-scroll-target="#advanced-multivariate-analysis">Advanced Multivariate Analysis</a></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -163,177 +182,87 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="official-syllabus-nep-2020" class="level2">
-<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<section id="official-syllabus" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus">Official Syllabus</h2>
+<section id="nep-2020-syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="nep-2020-syllabus">NEP-2020 Syllabus</h3>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Note
+<span class="screen-reader-only">Note</span>Core I Paper IV — Cartography and Geo-Spatial Techniques
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Core I Paper VII Economic Geography<br>
-(4 Credit, Theory: 45hrs, Practical: 30hrs)</p>
-<p>Unit -I:<br>
-Learning Outcome:<br>
-Understand and differentiate different types of economic activities and their utilities. Analyse the factors responsible for the location and distribution of economic activities.</p>
-<p>Meaning and scope of economic geography; classification of economic activities; Factors affecting location of Economic Activity with special reference to agriculture, manufacturing and Services; Classification of world agricultural system of Whittlesey. Vo n Thunen theory of location of agricultural activity.<br>
-Unit –II<br>
-Learning Outcome:<br>
-Evaluate the significance and relevance of theories in relation to the location of different economic activities.<br>
-Secondary Activities: Manufacturing (Cotton Textile, Iron and Steel, Petrochemical), Major Industrial Regions of the world, Special Economic Zones and Technology Parks. Tertiary Activities: Transport (Land, Air, Water and Pipelines), Trade (National and International) ; Weber and Smith’s Industrial location Theory.<br>
-Unit -III: Learning Outcome:<br>
-Define and differentiate types of resources, their management and sustainable use.<br>
-Resource ‐ Concept and Classification, Functional Theory of Resources, Distribution, Utilization, Problems and Management of World’s Resources (Land, Water, Forest and Energy (Coal, petroleum and non -conventional), Mineral resources ( Iron, Bauxite). Resource Development Regions of India; Resource depletion, conservation and Sustainable use of resources.<br>
-Unit -IV: Practical<br>
-Learning Outcome:<br>
-Create different types of thematic maps, charts and diagrams.<br>
-1. Determination and representation of agricultural efficiency (Kendall and Bhatia method).<br>
-2. Method of delineation of crop combination regions by Weaver and Doi’s method.<br>
-3. Traffic flow diagram and Drawing of Isochrones, Isotims, Isodapanes.<br>
-4. Practical Record and viva –voce.</p>
+<p><em>(Note: Quantitative topics are distributed in practical sections of various NEP papers)</em></p>
+<p><strong>Cartography &amp; Data:</strong> - Scientific basis of Cartography, needs of map making, characteristics of maps - Geographical Coordinates, Graticules, Types of Scales (Plain, Diagonal) - Types of Map Projection, Transformation of area, Distance and Direction - Drawing of Choropleth and isopleth maps - Traffic flow diagram and Drawing of Isochrones, Isotims, Isodapanes - Slope Analysis (Wentworth’s method and Smith) - Determination of agricultural efficiency (Kendall and Bhatia method) - Delineation of crop combination regions (Weaver and Doi’s method) - Nearest Neighbour Analysis, Rank Size Rule</p>
 </div>
 </div>
-<p>Welcome to the <strong>Statistical Geography</strong> module of Geography OpenCourseWare. This course covers the quantitative and statistical techniques essential for rigorous geographic research — from basic descriptive statistics to advanced spatial modeling.</p>
 <hr>
 </section>
-<section id="ugc-net-syllabus" class="level2">
-<h2 class="anchored" data-anchor-id="ugc-net-syllabus">UGC NET Syllabus</h2>
-<ul>
-<li><strong>Sources of Geographic Information and Data (spatial and non-spatial).</strong></li>
-<li><strong>Types of Maps, Techniques of Map Making (Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps) Data Representation on Maps (Pie diagrams, Bar diagrams and Line Graph).</strong></li>
-<li><strong>Applications of Measures of Central Tendency, Dispersion and Inequalities, Sampling, Sampling Procedure and Hypothesis Testing (chi square test, t test, ANOVA).</strong></li>
-<li><strong>Time Series Analysis, Correlation and Regression Analysis.</strong></li>
-<li><strong>Measurement of Indices, Making Indicators Scale Free, Computation of Composite Index, Principal Component Analysis and Cluster Analysis.</strong></li>
-<li><strong>Morphometric Analysis: Ordering of Streams, Bifurcation Ratio, Drainage Density and Drainage Frequency, Basin Circularity Ratio and Form Factor, Profiles, Slope Analysis, Clinographic Curve, Hypsographic Curve and Altimetric Frequency Graph.</strong></li>
-</ul>
-<hr>
-<section id="data-sources-and-types" class="level3">
-<h3 class="anchored" data-anchor-id="data-sources-and-types">Data sources and types</h3>
-<p>Content for Data sources and types coming soon.</p>
-</section>
-<section id="statistical-diagrams" class="level3">
-<h3 class="anchored" data-anchor-id="statistical-diagrams">Statistical diagrams</h3>
-<p>Content for Statistical diagrams coming soon.</p>
-</section>
-<section id="frequency-distribution-and-cumulative-frequency" class="level3">
-<h3 class="anchored" data-anchor-id="frequency-distribution-and-cumulative-frequency">Frequency distribution and cumulative frequency</h3>
-<p>Content for Frequency distribution and cumulative frequency coming soon.</p>
-</section>
-<section id="measures-of-central-tendency" class="level3">
-<h3 class="anchored" data-anchor-id="measures-of-central-tendency">Measures of central tendency</h3>
-<p>Content for Measures of central tendency coming soon.</p>
-</section>
-<section id="class-intervals-for-mapping" class="level3">
-<h3 class="anchored" data-anchor-id="class-intervals-for-mapping">Class intervals for mapping</h3>
-<p>Content for Class intervals for mapping coming soon.</p>
-</section>
-<section id="measures-of-dispersion-and-concentration" class="level3">
-<h3 class="anchored" data-anchor-id="measures-of-dispersion-and-concentration">Measures of dispersion and concentration</h3>
-<p>Content for Measures of dispersion and concentration coming soon.</p>
-</section>
-<section id="standard-deviation" class="level3">
-<h3 class="anchored" data-anchor-id="standard-deviation">Standard deviation</h3>
-<p>Content for Standard deviation coming soon.</p>
-</section>
-<section id="lorenz-curve" class="level3">
-<h3 class="anchored" data-anchor-id="lorenz-curve">Lorenz curve</h3>
-<p>Content for Lorenz curve coming soon.</p>
-</section>
-<section id="measuring-association-among-attributes" class="level3">
-<h3 class="anchored" data-anchor-id="measuring-association-among-attributes">Measuring association among attributes</h3>
-<p>Content for Measuring association among attributes coming soon.</p>
-</section>
-<section id="correlation-simple-and-multiple" class="level3">
-<h3 class="anchored" data-anchor-id="correlation-simple-and-multiple">Correlation: simple and multiple</h3>
-<p>Content for Correlation: simple and multiple coming soon.</p>
-</section>
-<section id="measurement-of-spatial-patterns-nearest-neighbour-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="measurement-of-spatial-patterns-nearest-neighbour-analysis">Measurement of spatial patterns: nearest-neighbour analysis</h3>
-<p>Content for Measurement of spatial patterns: nearest-neighbour analysis coming soon.</p>
-</section>
-<section id="scaling-techniques-rank-score-weighted-score" class="level3">
-<h3 class="anchored" data-anchor-id="scaling-techniques-rank-score-weighted-score">Scaling techniques: rank score, weighted score</h3>
-<p>Content for Scaling techniques: rank score, weighted score coming soon.</p>
-</section>
-<section id="sampling-techniques-for-geographical-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="sampling-techniques-for-geographical-analysis">Sampling techniques for geographical analysis</h3>
-<p>Content for Sampling techniques for geographical analysis coming soon.</p>
-</section>
-</section>
-<section id="cartographic-graphical-methods" class="level2">
-<h2 class="anchored" data-anchor-id="cartographic-graphical-methods">Cartographic &amp; Graphical Methods</h2>
-<p>Visualizing geographic data effectively.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<section id="ugc-net-syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="ugc-net-syllabus">UGC NET Syllabus</h3>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Data Presentation
+<span class="screen-reader-only">Tip</span>Unit IX/X — Statistical Methods and Cartography
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li><strong>Choropleth Maps</strong>: Representing area-based statistical data with color gradients.</li>
-<li><strong>Isopleth Maps</strong>: Continuous surfaces using isolines (isotherms, isohyets).</li>
-<li><strong>Proportional Symbol Maps</strong>: Circle size proportional to variable magnitude.</li>
-<li><strong>Histograms, Box Plots &amp; Scatter Plots</strong>: Standard statistical graphics adapted for geographic data.</li>
-<li><strong>Triangular Diagrams</strong>: Three-variable compositional data representation.</li>
-</ul>
+<p><strong>I. Statistical Methods</strong> - Sources of Geographic Information and Data (spatial and non-spatial) - Applications of Measures of Central Tendency, Dispersion and Inequalities - Sampling, Sampling Procedure and Hypothesis Testing (chi square, t-test, ANOVA) - Time Series Analysis, Correlation and Regression Analysis - Measurement of Indices, Making Indicators Scale Free, Computation of Composite Index - Principal Component Analysis and Cluster Analysis - Morphometric Analysis: Stream ordering, Bifurcation ratio, Drainage density, Slope Analysis</p>
+<p><strong>II. Cartography</strong> - Types of Maps, Techniques of Map Making - Data Representation on Maps (Pie diagrams, Bar diagrams, Line Graph) - Thematic maps: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps</p>
 </div>
 </div>
 <hr>
-<section id="books-and-further-readings" class="level3">
-<h3 class="anchored" data-anchor-id="books-and-further-readings">Books and Further Readings</h3>
-<p>Statistical methods are the quantitative backbone of geographic analysis. Complement this knowledge with <a href="gis-remote-sensing.html">GIS &amp; Remote Sensing</a> for technology-driven spatial analysis.</p>
+<p>Welcome to the <strong>Statistical Geography</strong> module of Geography OpenCourseWare.</p>
+<hr>
 </section>
 </section>
-<section id="correlation-regression" class="level2">
-<h2 class="anchored" data-anchor-id="correlation-regression">Correlation &amp; Regression</h2>
-<p>Analyzing relationships between geographic variables.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-tip callout-titled">
+<section id="part-a-common-topics-nep-2020-ugc-net" class="level2">
+<h2 class="anchored" data-anchor-id="part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</h2>
+<p>These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.</p>
+</section>
+<section id="geographic-data-sources-and-types" class="level2">
+<h2 class="anchored" data-anchor-id="geographic-data-sources-and-types">Geographic Data Sources and Types</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Bivariate &amp; Multivariate Analysis
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li><strong>Pearson’s r &amp; Spearman’s rho</strong>: Measuring linear and monotonic relationships.</li>
-<li><strong>Simple Linear Regression</strong>: Predicting one variable from another.</li>
-<li><strong>Multiple Regression</strong>: Incorporating several predictor variables.</li>
-<li><strong>Logistic Regression</strong>: Binary outcome prediction (e.g., land cover presence/absence).</li>
-<li><strong>Residual Analysis</strong>: Checking model assumptions and spatial autocorrelation in residuals.</li>
-</ul>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Geo-spatial techniques data handling</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Sources of Geographic Information and Data (spatial and non-spatial)</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
-</section>
-<section id="course-content" class="level2">
-<h2 class="anchored" data-anchor-id="course-content">Course Content</h2>
-<ul>
-<li><a href="#descriptive-statistics">Descriptive Statistics</a></li>
-<li><a href="#probability-sampling">Probability &amp; Sampling</a></li>
-<li><a href="#inferential-statistics">Inferential Statistics</a></li>
-<li><a href="#correlation-regression">Correlation &amp; Regression</a></li>
-<li><a href="#spatial-statistics">Spatial Statistics</a></li>
-<li><a href="#cartographic-graphical-methods">Cartographic &amp; Graphical Methods</a></li>
-</ul>
-<hr>
-</section>
-<section id="descriptive-statistics" class="level2">
-<h2 class="anchored" data-anchor-id="descriptive-statistics">Descriptive Statistics</h2>
-<p>Summarizing and describing geographic data.</p>
 <p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
 <p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -342,71 +271,59 @@ Create different types of thematic maps, charts and diagrams.<br>
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Measures of Central Tendency &amp; Dispersion
+<span class="screen-reader-only">Note</span>Key Concepts
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Mean, Median, Mode</strong>: Central tendency measures and their geographic applications.</li>
-<li><strong>Range, Variance, Standard Deviation</strong>: Measuring data spread and variability.</li>
-<li><strong>Coefficient of Variation</strong>: Comparing relative variability across datasets.</li>
-<li><strong>Skewness &amp; Kurtosis</strong>: Understanding the shape of data distributions.</li>
+<li><strong>Spatial Data</strong>: Information tied to a specific location on Earth’s surface (coordinates, addresses, administrative boundaries).</li>
+<li><strong>Non-Spatial (Attribute) Data</strong>: Characteristics or qualities of the spatial features (population count, soil type name, temperature reading).</li>
+<li><strong>Data Sources</strong>:
+<ul>
+<li><em>Primary</em>: Field survey, interviews, observations, GPS data collection.</li>
+<li><em>Secondary</em>: Census reports, meteorological data, satellite imagery, topographical maps, statistical abstracts.</li>
+</ul></li>
+<li><strong>Measurement Scales</strong>: Nominal (categories), Ordinal (rank), Interval (no true zero, e.g., Temp in C), Ratio (true zero, e.g., population, distance).</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="inferential-statistics" class="level2">
-<h2 class="anchored" data-anchor-id="inferential-statistics">Inferential Statistics</h2>
-<p>Drawing conclusions about populations from sample data.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-important callout-titled">
+<section id="measures-of-central-tendency-and-dispersion" class="level2">
+<h2 class="anchored" data-anchor-id="measures-of-central-tendency-and-dispersion">Measures of Central Tendency and Dispersion</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Hypothesis Testing
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li><strong>t-tests</strong>: Comparing means of two groups (independent and paired).</li>
-<li><strong>ANOVA</strong>: Analysis of variance for multi-group comparisons.</li>
-<li><strong>Chi-Square Test</strong>: Analyzing categorical data and goodness-of-fit.</li>
-<li><strong>Non-Parametric Tests</strong>: Mann-Whitney, Kruskal-Wallis, and Spearman’s rank correlation.</li>
-<li><strong>Confidence Intervals</strong>: Estimating population parameters with specified certainty.</li>
-</ul>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Basic statistical analysis required for practical geography</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Applications of Measures of Central Tendency, Dispersion and Inequalities</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
-</section>
-<section id="probability-sampling" class="level2">
-<h2 class="anchored" data-anchor-id="probability-sampling">Probability &amp; Sampling</h2>
-<p>Foundations for statistical inference in geographic research.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Sampling Design
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>Probability Distributions</strong>: Normal, binomial, Poisson, and their geographic relevance.</li>
-<li><strong>Sampling Techniques</strong>: Random, systematic, stratified, and cluster sampling.</li>
-<li><strong>Sample Size Determination</strong>: Balancing precision with practical constraints.</li>
-<li><strong>Spatial Sampling</strong>: Adapting sampling strategies for areal and point-pattern data.</li>
-</ul>
-</div>
-</div>
-</section>
-<section id="spatial-statistics" class="level2">
-<h2 class="anchored" data-anchor-id="spatial-statistics">Spatial Statistics</h2>
-<p>Statistics specifically designed for geographic data.</p>
 <p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
 <p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -415,20 +332,437 @@ Create different types of thematic maps, charts and diagrams.<br>
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Spatial Analytical Methods
+<span class="screen-reader-only">Note</span>Key Concepts
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Nearest Neighbour Analysis</strong>: Testing for clustering, dispersion, or randomness in point patterns.</li>
-<li><strong>Moran’s I</strong>: Global measure of spatial autocorrelation.</li>
-<li><strong>Getis-Ord Gi</strong>*: Hot spot and cold spot detection.</li>
-<li><strong>Geographically Weighted Regression (GWR)</strong>: Local regression modeling for spatially varying relationships.</li>
-<li><strong>Semivariograms &amp; Kriging</strong>: Geostatistical interpolation methods.</li>
-<li><strong>Lorenz Curve &amp; Gini Coefficient</strong>: Measuring inequality and spatial concentration.</li>
+<li><strong>Central Tendency</strong>: Identifying the ‘center’ of a dataset.
+<ul>
+<li><em>Mean</em>: Arithmetic average. Sensitive to outliers. Spatial mean (mean center) for spatial data.</li>
+<li><em>Median</em>: Middle value. Robust to outliers.</li>
+<li><em>Mode</em>: Most frequent value.</li>
+</ul></li>
+<li><strong>Dispersion</strong>: How spread out the data is around the center.
+<ul>
+<li><em>Range</em>, <em>Quartile Deviation</em>.</li>
+<li><em>Standard Deviation (SD)</em>: Average distance from the mean. Standard distance in spatial analysis.</li>
+<li><em>Coefficient of Variation (CV)</em>: (SD/Mean)*100. Useful for comparing variability of datasets with different units.</li>
+</ul></li>
+<li><strong>Inequalities Measurement</strong>: Lorenz Curve (graphical), Gini Coefficient (numerical, 0 to 1).</li>
 </ul>
 </div>
 </div>
+</section>
+<section id="correlation-and-regression-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="correlation-and-regression-analysis">Correlation and Regression Analysis</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Applied in geographical data analysis</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Correlation and Regression Analysis</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Correlation</strong>: Measures the strength and direction of the linear relationship between two variables (x and y).
+<ul>
+<li><em>Pearson’s Product Moment (r)</em>: For interval/ratio data. Ranges from -1 to +1.</li>
+<li><em>Spearman’s Rank Correlation (Rho)</em>: For ordinal (ranked) data.</li>
+</ul></li>
+<li><strong>Regression</strong>: Predictive modeling. Investigates the dependence of a dependent variable (Y) on one or more independent variables (X).
+<ul>
+<li><em>Linear Regression</em>: <span class="math inline">\(Y = a + bX\)</span>. ‘a’ is intercept, ‘b’ is slope (regression coefficient).</li>
+<li><em>Residuals</em>: The difference between observed and predicted values. Mapping residuals (Spatial Regression) reveals spatial anomalies.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="map-projections-and-scales" class="level2">
+<h2 class="anchored" data-anchor-id="map-projections-and-scales">Map Projections and Scales</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Types of Scales, Map Projection, Transformation</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Techniques of Map Making</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Map Scale</strong>: Ratio between map distance and ground distance. Types: Representative Fraction (RF), Statement, Graphical/Linear, Diagonal.</li>
+<li><strong>Map Projection</strong>: Mathematical transformation of the 3D Earth surface to a 2D plane. Always involves distortion.</li>
+<li><strong>Preserved Properties</strong>:
+<ul>
+<li><em>Conformal (Orthomorphic)</em>: Preserves exact local angles/shapes (e.g., Mercator). Used for navigation.</li>
+<li><em>Equal-Area (Equivalent)</em>: Preserves area proportions (e.g., Mollweide, Peters). Used for thematic density distributions.</li>
+<li><em>Equidistant</em>: Preserves correct distance from a center point.</li>
+<li><em>Azimuthal</em>: Preserves correct direction from a center point.</li>
+</ul></li>
+<li><strong>Developable Surfaces</strong>: Cylinder, Cone, Plane (Zenithal).</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="thematic-mapping-techniques" class="level2">
+<h2 class="anchored" data-anchor-id="thematic-mapping-techniques">Thematic Mapping Techniques</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Drawing of Choropleth, Isopleth, Traffic flow diagrams</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Data Representation: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Choropleth Map</strong>: Uses shading/colors within predefined administrative boundaries (states, districts) to represent derived data (densities, rates, percentages). Not suitable for absolute numbers.</li>
+<li><strong>Isopleth (Isarithmic) Map</strong>: Lines connecting points of equal value (e.g., isotherms, contours, isobars). Assumes continuous data mapped over an isotropic surface.</li>
+<li><strong>Chorochromatic Map</strong>: Color-patch map showing qualitative distribution without numerical value (e.g., soil types, land use zones).</li>
+<li><strong>Dasymetric Map</strong>: Advanced choropleth that ignores administrative boundaries in favor of actual geographical boundaries of the phenomenon (e.g., mapping population density excluding lakes and forests).</li>
+<li><strong>Flow Map</strong>: Lines of varying thickness show direction and volume of movement (trade, traffic, migration).</li>
+<li><strong>Diagrammatic Maps</strong>: Pie diagrams, bar graphs superimposed on maps to show multiple variables.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="spatial-statistics-and-morphometry" class="level2">
+<h2 class="anchored" data-anchor-id="spatial-statistics-and-morphometry">Spatial Statistics and Morphometry</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Nearest Neighbour, Slope Analysis (Wentworth), Agricultural indices</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Morphometric Analysis, Measurement of Indices</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Nearest Neighbour Analysis (NNA)</strong>: Measures spatial arrangement of points. Nearest Neighbour Index (R). R=0 (clustered), R=1 (random), R=2.15 (perfectly uniform/regular).</li>
+<li><strong>Slope Analysis</strong>: Wentworth’s method (based on contour crossings per grid cell) and Smith’s method (relative relief combined with drainage density).</li>
+<li><strong>Drainage Morphometry</strong>:
+<ul>
+<li><em>Stream Ordering</em>: Strahler (only same orders combine to increase) vs.&nbsp;Horton.</li>
+<li><em>Bifurcation Ratio</em>: Ratio of number of streams of a given order to the number of next higher order.</li>
+<li><em>Drainage Density</em>: Total stream length / basin area.</li>
+</ul></li>
+<li><strong>Indices</strong>: Agricultural efficiency (Kendall’s ranking, Bhatia’s weighted output). Handling data of different scales requires normalization (Z-scores) to create composite indices.</li>
+</ul>
+</div>
+</div>
+<hr>
+</section>
+<section id="part-b-nep-2020-specific-topics" class="level2">
+<h2 class="anchored" data-anchor-id="part-b-nep-2020-specific-topics">Part B: NEP-2020 Specific Topics</h2>
+<p>These topics are part of the NEP-2020 undergraduate programme only.</p>
+</section>
+<section id="agricultural-delineation-methods" class="level2">
+<h2 class="anchored" data-anchor-id="agricultural-delineation-methods">Agricultural Delineation Methods</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Delineation of crop combination regions (Weaver and Doi’s method)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Crop Combination Analysis</strong>: Identifying the dominant crop assemblages in a region to understand agricultural regionalization.</li>
+<li><strong>Weaver’s Method (1954)</strong>: Calculates variance (<span class="math inline">\(\Sigma d^2 / n\)</span>) between actual crop percentages and theoretical distributions (monoculture = 100%, 2-crop = 50% each, etc.). The combination with the lowest variance is chosen.</li>
+<li><strong>Doi’s Modification (1959)</strong>: Simplified Weaver’s method by using <span class="math inline">\(\Sigma d^2\)</span> without dividing by ‘n’ and providing a ready-to-use critical value table, making manual calculation much faster while yielding similar results.</li>
+</ul>
+</div>
+</div>
+<hr>
+</section>
+<section id="part-c-ugc-net-specific-topics" class="level2">
+<h2 class="anchored" data-anchor-id="part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</h2>
+<p>These topics are part of the UGC NET syllabus only.</p>
+</section>
+<section id="sampling-and-hypothesis-testing" class="level2">
+<h2 class="anchored" data-anchor-id="sampling-and-hypothesis-testing">Sampling and Hypothesis Testing</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>UGC NET</strong></td>
+<td>Sampling, Sampling Procedure and Hypothesis Testing (chi square, t-test, ANOVA)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Sampling</strong>: Selecting a subset from a population. Probability (Random, Stratified, Systematic, Cluster) vs.&nbsp;Non-probability (Purposive, Snowball, Quota).</li>
+<li><strong>Hypothesis Testing</strong>: Formulating Null (<span class="math inline">\(H_0\)</span>) and Alternative (<span class="math inline">\(H_1\)</span>) hypotheses. Type I error (reject true <span class="math inline">\(H_0\)</span>) and Type II error (accept false <span class="math inline">\(H_0\)</span>). Set significance level (<span class="math inline">\(lpha\)</span>, usually 0.05).</li>
+<li><strong>Parametric Tests</strong> (assume normal distribution):
+<ul>
+<li><em>t-test</em>: Compares means of two groups.</li>
+<li><em>ANOVA (Analysis of Variance)</em>: Compares means of three or more groups.</li>
+</ul></li>
+<li><strong>Non-Parametric Tests</strong> (distribution-free):
+<ul>
+<li><em>Chi-Square (<span class="math inline">\(\chi^2\)</span>) Test</em>: Tests association between categorical variables (observed vs.&nbsp;expected frequencies).</li>
+</ul></li>
+</ul>
+</div>
+</div>
+</section>
+<section id="advanced-multivariate-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="advanced-multivariate-analysis">Advanced Multivariate Analysis</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>UGC NET</strong></td>
+<td>Principal Component Analysis and Cluster Analysis</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Principal Component Analysis (PCA)</strong>: A dimensionality reduction technique. Correlated variables are transformed into a smaller number of uncorrelated variables called Principal Components. PC1 accounts for the most variance. Used to create composite indices (e.g., developmental index from 15 variables).</li>
+<li><strong>Cluster Analysis</strong>: Grouping a set of objects such that objects in the same group (cluster) are more similar to each other than to those in other groups. Used in regionalization (e.g., grouping districts based on socio-economic similarity).</li>
+<li><strong>Time Series Analysis</strong>: Analyzing sequence of data points over time to extract meaningful statistics. Components: Trend (long term), Cyclical, Seasonal, Irregular/Random variations. Used for climate data or population forecasting.</li>
+</ul>
+</div>
+</div>
+<hr>
 
 
 </section>
