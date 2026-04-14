@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare. This course provides a comprehensive study of India's physiographic divisions, drainage systems, climate patterns, soils, and natural vegetation — the physical foundation of the subcontinent.
 
 ---
@@ -23,13 +21,23 @@ Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare.
 
 ---
 
-{{< include indian-physical/09-biotic-and.md >}}
+{{< include indian-physical/01-physiographic-divisions.md >}}
 
 {{< include indian-physical/02-climate-and-regional-variations.md >}}
 
-{{< include indian-physical/07-climatic-regions.md >}}
+{{< include indian-physical/03-vegetation-types-and-regions.md >}}
+
+{{< include indian-physical/04-major-soil-types.md >}}
 
 {{< include indian-physical/05-coastal-and-marine-resources.md >}}
+
+{{< include indian-physical/06-water-resources-and-irrigation.md >}}
+
+{{< include indian-physical/07-climatic-regions.md >}}
+
+{{< include indian-physical/08-major-industries-and-industrial-regions.md >}}
+
+{{< include indian-physical/09-biotic-and.md >}}
 
 {{< include indian-physical/10-course-content.md >}}
 
@@ -49,10 +57,6 @@ Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare.
 
 {{< include indian-physical/18-land-surface-and.md >}}
 
-{{< include indian-physical/08-major-industries-and-industrial-regions.md >}}
-
-{{< include indian-physical/04-major-soil-types.md >}}
-
 {{< include indian-physical/19-mechanism-of-indian-monsoons-and-rainfall-patterns.md >}}
 
 {{< include indian-physical/20-mineral-energy-resources.md >}}
@@ -60,8 +64,6 @@ Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare.
 {{< include indian-physical/21-minerals.md >}}
 
 {{< include indian-physical/22-natural-vegetation.md >}}
-
-{{< include indian-physical/01-physiographic-divisions.md >}}
 
 {{< include indian-physical/23-physiographic-regions.md >}}
 
@@ -74,7 +76,3 @@ Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare.
 {{< include indian-physical/27-structure-and-relief.md >}}
 
 {{< include indian-physical/28-tropical-cyclones-and-western-disturbances.md >}}
-
-{{< include indian-physical/03-vegetation-types-and-regions.md >}}
-
-{{< include indian-physical/06-water-resources-and-irrigation.md >}}

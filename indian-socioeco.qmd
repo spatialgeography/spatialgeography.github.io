@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCourseWare. This course provides a comprehensive understanding of the socio-economic landscape of India — including population dynamics, urbanization patterns, industrial development, agricultural change, and regional disparities.
 
 ---
@@ -25,6 +23,14 @@ Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCours
 ---
 
 {{< include indian-socioeco/01-agriculture-and-agroclimatic-regions.md >}}
+
+{{< include indian-socioeco/02-mineral-and-power-resources.md >}}
+
+{{< include indian-socioeco/03-population-distribution-and-growth.md >}}
+
+{{< include indian-socioeco/04-settlement-patterns.md >}}
+
+{{< include indian-socioeco/05-regional-disparities-in-social-and-economic-development.md >}}
 
 {{< include indian-socioeco/07-changes-in-patterns-of-land-use.md >}}
 
@@ -52,10 +58,6 @@ Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCours
 
 {{< include indian-socioeco/19-linkage-of-rivers.md >}}
 
-{{< include indian-socioeco/02-mineral-and-power-resources.md >}}
-
-{{< include indian-socioeco/03-population-distribution-and-growth.md >}}
-
 {{< include indian-socioeco/20-population-explosion-and-food-security.md >}}
 
 {{< include indian-socioeco/21-principles-of-environmental-impact-assessment-and-environmental-management.md >}}
@@ -64,11 +66,7 @@ Welcome to the **Indian Socio-Economic Geography** module of Geography OpenCours
 
 {{< include indian-socioeco/23-regional-disparities-in-economic-development.md >}}
 
-{{< include indian-socioeco/05-regional-disparities-in-social-and-economic-development.md >}}
-
 {{< include indian-socioeco/24-regional-disparities-planning.md >}}
-
-{{< include indian-socioeco/04-settlement-patterns.md >}}
 
 {{< include indian-socioeco/25-transport-communication.md >}}
 

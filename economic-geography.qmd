@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Economic Geography** module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes.
 
 ---
@@ -22,11 +20,25 @@ Welcome to the **Economic Geography** module of Geography OpenCourseWare. This c
 
 ---
 
-{{< include economic-geography/10-agricultural-inputs-and-productivity.md >}}
+{{< include economic-geography/01-location-of-economic-activities.md >}}
+
+{{< include economic-geography/02-spatial-organization-of-economies.md >}}
 
 {{< include economic-geography/03-classification-of-economies.md >}}
 
+{{< include economic-geography/04-sectors-of-the-economy.md >}}
+
+{{< include economic-geography/05-primary-activities.md >}}
+
+{{< include economic-geography/06-secondary-activities.md >}}
+
+{{< include economic-geography/07-tertiary-quaternary-activities.md >}}
+
+{{< include economic-geography/08-natural-resources-renewable-and-non-renewable.md >}}
+
 {{< include economic-geography/09-conservation-of-resources.md >}}
+
+{{< include economic-geography/10-agricultural-inputs-and-productivity.md >}}
 
 {{< include economic-geography/11-course-content.md >}}
 
@@ -40,25 +52,11 @@ Welcome to the **Economic Geography** module of Geography OpenCourseWare. This c
 
 {{< include economic-geography/16-globalization-economic-space.md >}}
 
-{{< include economic-geography/01-location-of-economic-activities.md >}}
-
 {{< include economic-geography/17-location-theories.md >}}
 
 {{< include economic-geography/18-measurement-and-problems.md >}}
 
-{{< include economic-geography/08-natural-resources-renewable-and-non-renewable.md >}}
-
 {{< include economic-geography/19-patterns-of-world-trade.md >}}
-
-{{< include economic-geography/05-primary-activities.md >}}
-
-{{< include economic-geography/06-secondary-activities.md >}}
-
-{{< include economic-geography/04-sectors-of-the-economy.md >}}
-
-{{< include economic-geography/02-spatial-organization-of-economies.md >}}
-
-{{< include economic-geography/07-tertiary-quaternary-activities.md >}}
 
 {{< include economic-geography/20-the-limits-to-growth.md >}}
 

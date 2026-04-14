@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Statistical Geography** module of Geography OpenCourseWare. This course covers the quantitative and statistical techniques essential for rigorous geographic research — from basic descriptive statistics to advanced spatial modeling.
 
 ---
@@ -25,42 +23,42 @@ Welcome to the **Statistical Geography** module of Geography OpenCourseWare. Thi
 
 ---
 
-{{< include statistical-geography/14-cartographic-graphical-methods.md >}}
-
-{{< include statistical-geography/05-class-intervals-for-mapping.md >}}
-
-{{< include statistical-geography/15-correlation-regression.md >}}
-
-{{< include statistical-geography/10-correlation-simple-and-multiple.md >}}
-
-{{< include statistical-geography/16-course-content.md >}}
-
 {{< include statistical-geography/01-data-sources-and-types.md >}}
 
-{{< include statistical-geography/17-descriptive-statistics.md >}}
+{{< include statistical-geography/02-statistical-diagrams.md >}}
 
 {{< include statistical-geography/03-frequency-distribution-and-cumulative-frequency.md >}}
 
-{{< include statistical-geography/18-inferential-statistics.md >}}
-
-{{< include statistical-geography/08-lorenz-curve.md >}}
-
-{{< include statistical-geography/11-measurement-of-spatial-patterns-nearest-neighbour-analysis.md >}}
-
 {{< include statistical-geography/04-measures-of-central-tendency.md >}}
+
+{{< include statistical-geography/05-class-intervals-for-mapping.md >}}
 
 {{< include statistical-geography/06-measures-of-dispersion-and-concentration.md >}}
 
+{{< include statistical-geography/07-standard-deviation.md >}}
+
+{{< include statistical-geography/08-lorenz-curve.md >}}
+
 {{< include statistical-geography/09-measuring-association-among-attributes.md >}}
 
-{{< include statistical-geography/19-probability-sampling.md >}}
+{{< include statistical-geography/10-correlation-simple-and-multiple.md >}}
 
-{{< include statistical-geography/13-sampling-techniques-for-geographical-analysis.md >}}
+{{< include statistical-geography/11-measurement-of-spatial-patterns-nearest-neighbour-analysis.md >}}
 
 {{< include statistical-geography/12-scaling-techniques-rank-score-weighted-score.md >}}
 
+{{< include statistical-geography/13-sampling-techniques-for-geographical-analysis.md >}}
+
+{{< include statistical-geography/14-cartographic-graphical-methods.md >}}
+
+{{< include statistical-geography/15-correlation-regression.md >}}
+
+{{< include statistical-geography/16-course-content.md >}}
+
+{{< include statistical-geography/17-descriptive-statistics.md >}}
+
+{{< include statistical-geography/18-inferential-statistics.md >}}
+
+{{< include statistical-geography/19-probability-sampling.md >}}
+
 {{< include statistical-geography/20-spatial-statistics.md >}}
-
-{{< include statistical-geography/07-standard-deviation.md >}}
-
-{{< include statistical-geography/02-statistical-diagrams.md >}}

@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This course examines the spatial patterns of trade and the transportation systems that connect producers to consumers across local, national, and global scales.
 
 ---
@@ -24,7 +22,11 @@ Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This 
 
 ---
 
+{{< include trade-and-transport/01-models-of-transportation-and-transport-cost.md >}}
+
 {{< include trade-and-transport/02-accessibility-and-connectivity.md >}}
+
+{{< include trade-and-transport/03-inter-regional-and-intra-regional-trade.md >}}
 
 {{< include trade-and-transport/04-comparative-cost-advantages.md >}}
 
@@ -42,11 +44,7 @@ Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This 
 
 {{< include trade-and-transport/11-indian-space-programme.md >}}
 
-{{< include trade-and-transport/03-inter-regional-and-intra-regional-trade.md >}}
-
 {{< include trade-and-transport/12-international-trade.md >}}
-
-{{< include trade-and-transport/01-models-of-transportation-and-transport-cost.md >}}
 
 {{< include trade-and-transport/13-modes-of-transport.md >}}
 

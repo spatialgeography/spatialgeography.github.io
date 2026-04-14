@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Population Geography** module of Geography OpenCourseWare. This course studies the spatial dimensions of human population — including distribution, density, growth trends, demographic transitions, migration, and their implications for development.
 
 ---
@@ -26,15 +24,19 @@ Welcome to the **Population Geography** module of Geography OpenCourseWare. This
 
 ---
 
-{{< include population-geography/07-course-content.md >}}
-
-{{< include population-geography/05-demographic-transition.md >}}
-
-{{< include population-geography/04-migration.md >}}
-
 {{< include population-geography/01-nature-scope-and-recent-trends.md >}}
 
 {{< include population-geography/02-patterns-of-world-distribution-growth-and-density-of-population.md >}}
+
+{{< include population-geography/03-population-policy-issues.md >}}
+
+{{< include population-geography/04-migration.md >}}
+
+{{< include population-geography/05-demographic-transition.md >}}
+
+{{< include population-geography/06-population-resource-regions.md >}}
+
+{{< include population-geography/07-course-content.md >}}
 
 {{< include population-geography/08-population-composition.md >}}
 
@@ -43,7 +45,3 @@ Welcome to the **Population Geography** module of Geography OpenCourseWare. This
 {{< include population-geography/10-population-growth.md >}}
 
 {{< include population-geography/11-population-policies.md >}}
-
-{{< include population-geography/03-population-policy-issues.md >}}
-
-{{< include population-geography/06-population-resource-regions.md >}}

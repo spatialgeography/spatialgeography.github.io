@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This course traces the intellectual history of geography as a discipline — from the earliest map-makers and travelers to modern critical and quantitative paradigms.
 
 ---
@@ -26,25 +24,45 @@ Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This
 
 ---
 
-{{< include geographical-thought/06-american-schools.md >}}
+{{< include geographical-thought/01-geographic-knowledge-during-the-ancient-and-medieval-period.md >}}
 
-{{< include geographical-thought/17-ancient-classical-geography.md >}}
+{{< include geographical-thought/02-foundations-of-modern-geography-contributions-of.md >}}
 
-{{< include geographical-thought/10-area-differentiation-and-spatial-organization.md >}}
+{{< include geographical-thought/03-german-schools.md >}}
 
-{{< include geographical-thought/18-areal-differentiation.md >}}
-
-{{< include geographical-thought/16-behavioralism.md >}}
-
-{{< include geographical-thought/19-behavioural-humanistic-geography.md >}}
+{{< include geographical-thought/04-french-schools.md >}}
 
 {{< include geographical-thought/05-british-schools.md >}}
 
-{{< include geographical-thought/20-central-place-theories-of-christaller-and-losch.md >}}
+{{< include geographical-thought/06-american-schools.md >}}
+
+{{< include geographical-thought/07-conceptual-and-methodological-developments-during-the-20th-century.md >}}
 
 {{< include geographical-thought/08-changing-paradigms-in-geography.md >}}
 
-{{< include geographical-thought/07-conceptual-and-methodological-developments-during-the-20th-century.md >}}
+{{< include geographical-thought/09-man-and-environment-determinism-and-possibilism.md >}}
+
+{{< include geographical-thought/10-area-differentiation-and-spatial-organization.md >}}
+
+{{< include geographical-thought/11-quantitative-revolution-and-locational-analysis.md >}}
+
+{{< include geographical-thought/12-impact-of.md >}}
+
+{{< include geographical-thought/13-positivism.md >}}
+
+{{< include geographical-thought/14-humanism.md >}}
+
+{{< include geographical-thought/15-radicalism.md >}}
+
+{{< include geographical-thought/16-behavioralism.md >}}
+
+{{< include geographical-thought/17-ancient-classical-geography.md >}}
+
+{{< include geographical-thought/18-areal-differentiation.md >}}
+
+{{< include geographical-thought/19-behavioural-humanistic-geography.md >}}
+
+{{< include geographical-thought/20-central-place-theories-of-christaller-and-losch.md >}}
 
 {{< include geographical-thought/21-course-content.md >}}
 
@@ -54,21 +72,9 @@ Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This
 
 {{< include geographical-thought/24-environmentalism.md >}}
 
-{{< include geographical-thought/02-foundations-of-modern-geography-contributions-of.md >}}
-
-{{< include geographical-thought/04-french-schools.md >}}
-
-{{< include geographical-thought/01-geographic-knowledge-during-the-ancient-and-medieval-period.md >}}
-
-{{< include geographical-thought/03-german-schools.md >}}
-
 {{< include geographical-thought/25-heart-land-and-rimland-theories.md >}}
 
 {{< include geographical-thought/26-human-development-index.md >}}
-
-{{< include geographical-thought/14-humanism.md >}}
-
-{{< include geographical-thought/12-impact-of.md >}}
 
 {{< include geographical-thought/27-languages-religions-and-secularisation.md >}}
 
@@ -76,25 +82,17 @@ Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This
 
 {{< include geographical-thought/29-malthusian-marxian-and-demographic-transition-models.md >}}
 
-{{< include geographical-thought/09-man-and-environment-determinism-and-possibilism.md >}}
-
 {{< include geographical-thought/30-medieval-renaissance-geography.md >}}
 
 {{< include geographical-thought/31-modern-geographical-thought.md >}}
 
 {{< include geographical-thought/32-perroux-and-boudeville.md >}}
 
-{{< include geographical-thought/13-positivism.md >}}
-
 {{< include geographical-thought/33-postmodern-geography.md >}}
-
-{{< include geographical-thought/11-quantitative-revolution-and-locational-analysis.md >}}
 
 {{< include geographical-thought/34-radical-behavioural-human-and-welfare-approaches.md >}}
 
 {{< include geographical-thought/35-radical-critical-geography.md >}}
-
-{{< include geographical-thought/15-radicalism.md >}}
 
 {{< include geographical-thought/36-regional-synthesis.md >}}
 

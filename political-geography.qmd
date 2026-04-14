@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Political Geography** module of Geography OpenCourseWare. This course examines how political power is organized spatially — from the formation of nation-states and boundary disputes to contemporary geopolitical rivalries and electoral geography.
 
 ---
@@ -25,19 +23,29 @@ Welcome to the **Political Geography** module of Geography OpenCourseWare. This 
 
 ---
 
-{{< include political-geography/06-boundaries-and-frontiers.md >}}
+{{< include political-geography/01-definition-and-scope.md >}}
 
-{{< include political-geography/09-boundaries-frontiers.md >}}
+{{< include political-geography/02-geopolitics-and-global-strategic-views.md >}}
+
+{{< include political-geography/03-heartland-theory.md >}}
+
+{{< include political-geography/04-rimland-theory.md >}}
 
 {{< include political-geography/05-concept-of-nation-state-and-nation-state.md >}}
+
+{{< include political-geography/06-boundaries-and-frontiers.md >}}
+
+{{< include political-geography/07-politics-of-world-resources.md >}}
+
+{{< include political-geography/08-geography-and-federalism.md >}}
+
+{{< include political-geography/09-boundaries-frontiers.md >}}
 
 {{< include political-geography/10-contemporary-geopolitics.md >}}
 
 {{< include political-geography/11-course-content.md >}}
 
 {{< include political-geography/12-cross-border-terrorism.md >}}
-
-{{< include political-geography/01-definition-and-scope.md >}}
 
 {{< include political-geography/13-electoral-geography.md >}}
 
@@ -47,25 +55,15 @@ Welcome to the **Political Geography** module of Geography OpenCourseWare. This 
 
 {{< include political-geography/16-geographical-basis-of-indian-federalism.md >}}
 
-{{< include political-geography/08-geography-and-federalism.md >}}
-
 {{< include political-geography/17-geopolitical-theories.md >}}
 
-{{< include political-geography/02-geopolitics-and-global-strategic-views.md >}}
-
 {{< include political-geography/18-geopolitics-of-south-asia-and-indian-ocean-realm.md >}}
-
-{{< include political-geography/03-heartland-theory.md >}}
 
 {{< include political-geography/19-indias-role-in-world-affairs.md >}}
 
 {{< include political-geography/20-international-boundary-of-india-and-related-issues.md >}}
 
-{{< include political-geography/07-politics-of-world-resources.md >}}
-
 {{< include political-geography/21-regional-consciousness-and-inter-state-issues.md >}}
-
-{{< include political-geography/04-rimland-theory.md >}}
 
 {{< include political-geography/22-state-nation-sovereignty.md >}}
 

@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This course examines the origin, growth, classification, and spatial arrangement of human settlements — from small rural hamlets to sprawling megacities.
 
 ---
@@ -25,21 +23,35 @@ Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This
 
 ---
 
+{{< include settlement-geography/01-site-and-situation-of-settlements.md >}}
+
+{{< include settlement-geography/02-types-size-and-spacing-of-settlements.md >}}
+
+{{< include settlement-geography/03-urban-settlements.md >}}
+
+{{< include settlement-geography/04-ecological-processes-of-urban-growth.md >}}
+
+{{< include settlement-geography/05-rural-urban-fringe.md >}}
+
+{{< include settlement-geography/06-city-region-concepts.md >}}
+
+{{< include settlement-geography/07-settlement-systems.md >}}
+
+{{< include settlement-geography/08-urban-morphology-concept-of-primate-city-and-rank-size-rule.md >}}
+
+{{< include settlement-geography/09-settlement-hierarchy.md >}}
+
 {{< include settlement-geography/10-august-loschs-market-centre-theory.md >}}
 
 {{< include settlement-geography/11-causes-and-consequences-of-migration.md >}}
 
 {{< include settlement-geography/12-christallers-central-place-theory.md >}}
 
-{{< include settlement-geography/06-city-region-concepts.md >}}
-
 {{< include settlement-geography/13-concepts-of-over-under-and-optimum-population.md >}}
 
 {{< include settlement-geography/14-course-content.md >}}
 
 {{< include settlement-geography/15-demographic-attributes.md >}}
-
-{{< include settlement-geography/04-ecological-processes-of-urban-growth.md >}}
 
 {{< include settlement-geography/16-functional-classification-of-towns.md >}}
 
@@ -53,17 +65,9 @@ Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This
 
 {{< include settlement-geography/21-rural-settlements.md >}}
 
-{{< include settlement-geography/05-rural-urban-fringe.md >}}
-
 {{< include settlement-geography/22-satellite-towns.md >}}
 
-{{< include settlement-geography/09-settlement-hierarchy.md >}}
-
-{{< include settlement-geography/07-settlement-systems.md >}}
-
 {{< include settlement-geography/23-settlement-types-classification.md >}}
-
-{{< include settlement-geography/01-site-and-situation-of-settlements.md >}}
 
 {{< include settlement-geography/24-smart-cities-future-urbanism.md >}}
 
@@ -73,13 +77,7 @@ Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This
 
 {{< include settlement-geography/27-sustainable-development-of-cities.md >}}
 
-{{< include settlement-geography/02-types-size-and-spacing-of-settlements.md >}}
-
-{{< include settlement-geography/08-urban-morphology-concept-of-primate-city-and-rank-size-rule.md >}}
-
 {{< include settlement-geography/28-urban-morphology-models.md >}}
-
-{{< include settlement-geography/03-urban-settlements.md >}}
 
 {{< include settlement-geography/29-urbanization-processes.md >}}
 

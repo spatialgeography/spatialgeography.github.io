@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Climatology** module of Geography OpenCourseWare. This course explores the Earth's atmosphere, climate systems, and the physical processes that drive weather and climate variability at local, regional, and global scales.
 
 ---
@@ -25,9 +23,31 @@ Welcome to the **Climatology** module of Geography OpenCourseWare. This course e
 
 ---
 
-{{< include climatology/13-air-masses-and-fronto.md >}}
+{{< include climatology/01-composition-and-structure-of-the-atmosphere.md >}}
+
+{{< include climatology/02-insolation-and-heat-budget-of-the-earth.md >}}
+
+{{< include climatology/03-distribution-of-temperature.md >}}
+
+{{< include climatology/04-atmospheric-pressure-and-general-circulation-of-winds.md >}}
+
+{{< include climatology/05-monsoons-and-jet-streams.md >}}
+
+{{< include climatology/06-stability-and-instability-of-the-atmosphere.md >}}
 
 {{< include climatology/07-air-masses-and-fronts.md >}}
+
+{{< include climatology/08-temperate-and-tropical-cyclones.md >}}
+
+{{< include climatology/09-types-and-distribution-of-precipitation.md >}}
+
+{{< include climatology/10-classification-of-world-climates.md >}}
+
+{{< include climatology/11-hydrological-cycle.md >}}
+
+{{< include climatology/12-global-warming.md >}}
+
+{{< include climatology/13-air-masses-and-fronto.md >}}
 
 {{< include climatology/14-applied-climatology.md >}}
 
@@ -35,29 +55,15 @@ Welcome to the **Climatology** module of Geography OpenCourseWare. This course e
 
 {{< include climatology/16-atmospheric-circulation.md >}}
 
-{{< include climatology/04-atmospheric-pressure-and-general-circulation-of-winds.md >}}
-
 {{< include climatology/17-atmospheric-stability-and-instability.md >}}
-
-{{< include climatology/10-classification-of-world-climates.md >}}
 
 {{< include climatology/18-climate-change.md >}}
 
 {{< include climatology/19-climate-classification.md >}}
 
-{{< include climatology/01-composition-and-structure-of-the-atmosphere.md >}}
-
 {{< include climatology/20-course-content.md >}}
 
-{{< include climatology/03-distribution-of-temperature.md >}}
-
 {{< include climatology/21-global-climatic-change-and-role-and-response-of-man-in-climatic-changes.md >}}
-
-{{< include climatology/12-global-warming.md >}}
-
-{{< include climatology/11-hydrological-cycle.md >}}
-
-{{< include climatology/02-insolation-and-heat-budget-of-the-earth.md >}}
 
 {{< include climatology/22-insolation-heat-budget.md >}}
 
@@ -67,18 +73,10 @@ Welcome to the **Climatology** module of Geography OpenCourseWare. This course e
 
 {{< include climatology/25-moisture-precipitation.md >}}
 
-{{< include climatology/05-monsoons-and-jet-streams.md >}}
-
 {{< include climatology/26-planetary-and-local-winds.md >}}
-
-{{< include climatology/06-stability-and-instability-of-the-atmosphere.md >}}
-
-{{< include climatology/08-temperate-and-tropical-cyclones.md >}}
 
 {{< include climatology/27-temperature-and-pressure-belts-of-the-world.md >}}
 
 {{< include climatology/28-thornthwaites-scheme.md >}}
-
-{{< include climatology/09-types-and-distribution-of-precipitation.md >}}
 
 {{< include climatology/29-weather-and-climate.md >}}

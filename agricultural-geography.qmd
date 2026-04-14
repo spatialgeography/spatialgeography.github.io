@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. This course examines the spatial organization of agriculture — including farming systems, crop distribution, land use patterns, agricultural revolutions, and contemporary challenges of food security.
 
 ---
@@ -24,11 +22,17 @@ Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. Th
 
 ---
 
+{{< include agricultural-geography/01-delimitation-of-agricultural-regions.md >}}
+
+{{< include agricultural-geography/02-measurement-of-agricultural-productivity-and-efficiency.md >}}
+
+{{< include agricultural-geography/03-crop-combinations-and-diversification.md >}}
+
+{{< include agricultural-geography/04-agricultural-systems-of-the-world.md >}}
+
 {{< include agricultural-geography/05-agricultural-regionalisation.md >}}
 
 {{< include agricultural-geography/06-agricultural-revolutions.md >}}
-
-{{< include agricultural-geography/04-agricultural-systems-of-the-world.md >}}
 
 {{< include agricultural-geography/07-agro-and-social-forestry.md >}}
 
@@ -38,11 +42,7 @@ Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. Th
 
 {{< include agricultural-geography/10-course-content.md >}}
 
-{{< include agricultural-geography/03-crop-combinations-and-diversification.md >}}
-
 {{< include agricultural-geography/11-cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability.md >}}
-
-{{< include agricultural-geography/01-delimitation-of-agricultural-regions.md >}}
 
 {{< include agricultural-geography/12-food-security-contemporary-issues.md >}}
 
@@ -63,8 +63,6 @@ Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. Th
 {{< include agricultural-geography/20-major-crops-distribution.md >}}
 
 {{< include agricultural-geography/21-major-industries-and-industrial-regions.md >}}
-
-{{< include agricultural-geography/02-measurement-of-agricultural-productivity-and-efficiency.md >}}
 
 {{< include agricultural-geography/22-mineral-and-power-resources.md >}}
 

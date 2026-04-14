@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Oceanography** module of Geography OpenCourseWare. This course explores the physical, chemical, and biological dynamics of the world's oceans — covering ocean floor topography, water masses, currents, tides, and the marine environment.
 
 ---
@@ -24,15 +22,25 @@ Welcome to the **Oceanography** module of Geography OpenCourseWare. This course 
 
 ---
 
+{{< include oceanography/01-origin-of-ocean-basins.md >}}
+
 {{< include oceanography/02-bottom-relief-of-indian-atlantic-and-pacific-oceans.md >}}
 
-{{< include oceanography/09-bottom-topography-of-the-atlantic-indian-and-pacific-oceans.md >}}
+{{< include oceanography/03-ocean-deposits.md >}}
 
 {{< include oceanography/04-coral-reefs-coral-bleaching.md >}}
 
-{{< include oceanography/10-course-content.md >}}
+{{< include oceanography/05-temperature-and-salinity-of-the-oceans.md >}}
 
 {{< include oceanography/06-density-of-seawater.md >}}
+
+{{< include oceanography/07-ocean-currents.md >}}
+
+{{< include oceanography/08-sea-level-changes.md >}}
+
+{{< include oceanography/09-bottom-topography-of-the-atlantic-indian-and-pacific-oceans.md >}}
+
+{{< include oceanography/10-course-content.md >}}
 
 {{< include oceanography/11-heat-and-salt-budgets.md >}}
 
@@ -42,17 +50,7 @@ Welcome to the **Oceanography** module of Geography OpenCourseWare. This course 
 
 {{< include oceanography/14-ocean-climate-interaction.md >}}
 
-{{< include oceanography/07-ocean-currents.md >}}
-
-{{< include oceanography/03-ocean-deposits.md >}}
-
 {{< include oceanography/15-ocean-floor-topography.md >}}
-
-{{< include oceanography/01-origin-of-ocean-basins.md >}}
-
-{{< include oceanography/08-sea-level-changes.md >}}
-
-{{< include oceanography/05-temperature-and-salinity-of-the-oceans.md >}}
 
 {{< include oceanography/16-temperature-salinity.md >}}
 

@@ -8,8 +8,6 @@ toc-depth: 3
 
 
 
-
-
 Welcome to the **Regional Development** module of Geography OpenCourseWare. This course examines the theories and practices of regional planning and development — addressing spatial inequalities, planning strategies, and the quest for balanced territorial development.
 
 ---
@@ -24,23 +22,31 @@ Welcome to the **Regional Development** module of Geography OpenCourseWare. This
 
 ---
 
+{{< include regional-development/01-regional-concept-in-geography.md >}}
+
 {{< include regional-development/02-application-of-regional-concepts-in-planning.md >}}
+
+{{< include regional-development/03-concept-of-planning-region.md >}}
+
+{{< include regional-development/04-regional-hierarchy.md >}}
+
+{{< include regional-development/05-types-of-regions-and-regional-delineation-methods.md >}}
+
+{{< include regional-development/06-conceptual-and-theoretical-framework-of-regional-planning.md >}}
+
+{{< include regional-development/07-experience-of-regional-planning-in-india.md >}}
+
+{{< include regional-development/08-concept-of-development-and-indicators-of-development.md >}}
+
+{{< include regional-development/09-regional-imbalances.md >}}
 
 {{< include regional-development/10-command-area-development.md >}}
 
 {{< include regional-development/11-concept-of-a-region.md >}}
 
-{{< include regional-development/08-concept-of-development-and-indicators-of-development.md >}}
-
-{{< include regional-development/03-concept-of-planning-region.md >}}
-
-{{< include regional-development/06-conceptual-and-theoretical-framework-of-regional-planning.md >}}
-
 {{< include regional-development/12-course-content.md >}}
 
 {{< include regional-development/13-environmental-issues-in-regional-planning.md >}}
-
-{{< include regional-development/07-experience-of-regional-planning-in-india.md >}}
 
 {{< include regional-development/14-five-year-plans.md >}}
 
@@ -60,17 +66,11 @@ Welcome to the **Regional Development** module of Geography OpenCourseWare. This
 
 {{< include regional-development/22-planning-for-sustainable-development.md >}}
 
-{{< include regional-development/01-regional-concept-in-geography.md >}}
-
 {{< include regional-development/23-regional-concepts-delineation.md >}}
 
 {{< include regional-development/24-regional-development-strategies.md >}}
 
 {{< include regional-development/25-regional-disparities.md >}}
-
-{{< include regional-development/04-regional-hierarchy.md >}}
-
-{{< include regional-development/09-regional-imbalances.md >}}
 
 {{< include regional-development/26-regional-planning-and-development-of-island-territories.md >}}
 
@@ -79,7 +79,5 @@ Welcome to the **Regional Development** module of Geography OpenCourseWare. This
 {{< include regional-development/28-theories-of-regional-development.md >}}
 
 {{< include regional-development/29-types-of-regions-and-methods-of-regionalisation.md >}}
-
-{{< include regional-development/05-types-of-regions-and-regional-delineation-methods.md >}}
 
 {{< include regional-development/30-watershed-management.md >}}
