@@ -36,6 +36,8 @@ Welcome to the **Geographical Thought** module of Geography OpenCourseWare. This
 
 {{< include geographical-thought/06-american-schools.md >}}
 
+{{< include geographical-thought/41-geographers-by-school.md >}}
+
 {{< include geographical-thought/07-conceptual-and-methodological-developments-during-the-20th-century.md >}}
 
 {{< include geographical-thought/08-changing-paradigms-in-geography.md >}}
