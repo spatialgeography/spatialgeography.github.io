@@ -6,79 +6,30 @@ toc: true
 toc-depth: 3
 ---
 
-
-
-Welcome to the **Settlement Geography** module of Geography OpenCourseWare. This course examines the origin, growth, classification, and spatial arrangement of human settlements — from small rural hamlets to sprawling megacities.
+Welcome to the **Settlement Geography** module.
 
 ---
 
-## UGC NET Syllabus
+## Rural Settlements
 
-* **Rural Settlements (types, patterns and distribution), Contemporary Problems of Rural Settlements (rural-urban migration; land use changes; land acquisition and transactions).**
-* **Theories of Origin of Towns (Gordon Childe, Henri Pirenne, Lewis Mumford).**
-* **Characteristics and Processes of Urbanization in Developed and Developing Countries.**
-* **Urban Systems (the law of the primate city and rank size rule), Central Place Theories (Christaller and Losch).**
-* **Internal Structure of the City, Models of Urban Land Use (Burgess, Harris and Ullman, and Hoyt).**
-* **Concepts of Megacities, Global Cities and Edge Cities, Changing Urban Forms, Social Segregation in the City, Urban Social Area Analysis, Manifestation of Poverty in the City (slums, informal sector growth, crime and social exclusion).**
+{{< include human-geography/04-rural-settlements.md >}}
 
 ---
 
-{{< include settlement-geography/01-site-and-situation-of-settlements.md >}}
+## Urban Settlements
 
-{{< include settlement-geography/02-types-size-and-spacing-of-settlements.md >}}
+{{< include human-geography/05-urban-settlements.md >}}
+{{< include human-geography/07-urban-morphology.md >}}
+{{< include urban-geography/01-concepts-of-urban-geography.md >}}
+{{< include urban-geography/02-classification-of-towns.md >}}
+{{< include urban-geography/03-urban-morphology-models.md >}}
+{{< include urban-geography/04-central-place-theory.md >}}
+{{< include urban-geography/05-urban-fringe-and-slums.md >}}
+{{< include urban-geography/06-trends-of-urbanization.md >}}
+{{< include urban-geography/07-rank-size-and-primate-city.md >}}
 
-{{< include settlement-geography/03-urban-settlements.md >}}
+---
 
-{{< include settlement-geography/04-ecological-processes-of-urban-growth.md >}}
+## Theoretical Frameworks
 
-{{< include settlement-geography/05-rural-urban-fringe.md >}}
-
-{{< include settlement-geography/06-city-region-concepts.md >}}
-
-{{< include settlement-geography/07-settlement-systems.md >}}
-
-{{< include settlement-geography/08-urban-morphology-concept-of-primate-city-and-rank-size-rule.md >}}
-
-{{< include settlement-geography/09-settlement-hierarchy.md >}}
-
-{{< include settlement-geography/10-august-loschs-market-centre-theory.md >}}
-
-{{< include settlement-geography/11-causes-and-consequences-of-migration.md >}}
-
-{{< include settlement-geography/12-christallers-central-place-theory.md >}}
-
-{{< include settlement-geography/13-concepts-of-over-under-and-optimum-population.md >}}
-
-{{< include settlement-geography/14-course-content.md >}}
-
-{{< include settlement-geography/15-demographic-attributes.md >}}
-
-{{< include settlement-geography/16-functional-classification-of-towns.md >}}
-
-{{< include settlement-geography/17-growth-and-distribution-of-world-population.md >}}
-
-{{< include settlement-geography/18-population-as-social-capital.md >}}
-
-{{< include settlement-geography/19-population-theories.md >}}
-
-{{< include settlement-geography/20-problems-and-remedies-of-urbanization.md >}}
-
-{{< include settlement-geography/21-rural-settlements.md >}}
-
-{{< include settlement-geography/22-satellite-towns.md >}}
-
-{{< include settlement-geography/23-settlement-types-classification.md >}}
-
-{{< include settlement-geography/24-smart-cities-future-urbanism.md >}}
-
-{{< include settlement-geography/25-social-well-being-and-quality-of-life.md >}}
-
-{{< include settlement-geography/26-sphere-of-urban-influence.md >}}
-
-{{< include settlement-geography/27-sustainable-development-of-cities.md >}}
-
-{{< include settlement-geography/28-urban-morphology-models.md >}}
-
-{{< include settlement-geography/29-urbanization-processes.md >}}
-
-{{< include settlement-geography/30-world-population-problems-and-policies.md >}}
+{{< include human-geography/08-central-place-theory.md >}}

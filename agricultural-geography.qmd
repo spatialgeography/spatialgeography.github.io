@@ -6,74 +6,12 @@ toc: true
 toc-depth: 3
 ---
 
-
-
-Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. This course examines the spatial organization of agriculture — including farming systems, crop distribution, land use patterns, agricultural revolutions, and contemporary challenges of food security.
+Welcome to the **Agricultural Geography** module.
 
 ---
 
-## UGC NET Syllabus
-
-* **Land capability classification and Land Use Planning.**
-* **Cropping Pattern: Methods of delineating crop combination regions (Weaver, Doi and Rafiullah), Crop diversification.**
-* **Von Thunen’s Model of Land Use Planning.**
-* **Measurement and Determinants of Agricultural Productivity, Regional variations in Agricultural Productivity.**
-* **Agricultural Systems of the World.**
+{{< include economic-geography/03-agricultural-systems.md >}}
+{{< include economic-geography/04-von-thunen-model.md >}}
+{{< include economic-geography/12-agriculture-measurement-methods.md >}}
 
 ---
-
-{{< include agricultural-geography/01-delimitation-of-agricultural-regions.md >}}
-
-{{< include agricultural-geography/02-measurement-of-agricultural-productivity-and-efficiency.md >}}
-
-{{< include agricultural-geography/03-crop-combinations-and-diversification.md >}}
-
-{{< include agricultural-geography/04-agricultural-systems-of-the-world.md >}}
-
-{{< include agricultural-geography/05-agricultural-regionalisation.md >}}
-
-{{< include agricultural-geography/06-agricultural-revolutions.md >}}
-
-{{< include agricultural-geography/07-agro-and-social-forestry.md >}}
-
-{{< include agricultural-geography/08-agro-climatic-zones.md >}}
-
-{{< include agricultural-geography/09-agro-ecological-regions.md >}}
-
-{{< include agricultural-geography/10-course-content.md >}}
-
-{{< include agricultural-geography/11-cropping-pattern-agricultural-productivity-agricultural-intensity-crop-combination-land-capability.md >}}
-
-{{< include agricultural-geography/12-food-security-contemporary-issues.md >}}
-
-{{< include agricultural-geography/13-fundamentals-of-agricultural-geography.md >}}
-
-{{< include agricultural-geography/14-green-revolution-and-its-socio-economic-and-ecological-implications.md >}}
-
-{{< include agricultural-geography/15-infrastructure-irrigation-seeds-fertilizers-power.md >}}
-
-{{< include agricultural-geography/16-institutional-factors.md >}}
-
-{{< include agricultural-geography/17-land-holdings-land-tenure-and-land-reforms.md >}}
-
-{{< include agricultural-geography/18-land-use-land-tenure.md >}}
-
-{{< include agricultural-geography/19-livestock-resources-and-white-revolution.md >}}
-
-{{< include agricultural-geography/20-major-crops-distribution.md >}}
-
-{{< include agricultural-geography/21-major-industries-and-industrial-regions.md >}}
-
-{{< include agricultural-geography/22-mineral-and-power-resources.md >}}
-
-{{< include agricultural-geography/23-population-distribution-and-growth.md >}}
-
-{{< include agricultural-geography/24-regional-disparities-in-social-and-economic-development.md >}}
-
-{{< include agricultural-geography/25-settlement-patterns.md >}}
-
-{{< include agricultural-geography/26-significance-of-dry-farming.md >}}
-
-{{< include agricultural-geography/27-types-of-farming.md >}}
-
-{{< include agricultural-geography/28-von-thunens-model.md >}}

@@ -6,53 +6,13 @@ toc: true
 toc-depth: 3
 ---
 
-
-
-Welcome to the **Industrial Geography** module of Geography OpenCourseWare. This course examines the spatial distribution of industries, the factors influencing industrial location, theories of industrial geography, and the changing nature of manufacturing in the global economy.
+Welcome to the **Industrial Geography** module.
 
 ---
 
-## UGC NET Syllabus
-
-* **Classification of Industries, Factors of Industrial Location; Theories of Industrial Location (A. Weber, E. M. Hoover, August Losch, A. Pred and D. M. Smith).**
-* **World Industrial Regions, Impact of Globalisation on manufacturing sector in Less Developed Countries.**
-* **Tourism Industry.**
-* **World distribution and growth of Information And Communication Technology (ICT) and Knowledge Production (Education and R & D) Industries.**
+{{< include economic-geography/05-industrial-location-theories.md >}}
+{{< include economic-geography/06-manufacturing-industries.md >}}
+{{< include economic-geography/10-sez-technology-parks.md >}}
+{{< include economic-geography/13-contemporary-industry-trends.md >}}
 
 ---
-
-{{< include industrial-geography/01-classification-of-industries.md >}}
-
-{{< include industrial-geography/02-resource-based-and-footloose-industries.md >}}
-
-{{< include industrial-geography/03-contemporary-industrial-trends.md >}}
-
-{{< include industrial-geography/04-course-content.md >}}
-
-{{< include industrial-geography/05-evolution-of-industries.md >}}
-
-{{< include industrial-geography/06-indian-industrial-landscape.md >}}
-
-{{< include industrial-geography/07-industrial-houses-and-complexes-including-public-sector-underkings-industrial-regionalisation.md >}}
-
-{{< include industrial-geography/08-industrial-location-factors.md >}}
-
-{{< include industrial-geography/09-industrial-location-theories.md >}}
-
-{{< include industrial-geography/10-locational-factors-of-cotton-jute-textile-iron-and-steel-aluminium-fertiliser-paper-chemical-and-pharmaceutical-automobile-cottage-and-ago-based-industries.md >}}
-
-{{< include industrial-geography/11-loschs-approach.md >}}
-
-{{< include industrial-geography/12-major-industrial-regions-of-the-world.md >}}
-
-{{< include industrial-geography/13-multinationals-and-liberalisation.md >}}
-
-{{< include industrial-geography/14-new-industrial-policy.md >}}
-
-{{< include industrial-geography/15-special-economic-zones.md >}}
-
-{{< include industrial-geography/16-tourism-including-ecotourism.md >}}
-
-{{< include industrial-geography/17-types-of-industries.md >}}
-
-{{< include industrial-geography/18-webers-approach.md >}}

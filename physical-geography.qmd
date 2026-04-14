@@ -1,6 +1,6 @@
 ---
 title: "Physical Geography"
-subtitle: "Fundamentals of the Earth's Physical Systems"
+subtitle: "Comprehensive study of geomorphology, climatology, and oceanography."
 author: "Geography Team"
 toc: true
 toc-depth: 3
@@ -10,19 +10,42 @@ toc-depth: 3
 
 ---
 
-Detailed coverage of this syllabus is divided into specialized modules. Please navigate to the following core subject areas for in-depth topic notes, diagrams, and video lectures:
+## Geomorphology
 
-### Unit I: Geomorphology
-Focuses on the interior of the earth, plate tectonics, weathering, mass wasting, and cycles of erosion (Davis and Penck).
-&rarr; **[Go to the Geomorphology Module](geomorphology.html)**
+{{< include geomorphology/01-fundamental-concepts-of-geomorphology.md >}}
+{{< include geomorphology/02-factors-controlling-landform-development.md >}}
+{{< include geomorphology/03-endogenetic-and-exogenetic-forces.md >}}
+{{< include geomorphology/04-denudation-processes.md >}}
+{{< include geomorphology/05-continental-drift-and-plate-tectonics.md >}}
+{{< include geomorphology/06-geomorphic-cycle.md >}}
+{{< include geomorphology/07-landforms-fluvial.md >}}
+{{< include geomorphology/08-landforms-glacial.md >}}
+{{< include geomorphology/09-slope-forms-and-processes.md >}}
+{{< include geomorphology/10-coastal-landforms.md >}}
+{{< include geomorphology/11-karst-landforms.md >}}
+{{< include geomorphology/12-aeolian-landforms.md >}}
 
-### Unit II: Climatology
-Covers atmospheric structure, insolation, heat budget, winds, air masses, cyclones, and the Indian Monsoon mechanism.
-&rarr; **[Go to the Climatology Module](climatology.html)**
+---
 
-### Unit III: Oceanography & Hydrology
-Explores the hydrological cycle, ocean bottom topography, temperature, salinity, ocean deposits, and currents.
-&rarr; **[Go to the Oceanography Module](oceanography.html)**
+## Climatology
 
+{{< include climatology/01-atmosphere-composition-structure.md >}}
+{{< include climatology/02-insolation-and-heat-budget.md >}}
+{{< include climatology/03-temperature-distribution.md >}}
+{{< include climatology/04-atmospheric-pressure-and-circulation.md >}}
+{{< include climatology/05-monsoons-and-jet-streams.md >}}
+{{< include climatology/06-air-masses-and-fronts.md >}}
+{{< include climatology/07-cyclones.md >}}
+{{< include climatology/08-precipitation.md >}}
+{{< include climatology/09-climate-classification.md >}}
 
-*(Note: Practical topics like topographic map interpretation and weather instruments are often covered during laboratory sessions. Please refer to your course instructor or the designated Practical Worksheets for Unit IV).*
+---
+
+## Oceanography
+
+{{< include oceanography/01-origin-of-ocean-basins.md >}}
+{{< include oceanography/02-ocean-floor-relief.md >}}
+{{< include oceanography/03-temperature-salinity-density.md >}}
+{{< include oceanography/04-waves-tides-currents.md >}}
+{{< include oceanography/05-sea-level-changes.md >}}
+{{< include oceanography/06-coral-reefs.md >}}

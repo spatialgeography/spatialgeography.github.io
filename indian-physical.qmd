@@ -6,73 +6,14 @@ toc: true
 toc-depth: 3
 ---
 
-
-
-Welcome to the **Indian Physical Geography** module of Geography OpenCourseWare. This course provides a comprehensive study of India's physiographic divisions, drainage systems, climate patterns, soils, and natural vegetation — the physical foundation of the subcontinent.
+Welcome to the **Indian Physical Geography** module.
 
 ---
 
-## UGC NET Syllabus
-
-* **Major Physiographic Regions and their Characteristics; Drainage System (Himalayan and Peninsular).**
-* **Climate: Seasonal Weather Characteristics, Climatic Divisions, Indian Monsoon (mechanism and characteristics), Jet Streams and Himalayan Cryosphere.**
-* **Types and Distribution of Natural Resources: Soil, Vegetation, Water, Mineral and Marine Resources.**
-* **Natural Disasters in India (Earthquake, Drought, Flood, Cyclone, Tsunami, Himalayan Highland Hazards and Disasters).**
+{{< include geography-of-india/01-physiography-of-india.md >}}
+{{< include geography-of-india/02-drainage-systems.md >}}
+{{< include geography-of-india/03-indian-climate-and-monsoon.md >}}
+{{< include geography-of-india/04-soils-and-vegetation.md >}}
+{{< include geography-of-india/08-natural-disasters.md >}}
 
 ---
-
-{{< include indian-physical/01-physiographic-divisions.md >}}
-
-{{< include indian-physical/02-climate-and-regional-variations.md >}}
-
-{{< include indian-physical/03-vegetation-types-and-regions.md >}}
-
-{{< include indian-physical/04-major-soil-types.md >}}
-
-{{< include indian-physical/05-coastal-and-marine-resources.md >}}
-
-{{< include indian-physical/06-water-resources-and-irrigation.md >}}
-
-{{< include indian-physical/07-climatic-regions.md >}}
-
-{{< include indian-physical/08-major-industries-and-industrial-regions.md >}}
-
-{{< include indian-physical/09-biotic-and.md >}}
-
-{{< include indian-physical/10-course-content.md >}}
-
-{{< include indian-physical/11-drainage-system-and-watersheds.md >}}
-
-{{< include indian-physical/12-drainage-systems.md >}}
-
-{{< include indian-physical/13-energy-crisis.md >}}
-
-{{< include indian-physical/14-floods-and-droughts.md >}}
-
-{{< include indian-physical/15-forest-and-wild-life-resources-and-their-conservation.md >}}
-
-{{< include indian-physical/16-ground-water.md >}}
-
-{{< include indian-physical/17-indian-climate.md >}}
-
-{{< include indian-physical/18-land-surface-and.md >}}
-
-{{< include indian-physical/19-mechanism-of-indian-monsoons-and-rainfall-patterns.md >}}
-
-{{< include indian-physical/20-mineral-energy-resources.md >}}
-
-{{< include indian-physical/21-minerals.md >}}
-
-{{< include indian-physical/22-natural-vegetation.md >}}
-
-{{< include indian-physical/23-physiographic-regions.md >}}
-
-{{< include indian-physical/24-soil-types-and-their-distributions.md >}}
-
-{{< include indian-physical/25-soils-of-india.md >}}
-
-{{< include indian-physical/26-space-relationship-of-india-with-neighbouring-countries.md >}}
-
-{{< include indian-physical/27-structure-and-relief.md >}}
-
-{{< include indian-physical/28-tropical-cyclones-and-western-disturbances.md >}}

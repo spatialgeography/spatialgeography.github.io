@@ -6,54 +6,10 @@ toc: true
 toc-depth: 3
 ---
 
-
-
-Welcome to the **Trade and Transport** module of Geography OpenCourseWare. This course examines the spatial patterns of trade and the transportation systems that connect producers to consumers across local, national, and global scales.
+Welcome to the **Trade and Transport** module.
 
 ---
 
-## UGC NET Syllabus
-
-* **Theories and Models of spatial interaction (Edward Ullman and M. E. Hurst).**
-* **Measures and Indices of connectivity and accessibility.**
-* **Spatial Flow Models: Gravity Model and its variants.**
-* **World Trade Organisation, Globalisation and Liberalisation and World Trade Patterns.**
-* **Problems and Prospects of Inter and Intra Regional Cooperation and Trade.**
+{{< include economic-geography/07-transport-and-trade.md >}}
 
 ---
-
-{{< include trade-and-transport/01-models-of-transportation-and-transport-cost.md >}}
-
-{{< include trade-and-transport/02-accessibility-and-connectivity.md >}}
-
-{{< include trade-and-transport/03-inter-regional-and-intra-regional-trade.md >}}
-
-{{< include trade-and-transport/04-comparative-cost-advantages.md >}}
-
-{{< include trade-and-transport/05-course-content.md >}}
-
-{{< include trade-and-transport/06-developments-in-communication-and-information-technology-and-their-impacts-on-economy-and-society.md >}}
-
-{{< include trade-and-transport/07-export-processing-zones.md >}}
-
-{{< include trade-and-transport/08-global-trade-patterns.md >}}
-
-{{< include trade-and-transport/09-growing-importance-of-ports-on-national-and-foreign-trade.md >}}
-
-{{< include trade-and-transport/10-india-s-transport-system.md >}}
-
-{{< include trade-and-transport/11-indian-space-programme.md >}}
-
-{{< include trade-and-transport/12-international-trade.md >}}
-
-{{< include trade-and-transport/13-modes-of-transport.md >}}
-
-{{< include trade-and-transport/14-road-railway-waterway-airway-and-pipeline-networks-and-their-complementary-roles-in-regional-development.md >}}
-
-{{< include trade-and-transport/15-trade-balance.md >}}
-
-{{< include trade-and-transport/16-trade-policy.md >}}
-
-{{< include trade-and-transport/17-transport-geography-fundamentals.md >}}
-
-{{< include trade-and-transport/18-transport-networks-models.md >}}
