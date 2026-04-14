@@ -1,17 +1,28 @@
 ---
 title: "Physical Geography"
+subtitle: "Fundamentals of the Earth's Physical Systems"
+author: "Geography Team"
 toc: true
 toc-depth: 3
 ---
 
 {{< include physical-geography/00-syllabus.md >}}
 
+---
 
-{{< include physical-geography/01-fundamentals.md >}}
+Detailed coverage of this syllabus is divided into specialized modules. Please navigate to the following core subject areas for in-depth topic notes, diagrams, and video lectures:
 
-{{< include physical-geography/02-weather-climate.md >}}
+### Unit I: Geomorphology
+Focuses on the interior of the earth, plate tectonics, weathering, mass wasting, and cycles of erosion (Davis and Penck).
+&rarr; **[Go to the Geomorphology Module](geomorphology.html)**
 
-{{< include physical-geography/03-hydrology-oceanography.md >}}
+### Unit II: Climatology
+Covers atmospheric structure, insolation, heat budget, winds, air masses, cyclones, and the Indian Monsoon mechanism.
+&rarr; **[Go to the Climatology Module](climatology.html)**
 
-{{< include physical-geography/04-practical.md >}}
+### Unit III: Oceanography & Hydrology
+Explores the hydrological cycle, ocean bottom topography, temperature, salinity, ocean deposits, and currents.
+&rarr; **[Go to the Oceanography Module](oceanography.html)**
 
+
+*(Note: Practical topics like topographic map interpretation and weather instruments are often covered during laboratory sessions. Please refer to your course instructor or the designated Practical Worksheets for Unit IV).*
