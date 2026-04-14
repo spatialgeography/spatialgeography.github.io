@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -104,42 +133,27 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#official-syllabus-nep-2020" id="toc-official-syllabus-nep-2020" class="nav-link active" data-scroll-target="#official-syllabus-nep-2020">Official Syllabus (NEP-2020)</a></li>
-  <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a>
+  <li><a href="#official-syllabus" id="toc-official-syllabus" class="nav-link active" data-scroll-target="#official-syllabus">Official Syllabus</a>
   <ul class="collapse">
-  <li><a href="#location-of-economic-activities" id="toc-location-of-economic-activities" class="nav-link" data-scroll-target="#location-of-economic-activities">Location of economic activities</a></li>
-  <li><a href="#spatial-organization-of-economies" id="toc-spatial-organization-of-economies" class="nav-link" data-scroll-target="#spatial-organization-of-economies">Spatial organization of economies</a></li>
-  <li><a href="#classification-of-economies" id="toc-classification-of-economies" class="nav-link" data-scroll-target="#classification-of-economies">Classification of economies</a></li>
-  <li><a href="#sectors-of-the-economy" id="toc-sectors-of-the-economy" class="nav-link" data-scroll-target="#sectors-of-the-economy">Sectors of the economy:</a></li>
+  <li><a href="#nep-2020-syllabus" id="toc-nep-2020-syllabus" class="nav-link" data-scroll-target="#nep-2020-syllabus">NEP-2020 Syllabus</a></li>
+  <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a></li>
   </ul></li>
-  <li><a href="#primary-activities" id="toc-primary-activities" class="nav-link" data-scroll-target="#primary-activities">Primary Activities</a></li>
-  <li><a href="#secondary-activities" id="toc-secondary-activities" class="nav-link" data-scroll-target="#secondary-activities">Secondary Activities</a></li>
-  <li><a href="#tertiary-quaternary-activities" id="toc-tertiary-quaternary-activities" class="nav-link" data-scroll-target="#tertiary-quaternary-activities">Tertiary &amp; Quaternary Activities</a>
-  <ul class="collapse">
-  <li><a href="#natural-resources-renewable-and-non-renewable" id="toc-natural-resources-renewable-and-non-renewable" class="nav-link" data-scroll-target="#natural-resources-renewable-and-non-renewable">Natural resources: renewable and non-renewable</a></li>
-  <li><a href="#conservation-of-resources" id="toc-conservation-of-resources" class="nav-link" data-scroll-target="#conservation-of-resources">Conservation of resources</a></li>
-  <li><a href="#agricultural-inputs-and-productivity" id="toc-agricultural-inputs-and-productivity" class="nav-link" data-scroll-target="#agricultural-inputs-and-productivity">Agricultural inputs and productivity</a></li>
-  </ul></li>
-  <li><a href="#course-content" id="toc-course-content" class="nav-link" data-scroll-target="#course-content">Course Content</a>
-  <ul class="collapse">
-  <li><a href="#energy-crisis" id="toc-energy-crisis" class="nav-link" data-scroll-target="#energy-crisis">Energy crisis</a></li>
-  <li><a href="#food-and-nutritions-problems" id="toc-food-and-nutritions-problems" class="nav-link" data-scroll-target="#food-and-nutritions-problems">Food and nutritions problems</a></li>
-  <li><a href="#food-security-famine-causes-effects-and-remedies" id="toc-food-security-famine-causes-effects-and-remedies" class="nav-link" data-scroll-target="#food-security-famine-causes-effects-and-remedies">Food security; famine: causes, effects and remedies</a></li>
-  </ul></li>
-  <li><a href="#fundamentals-of-economic-geography" id="toc-fundamentals-of-economic-geography" class="nav-link" data-scroll-target="#fundamentals-of-economic-geography">Fundamentals of Economic Geography</a></li>
-  <li><a href="#globalization-economic-space" id="toc-globalization-economic-space" class="nav-link" data-scroll-target="#globalization-economic-space">Globalization &amp; Economic Space</a>
-  <ul class="collapse">
-  <li><a href="#books-and-further-readings" id="toc-books-and-further-readings" class="nav-link" data-scroll-target="#books-and-further-readings">Books and Further Readings</a></li>
-  </ul></li>
-  <li><a href="#location-theories" id="toc-location-theories" class="nav-link" data-scroll-target="#location-theories">Location Theories</a>
-  <ul class="collapse">
-  <li><a href="#measurement-and-problems" id="toc-measurement-and-problems" class="nav-link" data-scroll-target="#measurement-and-problems">Measurement and problems</a></li>
-  <li><a href="#patterns-of-world-trade." id="toc-patterns-of-world-trade." class="nav-link" data-scroll-target="#patterns-of-world-trade.">Patterns of world trade.</a></li>
-  <li><a href="#the-limits-to-growth" id="toc-the-limits-to-growth" class="nav-link" data-scroll-target="#the-limits-to-growth">the limits to growth</a></li>
-  <li><a href="#world-agriculture-typology-of-agricultural-regions" id="toc-world-agriculture-typology-of-agricultural-regions" class="nav-link" data-scroll-target="#world-agriculture-typology-of-agricultural-regions">World agriculture: typology of agricultural regions</a></li>
-  <li><a href="#world-industries-location-patterns-and-problems" id="toc-world-industries-location-patterns-and-problems" class="nav-link" data-scroll-target="#world-industries-location-patterns-and-problems">World industries: location patterns and problems</a></li>
-  <li><a href="#world-resources-and-their-distribution" id="toc-world-resources-and-their-distribution" class="nav-link" data-scroll-target="#world-resources-and-their-distribution">World resources and their distribution</a></li>
-  </ul></li>
+  <li><a href="#part-a-common-topics-nep-2020-ugc-net" id="toc-part-a-common-topics-nep-2020-ugc-net" class="nav-link" data-scroll-target="#part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</a></li>
+  <li><a href="#classification-of-economic-activities" id="toc-classification-of-economic-activities" class="nav-link" data-scroll-target="#classification-of-economic-activities">Classification of Economic Activities</a></li>
+  <li><a href="#factors-affecting-location-of-economic-activities" id="toc-factors-affecting-location-of-economic-activities" class="nav-link" data-scroll-target="#factors-affecting-location-of-economic-activities">Factors Affecting Location of Economic Activities</a></li>
+  <li><a href="#agricultural-systems-of-the-world" id="toc-agricultural-systems-of-the-world" class="nav-link" data-scroll-target="#agricultural-systems-of-the-world">Agricultural Systems of the World</a></li>
+  <li><a href="#von-thunens-model-of-agricultural-location" id="toc-von-thunens-model-of-agricultural-location" class="nav-link" data-scroll-target="#von-thunens-model-of-agricultural-location">Von Thunen’s Model of Agricultural Location</a></li>
+  <li><a href="#theories-of-industrial-location" id="toc-theories-of-industrial-location" class="nav-link" data-scroll-target="#theories-of-industrial-location">Theories of Industrial Location</a></li>
+  <li><a href="#manufacturing-industries" id="toc-manufacturing-industries" class="nav-link" data-scroll-target="#manufacturing-industries">Manufacturing Industries</a></li>
+  <li><a href="#transport-and-trade" id="toc-transport-and-trade" class="nav-link" data-scroll-target="#transport-and-trade">Transport and Trade</a></li>
+  <li><a href="#natural-resources-concept-and-classification" id="toc-natural-resources-concept-and-classification" class="nav-link" data-scroll-target="#natural-resources-concept-and-classification">Natural Resources: Concept and Classification</a></li>
+  <li><a href="#energy-resources-and-crisis" id="toc-energy-resources-and-crisis" class="nav-link" data-scroll-target="#energy-resources-and-crisis">Energy Resources and Crisis</a></li>
+  <li><a href="#part-b-nep-2020-specific-topics" id="toc-part-b-nep-2020-specific-topics" class="nav-link" data-scroll-target="#part-b-nep-2020-specific-topics">Part B: NEP-2020 Specific Topics</a></li>
+  <li><a href="#special-economic-zones-and-technology-parks" id="toc-special-economic-zones-and-technology-parks" class="nav-link" data-scroll-target="#special-economic-zones-and-technology-parks">Special Economic Zones and Technology Parks</a></li>
+  <li><a href="#resource-management-and-conservation" id="toc-resource-management-and-conservation" class="nav-link" data-scroll-target="#resource-management-and-conservation">Resource Management and Conservation</a></li>
+  <li><a href="#part-c-ugc-net-specific-topics" id="toc-part-c-ugc-net-specific-topics" class="nav-link" data-scroll-target="#part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</a></li>
+  <li><a href="#agricultural-measurement-and-modeling-methods" id="toc-agricultural-measurement-and-modeling-methods" class="nav-link" data-scroll-target="#agricultural-measurement-and-modeling-methods">Agricultural Measurement and Modeling Methods</a></li>
+  <li><a href="#contemporary-trends-in-industrial-geography" id="toc-contemporary-trends-in-industrial-geography" class="nav-link" data-scroll-target="#contemporary-trends-in-industrial-geography">Contemporary Trends in Industrial Geography</a></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -172,121 +186,90 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="official-syllabus-nep-2020" class="level2">
-<h2 class="anchored" data-anchor-id="official-syllabus-nep-2020">Official Syllabus (NEP-2020)</h2>
+<section id="official-syllabus" class="level2">
+<h2 class="anchored" data-anchor-id="official-syllabus">Official Syllabus</h2>
+<section id="nep-2020-syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="nep-2020-syllabus">NEP-2020 Syllabus</h3>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-Note
+<span class="screen-reader-only">Note</span>Core I Paper VII — Economic Geography
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Core I Paper VII Economic Geography<br>
-(4 Credit, Theory: 45hrs, Practical: 30hrs)</p>
-<p>Unit -I:<br>
-Learning Outcome:<br>
-Understand and differentiate different types of economic activities and their utilities. Analyse the factors responsible for the location and distribution of economic activities.</p>
-<p>Meaning and scope of economic geography; classification of economic activities; Factors affecting location of Economic Activity with special reference to agriculture, manufacturing and Services; Classification of world agricultural system of Whittlesey. Vo n Thunen theory of location of agricultural activity.<br>
-Unit –II<br>
-Learning Outcome:<br>
-Evaluate the significance and relevance of theories in relation to the location of different economic activities.<br>
-Secondary Activities: Manufacturing (Cotton Textile, Iron and Steel, Petrochemical), Major Industrial Regions of the world, Special Economic Zones and Technology Parks. Tertiary Activities: Transport (Land, Air, Water and Pipelines), Trade (National and International) ; Weber and Smith’s Industrial location Theory.<br>
-Unit -III: Learning Outcome:<br>
-Define and differentiate types of resources, their management and sustainable use.<br>
-Resource ‐ Concept and Classification, Functional Theory of Resources, Distribution, Utilization, Problems and Management of World’s Resources (Land, Water, Forest and Energy (Coal, petroleum and non -conventional), Mineral resources ( Iron, Bauxite). Resource Development Regions of India; Resource depletion, conservation and Sustainable use of resources.<br>
-Unit -IV: Practical<br>
-Learning Outcome:<br>
-Create different types of thematic maps, charts and diagrams.<br>
-1. Determination and representation of agricultural efficiency (Kendall and Bhatia method).<br>
-2. Method of delineation of crop combination regions by Weaver and Doi’s method.<br>
-3. Traffic flow diagram and Drawing of Isochrones, Isotims, Isodapanes.<br>
-4. Practical Record and viva –voce.</p>
+<p><strong>(4 Credit, Theory: 45hrs, Practical: 30hrs)</strong></p>
+<p><strong>Unit I:</strong> - Meaning and scope of economic geography; classification of economic activities - Factors affecting location of Economic Activity (agriculture, manufacturing, services) - Classification of world agricultural system of Whittlesey - Von Thunen theory of location of agricultural activity</p>
+<p><strong>Unit II:</strong> - Secondary Activities: Manufacturing (Cotton Textile, Iron and Steel, Petrochemical) - Major Industrial Regions of the world - Special Economic Zones and Technology Parks - Tertiary Activities: Transport (Land, Air, Water, Pipelines), Trade (National/International) - Weber and Smith’s Industrial location Theory</p>
+<p><strong>Unit III:</strong> - Resource: Concept, Classification, Functional Theory of Resources - Distribution, Utilization, Problems and Management of World’s Resources (Land, Water, Forest, Energy) - Mineral resources (Iron, Bauxite) - Resource Development Regions of India - Resource depletion, conservation and Sustainable use of resources</p>
 </div>
 </div>
-<p>Welcome to the <strong>Economic Geography</strong> module of Geography OpenCourseWare. This course explores how economic activities — primary, secondary, tertiary, and quaternary — are distributed across space and how location, resources, and human decisions shape economic landscapes.</p>
 <hr>
 </section>
-<section id="ugc-net-syllabus" class="level2">
-<h2 class="anchored" data-anchor-id="ugc-net-syllabus">UGC NET Syllabus</h2>
-<ul>
-<li><strong>Factors affecting spatial organisation of economic activities (primary, secondary, tertiary and quarternary).</strong></li>
-<li><strong>Natural Resources (classification, distribution and associated problems), Natural Resources Management.</strong></li>
-<li><strong>World Energy Crises in Developed and Developing Countries.</strong></li>
-</ul>
-<hr>
-<section id="location-of-economic-activities" class="level3">
-<h3 class="anchored" data-anchor-id="location-of-economic-activities">Location of economic activities</h3>
-<p>Content for Location of economic activities coming soon.</p>
-</section>
-<section id="spatial-organization-of-economies" class="level3">
-<h3 class="anchored" data-anchor-id="spatial-organization-of-economies">Spatial organization of economies</h3>
-<p>Content for Spatial organization of economies coming soon.</p>
-</section>
-<section id="classification-of-economies" class="level3">
-<h3 class="anchored" data-anchor-id="classification-of-economies">Classification of economies</h3>
-<p>Content for Classification of economies coming soon.</p>
-</section>
-<section id="sectors-of-the-economy" class="level3">
-<h3 class="anchored" data-anchor-id="sectors-of-the-economy">Sectors of the economy:</h3>
-<p>Content for Sectors of the economy: coming soon.</p>
-</section>
-</section>
-<section id="primary-activities" class="level2">
-<h2 class="anchored" data-anchor-id="primary-activities">Primary Activities</h2>
-<p>Extraction and harvesting of natural resources.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<section id="ugc-net-syllabus" class="level3">
+<h3 class="anchored" data-anchor-id="ugc-net-syllabus">UGC NET Syllabus</h3>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Resource-Based Economies
+<span class="screen-reader-only">Tip</span>Unit VI — Geography of Economic Activities and Regional Development
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li><strong>Agriculture</strong>: Subsistence vs.&nbsp;commercial farming, types of agriculture (intensive, extensive, plantation, mixed).</li>
-<li><strong>Mining</strong>: Metallic and non-metallic minerals, spatial distribution of mineral resources.</li>
-<li><strong>Fishing</strong>: Marine and inland fisheries, aquaculture, and global fishing zones.</li>
-<li><strong>Forestry</strong>: Types of forests, timber production, and non-timber forest products.</li>
-<li><strong>Pastoral Activities</strong>: Nomadic herding, commercial ranching, and transhumance.</li>
-</ul>
+<p><strong>I. Economic Geography</strong> - Factors affecting spatial organisation of economic activities (primary, secondary, tertiary and quarternary) - Natural Resources (classification, distribution and associated problems), Natural Resources Management - World Energy Crises in Developed and Developing Countries</p>
+<p><strong>II. Agricultural Geography</strong> - Land capability classification and Land Use Planning - Cropping Pattern: Methods of delineating crop combination regions (Weaver, Doi and Rafiullah), Crop diversification - Von Thunen’s Model of Land Use Planning - Measurement and Determinants of Agricultural Productivity, Regional variations - Agricultural Systems of the World</p>
+<p><strong>III. Industrial Geography</strong> - Classification of Industries, Factors of Industrial Location - Theories of Industrial Location (A. Weber, E. M. Hoover, August Losch, A. Pred and D. M. Smith) - World Industrial Regions, Impact of Globalisation on manufacturing sector - Tourism Industry, ICT and Knowledge Production Industries</p>
 </div>
 </div>
+<hr>
+<p>Welcome to the <strong>Economic Geography</strong> module of Geography OpenCourseWare.</p>
+<hr>
 </section>
-<section id="secondary-activities" class="level2">
-<h2 class="anchored" data-anchor-id="secondary-activities">Secondary Activities</h2>
-<p>Manufacturing and industrial transformation.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-important callout-titled">
+</section>
+<section id="part-a-common-topics-nep-2020-ugc-net" class="level2">
+<h2 class="anchored" data-anchor-id="part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</h2>
+<p>These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.</p>
+</section>
+<section id="classification-of-economic-activities" class="level2">
+<h2 class="anchored" data-anchor-id="classification-of-economic-activities">Classification of Economic Activities</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Industrial Geography
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li><strong>Types of Industries</strong>: Heavy, light, cottage, and agro-based industries.</li>
-<li><strong>Industrial Location Factors</strong>: Raw materials, labor, market, transport, capital, and government policy.</li>
-<li><strong>Major Industrial Regions</strong>: Ruhr Valley, Great Lakes, Tokyo-Yokohama, Mumbai-Pune corridor.</li>
-<li><strong>Industrial Revolution</strong>: Phases, spatial diffusion, and contemporary deindustrialization.</li>
-<li><strong>Special Economic Zones (SEZs)</strong>: Purpose, global distribution, and impact on development.</li>
-</ul>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Meaning and scope; classification of economic activities</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Factors affecting spatial organisation of economic activities (primary, secondary, tertiary and quarternary)</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
-</section>
-<section id="tertiary-quaternary-activities" class="level2">
-<h2 class="anchored" data-anchor-id="tertiary-quaternary-activities">Tertiary &amp; Quaternary Activities</h2>
-<p>Services and knowledge-based economies.</p>
 <p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
 <p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -295,59 +278,58 @@ Create different types of thematic maps, charts and diagrams.<br>
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Service &amp; Knowledge Economy
+<span class="screen-reader-only">Note</span>Key Concepts
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Tertiary Sector</strong>: Retail, transport, healthcare, education, and personal services.</li>
-<li><strong>Quaternary Sector</strong>: Research, IT, financial services, and knowledge processing.</li>
-<li><strong>Quinary Activities</strong>: Top-level decision-making (government, science, academia).</li>
-<li><strong>Outsourcing &amp; Offshoring</strong>: The global shift of services — call centers, IT hubs, and BPO.</li>
-<li><strong>Tourism Geography</strong>: Types of tourism, global tourist flows, and economic impact.</li>
+<li><strong>Meaning and Scope</strong>: Study of the spatial variation of human economic activities on the Earth’s surface — production, exchange, and consumption of wealth.</li>
+<li><strong>Primary Activities</strong>: Harvesting or extracting natural resources directly from the Earth (agriculture, mining, forestry, fishing).</li>
+<li><strong>Secondary Activities</strong>: Processing raw materials, manufacturing, and construction (adding value to primary products).</li>
+<li><strong>Tertiary Activities</strong>: Provision of services (retail, banking, transport, education, healthcare).</li>
+<li><strong>Quaternary Activities</strong>: Information processing and knowledge-based services (research, IT, financial planning).</li>
+<li><strong>Quinary Activities</strong>: High-level decision-making roles (executives, government officials, research scientists).</li>
+<li><strong>Sectoral Shift</strong>: Transition of economies from primary to secondary to tertiary dominance as they develop (Clark-Fisher model).</li>
 </ul>
 </div>
 </div>
-<section id="natural-resources-renewable-and-non-renewable" class="level3">
-<h3 class="anchored" data-anchor-id="natural-resources-renewable-and-non-renewable">Natural resources: renewable and non-renewable</h3>
-<p>Content for Natural resources: renewable and non-renewable coming soon.</p>
 </section>
-<section id="conservation-of-resources" class="level3">
-<h3 class="anchored" data-anchor-id="conservation-of-resources">Conservation of resources</h3>
-<p>Content for Conservation of resources coming soon.</p>
-</section>
-<section id="agricultural-inputs-and-productivity" class="level3">
-<h3 class="anchored" data-anchor-id="agricultural-inputs-and-productivity">Agricultural inputs and productivity</h3>
-<p>Content for Agricultural inputs and productivity coming soon.</p>
-</section>
-</section>
-<section id="course-content" class="level2">
-<h2 class="anchored" data-anchor-id="course-content">Course Content</h2>
-<ul>
-<li><a href="#fundamentals-of-economic-geography">Fundamentals of Economic Geography</a></li>
-<li><a href="#primary-activities">Primary Activities</a></li>
-<li><a href="#secondary-activities">Secondary Activities</a></li>
-<li><a href="#tertiary-quaternary-activities">Tertiary &amp; Quaternary Activities</a></li>
-<li><a href="#location-theories">Location Theories</a></li>
-<li><a href="#globalization-economic-space">Globalization &amp; Economic Space</a></li>
-</ul>
-<hr>
-<section id="energy-crisis" class="level3">
-<h3 class="anchored" data-anchor-id="energy-crisis">Energy crisis</h3>
-<p>Content for Energy crisis coming soon.</p>
-</section>
-<section id="food-and-nutritions-problems" class="level3">
-<h3 class="anchored" data-anchor-id="food-and-nutritions-problems">Food and nutritions problems</h3>
-<p>Content for Food and nutritions problems coming soon.</p>
-</section>
-<section id="food-security-famine-causes-effects-and-remedies" class="level3">
-<h3 class="anchored" data-anchor-id="food-security-famine-causes-effects-and-remedies">Food security; famine: causes, effects and remedies</h3>
-<p>Content for Food security; famine: causes, effects and remedies coming soon.</p>
-</section>
-</section>
-<section id="fundamentals-of-economic-geography" class="level2">
-<h2 class="anchored" data-anchor-id="fundamentals-of-economic-geography">Fundamentals of Economic Geography</h2>
-<p>Core concepts of spatial economics.</p>
+<section id="factors-affecting-location-of-economic-activities" class="level2">
+<h2 class="anchored" data-anchor-id="factors-affecting-location-of-economic-activities">Factors Affecting Location of Economic Activities</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Factors affecting location of Economic Activity</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Factors affecting spatial organisation of economic activities; Factors of Industrial Location</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 <p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
 <p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -356,99 +338,696 @@ Create different types of thematic maps, charts and diagrams.<br>
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Key Principles
+<span class="screen-reader-only">Note</span>Key Concepts
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Spatial Division of Labour</strong>: Why different regions specialize in different economic activities.</li>
-<li><strong>Factors of Production</strong>: Land, labor, capital, and enterprise in a spatial context.</li>
-<li><strong>Economic Sectors</strong>: Primary (agriculture, mining), Secondary (manufacturing), Tertiary (services), Quaternary (knowledge).</li>
-<li><strong>Core-Periphery Model</strong>: Uneven development between advanced core regions and dependent peripheries.</li>
+<li><strong>Physical Factors</strong>: Climate, terrain, soil fertility, availability of water, raw materials, power/energy sources.</li>
+<li><strong>Economic Factors</strong>: Transport and communication costs, market access, labour (cost, skill, availability), capital access, agglomeration economies.</li>
+<li><strong>Political/Institutional Factors</strong>: Government policies, taxes, subsidies, environmental regulations, political stability, zoning laws.</li>
+<li><strong>Social/Cultural Factors</strong>: Entrepreneurship, cultural preferences, behavioural factors in decision-making.</li>
+<li><strong>Footloose Industries</strong>: Industries not strongly tied to specific raw materials or markets (e.g., software, light electronics) — located based on other factors like skilled labour or amenities.</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="globalization-economic-space" class="level2">
-<h2 class="anchored" data-anchor-id="globalization-economic-space">Globalization &amp; Economic Space</h2>
-<p>The reshaping of economic geography in a connected world.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-important callout-titled">
+<section id="agricultural-systems-of-the-world" class="level2">
+<h2 class="anchored" data-anchor-id="agricultural-systems-of-the-world">Agricultural Systems of the World</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Global Economic Dynamics
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Classification of world agricultural system of Whittlesey</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Agricultural Systems of the World</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Multinational Corporations (MNCs)</strong>: Spatial strategies, supply chains, and global production networks.</li>
-<li><strong>Global Financial Centres</strong>: New York, London, Hong Kong, Singapore — the geography of capital.</li>
-<li><strong>Digital Economy</strong>: E-commerce, platform economies, and the geography of data centres.</li>
-<li><strong>Fair Trade &amp; Ethical Consumption</strong>: Alternative economic geographies.</li>
-<li><strong>Economic Regionalism</strong>: Trade blocs, economic corridors, and bilateral agreements.</li>
+<li><strong>Whittlesey’s Classification (1936)</strong>: Based on crop/livestock combination, intensity of land use, processing methods, mechanization, and destination of products.</li>
+<li><strong>13 Agricultural Regions</strong>:
+<ol type="1">
+<li>Nomadic Herding</li>
+<li>Livestock Ranching</li>
+<li>Shifting Cultivation</li>
+<li>Rudimentary Sedentary Tillage</li>
+<li>Intensive Subsistence (rice dominant)</li>
+<li>Intensive Subsistence (without rice)</li>
+<li>Commercial Plantation</li>
+<li>Mediterranean Agriculture</li>
+<li>Commercial Grain Farming</li>
+<li>Commercial Livestock and Crop Farming (Mixed)</li>
+<li>Subsistence Crop and Livestock Farming</li>
+<li>Commercial Dairy Farming</li>
+<li>Specialized Horticulture</li>
+</ol></li>
+<li><strong>Modern Changes</strong>: Impact of Green Revolution, globalization, corporate farming, contract farming.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="von-thunens-model-of-agricultural-location" class="level2">
+<h2 class="anchored" data-anchor-id="von-thunens-model-of-agricultural-location">Von Thunen’s Model of Agricultural Location</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Von Thunen theory of location of agricultural activity</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Von Thunen’s Model of Land Use Planning</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Johann Heinrich von Thünen (1826)</strong>: <em>The Isolated State</em> — first quantitative model of spatial economic organization.</li>
+<li><strong>Assumptions</strong>: Isolated state, isotropic plain, single central market, uniform transport costs, profit-maximizing farmers.</li>
+<li><strong>Concept</strong>: Economic rent (locational rent) determines land use. Products with high transport costs or perishability are produced closest to the market.</li>
+<li><strong>Concentric Rings</strong>:
+<ol type="1">
+<li>Market gardening and dairying (perishable, high value)</li>
+<li>Forestry/Firewood (heavy/bulky to transport)</li>
+<li>Intensive crop farming without fallow</li>
+<li>Crop farming with fallow and pasture</li>
+<li>Three-field system</li>
+<li>Livestock ranching (animals can walk to market)</li>
+</ol></li>
+<li><strong>Relevance Today</strong>: Modified by modern transport (refrigeration, highways) and global markets, but core concept of <em>distance decay</em> remains valid.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="theories-of-industrial-location" class="level2">
+<h2 class="anchored" data-anchor-id="theories-of-industrial-location">Theories of Industrial Location</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit II — Weber and Smith’s Industrial location Theory</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Theories of Industrial Location (A. Weber, E. M. Hoover, August Losch, A. Pred and D. M. Smith)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Alfred Weber’s Least Cost Theory (1909)</strong>: Location minimizes transport and labour costs. Uses locational triangle (two raw materials, one market).
+<ul>
+<li><em>Material Index</em> = Weight of localized raw materials / Weight of finished product. MI &gt; 1 = material-oriented; MI &lt; 1 = market-oriented.</li>
+<li><em>Isodapanes</em>: Lines of equal total transport cost.</li>
+</ul></li>
+<li><strong>August Lösch’s Profit Maximization Theory (1954)</strong>: Location where profit is maximized (total revenue minus total cost). Spatial demand cone; hexagonal market areas.</li>
+<li><strong>David Smith’s Spatial Margins of Profitability (1971)</strong>: Incorporates spatial variations in both costs and revenues to find the area where profit is possible.</li>
+<li><strong>Edgar Hoover</strong>: Emphasized transport cost structure (terminal vs.&nbsp;line-haul costs).</li>
+<li><strong>Allan Pred</strong>: Behavioural approach — bounded rationality, imperfect information in locational decision-making.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="manufacturing-industries" class="level2">
+<h2 class="anchored" data-anchor-id="manufacturing-industries">Manufacturing Industries</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit II — Manufacturing (Cotton Textile, Iron and Steel, Petrochemical)</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Classification of Industries; World Industrial Regions</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Classification of Industries</strong>: By size (cottage, small-scale, large-scale), raw material (agro-based, mineral-based), output (basic/heavy, consumer/light), ownership (public, private, joint).</li>
+<li><strong>Iron and Steel Industry</strong>: Basic/key industry. Location historically tied to coal (Ruhr, Appalachians), later to iron ore, and currently shifting to coastal locations or markets (mini-steel plants using scrap).</li>
+<li><strong>Textile Industry</strong>: Historically labour-intensive, raw material oriented, but highly mobile today due to cheap labour search (shift from developed to developing global South).</li>
+<li><strong>Petrochemical Industry</strong>: Market or port-oriented; forms base for plastics, fertilizers, synthetic fibres.</li>
+<li><strong>World Industrial Regions</strong>: Great Lakes/Northeastern USA, Western Europe (Ruhr, Midlands), Eastern Europe (Donbas), East Asia (Japan, coastal China, South Korea).</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="transport-and-trade" class="level2">
+<h2 class="anchored" data-anchor-id="transport-and-trade">Transport and Trade</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit II — Transport (Land, Air, Water, Pipelines), Trade</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Factors affecting spatial organisation (tertiary)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Modes of Transport</strong>:
+<ul>
+<li><em>Roads</em>: Door-to-door, best for short distances.</li>
+<li><em>Railways</em>: Heavy/bulky goods over long distances inland.</li>
+<li><em>Waterways</em>: Cheapest mode for bulky goods over long distances; major ocean routes (North Atlantic, Suez, Panama).</li>
+<li><em>Airways</em>: Fastest, highest cost, best for low-volume/high-value/perishable goods.</li>
+<li><em>Pipelines</em>: Continuous flow of liquids/gases (oil, natural gas, water).</li>
+</ul></li>
+<li><strong>Trade</strong>: Exchange of goods/services. Based on comparative advantage (Ricardo).</li>
+<li><strong>Global Trade Patterns</strong>: Shift from North-North dominance to increasing South-South and intra-regional trade. Role of WTO, regional trade blocs (EU, NAFTA/USMCA, ASEAN, MERCOSUR).</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="natural-resources-concept-and-classification" class="level2">
+<h2 class="anchored" data-anchor-id="natural-resources-concept-and-classification">Natural Resources: Concept and Classification</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Resource: Concept, Classification, Functional Theory</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Natural Resources (classification, distribution and associated problems)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Zimmermann’s Functional Theory (1933)</strong>: “Resources are not, they become.” A neutral stuff becomes a resource when human knowledge and technology find a use for it and it is economically viable.</li>
+<li><strong>Classification</strong>:
+<ul>
+<li><em>Renewability</em>: Renewable (flow/fund - water, solar, forest) vs.&nbsp;Non-renewable (stock - minerals, fossil fuels).</li>
+<li><em>Origin</em>: Biotic (forests, wildlife, fossil fuels) vs.&nbsp;Abiotic (land, water, minerals).</li>
+<li><em>Development Stage</em>: Potential, actual/developed, reserve, stock.</li>
+<li><em>Distribution</em>: Ubiquitous (air) vs.&nbsp;Localized (minerals).</li>
+</ul></li>
+<li><strong>Resource Problems</strong>: Uneven distribution leading to geopolitical conflicts, overexploitation, environmental degradation, tragedy of the commons.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="energy-resources-and-crisis" class="level2">
+<h2 class="anchored" data-anchor-id="energy-resources-and-crisis">Energy Resources and Crisis</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Energy (Coal, petroleum and non-conventional)</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>World Energy Crises in Developed and Developing Countries</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Conventional/Non-Renewable Energy</strong>:
+<ul>
+<li><em>Coal</em>: Four types (anthracite, bituminous, lignite, peat). Major producers: China, USA, India, Australia.</li>
+<li><em>Petroleum</em>: Middle East, USA, Russia. Geopolitical significance (OPEC).</li>
+<li><em>Natural Gas</em>: Cleanest fossil fuel.</li>
+</ul></li>
+<li><strong>Non-Conventional/Renewable Energy</strong>: Solar, wind, hydroelectric, geothermal, biomass, tidal. Crucial for sustainable development.</li>
+<li><strong>World Energy Crisis</strong>: Situation where energy demand outweighs supply or is threatened by geopolitical instability, infrastructure failures, or environmental constraints.</li>
+<li><strong>Developed vs.&nbsp;Developing Contexts</strong>: Developed nations focus on transition to renewables and energy security; developing nations face challenges of energy access/poverty while managing rapid demand growth.</li>
 </ul>
 </div>
 </div>
 <hr>
-<section id="books-and-further-readings" class="level3">
-<h3 class="anchored" data-anchor-id="books-and-further-readings">Books and Further Readings</h3>
-<p>Economic Geography reveals how spatial factors shape livelihoods and development. Continue with <a href="industrial-geography.html">Industrial Geography</a> and <a href="agricultural-geography.html">Agricultural Geography</a> for sector-specific analysis.</p>
 </section>
+<section id="part-b-nep-2020-specific-topics" class="level2">
+<h2 class="anchored" data-anchor-id="part-b-nep-2020-specific-topics">Part B: NEP-2020 Specific Topics</h2>
+<p>These topics are part of the NEP-2020 undergraduate programme only.</p>
 </section>
-<section id="location-theories" class="level2">
-<h2 class="anchored" data-anchor-id="location-theories">Location Theories</h2>
-<p>Theoretical models explaining the spatial distribution of economic activities.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-tip callout-titled">
+<section id="special-economic-zones-and-technology-parks" class="level2">
+<h2 class="anchored" data-anchor-id="special-economic-zones-and-technology-parks">Special Economic Zones and Technology Parks</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Classical Models
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit II — Special Economic Zones and Technology Parks</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Von Thünen’s Agricultural Model</strong>: Concentric rings of land use around a central market.</li>
-<li><strong>Weber’s Industrial Location Theory</strong>: Minimum transport cost, labor cost, and agglomeration.</li>
-<li><strong>Christaller’s Central Place Theory</strong>: Hierarchical arrangement of market centers.</li>
-<li><strong>Lösch’s Profit Maximization</strong>: Modifying Christaller’s model with demand and profit zones.</li>
-<li><strong>Perroux’s Growth Pole Theory</strong>: Economic growth radiating from key propulsive industries.</li>
+<li><strong>Special Economic Zones (SEZs)</strong>: Designated geographical areas within a country with liberal economic laws (tax exemptions, relaxed labour laws, single-window clearance) intended to boost foreign direct investment (FDI), exports, and employment.
+<ul>
+<li>Example: Shenzhen (China) as a pioneer; Indian SEZ Act 2005.</li>
+</ul></li>
+<li><strong>Technology Parks / Technopoles</strong>: Centers of high-tech manufacturing and information-based quaternary industries.
+<ul>
+<li>Agglomeration economies, proximity to major universities/research centers, high-quality amenities to attract skilled workers.</li>
+<li>Examples: Silicon Valley (USA), Bengaluru IT corridor (India), Cambridge Science Park (UK).</li>
+</ul></li>
+<li><strong>Impacts</strong>: Regional development engines, but can create enclaves, widen regional disparities, and cause land acquisition conflicts.</li>
 </ul>
 </div>
 </div>
-<section id="measurement-and-problems" class="level3">
-<h3 class="anchored" data-anchor-id="measurement-and-problems">Measurement and problems</h3>
-<p>Content for Measurement and problems coming soon.</p>
 </section>
-<section id="patterns-of-world-trade." class="level3">
-<h3 class="anchored" data-anchor-id="patterns-of-world-trade.">Patterns of world trade.</h3>
-<p>Content for Patterns of world trade. coming soon.</p>
+<section id="resource-management-and-conservation" class="level2">
+<h2 class="anchored" data-anchor-id="resource-management-and-conservation">Resource Management and Conservation</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Resource Development Regions of India; Resource depletion, conservation and Sustainable use</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Resource Depletion</strong>: Rapid exhaustion of non-renewable resources (Hubbert peak theory) and degradation of renewables (overfishing, deforestation, groundwater depletion).</li>
+<li><strong>Conservation</strong>: Rational and efficient use of resources to ensure availability for future generations without ecological damage.</li>
+<li><strong>Sustainable Development</strong>: Meeting present needs without compromising future generations (Brundtland Report 1987).</li>
+<li><strong>Strategies</strong>: 3Rs (Reduce, Reuse, Recycle), substitution (finding alternatives), improving technological efficiency, afforestation, watershed management.</li>
+<li><strong>Resource Development Regions of India</strong>: Delineated based on homogeneity of physical and economic resources (e.g., Damodar Valley, Western Ghats) for targeted planning.</li>
+</ul>
+</div>
+</div>
+<hr>
 </section>
-<section id="the-limits-to-growth" class="level3">
-<h3 class="anchored" data-anchor-id="the-limits-to-growth">the limits to growth</h3>
-<p>Content for the limits to growth coming soon.</p>
+<section id="part-c-ugc-net-specific-topics" class="level2">
+<h2 class="anchored" data-anchor-id="part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</h2>
+<p>These topics are part of the UGC NET syllabus only.</p>
 </section>
-<section id="world-agriculture-typology-of-agricultural-regions" class="level3">
-<h3 class="anchored" data-anchor-id="world-agriculture-typology-of-agricultural-regions">World agriculture: typology of agricultural regions</h3>
-<p>Content for World agriculture: typology of agricultural regions coming soon.</p>
+<section id="agricultural-measurement-and-modeling-methods" class="level2">
+<h2 class="anchored" data-anchor-id="agricultural-measurement-and-modeling-methods">Agricultural Measurement and Modeling Methods</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>UGC NET</strong></td>
+<td>Cropping Pattern: Methods of delineating crop combination regions (Weaver, Doi and Rafiullah), Crop diversification</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Crop Combination Regions</strong>: Area where two or more crops are grown in association.
+<ul>
+<li><em>Weaver’s Method (1954)</em>: Standard deviation approach comparing actual crop percentages with a theoretical distribution (monoculture 100%, 2-crop 50-50%, etc.). Minimum variance determines the combination.</li>
+<li><em>Doi’s Method (1959)</em>: Modified Weaver’s formula using <span class="math inline">\(\Sigma d^2\)</span> without dividing by <span class="math inline">\(n\)</span>; uses a critical value table.</li>
+<li><em>Rafiullah’s Method (1956)</em>: Maximum positive deviation method (<span class="math inline">\(\Sigma D^2 / N^2\)</span>) — reduces the number of crops in the final combination compared to Weaver.</li>
+</ul></li>
+<li><strong>Crop Diversification</strong>: Growing a variety of crops rather than monoculture — insurance against weather/market failure. Measured by Bhatia’s or Gibbs-Martin index.</li>
+<li><strong>Agricultural Productivity</strong>: Output per unit of input (land, labour, capital). Measured by Kendall’s Ranking Coefficient, Enyedi’s Index, Bhatia’s Method.</li>
+</ul>
+</div>
+</div>
 </section>
-<section id="world-industries-location-patterns-and-problems" class="level3">
-<h3 class="anchored" data-anchor-id="world-industries-location-patterns-and-problems">World industries: location patterns and problems</h3>
-<p>Content for World industries: location patterns and problems coming soon.</p>
-</section>
-<section id="world-resources-and-their-distribution" class="level3">
-<h3 class="anchored" data-anchor-id="world-resources-and-their-distribution">World resources and their distribution</h3>
-<p>Content for World resources and their distribution coming soon.</p>
+<section id="contemporary-trends-in-industrial-geography" class="level2">
+<h2 class="anchored" data-anchor-id="contemporary-trends-in-industrial-geography">Contemporary Trends in Industrial Geography</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>UGC NET</strong></td>
+<td>Impact of Globalisation on manufacturing sector; Tourism Industry, ICT and Knowledge Production</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Impact of Globalisation</strong>: Deindustrialization in advanced economies (Rust Belt), relocation of manufacturing to NICs (Newly Industrialized Countries) seeking cheap labour and lax environmental rules. Emergence of Global Value Chains (GVCs).</li>
+<li><strong>Tourism Industry</strong>: Largest single employer globally. Forms: ecotourism, heritage, medical, adventure. Impacts on local economies and environments.</li>
+<li><strong>ICT and Knowledge Production</strong>: The “New Economy”. Highly footloose, cluster in technopoles. Teleworking and the “death of distance”.</li>
+<li><strong>Flexible Specialization (Post-Fordism)</strong>: Shift from mass production (Fordism) to batch production, just-in-time inventory, and product customization.</li>
+<li><strong>Agglomeration vs.&nbsp;Dispersion</strong>: Centripetal forces (knowledge spillovers, input sharing) vs.&nbsp;Centrifugal forces (congestion, high rent).</li>
+</ul>
+</div>
+</div>
+<hr>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
