@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -104,50 +133,20 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link active" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a>
-  <ul class="collapse">
-  <li><a href="#site-and-situation-of-settlements" id="toc-site-and-situation-of-settlements" class="nav-link" data-scroll-target="#site-and-situation-of-settlements">Site and situation of settlements</a></li>
-  <li><a href="#types-size-and-spacing-of-settlements" id="toc-types-size-and-spacing-of-settlements" class="nav-link" data-scroll-target="#types-size-and-spacing-of-settlements">Types, size, and spacing of settlements</a></li>
-  </ul></li>
-  <li><a href="#urban-settlements" id="toc-urban-settlements" class="nav-link" data-scroll-target="#urban-settlements">Urban Settlements</a>
-  <ul class="collapse">
-  <li><a href="#ecological-processes-of-urban-growth" id="toc-ecological-processes-of-urban-growth" class="nav-link" data-scroll-target="#ecological-processes-of-urban-growth">Ecological processes of urban growth</a></li>
-  <li><a href="#rural-urban-fringe" id="toc-rural-urban-fringe" class="nav-link" data-scroll-target="#rural-urban-fringe">Rural-urban fringe</a></li>
-  <li><a href="#city-region-concepts" id="toc-city-region-concepts" class="nav-link" data-scroll-target="#city-region-concepts">City-region concepts</a></li>
-  <li><a href="#settlement-systems" id="toc-settlement-systems" class="nav-link" data-scroll-target="#settlement-systems">Settlement systems</a></li>
-  <li><a href="#urban-morphology-concept-of-primate-city-and-rank-size-rule" id="toc-urban-morphology-concept-of-primate-city-and-rank-size-rule" class="nav-link" data-scroll-target="#urban-morphology-concept-of-primate-city-and-rank-size-rule">Urban morphology; Concept of primate city and rank-size rule</a></li>
-  <li><a href="#settlement-hierarchy" id="toc-settlement-hierarchy" class="nav-link" data-scroll-target="#settlement-hierarchy">Settlement hierarchy</a></li>
-  <li><a href="#august-loschs-market-centre-theory" id="toc-august-loschs-market-centre-theory" class="nav-link" data-scroll-target="#august-loschs-market-centre-theory">August Losch’s Market Centre Theory</a></li>
-  <li><a href="#causes-and-consequences-of-migration" id="toc-causes-and-consequences-of-migration" class="nav-link" data-scroll-target="#causes-and-consequences-of-migration">Causes and consequences of migration</a></li>
-  <li><a href="#christallers-central-place-theory" id="toc-christallers-central-place-theory" class="nav-link" data-scroll-target="#christallers-central-place-theory">Christaller’s Central Place Theory</a></li>
-  <li><a href="#concepts-of-over-under-and-optimum-population" id="toc-concepts-of-over-under-and-optimum-population" class="nav-link" data-scroll-target="#concepts-of-over-under-and-optimum-population">Concepts of over-under-and optimum population</a></li>
-  </ul></li>
-  <li><a href="#course-content" id="toc-course-content" class="nav-link" data-scroll-target="#course-content">Course Content</a>
-  <ul class="collapse">
-  <li><a href="#demographic-attributes" id="toc-demographic-attributes" class="nav-link" data-scroll-target="#demographic-attributes">Demographic attributes</a></li>
-  <li><a href="#functional-classification-of-towns" id="toc-functional-classification-of-towns" class="nav-link" data-scroll-target="#functional-classification-of-towns">Functional classification of towns</a></li>
-  <li><a href="#growth-and-distribution-of-world-population" id="toc-growth-and-distribution-of-world-population" class="nav-link" data-scroll-target="#growth-and-distribution-of-world-population">Growth and distribution of world population</a></li>
-  <li><a href="#population-as-social-capital." id="toc-population-as-social-capital." class="nav-link" data-scroll-target="#population-as-social-capital.">Population as social capital.</a></li>
-  <li><a href="#population-theories" id="toc-population-theories" class="nav-link" data-scroll-target="#population-theories">Population theories</a></li>
-  <li><a href="#problems-and-remedies-of-urbanization" id="toc-problems-and-remedies-of-urbanization" class="nav-link" data-scroll-target="#problems-and-remedies-of-urbanization">Problems and remedies of urbanization</a></li>
-  </ul></li>
-  <li><a href="#rural-settlements" id="toc-rural-settlements" class="nav-link" data-scroll-target="#rural-settlements">Rural Settlements</a>
-  <ul class="collapse">
-  <li><a href="#satellite-towns" id="toc-satellite-towns" class="nav-link" data-scroll-target="#satellite-towns">Satellite towns</a></li>
-  </ul></li>
-  <li><a href="#settlement-types-classification" id="toc-settlement-types-classification" class="nav-link" data-scroll-target="#settlement-types-classification">Settlement Types &amp; Classification</a></li>
-  <li><a href="#smart-cities-future-urbanism" id="toc-smart-cities-future-urbanism" class="nav-link" data-scroll-target="#smart-cities-future-urbanism">Smart Cities &amp; Future Urbanism</a>
-  <ul class="collapse">
-  <li><a href="#books-and-further-readings" id="toc-books-and-further-readings" class="nav-link" data-scroll-target="#books-and-further-readings">Books and Further Readings</a></li>
-  <li><a href="#social-well-being-and-quality-of-life" id="toc-social-well-being-and-quality-of-life" class="nav-link" data-scroll-target="#social-well-being-and-quality-of-life">Social well-being and quality of life</a></li>
-  <li><a href="#sphere-of-urban-influence" id="toc-sphere-of-urban-influence" class="nav-link" data-scroll-target="#sphere-of-urban-influence">Sphere of urban influence</a></li>
-  <li><a href="#sustainable-development-of-cities." id="toc-sustainable-development-of-cities." class="nav-link" data-scroll-target="#sustainable-development-of-cities.">Sustainable development of cities.</a></li>
-  </ul></li>
-  <li><a href="#urban-morphology-models" id="toc-urban-morphology-models" class="nav-link" data-scroll-target="#urban-morphology-models">Urban Morphology &amp; Models</a></li>
-  <li><a href="#urbanization-processes" id="toc-urbanization-processes" class="nav-link" data-scroll-target="#urbanization-processes">Urbanization Processes</a>
-  <ul class="collapse">
-  <li><a href="#world-population-problems-and-policies" id="toc-world-population-problems-and-policies" class="nav-link" data-scroll-target="#world-population-problems-and-policies">world population problems and policies</a></li>
-  </ul></li>
+  <li><a href="#rural-settlements" id="toc-rural-settlements" class="nav-link active" data-scroll-target="#rural-settlements">Rural Settlements</a></li>
+  <li><a href="#rural-settlements-types-and-patterns" id="toc-rural-settlements-types-and-patterns" class="nav-link" data-scroll-target="#rural-settlements-types-and-patterns">Rural Settlements: Types and Patterns</a></li>
+  <li><a href="#urban-settlements" id="toc-urban-settlements" class="nav-link" data-scroll-target="#urban-settlements">Urban Settlements</a></li>
+  <li><a href="#urban-settlements-and-urbanization" id="toc-urban-settlements-and-urbanization" class="nav-link" data-scroll-target="#urban-settlements-and-urbanization">Urban Settlements and Urbanization</a></li>
+  <li><a href="#internal-morphology-of-cities-and-urban-models" id="toc-internal-morphology-of-cities-and-urban-models" class="nav-link" data-scroll-target="#internal-morphology-of-cities-and-urban-models">Internal Morphology of Cities and Urban Models</a></li>
+  <li><a href="#concepts-of-urban-urbanization-and-urbanism" id="toc-concepts-of-urban-urbanization-and-urbanism" class="nav-link" data-scroll-target="#concepts-of-urban-urbanization-and-urbanism">Concepts of Urban, Urbanization, and Urbanism</a></li>
+  <li><a href="#classification-of-urban-settlements" id="toc-classification-of-urban-settlements" class="nav-link" data-scroll-target="#classification-of-urban-settlements">Classification of Urban Settlements</a></li>
+  <li><a href="#models-of-internal-urban-structure" id="toc-models-of-internal-urban-structure" class="nav-link" data-scroll-target="#models-of-internal-urban-structure">Models of Internal Urban Structure</a></li>
+  <li><a href="#central-place-theory-and-settlement-hierarchy" id="toc-central-place-theory-and-settlement-hierarchy" class="nav-link" data-scroll-target="#central-place-theory-and-settlement-hierarchy">Central Place Theory and Settlement Hierarchy</a></li>
+  <li><a href="#urban-fringe-ghettoization-and-slums" id="toc-urban-fringe-ghettoization-and-slums" class="nav-link" data-scroll-target="#urban-fringe-ghettoization-and-slums">Urban Fringe, Ghettoization, and Slums</a></li>
+  <li><a href="#trends-of-urbanization-in-india" id="toc-trends-of-urbanization-in-india" class="nav-link" data-scroll-target="#trends-of-urbanization-in-india">Trends of Urbanization in India</a></li>
+  <li><a href="#rank-size-rule-and-primate-city-concept" id="toc-rank-size-rule-and-primate-city-concept" class="nav-link" data-scroll-target="#rank-size-rule-and-primate-city-concept">Rank-Size Rule and Primate City Concept</a></li>
+  <li><a href="#theoretical-frameworks" id="toc-theoretical-frameworks" class="nav-link" data-scroll-target="#theoretical-frameworks">Theoretical Frameworks</a></li>
+  <li><a href="#settlement-hierarchy-and-central-place-theory" id="toc-settlement-hierarchy-and-central-place-theory" class="nav-link" data-scroll-target="#settlement-hierarchy-and-central-place-theory">Settlement Hierarchy and Central Place Theory</a></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -180,160 +179,114 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to the <strong>Settlement Geography</strong> module of Geography OpenCourseWare. This course examines the origin, growth, classification, and spatial arrangement of human settlements — from small rural hamlets to sprawling megacities.</p>
+<p>Welcome to the <strong>Settlement Geography</strong> module.</p>
 <hr>
-<section id="ugc-net-syllabus" class="level2">
-<h2 class="anchored" data-anchor-id="ugc-net-syllabus">UGC NET Syllabus</h2>
+<section id="rural-settlements" class="level2">
+<h2 class="anchored" data-anchor-id="rural-settlements">Rural Settlements</h2>
+</section>
+<section id="rural-settlements-types-and-patterns" class="level2">
+<h2 class="anchored" data-anchor-id="rural-settlements-types-and-patterns">Rural Settlements: Types and Patterns</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Types and Patterns of Rural Settlements</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Site/situation; Types, size, spacing; Internal morphology of rural settlements</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
-<li><strong>Rural Settlements (types, patterns and distribution), Contemporary Problems of Rural Settlements (rural-urban migration; land use changes; land acquisition and transactions).</strong></li>
-<li><strong>Theories of Origin of Towns (Gordon Childe, Henri Pirenne, Lewis Mumford).</strong></li>
-<li><strong>Characteristics and Processes of Urbanization in Developed and Developing Countries.</strong></li>
-<li><strong>Urban Systems (the law of the primate city and rank size rule), Central Place Theories (Christaller and Losch).</strong></li>
-<li><strong>Internal Structure of the City, Models of Urban Land Use (Burgess, Harris and Ullman, and Hoyt).</strong></li>
-<li><strong>Concepts of Megacities, Global Cities and Edge Cities, Changing Urban Forms, Social Segregation in the City, Urban Social Area Analysis, Manifestation of Poverty in the City (slums, informal sector growth, crime and social exclusion).</strong></li>
+<li><strong>Settlement</strong>: Any form of human habitation from a single dwelling to a megalopolis.</li>
+<li><strong>Site vs.&nbsp;Situation</strong>: Site is the exact physical ground (e.g., hilltop, riverbank). Situation is the relative location concerning surrounding features.</li>
+<li><strong>Types of Rural Settlements</strong>:
+<ul>
+<li><em>Clustered (Nucleated)</em>: Houses built close together, sharing common land/amenities (common in fertile plains).</li>
+<li><em>Semi-clustered</em>: Nucleated core with dispersed hamlets around it.</li>
+<li><em>Hamleted</em>: Physically fragmented into several units bearing a common name (Panna, Para, Dhani).</li>
+<li><em>Dispersed (Scattered)</em>: Isolated farms/dwellings separated by fields/pastures (mountain/arid regions).</li>
+</ul></li>
+<li><strong>Patterns</strong>: Determined by site lines — Linear (along roads/rivers), Rectangular, Circular (around lakes), Star-like (crossroads).</li>
 </ul>
+</div>
+</div>
 <hr>
-<section id="site-and-situation-of-settlements" class="level3">
-<h3 class="anchored" data-anchor-id="site-and-situation-of-settlements">Site and situation of settlements</h3>
-<p>Content for Site and situation of settlements coming soon.</p>
-</section>
-<section id="types-size-and-spacing-of-settlements" class="level3">
-<h3 class="anchored" data-anchor-id="types-size-and-spacing-of-settlements">Types, size, and spacing of settlements</h3>
-<p>Content for Types, size, and spacing of settlements coming soon.</p>
-</section>
 </section>
 <section id="urban-settlements" class="level2">
 <h2 class="anchored" data-anchor-id="urban-settlements">Urban Settlements</h2>
-<p>The geography of cities and towns.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-important callout-titled">
+</section>
+<section id="urban-settlements-and-urbanization" class="level2">
+<h2 class="anchored" data-anchor-id="urban-settlements-and-urbanization">Urban Settlements and Urbanization</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Urban Systems
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li><strong>Definition of Urban</strong>: Census criteria — population size, density, and proportion in non-agricultural activities.</li>
-<li><strong>Urban Functions</strong>: Central business district (CBD), industrial, residential, and recreational zones.</li>
-<li><strong>Rank-Size Rule</strong>: The relationship between city size and its rank in a national urban hierarchy.</li>
-<li><strong>Primate City</strong>: When one city dominates the national urban system (London, Paris, Bangkok).</li>
-<li><strong>World / Global Cities</strong>: Cities that serve as command centers in the global economy (New York, Tokyo, London).</li>
-</ul>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Concept/Classification of Urban Settlements; World Urbanization</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Urbanization process; Settlement systems</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
-<section id="ecological-processes-of-urban-growth" class="level3">
-<h3 class="anchored" data-anchor-id="ecological-processes-of-urban-growth">Ecological processes of urban growth</h3>
-<p>Content for Ecological processes of urban growth coming soon.</p>
-</section>
-<section id="rural-urban-fringe" class="level3">
-<h3 class="anchored" data-anchor-id="rural-urban-fringe">Rural-urban fringe</h3>
-<p>Content for Rural-urban fringe coming soon.</p>
-</section>
-<section id="city-region-concepts" class="level3">
-<h3 class="anchored" data-anchor-id="city-region-concepts">City-region concepts</h3>
-<p>Content for City-region concepts coming soon.</p>
-</section>
-<section id="settlement-systems" class="level3">
-<h3 class="anchored" data-anchor-id="settlement-systems">Settlement systems</h3>
-<p>Content for Settlement systems coming soon.</p>
-</section>
-<section id="urban-morphology-concept-of-primate-city-and-rank-size-rule" class="level3">
-<h3 class="anchored" data-anchor-id="urban-morphology-concept-of-primate-city-and-rank-size-rule">Urban morphology; Concept of primate city and rank-size rule</h3>
-<p>Content for Urban morphology; Concept of primate city and rank-size rule coming soon.</p>
-</section>
-<section id="settlement-hierarchy" class="level3">
-<h3 class="anchored" data-anchor-id="settlement-hierarchy">Settlement hierarchy</h3>
-<p>Content for Settlement hierarchy coming soon.</p>
-</section>
-<section id="august-loschs-market-centre-theory" class="level3">
-<h3 class="anchored" data-anchor-id="august-loschs-market-centre-theory">August Losch’s Market Centre Theory</h3>
-<p>Content for August Losch’s Market Centre Theory coming soon.</p>
-</section>
-<section id="causes-and-consequences-of-migration" class="level3">
-<h3 class="anchored" data-anchor-id="causes-and-consequences-of-migration">Causes and consequences of migration</h3>
-<p>Content for Causes and consequences of migration coming soon.</p>
-</section>
-<section id="christallers-central-place-theory" class="level3">
-<h3 class="anchored" data-anchor-id="christallers-central-place-theory">Christaller’s Central Place Theory</h3>
-<p>Content for Christaller’s Central Place Theory coming soon.</p>
-</section>
-<section id="concepts-of-over-under-and-optimum-population" class="level3">
-<h3 class="anchored" data-anchor-id="concepts-of-over-under-and-optimum-population">Concepts of over-under-and optimum population</h3>
-<p>Content for Concepts of over-under-and optimum population coming soon.</p>
-</section>
-</section>
-<section id="course-content" class="level2">
-<h2 class="anchored" data-anchor-id="course-content">Course Content</h2>
-<ul>
-<li><a href="#settlement-types-classification">Settlement Types &amp; Classification</a></li>
-<li><a href="#rural-settlements">Rural Settlements</a></li>
-<li><a href="#urban-settlements">Urban Settlements</a></li>
-<li><a href="#urbanization-processes">Urbanization Processes</a></li>
-<li><a href="#urban-morphology-models">Urban Morphology &amp; Models</a></li>
-<li><a href="#smart-cities-future-urbanism">Smart Cities &amp; Future Urbanism</a></li>
-</ul>
-<hr>
-<section id="demographic-attributes" class="level3">
-<h3 class="anchored" data-anchor-id="demographic-attributes">Demographic attributes</h3>
-<p>Content for Demographic attributes coming soon.</p>
-</section>
-<section id="functional-classification-of-towns" class="level3">
-<h3 class="anchored" data-anchor-id="functional-classification-of-towns">Functional classification of towns</h3>
-<p>Content for Functional classification of towns coming soon.</p>
-</section>
-<section id="growth-and-distribution-of-world-population" class="level3">
-<h3 class="anchored" data-anchor-id="growth-and-distribution-of-world-population">Growth and distribution of world population</h3>
-<p>Content for Growth and distribution of world population coming soon.</p>
-</section>
-<section id="population-as-social-capital." class="level3">
-<h3 class="anchored" data-anchor-id="population-as-social-capital.">Population as social capital.</h3>
-<p>Content for Population as social capital. coming soon.</p>
-</section>
-<section id="population-theories" class="level3">
-<h3 class="anchored" data-anchor-id="population-theories">Population theories</h3>
-<p>Content for Population theories coming soon.</p>
-</section>
-<section id="problems-and-remedies-of-urbanization" class="level3">
-<h3 class="anchored" data-anchor-id="problems-and-remedies-of-urbanization">Problems and remedies of urbanization</h3>
-<p>Content for Problems and remedies of urbanization coming soon.</p>
-</section>
-</section>
-<section id="rural-settlements" class="level2">
-<h2 class="anchored" data-anchor-id="rural-settlements">Rural Settlements</h2>
-<p>The geography of villages and agricultural communities.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Rural Landscape
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>Factors Affecting Rural Settlement</strong>: Water supply, terrain, soil fertility, defense, and transport.</li>
-<li><strong>Settlement Patterns in India</strong>: Compact villages (Punjab), dispersed (hills), semi-clustered (Gujarat).</li>
-<li><strong>Agrarian Settlements</strong>: Land tenure systems, field patterns, and farmstead arrangements.</li>
-<li><strong>Rural-Urban Fringe</strong>: The transition zone between countryside and city — land use conflicts and commuter villages.</li>
-</ul>
-</div>
-</div>
-<section id="satellite-towns" class="level3">
-<h3 class="anchored" data-anchor-id="satellite-towns">Satellite towns</h3>
-<p>Content for Satellite towns coming soon.</p>
-</section>
-</section>
-<section id="settlement-types-classification" class="level2">
-<h2 class="anchored" data-anchor-id="settlement-types-classification">Settlement Types &amp; Classification</h2>
-<p>Categorizing human settlements.</p>
 <p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
 <p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -342,89 +295,51 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Settlement Hierarchy
+<span class="screen-reader-only">Note</span>Key Concepts
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Dispersed vs.&nbsp;Nucleated</strong>: Isolated farmsteads vs.&nbsp;compact village forms.</li>
-<li><strong>Linear, Circular, Star-shaped</strong>: Settlement plan forms and their geographic determinants.</li>
-<li><strong>Hamlet, Village, Town, City, Metropolis, Megalopolis</strong>: Hierarchical classification by size and function.</li>
-<li><strong>Functional Classification</strong>: Administrative, industrial, commercial, mining, transport, and educational towns.</li>
+<li><strong>Urban Criteria</strong>: Population size, density, and occupational structure (majority non-agricultural). Varies by country (India: 5000 pop, 400 density, 75% male non-agri workforce).</li>
+<li><strong>Classification</strong>: Towns, Cities, Million-plus cities, Conurbations (Geddes), Megalopolis (Gottmann).</li>
+<li><strong>Functional Classification</strong>: Administrative, Industrial, Transport, Commercial, Mining, Garrison/Cantonment, Educational, Religious/Cultural cities.</li>
+<li><strong>World Urbanization trends</strong>: Developed world is highly urbanized (&gt;75%) but growing slowly. Developing world (Global South) is rapidly urbanizing — fueling the growth of mega-cities and peri-urban sprawl.</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="smart-cities-future-urbanism" class="level2">
-<h2 class="anchored" data-anchor-id="smart-cities-future-urbanism">Smart Cities &amp; Future Urbanism</h2>
-<p>21st century urban planning and innovation.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-important callout-titled">
+<section id="internal-morphology-of-cities-and-urban-models" class="level2">
+<h2 class="anchored" data-anchor-id="internal-morphology-of-cities-and-urban-models">Internal Morphology of Cities and Urban Models</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Important</span>Future of Cities
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<ul>
-<li><strong>Smart Cities Mission (India)</strong>: Digital infrastructure, e-governance, and sustainable urban services.</li>
-<li><strong>Transit-Oriented Development</strong>: Dense, walkable communities centered on public transport.</li>
-<li><strong>Green Urbanism</strong>: Urban forests, green roofs, water-sensitive urban design.</li>
-<li><strong>Slum Upgrading</strong>: In-situ development, affordable housing, and inclusive urbanization.</li>
-<li><strong>Urban Resilience</strong>: Climate-adaptive cities, disaster preparedness, and infrastructure redundancy.</li>
-</ul>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>UGC NET</strong></td>
+<td>Internal morphology of urban settlements; Urban fringe, City-region concepts</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
-<hr>
-<section id="books-and-further-readings" class="level3">
-<h3 class="anchored" data-anchor-id="books-and-further-readings">Books and Further Readings</h3>
-<p>Settlement Geography provides the framework for understanding how people organize themselves in space. Continue with <a href="population-geography.html">Population Geography</a> and <a href="regional-development.html">Regional Development</a> for complementary perspectives.</p>
-</section>
-<section id="social-well-being-and-quality-of-life" class="level3">
-<h3 class="anchored" data-anchor-id="social-well-being-and-quality-of-life">Social well-being and quality of life</h3>
-<p>Content for Social well-being and quality of life coming soon.</p>
-</section>
-<section id="sphere-of-urban-influence" class="level3">
-<h3 class="anchored" data-anchor-id="sphere-of-urban-influence">Sphere of urban influence</h3>
-<p>Content for Sphere of urban influence coming soon.</p>
-</section>
-<section id="sustainable-development-of-cities." class="level3">
-<h3 class="anchored" data-anchor-id="sustainable-development-of-cities.">Sustainable development of cities.</h3>
-<p>Content for Sustainable development of cities. coming soon.</p>
-</section>
-</section>
-<section id="urban-morphology-models" class="level2">
-<h2 class="anchored" data-anchor-id="urban-morphology-models">Urban Morphology &amp; Models</h2>
-<p>Theoretical frameworks for understanding city structure.</p>
-<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
-<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
-<div class="callout callout-style-default callout-tip callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Urban Structure Models
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<ul>
-<li><strong>Burgess Concentric Zone Model</strong>: City as concentric rings expanding from the CBD.</li>
-<li><strong>Hoyt Sector Model</strong>: Wedge-shaped sectors along transport corridors.</li>
-<li><strong>Harris &amp; Ullman Multiple Nuclei Model</strong>: City organized around several distinct nuclei.</li>
-<li><strong>Indian Urban Morphology</strong>: Pre-colonial, colonial, and post-colonial city forms.</li>
-<li><strong>Urban Land Use Zoning</strong>: Residential, commercial, industrial, and recreational zones.</li>
-</ul>
-</div>
-</div>
-</section>
-<section id="urbanization-processes" class="level2">
-<h2 class="anchored" data-anchor-id="urbanization-processes">Urbanization Processes</h2>
-<p>The causes, patterns, and consequences of urban growth.</p>
 <p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
 <p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
 <div class="callout callout-style-default callout-note callout-titled">
@@ -433,26 +348,471 @@ ul.task-list li input[type="checkbox"] {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Urban Dynamics
+<span class="screen-reader-only">Note</span>Key Concepts
 </div>
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Drivers of Urbanization</strong>: Rural-urban migration, natural increase, and reclassification.</li>
-<li><strong>Stages of Urbanization</strong>: Pre-industrial, industrial, post-industrial urbanization models.</li>
-<li><strong>Suburbanization</strong>: Outward expansion driven by transport, housing preference, and land cost.</li>
-<li><strong>Counter-urbanization</strong>: Migration from cities to rural areas — causes and implications.</li>
-<li><strong>Urban Sprawl</strong>: Unplanned, low-density expansion — environmental and social consequences.</li>
-<li><strong>Urbanization in India</strong>: Census trends, million-plus cities, and regional disparities.</li>
+<li><strong>Urban Morphology</strong>: The physical layout, structure, and land-use patterns of a city. CBD (Central Business District), residential zones, industrial zones.</li>
+<li><strong>Classical Models of Urban Structure</strong>:
+<ul>
+<li><em>Concentric Zone Model (Burgess, 1925)</em>: City grows in rings from CBD outward (Transition zone, working-class, commuter zone). Based on Chicago.</li>
+<li><em>Sector Model (Hoyt, 1939)</em>: Growth happens in wedge-shaped sectors radiating from CBD along transport routes.</li>
+<li><em>Multiple Nuclei Model (Harris &amp; Ullman, 1945)</em>: A city has multiple centers/nodes around which different activities cluster.</li>
+</ul></li>
+<li><strong>Urban Fringe</strong>: The transition zone where urban and rural land uses mix. Zone of rapid change, land speculation, and infrastructure deficit.</li>
+<li><strong>City-Region</strong>: The city and its surrounding hinterland that are functionally integrated (commuting, trade, services).</li>
 </ul>
 </div>
 </div>
-<section id="world-population-problems-and-policies" class="level3">
-<h3 class="anchored" data-anchor-id="world-population-problems-and-policies">world population problems and policies</h3>
-<p>Content for world population problems and policies coming soon.</p>
-
-
 </section>
+<section id="concepts-of-urban-urbanization-and-urbanism" class="level2">
+<h2 class="anchored" data-anchor-id="concepts-of-urban-urbanization-and-urbanism">Concepts of Urban, Urbanization, and Urbanism</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Concept of Urban, Urbanization and Urbanism</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Settlement systems</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Urban</strong>: An area characterized by high population density, built environment, and non-agricultural occupations.</li>
+<li><strong>Urbanization</strong>: The demographic process (structural shift) whereby a growing percentage of a population lives in urban areas. Linked to industrialization and economic development.</li>
+<li><strong>Urbanism</strong>: A way of life, attitudes, values, and patterns of behavior characteristic of city dwellers (Louis Wirth).</li>
+<li><strong>Scope of Urban Geography</strong>: Studies the spatial aspects of urban development, the internal structure of cities, and the relationships between cities conceptually and functionally.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="classification-of-urban-settlements" class="level2">
+<h2 class="anchored" data-anchor-id="classification-of-urban-settlements">Classification of Urban Settlements</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Census vs statutory towns, functional classification</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Types, size, and spacing of settlements</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Statutory Town</strong>: Places with a municipality, corporation, cantonment board or notified town area committee.</li>
+<li><strong>Census Town</strong>: Places satisfying 3 criteria: Pop &gt; 5,000; &gt; 75% male main working population in non-agricultural pursuits; Density &gt; 400 persons/sq.km.</li>
+<li><strong>Functional Classification</strong>: Categorizing cities by their dominant economic activity (e.g., Administrative - New Delhi, Industrial - Jamshedpur, Religious - Varanasi). Ashish Bose and Ashok Mitra classifications in India.</li>
+<li><strong>Emerging Concepts</strong>: Smart City (technology-driven efficiency), Global City (Sassen - nodes of global finance/trade like NY, London, Tokyo), Compact City (high density, transit-oriented).</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="models-of-internal-urban-structure" class="level2">
+<h2 class="anchored" data-anchor-id="models-of-internal-urban-structure">Models of Internal Urban Structure</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Burgess, Hoyt, Harris and Ullman</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Internal morphology of urban settlements</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Concentric Zone Model (Burgess, 1925)</strong>: City grows outward in concentric rings from the CBD (Central Business District). Based on Chicago. Driven by land value and social mobility.</li>
+<li><strong>Sector Model (Hoyt, 1939)</strong>: City grows in wedge-shaped sectors radiating from the CBD along transport corridors. High-class residential seeks best amenities/highest ground.</li>
+<li><strong>Multiple Nuclei Model (Harris &amp; Ullman, 1945)</strong>: Rejects single CBD. City develops around several distinct nuclei (nodes) like ports, universities, or industrial parks, driven by agglomeration and repelling forces.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="central-place-theory-and-settlement-hierarchy" class="level2">
+<h2 class="anchored" data-anchor-id="central-place-theory-and-settlement-hierarchy">Central Place Theory and Settlement Hierarchy</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit II &amp; III — Hierarchy of urban settlements, Christaller</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Christaller’s Central Place Theory, Market Centre Theory</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Christaller’s Central Place Theory (1933)</strong>: Explains the size, spacing, and number of settlements.
+<ul>
+<li><em>Assumptions</em>: Isotropic plain, uniform transport cost, rational consumers.</li>
+<li><em>Concepts</em>: Threshold (minimum population to support a service), Range (maximum distance people will travel).</li>
+<li><em>Hierarchy</em>: Hexagonal trade areas. K=3 (Marketing), K=4 (Transport), K=7 (Administrative).</li>
+</ul></li>
+<li><strong>August Lösch (1940)</strong>: Modified Christaller by building the model from the bottom up (starting from the lowest order goods) to maximize consumer welfare and create complex economic landscapes.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="urban-fringe-ghettoization-and-slums" class="level2">
+<h2 class="anchored" data-anchor-id="urban-fringe-ghettoization-and-slums">Urban Fringe, Ghettoization, and Slums</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit II — Slum, ghettoization, gentrification, Peri-urban</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Urban fringe, Ecological processes of urban growth</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Peri-Urban / Urban Fringe</strong>: The transition zone where urban and rural land uses mix. Highly dynamic, characterized by land speculation, shifting agriculture, and lacking urban amenities.</li>
+<li><strong>Slums</strong>: Informal settlements lacking basic services, characterized by overcrowding and poverty. Result of rapid rural-urban migration exceeding city capacity.</li>
+<li><strong>Ghettoization</strong>: Spatial isolation of an ethnic, religious, or socio-economic minority group (intentional or systemic).</li>
+<li><strong>Gentrification</strong>: Renewal/rebuilding of deteriorated urban neighborhoods by influx of more affluent residents, often displacing poorer original inhabitants.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="trends-of-urbanization-in-india" class="level2">
+<h2 class="anchored" data-anchor-id="trends-of-urbanization-in-india">Trends of Urbanization in India</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Trends and patterns of urbanization in World and India</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Indian Urbanization</strong>: Currently around 35% (census/estimates). Characterized as “over-urbanization” or “urbanization without industrialization” where pushing forces (rural poverty) are stronger than pulling forces (urban jobs).</li>
+<li><strong>Top-Heavy Structure</strong>: Growth is highly concentrated in Class I cities and metropolises, causing regional imbalances and straining infrastructure.</li>
+<li><strong>Urban Policy and Governance</strong>: AMRUT, Smart Cities Mission, Swachh Bharat Abhiyan (Urban). Governance involves balancing economic growth with social equity and environmental sustainability in “unequal cities”.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="rank-size-rule-and-primate-city-concept" class="level2">
+<h2 class="anchored" data-anchor-id="rank-size-rule-and-primate-city-concept">Rank-Size Rule and Primate City Concept</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>UGC NET</strong></td>
+<td>Rank-Size rule, Primate city</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Rank-Size Rule (G.K. Zipf, 1949)</strong>: The population of a city is inversely proportional to its rank in the urban hierarchy (<span class="math inline">\(P_r = P_1 / r\)</span>). Represents a balanced, integrated urban system.
+<ul>
+<li>E.g., The USA roughly follows this rule.</li>
+</ul></li>
+<li><strong>Primate City (Mark Jefferson, 1939)</strong>: The largest city is “supereminent” and disproportionately larger than the second largest city (often &gt;2x). It dominates the country politically and economically.
+<ul>
+<li>E.g., Paris, London, Mexico City, Bangkok.</li>
+<li>Often indicates centralization, colonial legacy, or an underdeveloped national settlement network.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<hr>
+</section>
+<section id="theoretical-frameworks" class="level2">
+<h2 class="anchored" data-anchor-id="theoretical-frameworks">Theoretical Frameworks</h2>
+</section>
+<section id="settlement-hierarchy-and-central-place-theory" class="level2">
+<h2 class="anchored" data-anchor-id="settlement-hierarchy-and-central-place-theory">Settlement Hierarchy and Central Place Theory</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>UGC NET</strong></td>
+<td>Christaller’s Central Place Theory, August Losch’s Market Centre Theory, Primate city, Rank-Size rule</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Central Place Theory (Christaller, 1933)</strong>: Explains the size, number, and distribution of human settlements.
+<ul>
+<li><em>Concepts</em>: Central place (provides goods/services), Threshold (minimum market needed to support a service), Range (maximum distance people will travel for a good).</li>
+<li><em>Geometry</em>: Hexagonal hinterlands. Hierarchies based on K-values: K=3 (Marketing principle), K=4 (Transport principle), K=7 (Administrative principle).</li>
+</ul></li>
+<li><strong>Lösch’s Modification</strong>: More flexible, allowing for specialized production centers rather than strict hierarchies.</li>
+<li><strong>Rank-Size Rule (Zipf)</strong>: In a national settlement system, the <span class="math inline">\(n^{th}\)</span> largest city’s population is <span class="math inline">\(1/n\)</span> of the largest city’s population (<span class="math inline">\(P_n = P_1/n\)</span>). Indicates an integrated, balanced urban system.</li>
+<li><strong>Primate City (Jefferson)</strong>: A city disproportionately larger (&gt; twice) than the second largest, dominating the country politically/economically (e.g., Paris, Bangkok, London). Indicates centralization/underdevelopment.</li>
+</ul>
+</div>
+</div>
+
+
 </section>
 
 </main> <!-- /main -->
