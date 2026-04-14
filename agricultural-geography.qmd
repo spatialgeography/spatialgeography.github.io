@@ -62,17 +62,17 @@ Welcome to the **Agricultural Geography** module of Geography OpenCourseWare. Th
 
 {{< include agricultural-geography/20-major-crops-distribution.md >}}
 
-{{< include agricultural-geography/09-major-industries-and-industrial-regions.md >}}
+{{< include agricultural-geography/21-major-industries-and-industrial-regions.md >}}
 
 {{< include agricultural-geography/02-measurement-of-agricultural-productivity-and-efficiency.md >}}
 
-{{< include agricultural-geography/08-mineral-and-power-resources.md >}}
+{{< include agricultural-geography/22-mineral-and-power-resources.md >}}
 
-{{< include agricultural-geography/10-population-distribution-and-growth.md >}}
+{{< include agricultural-geography/23-population-distribution-and-growth.md >}}
 
-{{< include agricultural-geography/12-regional-disparities-in-social-and-economic-development.md >}}
+{{< include agricultural-geography/24-regional-disparities-in-social-and-economic-development.md >}}
 
-{{< include agricultural-geography/11-settlement-patterns.md >}}
+{{< include agricultural-geography/25-settlement-patterns.md >}}
 
 {{< include agricultural-geography/26-significance-of-dry-farming.md >}}
 
