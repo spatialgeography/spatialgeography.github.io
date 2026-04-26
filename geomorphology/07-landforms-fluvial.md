@@ -33,6 +33,7 @@
 - **Impoundment:** The impoundment of a river (e.g., by a dam) decreases its downstream entrainment capacity because water velocity drops in the reservoir.
 - **Tectonic Sinuosity:** Sinuosity of an alluvial river **decreases** if slope increases due to tectonic movement. Channel slope usually increases downstream of an uplifting anticlinal axis.
 - **Sediment Stratum:** In a river terrace, a continuous stratum of pebbles within layers of sands indicates that the **river was moving fast** at the time of deposition.
+- **Potholes:** The formation of potholes in river beds is a classic example of **Corrasion** (Abrasion).
 
 ---
 

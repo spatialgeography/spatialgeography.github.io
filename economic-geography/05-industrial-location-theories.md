@@ -15,7 +15,7 @@
 
 ::: {.callout-note}
 ### Key Concepts
-* **Alfred Weber's Least Cost Theory (1909)**: Location minimizes transport and labour costs. Uses locational triangle (two raw materials, one market). 
+* **Alfred Weber's Least Cost Theory (1909)**: Location minimizes transport and labour costs. Weber used the **Locational triangle** (two raw materials, one market) to find the optimal point where **Total transport cost is minimum**.
   - *Material Index* = Weight of localized raw materials / Weight of finished product. MI > 1 = material-oriented; MI < 1 = market-oriented.
   - *Isodapanes*: Lines of equal total transport cost.
 * **August Lösch's Profit Maximization Theory (1954)**: Location where profit is maximized (total revenue minus total cost). Spatial demand cone; hexagonal market areas.

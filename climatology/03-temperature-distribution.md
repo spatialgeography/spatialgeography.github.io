@@ -48,3 +48,4 @@
 | **Convection Inversion** | Cumulonimbus clouds form | — |
 | **Frontal Inversion** | Convergence of warm and cold air masses | — |
 | **Trade Wind Inversion** | — | — |
+| **Blocking Anticyclone** | Associated with NW Europe in both winter and summer. It causes prolonged cold dry seasons in Western Europe and exceptionally fine weather in summer. | NW Europe |

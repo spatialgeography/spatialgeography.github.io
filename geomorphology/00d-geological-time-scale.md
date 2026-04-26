@@ -31,6 +31,7 @@ The Geological Time Scale is the chronological programming of geological forms b
 | **Cretaceous** | 145–66 | 'Creta' means chalk; extinction of reptiles; Deccan Lava. |
 
 ### 4. Cenozoic (New Life)
+The Tertiary period consists of five epochs in chronological order (ancient to recent): **Paleocene → Eocene → Oligocene → Miocene → Pliocene**.
 
 | Epoch | Age (Ma) | Key Features |
 |:---|:---|:---|

@@ -40,7 +40,7 @@
 
 | Type | Process | Example |
 |:---|:---|:---|
-| **Constructive** | Divergent / Spreading | Mid-Atlantic Ridge |
+| **Constructive** | Divergent / Spreading; Higher elevation of the mid-oceanic ridge relative to the flanking sea-floor is best explained by **Airy's theory of isostasy**. | Mid-Atlantic Ridge |
 | **Destructive** | Convergent / Subduction | Nazca vs. South American (Andes) |
 | **Conservative** | Transform Fault; located along ocean-floor fracture zones and continental faults like San Andreas. | San Andreas Fault |
 | **Wilson Cycle** | Model describing the stages of opening and closing of ocean basins. | — |

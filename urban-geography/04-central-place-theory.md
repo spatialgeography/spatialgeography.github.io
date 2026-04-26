@@ -19,5 +19,6 @@
   - *Assumptions*: Isotropic plain, uniform transport cost, rational consumers.
   - *Concepts*: Threshold (minimum population to support a service), Range (maximum distance people will travel).
   - *Hierarchy*: Hexagonal trade areas. K=3 (Marketing), K=4 (Transport), K=7 (Administrative).
+  - **Nesting Pattern (K=3):** The progression of the number of settlements in successive orders follows the sequence **1, 3, 9, 27, 81...**
 * **August Lösch (1940)**: Modified Christaller by building the model from the bottom up (starting from the lowest order goods) to maximize consumer welfare and create complex economic landscapes.
 :::

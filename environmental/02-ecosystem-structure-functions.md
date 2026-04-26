@@ -25,7 +25,8 @@ An ecosystem is a functional unit of nature where living organisms interact with
     - **Chemo autotrophs:** Obtain energy from oxidation of compounds.
     - **Zymogenous organisms:** Proliferate rapidly in the presence of an organic substrate.
     - **Facultative organisms:** Can adapt to the presence or absence of oxygen.
-  - *Abiotic Components*: Climate, soil, water, light, nutrients
+  - *Abiotic Components*: Climate, soil, water, light, nutrients.
+    - **Tropophytes:** Plants that behave as a xerophyte in one season and as a hydrophyte in another (e.g., deciduous trees).
 * **Food Chain**: Linear sequence of energy transfer — grazing chain, detritus chain.
 * **Food Web**: Complex, interconnected network of multiple food chains in an ecosystem.
 * **Trophic Levels**: Producers (T1), Primary consumers (T2), Secondary consumers (T3), Tertiary consumers (T4).

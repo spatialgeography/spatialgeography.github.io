@@ -20,6 +20,8 @@ The geography of villages and agricultural communities.
   - **Circular pattern:** Settlements developing around a fort or temple.
   - **Nucleated pattern:** Typically associated with regions of **intensive cropping**.
   - **Hamlet Settlements:** Form through historical farming practices and are community oriented, with less extensive transport networks. They generally do *not* decline due to government intervention through investments in rural areas.
+- **Nearest Neighbour Analysis:** Used to measure the degree of **clustering** or **dispersion** in a settlement pattern.
+- **E. Bylund:** Proposed a model for the **expansion of rural settlements** based on a physical-geographic approach.
 * **Settlement Patterns in India**: Compact villages (Punjab), dispersed (hills), semi-clustered (Gujarat).
 * **Agrarian Settlements**: Land tenure systems, field patterns, and farmstead arrangements.
 * **Rural-Urban Fringe**: The transition zone between countryside and city — land use conflicts and commuter villages.

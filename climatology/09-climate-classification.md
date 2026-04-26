@@ -144,6 +144,12 @@
 - **Complexity and Replicability:** It uses complex indices, making it difficult to replicate for other areas.
 - **Overemphasis on Water Balance:** This rigid mathematical approach may not accurately capture true, holistic climate variability.
 
+### Köppen Symbol Matching
+- **Tropical Monsoon:** Am
+- **Mediterranean:** Csa / Csb
+- **Tropical Hot Desert:** Bwh
+- **Arctic:** ET / EF
+
 ---
 
 ### Major Classification Systems Summary

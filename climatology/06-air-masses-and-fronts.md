@@ -53,7 +53,8 @@
 - Dry climate conditions
 
 #### Occluded Front
-- When a cold front **overtakes a warm front** and lifts the warm air mass completely off the ground
+- When a cold front **overtakes a warm front** and lifts the warm air mass completely off the ground.
+- **Warm Occluded Front:** The air behind the cold front is **warmer** than the cool air it is overtaking.
 
 #### Quasi-Stationary Front
 - Front becomes almost stationary

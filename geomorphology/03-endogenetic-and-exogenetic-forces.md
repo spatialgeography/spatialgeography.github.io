@@ -23,7 +23,7 @@
 - **Pelean:** 800°C; most violent (Mont Pelée).
 
 #### Volcanic Landforms
-- **Extrusive:** Ash cones, Composite cones (Strato), Calderas, Lava Plateaus (Deccan). The **Rajmahal Hills**, formed by the eruption of basalts from the Kerguelen Hotspot about 100 million years ago, are partly connected to it by the 90-E ridge. **Cocos Island** is notably NOT a hotspot (unlike Easter, Tristan da Cunha, or Réunion).
+- **Extrusive:** Ash cones, Composite cones (Strato), Calderas, Lava Plateaus (Deccan). **Lapilli** is a fragmented product specifically associated with volcanic eruptions. The **Rajmahal Hills**, formed by the eruption of basalts from the Kerguelen Hotspot about 100 million years ago, are partly connected to it by the 90-E ridge. **Cocos Island** is notably NOT a hotspot (unlike Easter, Tristan da Cunha, or Réunion).
 - **Intrusive:** Batholiths (largest), Laccoliths (dome), Lopoliths (saucer), Phacoliths (wave), Sills (horizontal), Dykes (vertical).
 
 ---
@@ -65,7 +65,7 @@ Rock strata under horizontal compression.
 ### 4. Faults
 
 Fractures in the crust along which displacement occurs.
-- **Normal Fault:** Due to tension; creates **Rift Valleys** (e.g., Great Rift Valley of Africa, Rhine Valley).
+- **Normal Fault:** Due to tension; **Hanging wall moves downward relative to the foot wall**. Creates **Rift Valleys** (e.g., Great Rift Valley of Africa, Rhine Valley).
 - **Reverse Fault:** Due to compression; creates **Horsts / Block Mountains** (e.g., Black Forest, Vosges).
 - **Thrust Fault:** Similar to reverse faults but with a very low dip angle; typically accommodates **shortening in the earth's crust**.
 - **Lateral / Strike-slip:** Horizontal movement (e.g., San Andreas Fault).

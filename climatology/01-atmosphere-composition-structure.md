@@ -51,7 +51,7 @@
 
 #### Troposphere
 - **Altitude:** 0–8 km (poles) to 16 km (equator); Avg = 16 km
-- **Lapse Rate:** 1°C per 165 m (or 6.4°C per km)
+- **Lapse Rate:** 1°C per 165 m (or 6.4°C per km). A **negative lapse rate** is synonymous with **temperature inversion**, where temperature increases with height.
 - **Water vapour:** 5000 ppm (lower) to 100 ppm (upper, 11–12 km)
 - **Pressure:** 1013 mb at sea level → 200 mb at 12 km
 - **Density:** 1 kg/m³ → 0.2 kg/m³ at top

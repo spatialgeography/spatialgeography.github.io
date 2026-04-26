@@ -19,7 +19,7 @@ A biome is a large-scale biotic community characterized by dominant vegetation t
 ### NEP-2020 Classification (Climate-based)
 * **Equatorial Biome**: Tropical evergreen rainforests — high temperature, heavy rainfall (>200 cm rainfall, 15–30°C), greatest biodiversity (Amazon, Congo, Southeast Asia).
 * **Subtropical Biome**: Savanna, Mediterranean — seasonal rainfall, dry winters or dry summers.
-* **Temperate Biome**: Deciduous and mixed forests, grasslands (prairies, steppes) — moderate climate with four distinct seasons.
+* **Temperate Biome**: Deciduous and mixed forests, grasslands (prairies, steppes) — moderate climate with four distinct seasons. **Teak and Sal** are the most dominant species in **Tropical Deciduous Forests**.
 * **Polar Biome**: Tundra and ice caps — extreme cold, permafrost, limited vegetation (lichens, mosses).
 :::
 

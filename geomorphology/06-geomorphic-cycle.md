@@ -19,8 +19,8 @@ Davis proposed that landforms develop in a predictable sequence based on Darwini
 1. **Youth:** Stream lengthening, valley deepening, steep slopes, V-shaped valleys.
 2. **Maturity:** Lateral erosion begins, V-shaped valleys broaden, profile of equilibrium starts.
 3. **Old Age:** Base level of erosion reached; formation of a **Peneplain** (almost a plain) with residual hills called **Monadnocks**. The rate of erosion is minimal, and **Entropy is maximised** on the peneplain.
-- **Etch-surface:** A product of two phases of erosion (deep weathering followed by stripping of the saprolite).
-*Note: The **Hypsometric integral** provides quantitative support for the idea of Davis' three stages of landform development.*
+- **Etch-surface / Etchplain:** A product of two phases of erosion (deep weathering followed by stripping of the saprolite). The deep weathering process is fundamentally linked to the formation of **Etchplains**.
+*Note: The **Hypsometric integral** provides quantitative support for the idea of Davis' three stages of landform development. A value of **0.18** denotes maximum erosion of a drainage basin area down to its base level.*
 
 ---
 

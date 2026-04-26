@@ -23,4 +23,5 @@
 * **Vector Data Model**: Represents geographical features as points, lines, and polygons.
 * **Raster Analysis**: Map Algebra (local, focal, zonal, global operations), suitability modeling.
 * **Bilinear Interpolation**: A resampling technique that uses a weighted average of the **four closest pixels** to determine the new pixel value.
+* **Overlay Analysis Applications:** This technique is suitable for identifying changes in river **bankline polygons** across different years.
 :::

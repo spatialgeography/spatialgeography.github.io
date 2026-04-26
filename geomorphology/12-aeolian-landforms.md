@@ -14,12 +14,14 @@
 - **Erg:** Sandy desert (Sahara).
 - **Reg:** Stony desert (Algeria).
 - **Hammada:** Rocky desert (Sahara).
+- **Sheet Flood:** A major land-forming process in arid and semi-arid regions, occurring when high intensity, short duration rainfall causes water to flow as a broad sheet over the surface.
 
 ### 2. Erosional Landforms
 - **Blow-out:** Hollows formed by wind deflation.
 - **Mushroom Rock (Gara / Pedestal Rock):** Formed by abrasion near the ground.
-- **Zeugen:** Ridge-and-furrow landscape in layered rocks.
-- **Yardang:** Vertical rock ridges.
+- **Zeugen:** Ridge-and-furrow landscape in layered rocks (erosional).
+- **Yardang:** Vertical rock ridges (erosional).
+- **Mesa:** A flat-topped hill with steep sides (erosional landform common in arid environments).
 - **Inselberg (Bornhardt):** Isolated residual hill in arid plains.
 - **Demoiselles:** Earth pillars.
 

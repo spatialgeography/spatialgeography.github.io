@@ -30,7 +30,13 @@
 | Tor Bergeron & Findeisen (1933) | Ice Crystal Process of precipitation |
 | Luke Howard (1803) | First cloud classification |
 | Lucian Vidie (1843) | Invented Aneroid Barometer |
+| **Admiral Beaufort** | **Beaufort scale**: relates to the **Velocity of Winds**. |
 | R.K. Pachauri | Crop yield impact of global warming |
+
+---
+
+## Key Formulae
+- **Relative Humidity (RH):** $\frac{\text{Actual water vapour content}}{\text{Water vapour capacity (saturation)}} \times 100$. (e.g., at 25°C, if capacity is 20g and content is 15g, $RH = (15/20) \times 100 = 75\%$).
 
 ---
 

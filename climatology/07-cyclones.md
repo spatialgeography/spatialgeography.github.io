@@ -77,6 +77,8 @@
 - **Fujita Scale (F-scale)** — T. Theodore Fujita, University of Chicago
 - **Mamma clouds** — formed at the base of severe thunderstorms
 - **News clouds** — appear like a long rolling cylinder / wedge
+- **Doppler Radar:** Used for **Nowcasting** (very short-range weather forecasting).
+- **Water spout:** An intense low pressure system similar to a tornado but develops over a sea or large water-body; typically associated with a cumulonimbus cloud-base.
 
 #### Structure of Tropical Cyclone
 

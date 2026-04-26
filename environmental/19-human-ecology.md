@@ -32,5 +32,8 @@ Human ecology studies the relationships between human societies and their natura
   - Agricultural intensification and land-use change
   - Resource extraction and waste generation
 * **Urban Ecology**: Ecosystem dynamics in urban areas — heat islands, green spaces, urban biodiversity.
+* **Social Ecology & Concepts:**
+  - **Kropotkin:** Developed the idea of social interaction within social groups under the principle of **Mutual aid**.
+  - **Frederic le Play:** Originator of the conceptual interplay between **"place-work-folk"**, a foundation of social geography.
 :::
 

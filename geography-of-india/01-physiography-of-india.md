@@ -26,6 +26,8 @@
   - *Tropic of Cancer:* Passes through eight Indian states including Rajasthan, Madhya Pradesh, Chhattisgarh, and West Bengal.
   - *Indian Sundarban Region:* Eroding in the southern sea-facing section with little change or accreting in the northern interior section.
 * **The Islands**: Andaman & Nicobar (volcanic/tectonic origin) and Lakshadweep (coral origin).
+  - **Ten Degree Channel:** Separates the **Andaman Islands** (Little Andaman) from the **Nicobar Islands** (Car Nicobar).
+* **Syntaxial Bends:** The Himalayan mountain range exhibits two major syntaxial bends — the **Western** (near the Indus gorge) and the **Eastern** (near the Tsangpo/Zangbo gorge).
 * **Fluvial Indicators:**
   - **Pebble Stratum:** Usually associated with a **fast-flowing river**.
 * **Geological Evolution Chronology:** (i) Northward movement of Indian plate → (ii) Deccan plateau hotspot volcanism → (iii) Collision of Indian plate with Eurasian plate → (iv) Formation of Narmada fault system.

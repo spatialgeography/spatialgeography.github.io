@@ -25,6 +25,8 @@
 - **Stack:** Isolated pillar of rock.
 - **Stump:** Low-level eroded stack.
 - **Geo / Inlets:** Long narrow opening in the cliff.
+- **Runnel:** A linear depression or channel on a beach, often separated from the sea by a ridge.
+- **Sediment Dynamics:** Coasts tend to become **sandy to muddy** as the tidal range changes from micro to macro. Mangrove vegetation in tropical coasts is highly conducive to the deposition of fine sediments.
 
 ### 3. Depositional Landforms
 - **Beach:** Sandy or pebbly deposit.

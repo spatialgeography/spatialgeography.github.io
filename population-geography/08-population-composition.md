@@ -21,8 +21,10 @@
 * **2011 Census Highlights (Religion & Caste)**:
   - Highest proportion of **Christian** population: **Mizoram**.
   - Highest proportion of **Hindu** population: **Himachal Pradesh**.
-  - Highest proportion of **Scheduled Castes**: **Punjab**.
+  - Highest proportion of **Scheduled Castes (SC)**: **Punjab** (percentage to total population).
+  - Highest absolute number of **Scheduled Castes (SC)**: **Uttar Pradesh**.
   - High proportion of **Muslim** population: **Assam** (among states).
+- **Tribal Population Percentage:** In decreasing order of percentage of Scheduled Tribes to total population (Census 2011), the sequence is **Manipur > Odisha > West Bengal > Punjab**.
 * **Occupational Structure**: Primary, secondary, tertiary, quaternary sectors — shift from primary to service economy.
 * **Educational Levels**: Literacy rates, gross enrolment ratios, educational attainment — gender and regional disparities.
 * **Dependency Ratio**: Ratio of dependent (0-14, 65+) to working-age population — demographic dividend vs. ageing challenge.

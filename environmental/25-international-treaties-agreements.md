@@ -26,5 +26,5 @@ International environmental governance has evolved through landmark summits, tre
 * **Paris Agreement (2015)**: Global framework to limit warming to well below 2°C (preferably 1.5°C). The 2-degree climate target has set the year **2100** to achieve it. Nationally Determined Contributions (NDCs). Global Stocktake every 5 years. India's NDCs — 45% reduction in emissions intensity by 2030, 50% non-fossil fuel energy, net-zero by 2070.
 * **UNFCCC:** The basic objective of the UN Framework Convention on Climate Change is to **stabilize greenhouse gas concentration** in the atmosphere.
 * **COP (Conference of Parties)**: Annual meetings under UNFCCC. Recent sequence: Bonn (2017), Katowice (2018), Madrid (2019), Glasgow (2021), Sharm el-Sheikh (2022), Dubai (2023).
+* **Political Ecology:** The relationship among **power structure**, the **environment**, and **economic inequalities**.
 :::
-

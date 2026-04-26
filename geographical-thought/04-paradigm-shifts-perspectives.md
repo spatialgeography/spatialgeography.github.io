@@ -6,6 +6,7 @@
 |----------|---------------|
 | **NEP-2020** | Unit III — Quantitative Revolution, Behaviouralism, Radicalism |
 | **UGC NET** | Paradigm Shift; Positivism, Behaviouralism, Humanism, Structuralism, Feminism, Postmodernism |
+| **Kuhn (1962)** | **Pre-paradigm phase**: The initial phase in the development of a science when several schools of thought compete for dominance. |
 :::
 
 ---

@@ -21,6 +21,7 @@
   - *Stage 3*: Late expanding — declining birth rates, continued growth at slower pace
   - *Stage 4*: Low stationary — low birth and death rates, slow growth/stable population. Birth and death rates **converge at a low level** in the late stage of demographic transition. The demographic transition model suggests that the **mortality rate determines the fertility rate** in the form of a positive relationship.
   - *Stage 5*: Declining — birth rate below death rate, population decline (Germany, Japan). **Scandinavian countries** have a **regressive age-sex population structure** with a negative population growth rate.
+- **Zero Population Growth (ZPG):** A condition of demographic balance where the number of people in a specified population neither grows nor declines. It is achieved when **Births + Immigration = Deaths + Emigration**.
 * **Population Growth in India**: The long-term trend can be best represented through the **exponential trend method**.
 * **Constrictive Population Pyramids:** Denote populations that are elderly and ageing.
 * **DALY:** Disability Adjusted Life Years.

@@ -23,5 +23,6 @@ The geography of cities and towns.
   - **Walter Christaller**: Settlement hierarchy.
   - **Colin Clark**: Urban population density gradient.
   - **W. J. Reilly**: Breaking Point theory.
+  - **Harris and Ullman (1945)**: **Multiple Nuclei Model** — suggests that urban growth occurs around several distinct nodes rather than a single CBD.
 :::
 

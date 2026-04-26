@@ -24,4 +24,6 @@
   - *Standard Deviation (SD)*: Average distance from the mean. Standard distance in spatial analysis.
   - *Coefficient of Variation (CV)*: (SD/Mean)*100. Useful for comparing variability of datasets with different units.
 * **Inequalities Measurement**: Lorenz Curve (graphical), Gini Coefficient (numerical, 0 to 1).
+* **Shape of Distribution:** **Skewness and Kurtosis** are used for determining the **Shape** of a frequency distribution.
+* **Normal Distribution:** In a normal distribution, the percentage of the area between the mean $\pm 1 \sigma$ (Standard Deviation) is **68.27%**.
 :::

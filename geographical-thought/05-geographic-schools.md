@@ -194,6 +194,8 @@
 #### Contemporary Trends (British)
 - **Chorley & Haggett** — Quantitative Revolution; space relations and location analysis
   - Books: *Models in Human Geography*, *Locational Analysis in Human Geography*, *Frontiers in Geographical Teaching*
+- **Torsten Hägerstrand:** Instrumental in the **Spread of quantitative techniques** in geography, particularly through his work on innovation diffusion.
+- **John Q. Stewart:** Introduced the concept of **Population potential** (Social Physics).
 - **RGS (Royal Geographical Society)** — sponsors scientific expeditions; publishes *Geographical Journal*
 
 ---

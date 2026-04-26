@@ -174,3 +174,8 @@
 | **Al-Idrisi** | 1099–1165 | Correlated with Ptolemy's book; world map |
 | **Ibn Battuta** | 1304–1368 | Extensive travels across Asia, Africa, Europe |
 | **Ibn Khaldun** | 1332–1406 | Social geography, philosophy of history |
+
+---
+
+### Social & Philosophical Foundations
+- **Auguste Comte:** Proposed that all societies pass through three developmental stages: **Theological → Metaphysical → Positive**.

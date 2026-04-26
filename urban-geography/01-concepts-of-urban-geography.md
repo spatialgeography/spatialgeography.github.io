@@ -18,6 +18,7 @@
 * **Urban**: An area characterized by high population density, built environment, and non-agricultural occupations.
 * **Urbanization**: The demographic process (structural shift) whereby a growing percentage of a population lives in urban areas. Linked to industrialization and economic development.
 * **Urbanism**: A way of life, attitudes, values, and patterns of behavior characteristic of city dwellers (Louis Wirth).
+* **Urban Economic Momentum:** If the **Basic-to-non-basic ratio** is equal to **1**, it generally indicates **Urban stagnation** (equilibrium between wealth creation and local services).
 * **Key Urban Development Theories:**
   - *Gordon Childe:* Viewed the neolithic village as the foundation of urban life.
   - *Henri Pirenne:* Urban development centers around production of agricultural surplus.

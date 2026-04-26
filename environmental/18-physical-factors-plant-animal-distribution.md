@@ -17,7 +17,12 @@ The global distribution of flora and fauna is governed by a complex interplay of
 ::: {.callout-note}
 ### Key Physical Factors
 * **Climate**:
-  - *Temperature*: Determines latitudinal zonation — tropical, temperate, polar distributions
+  - *Temperature*: Determines latitudinal zonation — tropical, temperate, polar distributions.
+    - **Vegetation Classes (by Temperature):**
+      - **Megatherms:** Tropical Rainforest (high temperature year-round).
+      - **Mesotherms:** Tropical Deciduous (alternating warm/cool).
+      - **Microtherms:** Mixed coniferous (low temperature).
+      - **Hekistotherms:** Alpine (extreme cold).
   - *Precipitation*: Controls vegetation density — forests in humid areas, deserts in arid zones
   - *Light*: Photoperiod affects flowering, migration, and hibernation patterns
   - *Wind*: Dispersal of seeds, spores; tree-line formation in exposed areas

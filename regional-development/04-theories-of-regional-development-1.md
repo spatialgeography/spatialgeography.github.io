@@ -21,4 +21,5 @@
   - *Spread Effects*: Positive impacts radiating from center to periphery. (Usually, backwash > spread).
 * **Unbalanced Growth Theory (Albert Hirschman, 1958)**: Investments should be concentrated in key sectors/regions.
   - *Polarization Effects* (similar to backwash) vs. *Trickle-down Effects* (similar to spread).
+* **Inclusive Growth:** Refers to growth that emphasizes **Poverty reduction and employment**, ensuring that the benefits of development reach all sections of society.
 :::

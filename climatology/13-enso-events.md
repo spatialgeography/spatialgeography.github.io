@@ -26,7 +26,7 @@
 ### Southern Oscillation
 - Discovered by **Gilbert Walker (1920)** — curious see-saw pattern of meteorological changes between Pacific and Indian Oceans
 - The term **oscillation** is associated with El Niño and La Niña because their fluctuations are **not perfectly periodic**.
-- **Walker Circulation** — Walker's model of atmospheric circulation
+- **Walker Circulation** — Walker's model of atmospheric circulation. In an **El Niño year**, the Western Pacific warm pool moves towards the east, which modifies the Walker Circulation.
 - **SOI** = Southern Oscillation Index (negative SOI = favourable for El Niño)
 
 ### ENSO

@@ -35,3 +35,5 @@
 - **Kames:** Steep-sided hills of stratified drift.
 - **Outwash Plain (Sandur):** Flat plain of meltwater deposits.
 - **Kettle Holes:** Depressions formed by melting ice blocks.
+- **Moulin:** A vertical or nearly vertical shaft in a glacier, formed by surface water percolating through a crack in the ice.
+- **Glaciated Valley Lake Sequence:** From higher to lower altitudes, the landforms typically appear as **Tarn → Paternoster lake → Moraine-dammed lake → Kettle lake**.

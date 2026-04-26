@@ -31,6 +31,7 @@
 - Al-Masudi — documented monsoon
 - Sidi Ali — 1564 AD
 - **Indian Ocean Dipole (IOD):** Refers to the **Sea surface temperature anomaly** and affects the **Rainfall** of countries that surround the Indian Ocean Basin.
+- **Monsoon Delay Factors:** Delay in monsoon onset in India is often caused by (1) El Niño, (2) Weak Tibetan anticyclone, (3) Presence of Westerly Jet Stream south of the Himalaya during summer, and (4) Late shifting of ITCZ.
 
 #### Monsoon Research Programmes
 

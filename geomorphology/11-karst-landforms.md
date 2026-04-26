@@ -15,6 +15,7 @@ Karst topography develops in regions with soluble rocks like **Limestone, Dolomi
 ### 1. Surface Features
 - **Terra Rosa:** Red residual clay on the surface.
 - **Lapies:** Deep grooves and ridges.
+- **Cockpit:** A star-shaped depression in Karst topography, typical of tropical Karst (e.g., Jamaica).
 - **Sinkholes / Swallow Holes:** Circular depressions where water disappears.
 - **Doline:** A larger sinkhole.
 - **Uvala:** Coalesced dolines.
