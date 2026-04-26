@@ -1,29 +1,90 @@
-## Temperate and Tropical Cyclones
+## Cyclones — Temperate and Tropical
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Climatology section — Temperate and tropical cyclones |
+| **NEP-2020** | Climatology section — Cyclones |
 | **UGC NET** | Unit II — Temperate and tropical cyclones |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### Temperate Cyclone
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+- Also called **Extratropical Cyclones / Wave Cyclone**
+- Latitude: 35°–65° N/S
+- **Shape and Size:** Radius — 400 to 800 km
+- **Wind velocity:** 40–60 km/h
+- Moves **west to east**
 
-::: {.callout-note}
-### Key Concepts
-* **Tropical Cyclones**: Intense low-pressure systems formed over warm tropical oceans (>26°C).
-  - Structure: Eye, eye wall, rain bands. Coriolis force required (>5° latitude)
-  - Classification: Tropical depression, tropical storm, hurricane/typhoon/cyclone (based on wind speed)
-  - Stages: Formation, intensification, maturity, decay
-  - Indian Ocean cyclones: Bay of Bengal and Arabian Sea tracks
-* **Temperate (Extra-tropical) Cyclones**: Form along polar front in mid-latitudes.
-  - Polar Front Theory (Bjerknes): Cyclogenesis along polar front
-  - Structure: Warm and cold sectors, frontal systems
-  - Associated weather: Sequence of weather changes as cyclone passes
-* **Anticyclones**: High pressure systems — clear skies, stable weather, subsidence.
-:::
+#### Theories of Origin
 
+| Theory | Scholar | Year |
+|:---|:---|:---|
+| Due to convergence of two opposing air masses | Fitzroy | 1863 |
+| Dynamic Theory | Shaw and Lempfert | 1911 |
+| Eddy Theory | — | — |
+| **Bergen Theory / Wave Theory / Frontal Theory** | V. Bjerknes & J. Bjerknes (Norway) | 1918 |
+
+#### Stages of Temperate Cyclone (Bergen Theory)
+
+1. Incipient Stage
+2. Juvenile Stage
+3. Early Maturity
+4. Full Maturity
+5. Old Stage
+6. End Stage
+
+#### Weather Regions
+- North Atlantic Ocean
+- Mediterranean Sea
+- North Pacific Region
+- China Sea
+
+---
+
+### Tropical Cyclone
+
+- **Diameter:** 80–300 km (some 50 km or less)
+- **High wind speed**; sea temperature must be **27°C or more**
+- **Eye of the cyclone** — centre of extreme low pressure
+
+#### Classification (Christopherson, 1995)
+
+| Type | Wind Speed |
+|:---|:---|
+| Tropical Disturbance | Low wind speed; 5°N–20°N; >34 knots |
+| Tropical Depression | Up to 60 km/h (34 knots) |
+| Tropical Storm | 63–118 km/h |
+
+#### Hurricanes / Typhoons
+- Region: Caribbean Sea & Gulf of Mexico; 8°–15° N/S
+- **Diameter:** 150–500 km
+- **Pressure:** 950 mb
+- **Wind speed:** 120–200 km/h
+- **Eye** = 8–50 km
+- **Saffir-Simpson Hurricane Damage Scale (1–5)**
+
+#### Tornadoes (Twisters)
+- In USA; associated with thunderstorms
+- **Diameter:** 100 metres
+- **Pressure at centre:** 10 mb
+- **Wind speed:** 400 km/h
+- **Dry Line** — in Mexico, zone of great turbulence
+- **Fujita Scale (F-scale)** — T. Theodore Fujita, University of Chicago
+- **Mamma clouds** — formed at the base of severe thunderstorms
+- **News clouds** — appear like a long rolling cylinder / wedge
+
+#### Structure of Tropical Cyclone
+
+| Layer | Description |
+|:---|:---|
+| The Eye | Central part — calm, extreme low pressure |
+| Eye Wall | Ring of intense convection |
+| Spiral Bands | Bands of rain |
+| Annular Zone | — |
+| Outer Convective Band | Trade wind cumulus |
+| Lower Layer | Inflow layer |
+| Middle Layer | — |
+| Upper Layer | Outflow layer |

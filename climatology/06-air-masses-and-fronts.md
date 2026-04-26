@@ -5,23 +5,55 @@
 | Syllabus | Topic Details |
 |----------|---------------|
 | **NEP-2020** | Climatology section — Air masses and fronts |
-| **UGC NET** | Unit II — Air-masses and fronts |
+| **UGC NET** | Unit II — Air masses and fronts |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### Air Mass
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+- A **massive and thick, horizontally homogeneous** air body with regard to temperature and humidity
 
-::: {.callout-note}
-### Key Concepts
-* **Air Masses**: Large body of air with uniform temperature and humidity. Source regions: polar, tropical, continental, maritime.
-* **Classification**: cP (continental polar), cT (continental tropical), mP (maritime polar), mT (maritime tropical), cA (continental Arctic).
-* **Fronts**: Boundary between two contrasting air masses.
-  - *Cold Front*: Cold air advances under warm air — steep slope, heavy rainfall, thunderstorms
-  - *Warm Front*: Warm air advances over cold air — gentle slope, prolonged light precipitation
-  - *Occluded Front*: Cold front overtakes warm front — complex weather
-  - *Stationary Front*: No significant movement — prolonged cloudy/rainy weather
-* **Frontogenesis and Frontolysis**: Formation and dissipation of fronts.
-:::
+#### Source Regions & Types
 
+| Code | Source Region | Type |
+|:---|:---|:---|
+| **cP** | Continental Polar | Cold, Dry |
+| **mP** | Maritime Polar | Cold, Moist |
+| **cT** | Continental Tropical | Hot, Dry |
+| **mT** | Maritime Tropical | Warm, Moist |
+| **mE** | Maritime Equatorial | Warm, Very Moist |
+| — | Arctic and Antarctic Region | Cold Air Mass |
+
+#### Thermodynamic Modification
+- Air mass **heated from below** → **K** (Kalt — cold air mass)
+- Air mass **cooled from below** → **W** (Warm air mass)
+
+---
+
+### Fronts
+
+> Concept given by **Vilhelm Bjerknes & Jakob Bjerknes**
+
+- **Frontogenesis** — process of front formation
+- Inclined at surface: angle 1/30 to 1/200
+- Depth: 3000–5000 m; Width: 50–80 km; Movement: 50–80 km/h
+
+#### Warm Front
+- Light warm air becomes aggressive and **rises slowly over cold dense air**
+- Slope: 1:100 to 1:400
+- Clouds: Cirrus (Ci) → Cirrostratus (Cs) → Altocumulus (Ac) → Altostratus (As)
+
+#### Cold Front
+- Cold air becomes aggressive and **invades the warm air**; forcibly lifts warm air
+- Slope: 1:50 to 1:100
+- Dry climate conditions
+
+#### Occluded Front
+- When a cold front **overtakes a warm front** and lifts the warm air mass completely off the ground
+
+#### Quasi-Stationary Front
+- Front becomes almost stationary
+
+#### Stationary Front
+- No forward motion along the line of transition between two air masses

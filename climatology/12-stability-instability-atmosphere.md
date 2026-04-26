@@ -4,23 +4,38 @@
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Climatology section — Stability and instability of the atmosphere |
+| **NEP-2020** | Climatology section — Stability and instability |
+| **UGC NET** | Unit II — Stability and instability of the atmosphere |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+- **Stable Atmosphere** — air resists vertical displacement
+- **Unstable Atmosphere** — air parcel, once displaced, continues to move away from original position
+- **Neutral Stability** — displaced air has same temperature as surroundings
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+### Key Processes
+- **DALR (Dry Adiabatic Lapse Rate)** — 1°C per 100 m (for unsaturated air)
+- **SALR (Saturated Adiabatic Lapse Rate)** — 0.5°C per 100 m (for saturated air)
+- **ELR (Environmental Lapse Rate)** — 6.4°C per km (normal)
 
-::: {.callout-note}
-### Key Concepts
-* **Atmospheric Stability**: Condition where displaced air parcel returns to original position — inhibits vertical motion.
-* **Atmospheric Instability**: Displaced air parcel continues to rise — promotes cloud formation and precipitation.
-* **Lapse Rates**:
-  - *Environmental Lapse Rate (ELR)*: Actual rate of temperature decrease in atmosphere (~6.5°C/km average)
-  - *Dry Adiabatic Lapse Rate (DALR)*: Rate for unsaturated rising air (~10°C/km)
-  - *Saturated Adiabatic Lapse Rate (SALR)*: Rate for saturated rising air (~5-6°C/km, varies)
-* **Stability Conditions**: ELR < SALR (absolutely stable), ELR > DALR (absolutely unstable), SALR < ELR < DALR (conditionally unstable).
-* **Temperature Inversion**: Stable layer inhibiting vertical mixing — traps pollutants, fog formation.
-:::
+---
 
+### Humidity
+
+#### Absolute Humidity
+- Actual amount of water vapour present in the air
+- Higher water vapour = higher absolute humidity
+
+#### Relative Humidity (RH)
+- Measure of water vapour **relative to the temperature** of air
+- Measure of actual amount vs. maximum possible at current temperature
+- Formula:
+
+> **RH = (Actual water vapour content / Max. water vapour capacity) × 100**
+
+- Temperature increase → Relative Humidity **decreases**
+
+#### Specific Humidity
+- Weight of water vapour per unit of air
+- Proportion of mass of water vapour to total mass of air

@@ -60,4 +60,14 @@ These topics are part of the UGC NET syllabus only.
 
 {{< include climatology/15-applied-climatology.md >}}
 
+{{< include climatology/16-clouds.md >}}
+
+{{< include climatology/17-local-winds.md >}}
+
+---
+
+## Quick Reference
+
+{{< include climatology/18-conferences-and-scholars.md >}}
+
 ---

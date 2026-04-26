@@ -4,22 +4,46 @@
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Climatology section — Distribution of temperature |
+| **NEP-2020** | Climatology section — Temperature distribution |
 | **UGC NET** | Unit II — Distribution of temperature |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+- **Isotherms** — imaginary lines joining equal temperature
+- **Temperature Anomaly** — difference between mean temperature and parallel temperature
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+### Climatic Zones
 
-::: {.callout-note}
-### Key Concepts
-* **Factors Controlling Temperature**: Latitude, altitude, distance from sea (continentality), ocean currents, prevailing winds, cloud cover, aspect.
-* **Isotherms**: Lines connecting places of equal temperature; shift poleward in summer, equatorward in winter.
-* **Temperature Inversion**: Reversal of normal lapse rate — radiation, advection, and subsidence inversions.
-* **Global Temperature Patterns**: Thermal equator, annual and diurnal temperature ranges.
-* **Temperature Anomaly**: Difference between actual temperature and expected temperature for that latitude.
-* **Effect of Land and Water**: Continental (large range) vs. Maritime (small range) climates.
-:::
+| Zone | Latitude | Features |
+|:---|:---|:---|
+| Tropical / Torrid | 23½°N to 23½°S | No winter season |
+| Temperate | 23½°N/S to 66½°N/S | Both summer and winter |
+| Frigid | 66½°N/S to 90°N/S | — |
 
+### Vertical Temperature
+
+- **Normal Lapse Rate** = 1°C per 165 m (6.4°C/km)
+- Temperature at upper troposphere = −55°C to −60°C
+- Mesosphere upper limit = −80°C
+- At 400 km = 1000°C
+
+### Temperature Inversion
+
+#### Conditions Required
+- Long Nights
+- Clear Sky
+- Stable Weather
+- Dry Air
+
+#### Types of Temperature Inversion
+
+| Type | Description | Region |
+|:---|:---|:---|
+| **Radiation Inversion** | Air near land cools fast during nights (midnight to 4 AM) | Snow-covered North America, Europe |
+| **Air Drainage Inversion** | During long winter nights; houses on upper slopes are warmer | Mountainous Europe, Brazil, Canada, Himalayas, USA |
+| **Advection Inversion** | Between air masses (cold & warm) | Gulf of Mexico |
+| **Subsidence Inversion** | Concentration of pollutants in lower troposphere | — |
+| **Convection Inversion** | Cumulonimbus clouds form | — |
+| **Frontal Inversion** | Convergence of warm and cold air masses | — |
+| **Trade Wind Inversion** | — | — |

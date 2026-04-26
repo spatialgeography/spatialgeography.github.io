@@ -1,25 +1,76 @@
-## Global Warming and Climate Change
+## Global Warming and Ozone Depletion
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
 | **NEP-2020** | Climatology section — Global warming |
-| **UGC NET** | Unit II — Global warming; Climate Change: Evidences and Causes |
+| **UGC NET** | Unit II — Global warming |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### Global Warming
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+- **Little Climate Optimum** — last 1000 years
+- **1250–1450** — Climate Optimum period
+- **1450–1880** — Little Ice Age
+- **1816** — The Year Without a Summer
+- **Sunspots** — dark circular areas on the outer surface (photosphere) of the sun
+  - 11-year cycle
+- **90,000–100,000 years** — Earth's orbit changes its shape (Milankovitch Cycles)
 
-::: {.callout-note}
-### Key Concepts
-* **Enhanced Greenhouse Effect**: Increasing CO₂, CH₄, N₂O concentrations amplifying natural greenhouse warming.
-* **Evidence**: Rising global temperatures, glacial retreat, sea-level rise, ocean acidification, extreme weather events.
-* **IPCC Reports**: Scientific assessment of climate change causes, impacts, and mitigation options.
-* **Past Climate Changes**: Milankovitch cycles, volcanic activity, solar variability, paleoclimatic records (ice cores, tree rings).
-* **Human Impact**: Fossil fuel combustion, deforestation, agriculture, industrial processes.
-* **Mitigation and Adaptation**: Paris Agreement, carbon trading, renewable energy, climate-resilient infrastructure.
-:::
+#### CO₂ Concentration Over Time
 
+| Year | CO₂ Level |
+|:---|:---|
+| 1825 | 210 ppm |
+| 1885 | 280 ppm |
+| 1985 | 350 ppm |
+| 2000 | 360–400 ppm |
+
+#### Greenhouse Gases
+- CO₂ (50% share), CFC, CH₄, N₂O, O₃, NO
+
+#### CO₂ Emissions by Region
+
+| Region | Percentage |
+|:---|:---|
+| USA | 30.3% |
+| Europe | 27.7% |
+| Asia (developing countries) | 12.2% |
+
+- 18,000 years ago — sea level was 82 metres below present level
+- Spread of tropical diseases
+- **R.K. Pachauri** — 0.5°C rise in winter temperature = 0.45 tonne/hectare fall in crop yield
+
+#### Kyoto Protocol
+- **1997** — 141 countries signed
+- Goal: reduce greenhouse gas emissions
+
+---
+
+### Ozone Depletion
+
+- **Troposphere Ozone** — absorbs temperature → **Bad Ozone**
+- **Stratosphere Ozone** — acts as a filter against UV-B → **Good Ozone**
+- **Chapman Mechanism:** Cl + O₃ → ClO + O₂
+
+#### Causes of Ozone Depletion
+- CFC (Chlorofluorocarbons)
+- Nitrogen Oxide
+- Hydrocarbons
+
+#### Key Facts
+- Ozone hole found **above Antarctica**
+- 1% ozone lost → 2% more UV rays reach Earth
+- Ice Climbing effects on polar ozone
+
+#### International Conferences on Ozone
+
+| Conference | Year | Key Decision |
+|:---|:---|:---|
+| **Vienna Conference** | 1985 | First conference to discuss ozone depletion |
+| **Montreal Protocol** | 1987 | CFC reduction step by step |
+| **Saving the Ozone Layer Conference** | 1989 | British Govt + UNEP; final withdrawal of all ozone-depleting gases |
+| **Helsinki Conference** | 1989 | Devised the Montreal Protocol |

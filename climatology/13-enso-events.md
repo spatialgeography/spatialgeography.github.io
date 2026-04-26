@@ -1,24 +1,36 @@
-## ENSO Events
+## El Niño, La Niña & Southern Oscillation (ENSO)
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **UGC NET** | ENSO Events (El Niño, La Niña and Southern Oscillations) |
+| **UGC NET** | Unit II — ENSO events |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### El Niño
+- A **warm surface current** flowing south to north between 36°S and 3°S latitude; 180 km from Peruvian Coast
+- Results from southward shifting of the counter equatorial warm current
+- **First reported 1541** → named "El Niño" (The Child Christ)
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+#### Effects of El Niño
+- Rainfall in Atacama Desert
+- Winds, Tornadoes and Typhoons
+- Damage to fish and birds (upwelling of cold water disappears → plankton loss)
+- Destruction of Coral Reefs (rises temperature)
+- Spread of diseases
+- Disrupts weather
+- Associated with **weak monsoon, less rainfall and drought** in India
 
-::: {.callout-note}
-### Key Concepts
-* **El Niño**: Anomalous warming of eastern Pacific Ocean surface waters — weakens trade winds, suppresses upwelling.
-* **La Niña**: Anomalous cooling of eastern Pacific — strengthens trade winds, enhances upwelling.
-* **Southern Oscillation**: See-saw pattern of atmospheric pressure between eastern and western Pacific — Walker Circulation.
-* **ENSO Index**: Southern Oscillation Index (SOI) — pressure difference between Tahiti and Darwin.
-* **Global Impacts**: El Niño → drought in India/Australia, floods in South America; La Niña → enhanced monsoon, floods in Australia.
-* **Teleconnections**: ENSO influences weather patterns globally — Indian monsoon, African rainfall, Atlantic hurricanes.
-:::
+### Southern Oscillation
+- Discovered by **Gilbert Walker (1920)** — curious see-saw pattern of meteorological changes between Pacific and Indian Oceans
+- **Walker Circulation** — Walker's model of atmospheric circulation
+- **SOI** = Southern Oscillation Index (negative SOI = favourable for El Niño)
 
+### ENSO
+- **ENSO** = El Niño + Southern Oscillation
+
+### La Niña
+- Abnormal **accumulation of cold water** in the central and eastern Pacific region (*'Little Girl'* — Spanish)
+- **Thermocline** — layer of water where temperature changes rapidly in vertical direction
