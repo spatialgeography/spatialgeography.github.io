@@ -145,11 +145,13 @@ ul.task-list li input[type="checkbox"] {
             <div class="question-header">
                 <span id="question-number">Question No. 1</span>
             </div>
-            <div class="question-body" id="question-text">
-                Loading question...
-            </div>
-            <div class="options-container" id="options-container">
-                <!-- Options will be injected here -->
+            <div class="question-scroll-area">
+                <div class="question-body" id="question-text">
+                    Loading question...
+                </div>
+                <div class="options-container" id="options-container">
+                    <!-- Options will be injected here -->
+                </div>
             </div>
             <div class="question-footer">
                 <button id="mark-review-btn" class="btn btn-secondary">Mark for Review &amp; Next</button>
@@ -218,7 +220,8 @@ ul.task-list li input[type="checkbox"] {
 }
 
 .test-container {
-    max-width: 1200px;
+    max-width: 1400px;
+    width: 95%;
     margin: 20px auto;
     font-family: 'Inter', system-ui, -apple-system, sans-serif;
     border: 1px solid var(--border-color);
@@ -256,7 +259,15 @@ ul.task-list li input[type="checkbox"] {
     border-right: 1px solid var(--border-color);
     display: flex;
     flex-direction: column;
+    height: 100%;
+    position: relative;
+}
+
+.question-scroll-area {
+    flex-grow: 1;
     overflow-y: auto;
+    padding-right: 10px;
+    margin-bottom: 20px;
 }
 
 .question-header {
@@ -305,11 +316,12 @@ ul.task-list li input[type="checkbox"] {
 }
 
 .question-footer {
-    margin-top: auto;
-    padding-top: 30px;
+    padding-top: 20px;
     display: flex;
     gap: 15px;
-    border-top: 1px solid #f1f5f9;
+    border-top: 2px solid #f1f5f9;
+    background: white;
+    z-index: 10;
 }
 
 .status-section {
@@ -1284,9 +1296,9 @@ document.addEventListener('DOMContentLoaded', function() {
     script.src = "https://giscus.app/client.js";
     script.async = true;
     script.dataset.repo = "spatialgeography/spatialgeography.github.io";
-    script.dataset.repoId = "";
+    script.dataset.repoId = "R_kgDOQ3kQ4w";
     script.dataset.category = "General";
-    script.dataset.categoryId = "";
+    script.dataset.categoryId = "DIC_kwDOQ3kQ484C7v6Y";
     script.dataset.mapping = "pathname";
     script.dataset.reactionsEnabled = "1";
     script.dataset.emitMetadata = "0";
