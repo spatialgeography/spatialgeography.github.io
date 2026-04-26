@@ -6,6 +6,13 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 
 ---
 
+## Previous Year Questions
+* [Geography in News](geography-in-news.html)
+* [UGC NET Previous Year Questions](ugc-net-pyq.html)
+* [West Bengal SET Previous Year Questions](wb-set-pyq.html)
+
+---
+
 ## UGC NET
 
 ### Unit I: Geomorphology
@@ -102,14 +109,8 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 
 ---
 
-## Previous Year Questions
-* [UGC NET Previous Year Questions](ugc-net-pyq.html)
-* [West Bengal SET Previous Year Questions](wb-set-pyq.html)
-
----
 
 ### Supplementary Resources
 * [Reading Materials & Methodology](reading-materials.html)
-* [Geography in News](geography-in-news.html)
 
 ---

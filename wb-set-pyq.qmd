@@ -20,10 +20,10 @@ toc-depth: 3
 
 ## 2023 Paper
 
-*(Coming Soon)*
+{{< include pyq/wbset-2023.md >}}
 
 ---
 
 ## 2022 Paper
 
-*(Coming Soon)*
+{{< include pyq/wbset-2022.md >}}
