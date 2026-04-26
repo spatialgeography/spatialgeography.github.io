@@ -530,7 +530,11 @@ ul.task-list li input[type="checkbox"] {
       e.stopPropagation();
       if (selectedText) {
         const url = 'https://www.google.com/search?q=' + encodeURIComponent(selectedText);
-        window.open(url, '_blank');
+        const w = 800;
+        const h = 600;
+        const left = (window.innerWidth / 2) - (w / 2) + window.screenX;
+        const top = (window.innerHeight / 2) - (h / 2) + window.screenY;
+        window.open(url, 'searchPopup', `width=${w},height=${h},top=${top},left=${left},scrollbars=yes,resizable=yes`);
         btn.style.display = 'none';
         window.getSelection().removeAllRanges();
       }

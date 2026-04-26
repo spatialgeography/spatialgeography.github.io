@@ -103,9 +103,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul class="collapse">
-  <li><a href="#ugc-net" id="toc-ugc-net" class="nav-link active" data-scroll-target="#ugc-net">UGC NET</a></li>
+  <li><a href="#previous-year-questions" id="toc-previous-year-questions" class="nav-link active" data-scroll-target="#previous-year-questions">Previous Year Questions</a></li>
+  <li><a href="#ugc-net" id="toc-ugc-net" class="nav-link" data-scroll-target="#ugc-net">UGC NET</a></li>
   <li><a href="#undergraduate-curriculum-nep-2020" id="toc-undergraduate-curriculum-nep-2020" class="nav-link" data-scroll-target="#undergraduate-curriculum-nep-2020">Undergraduate Curriculum (NEP 2020)</a></li>
-  <li><a href="#previous-year-questions" id="toc-previous-year-questions" class="nav-link" data-scroll-target="#previous-year-questions">Previous Year Questions</a></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -133,6 +133,15 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Welcome to <strong>Geography OpenCourseWare</strong> — a curated, open-access platform designed to help you master the full breadth of geographical knowledge, now aligned with the <strong>NEP-2020 Undergraduate Curriculum</strong>.</p>
 <hr>
+<section id="previous-year-questions" class="level2">
+<h2 class="anchored" data-anchor-id="previous-year-questions">Previous Year Questions</h2>
+<ul>
+<li><a href="geography-in-news.html">Geography in News</a></li>
+<li><a href="ugc-net-pyq.html">UGC NET Previous Year Questions</a></li>
+<li><a href="wb-set-pyq.html">West Bengal SET Previous Year Questions</a></li>
+</ul>
+<hr>
+</section>
 <section id="ugc-net" class="level2">
 <h2 class="anchored" data-anchor-id="ugc-net">UGC NET</h2>
 <section id="unit-i-geomorphology" class="level3">
@@ -282,19 +291,10 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <hr>
 </section>
-</section>
-<section id="previous-year-questions" class="level2">
-<h2 class="anchored" data-anchor-id="previous-year-questions">Previous Year Questions</h2>
-<ul>
-<li><a href="ugc-net-pyq.html">UGC NET Previous Year Questions</a></li>
-<li><a href="wb-set-pyq.html">West Bengal SET Previous Year Questions</a></li>
-</ul>
-<hr>
 <section id="supplementary-resources" class="level3">
 <h3 class="anchored" data-anchor-id="supplementary-resources">Supplementary Resources</h3>
 <ul>
 <li><a href="reading-materials.html">Reading Materials &amp; Methodology</a></li>
-<li><a href="geography-in-news.html">Geography in News</a></li>
 </ul>
 <hr>
 
@@ -398,7 +398,11 @@ ul.task-list li input[type="checkbox"] {
       e.stopPropagation();
       if (selectedText) {
         const url = 'https://www.google.com/search?q=' + encodeURIComponent(selectedText);
-        window.open(url, '_blank');
+        const w = 800;
+        const h = 600;
+        const left = (window.innerWidth / 2) - (w / 2) + window.screenX;
+        const top = (window.innerHeight / 2) - (h / 2) + window.screenY;
+        window.open(url, 'searchPopup', `width=${w},height=${h},top=${top},left=${left},scrollbars=yes,resizable=yes`);
         btn.style.display = 'none';
         window.getSelection().removeAllRanges();
       }
