@@ -20,6 +20,8 @@ These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC
 
 {{< include geographical-thought/01-ancient-medieval-geography.md >}}
 
+{{< include geographical-thought/01b-transition-explorations.md >}}
+
 {{< include geographical-thought/02-modern-geography-foundations.md >}}
 
 {{< include geographical-thought/03-dualisms-and-dichotomies.md >}}
@@ -37,5 +39,13 @@ These topics are part of the UGC NET syllabus only.
 {{< include geographical-thought/06-geographic-traditions.md >}}
 
 {{< include geographical-thought/07-darwinian-impact.md >}}
+
+{{< include geographical-thought/08-geography-in-india.md >}}
+
+---
+
+## Quick Reference
+
+{{< include geographical-thought/09-quick-reference.md >}}
 
 ---
