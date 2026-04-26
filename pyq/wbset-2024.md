@@ -1,4 +1,5 @@
-# Geography Paper-II (SET 2024) — English Questions Only
+# Geography Paper-II (SET 2024)
+
 **Subject Code:** 13 | **Series:** X | **Maximum Marks:** 200 | **Time:** 2 Hours
 
 > **Instructions:** 100 multiple-choice questions. All questions are compulsory. Each question carries **2 marks**. No negative marking.
@@ -8,6 +9,7 @@
 ## Questions 1–10: Geomorphology
 
 **1.** Muscovite is
+
 - (A) difficult to dissolve
 - (B) dissolved by alkaline solution
 - (C) dissolved by water
@@ -16,6 +18,7 @@
 ---
 
 **2.** The elastic rebound theory best relates to
+
 - (A) Avalanches
 - (B) Geysers
 - (C) Earthquakes
@@ -24,6 +27,7 @@
 ---
 
 **3.** Magnetic property of the earth results from
+
 - (A) convective movement in the Asthenosphere
 - (B) convective movement in the outer core
 - (C) plate movement
@@ -32,6 +36,7 @@
 ---
 
 **4.** Shortening in the earth crust is typically accommodated by
+
 - (A) Normal faults
 - (B) Thrust faults
 - (C) Horst and Graben structures
@@ -50,6 +55,7 @@
 | | (v) Cavern formation |
 
 Codes:
+
 - (A) a-iv, b-iii, c-i, d-v
 - (B) a-v, b-i, c-ii, d-iii
 - (C) a-iv, b-ii, c-i, d-iii
@@ -58,6 +64,7 @@ Codes:
 ---
 
 **6.** Which one of the following supports the idea of Davis' three stages of landform development?
+
 - (A) Continental drift
 - (B) Hypsometric integral
 - (C) Rate of weathering and removal of weathered material
@@ -82,6 +89,7 @@ Codes:
 ---
 
 **8.** Which among the following is ideal for achievement of steady state in an open system?
+
 - (A) Leeward slope of a frontal dune
 - (B) A glacier or the upper limit of ablation zone
 - (C) Opening of a swallow hole by ground subsidence in a limestone country
@@ -93,6 +101,7 @@ Codes:
 Reason (R): In hillsides, groundwater movement usually follows the general direction of slope.
 
 Select the correct option:
+
 - (A) Both (A) and (R) are true, and (R) is the correct explanation of (A)
 - (B) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
 - (C) (A) is true, but (R) is false
@@ -101,6 +110,7 @@ Select the correct option:
 ---
 
 **10.** Rhythmic beach features like cusps and horns are evolved by
+
 - (A) storm surges
 - (B) dissipative waves, mainly during storms
 - (C) wave-generated currents, like the rips
@@ -111,6 +121,7 @@ Select the correct option:
 ## Questions 11–20: Climatology & Atmosphere
 
 **11.** Arrange the terms used in vertical change of temperature in descending order as one goes up from Earth's surface:
+
 1. Adiabatic
 2. Inversion
 3. Subadiabatic
@@ -124,6 +135,7 @@ Select the correct option:
 ---
 
 **12.** The Geostrophic balance is maintained with
+
 - (A) the exact balance of incoming SW and outgoing LW radiation at the top of the atmosphere
 - (B) the exact balance of vertical pressure gradient and gravity in the atmosphere
 - (C) the exact balance of the coriolis force, horizontal pressure gradient force and friction
@@ -132,6 +144,7 @@ Select the correct option:
 ---
 
 **13.** Which region of Rajasthan experiences AW type of climate as per Koppen's climatic classification?
+
 - (A) Southern most region
 - (B) Northern most region
 - (C) Western region
@@ -145,6 +158,7 @@ Select the correct option:
 (c) The temperature inside the eye of the cyclone is nearly 10°C lesser than that of the surroundings
 
 Which of the statement(s) is/are correct?
+
 - (A) (a) only
 - (B) (b) and (c) only
 - (C) (b) only
@@ -156,6 +170,7 @@ Which of the statement(s) is/are correct?
 Reason (R): Angular momentum is maximum along equator.
 
 Select the correct option:
+
 - (A) Both (A) and (R) are correct, and (R) is the correct explanation of (A)
 - (B) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
 - (C) (A) is correct, but (R) is false
@@ -164,6 +179,7 @@ Select the correct option:
 ---
 
 **16.** The term oscillation is associated with El Niño and La Niña because
+
 - (A) their fluctuations are perfectly periodic
 - (B) their fluctuations are not perfectly periodic
 - (C) they recur in the form of regular cycles
@@ -172,6 +188,7 @@ Select the correct option:
 ---
 
 **17.** Which one of the following events is associated with occasional weak monsoon rains in the Indian sub-continent?
+
 - (A) La Niña
 - (B) Movement of jet streams
 - (C) El Niño
@@ -192,6 +209,7 @@ Select the correct option:
 ---
 
 **19.** The measure of maximum size of particles that a stream can transport is called
+
 - (A) Stream Capacity
 - (B) Stream Ability
 - (C) Stream Capability
@@ -200,6 +218,7 @@ Select the correct option:
 ---
 
 **20.** In oceans, Rule of Constant Proportions relates to
+
 - (A) Pressure
 - (B) Salinity
 - (C) Density
@@ -219,6 +238,7 @@ Select the correct option:
 | (d) Kuril Island | (iv) South Pacific Ocean |
 
 Codes:
+
 - (A) a-iii, b-ii, c-iv, d-i
 - (B) a-iii, b-iv, c-ii, d-i
 - (C) a-iv, b-iii, c-ii, d-i
@@ -239,6 +259,7 @@ Codes:
 ---
 
 **23.** In oceans, pycnocline relates to
+
 - (A) surface waters
 - (B) zone below the surface waters and above the deep waters
 - (C) deep waters
@@ -247,6 +268,7 @@ Codes:
 ---
 
 **24.** The closest approximation of the global mean sea level rise since the start of satellite altimetry in 1993 is
+
 - (A) 70 mm
 - (B) 60 mm
 - (C) 90 mm
@@ -255,6 +277,7 @@ Codes:
 ---
 
 **25.** Waves break as they approach the coast because
+
 - (A) water is pulled down by the gravity as wave steepness exceeds a critical value
 - (B) friction with the bathymetric profile causes refraction of the wave train
 - (C) speed of wave movement exceeds the speed of wave-induced currents
@@ -263,6 +286,7 @@ Codes:
 ---
 
 **26.** Translatory wave develops
+
 - (A) in the land-ward side after wave breaking
 - (B) in the sea-ward side before wave breaking
 - (C) in the deep sea
@@ -277,6 +301,7 @@ Codes:
 (d) Co-tidal line rotates in clockwise direction
 
 Which among the following options is correct?
+
 - (A) (a) and (c) are correct
 - (B) (a) false but (d) is correct
 - (C) (b) is false but (d) is correct
@@ -285,6 +310,7 @@ Which among the following options is correct?
 ---
 
 **28.** Which of the following is wrongly matched?
+
 - (A) Benguela Current — Cold
 - (B) Humboldt Current — Cold
 - (C) Kamchatka Current — Warm
@@ -293,6 +319,7 @@ Which among the following options is correct?
 ---
 
 **29.** Height of storm surge in a coastal region does not depend on which among the following?
+
 - (A) near-shore bathymetry
 - (B) position of the surge affected area — left or right — related to the storm track
 - (C) presence of protective vegetation like mangroves in the intertidal area fringing the coast
@@ -301,6 +328,7 @@ Which among the following options is correct?
 ---
 
 **30.** Sustainable development goal 'Life below Water' aims at conserving and sustainable use of
+
 - (A) Ground Water resources
 - (B) River and Stream resources
 - (C) Marine resources
@@ -311,6 +339,7 @@ Which among the following options is correct?
 ## Questions 31–40: Biogeography & Environment
 
 **31.** 10% law of energy flow model was coined by
+
 - (A) R. Lindeman
 - (B) E. P. Odum
 - (C) A. Leopold
@@ -319,6 +348,7 @@ Which among the following options is correct?
 ---
 
 **32.** The maximum permissible limit set by Bureau of Indian Standards for nitrate level in drinking water is
+
 - (A) 45 mg/l
 - (B) 40 mg/l
 - (C) 50 mg/l
@@ -327,6 +357,7 @@ Which among the following options is correct?
 ---
 
 **33.** The establishment of a plant in a new habitat is called
+
 - (A) Speciation
 - (B) Ecesis
 - (C) Colonification
@@ -335,6 +366,7 @@ Which among the following options is correct?
 ---
 
 **34.** The formation of the 90 East Ridge is related to
+
 - (A) Crozet eruptions
 - (B) Kerguelen Hotspot
 - (C) Elan Blank Fissure
@@ -343,6 +375,7 @@ Which among the following options is correct?
 ---
 
 **35.** "From Gandhi (as well as Spinoza), Naess reinforced his intuitions about equal 'right' of all species to flourish on the planet together with the Eastern doctrine of Ahimsa." What does this relate to?
+
 - (A) Shallow ecology
 - (B) Cosmic ecology
 - (C) Deep ecology
@@ -351,6 +384,7 @@ Which among the following options is correct?
 ---
 
 **36.** Which of the following is not a soil erosion assessment method?
+
 - (A) RUSLE
 - (B) CORINE
 - (C) PESERA
@@ -359,6 +393,7 @@ Which among the following options is correct?
 ---
 
 **37.** Tropical evergreen forests are usually found in areas having ________ of rainfall and having a temperature range of ________.
+
 - (A) more than 200 cm, 15–30°C
 - (B) 100–200 cm, 30–35°C
 - (C) 50–100 cm, 10–20°C
@@ -367,6 +402,7 @@ Which among the following options is correct?
 ---
 
 **38.** The 28th Conference of Parties was held at
+
 - (A) Baku
 - (B) Katowice
 - (C) Sharm el-Sheikh
@@ -375,6 +411,7 @@ Which among the following options is correct?
 ---
 
 **39.** Which of the following is not directly associated to ecosystem restoration?
+
 - (A) Introduction of native plants
 - (B) Dam decommissioning
 - (C) Restriction of grazing
@@ -383,6 +420,7 @@ Which among the following options is correct?
 ---
 
 **40.** Which of the following is a qualitative environmental assessment method developed in 1971 by USGS?
+
 - (A) Leopold Matrix
 - (B) Diagonal Matrix
 - (C) Hash Table
@@ -393,6 +431,7 @@ Which among the following options is correct?
 ## Questions 41–50: Population & Settlement Geography
 
 **41.** Constrictive population pyramids denote
+
 - (A) effects of war, disease, pestilence on population
 - (B) excessive birth rates
 - (C) populations that are elderly and ageing
@@ -401,6 +440,7 @@ Which among the following options is correct?
 ---
 
 **42.** Which among the following involves both supraglacial and subglacial processes?
+
 - (A) Sublimation
 - (B) Melting
 - (C) Calving
@@ -409,6 +449,7 @@ Which among the following options is correct?
 ---
 
 **43.** Who among the following proposed that fertility rate declines when density of population increases?
+
 - (A) M. T. Sadler
 - (B) Thomas Malthus
 - (C) D. Ricardo
@@ -417,6 +458,7 @@ Which among the following options is correct?
 ---
 
 **44.** Which of these indices takes into account health, education, economics and politics in measuring status of women?
+
 - (A) Gender Empowerment Measure
 - (B) Global Gender Gap Index
 - (C) Gender Development Index
@@ -425,6 +467,7 @@ Which among the following options is correct?
 ---
 
 **45.** Feminisation of the farm sector is gradually on the rise because
+
 - (A) more women opt to work in the farm sector
 - (B) poverty drives women to work as farm labourer
 - (C) increase in male migration from rural to urban areas
@@ -442,6 +485,7 @@ Which among the following options is correct?
 | (d) Settlements developing around a fort/temple | (iv) Linear |
 
 Codes:
+
 - (A) (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)
 - (B) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)
 - (C) (a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)
@@ -450,6 +494,7 @@ Codes:
 ---
 
 **47.** Which one of the following plays a deciding role in rural to urban migration?
+
 - (A) Low employment opportunity in the rural areas
 - (B) High pressure of population on the village resources
 - (C) Economic inequality among the rural people
@@ -458,6 +503,7 @@ Codes:
 ---
 
 **48.** Which amongst the following is not a consequence of accelerated migration from rural to urban areas?
+
 - (A) Growth of unregulated settlements or slums
 - (B) Fast increase in urban population
 - (C) Improvement in the rural economy due to lower population pressure
@@ -466,6 +512,7 @@ Codes:
 ---
 
 **49.** Which among the following statements on hamlet settlement is not true?
+
 - (A) Transport network is less likely to be extensive in hamlet
 - (B) Commonly hamlet forms through historical farming practices
 - (C) Hamlet settlements decline due to government intervention through investments in rural areas
@@ -474,6 +521,7 @@ Codes:
 ---
 
 **50.** Who coined the term 'Urban Revolution' to denote the shift from small village based societies to politically complex urban societies?
+
 - (A) Gordon Childe
 - (B) Henri Pirenne
 - (C) Lewis Mumford
@@ -484,6 +532,7 @@ Codes:
 ## Questions 51–60: Economic Geography & Regional Development
 
 **51.** Which of the following statements about electricity consumption in developing countries is more appropriate?
+
 - (A) Increasing Government investment on alternative energy sources reduces per capita electricity consumption
 - (B) Limited access to technology and economic activities limits per capita electricity consumption
 - (C) Higher level electrical tariff reduces per capita electricity consumption
@@ -492,6 +541,7 @@ Codes:
 ---
 
 **52.** The India-WRIS stands for
+
 - (A) Water Resources Information System
 - (B) Watershed & River basin Information System
 - (C) Wetland Resource Information System
@@ -500,6 +550,7 @@ Codes:
 ---
 
 **53.** Who, among the following scholars, contributed notably towards understanding the origin and dispersal of agriculture?
+
 - (A) Torsten Hagerstrand
 - (B) Carl Ottin Sauer
 - (C) John Carrier Weaver
@@ -508,6 +559,7 @@ Codes:
 ---
 
 **54.** Which of the following explains the meaning of agricultural productivity?
+
 - (A) It is a measure of agricultural efficiency
 - (B) The total crop output of an area
 - (C) The yield of crops per unit of area
@@ -516,6 +568,7 @@ Codes:
 ---
 
 **55.** The term 'Knowledge Industry' was introduced by
+
 - (A) Paul Krugman
 - (B) Fritz Machlup
 - (C) Robert Solow
@@ -524,6 +577,7 @@ Codes:
 ---
 
 **56.** Whose proposition suggests that the 'Behavioral Approach' strongly determines location of an industry?
+
 - (A) E. M. Hoover
 - (B) A. Pred
 - (C) A. Losch
@@ -532,6 +586,7 @@ Codes:
 ---
 
 **57.** Choose the correct answer from the following. The Gamma Index (γ) is
+
 - (A) ratio between number of arcs and edges in a network
 - (B) ratio between observed nodes and edges
 - (C) ratio between observed vertices and nodes
@@ -543,6 +598,7 @@ Codes:
 Reason (R): While access is uniform, accessibility is not.
 
 Choose the correct option:
+
 - (A) Both (A) and (R) are correct, and (R) is the correct explanation of (A)
 - (B) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
 - (C) (A) is true, but (R) is false
@@ -561,6 +617,7 @@ Choose the correct option:
 | | (v) Anna Hazare |
 
 Codes:
+
 - (A) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)
 - (B) (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)
 - (C) (a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)
@@ -569,6 +626,7 @@ Codes:
 ---
 
 **60.** Headquarters of SAARC is situated at
+
 - (A) Delhi
 - (B) Kathmandu
 - (C) Dhaka
@@ -588,6 +646,7 @@ Codes:
 | (d) Cultural landscape | (iv) Nuclear areas where cultural traits, ideas and technologies develop and diffuse |
 
 Codes:
+
 - (A) (a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)
 - (B) (a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)
 - (C) (a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)
@@ -596,6 +655,7 @@ Codes:
 ---
 
 **62.** Which of the following statements is not true?
+
 - (A) Cultural regions are uniform in size
 - (B) South-east Asian cultural realm is a transitional culture where different cultures have mingled
 - (C) Cultural traits are the smallest units of culture
@@ -604,6 +664,7 @@ Codes:
 ---
 
 **63.** Which of the following statements about Gujjar Bakrawalas is not true?
+
 - (A) They are nomadic pastoralists and follow transhumance
 - (B) They are affected by restricted grazing due to strict forest conservation laws
 - (C) They are mainly Hindus and oral folklores have been passed down the generations
@@ -612,6 +673,7 @@ Codes:
 ---
 
 **64.** Which one of the following statements does not define culture?
+
 - (A) Culture is genetically transferred
 - (B) Culture is shared
 - (C) Culture is adaptive
@@ -620,6 +682,7 @@ Codes:
 ---
 
 **65.** The wellbeing approach of "Who Gets What, Where, and How" in geography was propounded by:
+
 - (A) Richard Hartshorne
 - (B) D. M. Smith
 - (C) David Harvey
@@ -637,6 +700,7 @@ Codes:
 | (d) Austric | (iv) Bengali |
 
 Codes:
+
 - (A) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)
 - (B) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)
 - (C) (a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)
@@ -645,6 +709,7 @@ Codes:
 ---
 
 **67.** The Durga Puja of Kolkata has been enlisted as
+
 - (A) UNESCO tangible cultural heritage
 - (B) IUCN intangible cultural heritage
 - (C) UNWTO intangible cultural heritage
@@ -653,6 +718,7 @@ Codes:
 ---
 
 **68.** The basic objective of the UN Framework Convention on Climate Change (UNFCCC) is to
+
 - (A) stabilize the melting of Antarctic ice sheets
 - (B) stabilize greenhouse gas concentration in the atmosphere
 - (C) reduce carbon emissions in the developing countries to the level of 1992
@@ -661,6 +727,7 @@ Codes:
 ---
 
 **69.** Which among the following statements about the ASEAN is not correct?
+
 - (A) It is engaged in addressing territorial disputes in South China Sea
 - (B) It acts to introduce standard currencies among member states
 - (C) It faces the challenge of varying levels of economic development among the member countries
@@ -669,6 +736,7 @@ Codes:
 ---
 
 **70.** Which among the following rivers marks the boundary between India and Pakistan?
+
 - (A) The Indus River
 - (B) The Beas River
 - (C) The Satluj River
@@ -679,6 +747,7 @@ Codes:
 ## Questions 71–80: Geographical Thought & Philosophy
 
 **71.** Who among the following scholars stated that "Egypt is the gift of the Nile"?
+
 - (A) Strabo
 - (B) Aristotle
 - (C) Ptolemy
@@ -687,6 +756,7 @@ Codes:
 ---
 
 **72.** Which of the following is incorrectly matched?
+
 - (A) Nomothetic — a law-seeking scientific approach
 - (B) Ideographic — a quantitative model building approach
 - (C) Iconic model — an exact physical representation
@@ -695,6 +765,7 @@ Codes:
 ---
 
 **73.** In which of the following Chinese dynasties, the study of geography gained significance due to the discovery of the first compass?
+
 - (A) Ming dynasty
 - (B) Han dynasty
 - (C) Song dynasty
@@ -703,6 +774,7 @@ Codes:
 ---
 
 **74.** Select the correct sequence of rivers arranged in the order of decreasing length:
+
 - (A) Krishna, Mahanadi, Kaveri, Godavari
 - (B) Godavari, Krishna, Mahanadi, Kaveri
 - (C) Kaveri, Godavari, Krishna, Mahanadi
@@ -721,6 +793,7 @@ Codes:
 | | (v) Strabo |
 
 Codes:
+
 - (A) (a)-(v), (b)-(ii), (c)-(iv), (d)-(i)
 - (B) (a)-(ii), (b)-(i), (c)-(v), (d)-(iii)
 - (C) (a)-(v), (b)-(iv), (c)-(iii), (d)-(ii)
@@ -729,6 +802,7 @@ Codes:
 ---
 
 **76.** Hypothesis testing is the popular method under
+
 - (A) Modernism
 - (B) Positivism
 - (C) Logical Positivism
@@ -737,6 +811,7 @@ Codes:
 ---
 
 **77.** "Knowledge is subject to further investigation, questioning, and critical scrutiny" is the guiding principle of
+
 - (A) Empiricism
 - (B) Fallibilism
 - (C) Possibilism
@@ -745,6 +820,7 @@ Codes:
 ---
 
 **78.** The model, constructed on the basis of observed regularities through inductive approach is
+
 - (A) Priori model
 - (B) Posteriori model
 - (C) Normative model
@@ -753,6 +829,7 @@ Codes:
 ---
 
 **79.** Nomothetic approach focuses on
+
 - (A) individual cases or events
 - (B) producing general statements
 - (C) radical alternatives of system analysis
@@ -761,6 +838,7 @@ Codes:
 ---
 
 **80.** Which of the following is not a spatial data source of geographic information?
+
 - (A) Isohaline map
 - (B) Isohyet map
 - (C) Isoneph map
@@ -771,6 +849,7 @@ Codes:
 ## Questions 81–90: Statistics, Remote Sensing & GIS
 
 **81.** Oil seed production in five districts: P, Q, R, S, T are 900, 1800, 2700, 3600, 1800 quintals respectively are to be represented in a pie diagram. How much will be inscribed angle at the centre for district R?
+
 - (A) 30°
 - (B) 90°
 - (C) 120°
@@ -779,6 +858,7 @@ Codes:
 ---
 
 **82.** 0.05 level of significance in hypothesis testing means:
+
 - (A) there is 5% chance of not committing type-I error
 - (B) there is 5% chance in committing type II error
 - (C) there is 5% chance in committing both type I and type II errors
@@ -787,6 +867,7 @@ Codes:
 ---
 
 **83.** In a distribution, mean is 12, median is 20 and mode is 32. The distribution is said to be
+
 - (A) Normal
 - (B) Positively skewed
 - (C) Negatively skewed
@@ -795,6 +876,7 @@ Codes:
 ---
 
 **84.** Which among the following satellite sensor bands is best for discriminating land from water?
+
 - (A) Blue
 - (B) Green
 - (C) Red
@@ -803,6 +885,7 @@ Codes:
 ---
 
 **85.** Which among the following cannot be used for georeferencing?
+
 - (A) Hand-held GNSS unit
 - (B) Aerial photograph
 - (C) Differential GPS unit
@@ -811,6 +894,7 @@ Codes:
 ---
 
 **86.** Which among the following represents the bands of the LISS-3 sensor?
+
 - (A) Green, Red, NIR, SWIR
 - (B) Blue, Green, Red, SWIR
 - (C) Blue, Green, Red, NIR
@@ -819,6 +903,7 @@ Codes:
 ---
 
 **87.** Which among the following is not a source of DEM?
+
 - (A) HySIS data
 - (B) ALOS PASAR data
 - (C) Survey of India topographical maps published prior to the open series maps
@@ -827,6 +912,7 @@ Codes:
 ---
 
 **88.** In accuracy analysis, the average positive difference between computed and desired outcome value is called as
+
 - (A) Mean positive Error
 - (B) Mean Absolute Error
 - (C) Mean Standard Error
@@ -835,6 +921,7 @@ Codes:
 ---
 
 **89.** Machine learning has various function representation. Which of the following is not a symbolic function?
+
 - (A) Decision trees
 - (B) Rules in proportional logic
 - (C) Rules in first order predicate logic
@@ -848,6 +935,7 @@ Codes:
 (c) The Aravalli Range is geologically the oldest mountain of India
 
 Which of the above statements is/are correct?
+
 - (A) Only (a) is correct
 - (B) All (a), (b) and (c) are correct
 - (C) Only (c) is correct
@@ -858,6 +946,7 @@ Which of the above statements is/are correct?
 ## Questions 91–100: India — Physical & Economic Geography
 
 **91.** According to the Government of India, the number of agroclimatic zones of India is
+
 - (A) 9
 - (B) 12
 - (C) 13
@@ -866,6 +955,7 @@ Which of the above statements is/are correct?
 ---
 
 **92.** Which of the following National Parks is not located in the Himalayas?
+
 - (A) Kishtwar NP
 - (B) Dudhwa NP
 - (C) Mouling NP
@@ -874,6 +964,7 @@ Which of the above statements is/are correct?
 ---
 
 **93.** Which of the following statements is correct?
+
 - (A) Food Corporation of India is engaged in regulating food price to ensure food security in India
 - (B) ICDS program in India focuses on the food security of children and pregnant women
 - (C) Antyodaya Anna Yojana is aimed to address rural poverty
@@ -882,6 +973,7 @@ Which of the above statements is/are correct?
 ---
 
 **94.** The principal causes of soil damage in Punjab and Haryana is
+
 - (A) Deforestation
 - (B) Soil Erosion
 - (C) Excessive Cultivation
@@ -890,6 +982,7 @@ Which of the above statements is/are correct?
 ---
 
 **95.** Data on nutrition status are found in which of the following sources?
+
 - (A) Census of India
 - (B) National Sample Survey Organisation
 - (C) National Family Health Survey
@@ -898,6 +991,7 @@ Which of the above statements is/are correct?
 ---
 
 **96.** Which of the following states of India possesses uranium?
+
 - (A) Arunachal Pradesh
 - (B) Uttarakhand
 - (C) Meghalaya
@@ -906,6 +1000,7 @@ Which of the above statements is/are correct?
 ---
 
 **97.** Which of the following states of India is the largest producer of ragi?
+
 - (A) Tamil Nadu
 - (B) Karnataka
 - (C) Maharashtra
@@ -914,6 +1009,7 @@ Which of the above statements is/are correct?
 ---
 
 **98.** Abolition of Industrial licensing in India for most sectors was made in which of the following policies?
+
 - (A) Industrial policy 2004
 - (B) Industrial policy 1948
 - (C) Industrial policy 1956
@@ -925,6 +1021,7 @@ Which of the above statements is/are correct?
 Reason (R): Female migration in India is greatly influenced by the prevalence of patri-local marriage system.
 
 Select the correct option:
+
 - (A) Both (A) and (R) are correct, and (R) is the correct explanation of (A)
 - (B) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
 - (C) (A) is correct, but (R) is false
@@ -933,6 +1030,7 @@ Select the correct option:
 ---
 
 **100.** The ICT industries contribution to Indian GDP currently is around
+
 - (A) 5 – 10 per cent
 - (B) 11 – 15 per cent
 - (C) 16 – 20 per cent
