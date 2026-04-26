@@ -17,6 +17,7 @@ Welcome to the **Geography in News** section. This page serves as a dynamic hub 
 | March 2026 | **New Urban Heat Island Data released for Delhi** | Environmental | Highlights urgent need for sustainable urban planning. |
 | February 2026 | **Major Tectonic Shift detected in East African Rift** | Geomorphology | Ongoing evolution of a new ocean basin. |
 | January 2026 | **Remote Sensing confirms 15% recovery in Mangrove cover** | GIS & RS | Success of community-led restoration projects in Sundarbans. |
+| Early 2024 | **Noto Peninsula Earthquake & Seismic Activity (Japan)** | Geomorphology | Highlights complex tectonic interactions in subduction zones and tsunami genesis. |
 
 ---
 
@@ -30,6 +31,11 @@ Recent droughts in the Sahel region have triggered new patterns of international
 
 #### 3. Precision Agriculture in Small Landholdings
 The adoption of low-cost drones in Indian agriculture is revolutionizing the **Green Revolution 2.0**, emphasizing productivity without ecological depletion.
+
+#### 4. Strategic Geopolitics: The Strait of Hormuz and Global Chokepoints
+The Strait of Hormuz is one of the world's most critical maritime chokepoints. Situated between the Persian Gulf and the Gulf of Oman, it facilitates roughly 20-30% of the world's total oil consumption. When analyzed alongside other regional straits like the **Bab-el-Mandeb** (connecting the Red Sea to the Gulf of Aden) and the **Suez Canal**, the Strait of Hormuz illustrates the profound impact of physical geography on global economic security and international relations.
+
+![Map of the Strait of Hormuz](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Strait_of_hormuz_full.jpg/800px-Strait_of_hormuz_full.jpg)
 
 ---
 
