@@ -23,7 +23,7 @@
 - **Pelean:** 800°C; most violent (Mont Pelée).
 
 #### Volcanic Landforms
-- **Extrusive:** Ash cones, Composite cones (Strato), Calderas, Lava Plateaus (Deccan).
+- **Extrusive:** Ash cones, Composite cones (Strato), Calderas, Lava Plateaus (Deccan). The **Rajmahal Hills**, formed by the eruption of basalts from the Kerguelen Hotspot about 100 million years ago, are partly connected to it by the 90-E ridge. **Cocos Island** is notably NOT a hotspot (unlike Easter, Tristan da Cunha, or Réunion).
 - **Intrusive:** Batholiths (largest), Laccoliths (dome), Lopoliths (saucer), Phacoliths (wave), Sills (horizontal), Dykes (vertical).
 
 ---
@@ -53,9 +53,11 @@ Rock strata under horizontal compression.
 |:---|:---|
 | **Symmetrical** | Both limbs equally bent (e.g., Zagros Mts). |
 | **Asymmetrical** | One limb is steeper than the other. |
+| **Overturned** | Axial plane is inclined and both limbs of the fold dip in the same direction. |
 | **Monoclinal** | One limb is vertical. |
 | **Recumbent** | Fold is pushed over so far that axial plane is horizontal. |
 | **Nappe** | Overthrust fold where a sheet of rock has moved miles (e.g., Alps). |
+| **Plunge Fold** | When the axis of the fold is tilted and forms an angle between the axis and the horizontal plane. |
 | **Plunging Syncline** | Two cuestas converging in the direction of plunge with dipslopes facing each other. |
 
 ---

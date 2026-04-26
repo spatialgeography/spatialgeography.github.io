@@ -36,5 +36,5 @@ A **Pediment** is a smooth, gently sloping erosional surface cut into bedrock at
 ### 3. Slope Evolution Models
 
 - **W.M. Davis (Slope Decline):** Slopes become gentler over time as the landscape ages.
-- **Walther Penck (Slope Replacement):** Steep slopes are replaced by gentler ones from below (*Haldenhang* replaces *Böschungen*).
+- **Walther Penck (Slope Replacement):** Steep slopes are replaced by gentler ones from below (*Haldenhang* replaces *Böschungen*). A steep rectilinear slope without change of angle is specifically designated as **Haldenhang**.
 - **L.C. King (Slope Retreat):** Slopes maintain their angle but retreat backward (Parallel Retreat).

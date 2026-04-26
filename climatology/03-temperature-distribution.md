@@ -23,8 +23,9 @@
 
 ### Vertical Temperature
 
-- **Normal Lapse Rate** = 1°C per 165 m (6.4°C/km)
+- **Normal / Environmental Lapse Rate** = **0.0065°C/m** (or 6.4 to 6.5°C/km).
 - Temperature at upper troposphere = −55°C to −60°C
+- Temperature varies at different times of the day because radiation intensity per unit area and the amount of reflection depend on the angle between solar rays and a tangent to the earth's surface.
 - Mesosphere upper limit = −80°C
 - At 400 km = 1000°C
 

@@ -25,6 +25,8 @@
 * **Cultural Landscape:** The built environment and human imprint on the natural landscape.
 * **Cultural Integration:** The interlocking subsystems of a culture.
 * **Acculturation:** The adoption of cultural traits, such as language, by one group under the influence of another.
+* **Syncretism:** The process of fusion of traits from different cultures to form a new cultural element (e.g., in religions or architecture).
+* **Cultural Transmission:** Culture is transmitted from generation to generation primarily through **social and cultural vehicles** (especially language), rather than genetic factors.
 * **Cultural Divergence:** The tendency for cultures to become increasingly dissimilar with time.
 * **Cultural Ecology**: The relationship between a culture group and its natural environment (study of human adaptations).
   - *Maladaptation:* Occurs when a cultural practice leads to environmental degradation (e.g., overgrazing leading to desertification).

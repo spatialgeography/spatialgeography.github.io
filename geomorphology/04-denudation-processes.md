@@ -17,7 +17,7 @@ Weathering is the in-situ disintegration and decomposition of rocks.
 
 #### Physical (Mechanical) Weathering
 - **Insolation / Block Disintegration:** Expansion/contraction due to temperature.
-- **Exfoliation:** "Onion weathering" where outer layers peel off.
+- **Exfoliation:** "Onion weathering" where outer layers peel off. An **Exfoliation dome** develops mainly due to **pressure release stress** resulting from denudation.
 - **Frost Shattering:** Water expands 10% when freezing.
 - **Unloading / Pressure Release:** Removal of overlying rock.
 
@@ -27,14 +27,17 @@ Weathering is the in-situ disintegration and decomposition of rocks.
 - **Hydration:** Minerals absorb water and expand (e.g., Gypsum).
 - **Solution:** Direct dissolution of minerals (e.g., Rock salt). Note that **Muscovite** is typically dissolved by alkaline solutions.
 
+#### Soil Textures
+- **Clay:** Represents grains of **< 2 μm**. Unweathered stones at the base of a soil profile are associated with the **R horizon**.
+
 ---
 
 ### 2. Mass Wasting
 
-Movement of rock waste downslope under the direct influence of **gravity** (Sharpe, 1938).
+Movement of rock waste downslope under the direct influence of **gravity** (Sharpe, 1938). Weathering contributes to mass movement by increasing water holding capacity, reducing shear strength, and breaking particles (it does *not* directly contribute via the winnowing of finer particles, which is wind action).
 
 #### Slow Flowage
-- **Soil Creep:** Extremely slow downward movement (e.g., observed when trees and posts lean towards the direction of the slope).
+- **Soil Creep:** Slow downhill movement of moist regolith under sustained shear stress without heaving (e.g., observed when trees and posts lean towards the direction of the slope).
 - **Solifluction:** Flow of water-saturated debris over permafrost.
 
 #### Rapid Flowage

@@ -20,5 +20,5 @@
   - *t-test*: Compares means of two groups.
   - *ANOVA (Analysis of Variance)*: Compares means of three or more groups.
 * **Non-Parametric Tests** (distribution-free):
-  - *Chi-Square ($\chi^2$) Test*: Tests association between categorical variables (observed vs. expected frequencies).
+  - *Chi-Square ($\chi^2$) Test*: Tests association between categorical variables (observed vs. expected frequencies). A value of **0** indicates that the Null hypothesis is accepted.
 :::

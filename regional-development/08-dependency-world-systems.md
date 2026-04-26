@@ -14,7 +14,7 @@
 
 ::: {.callout-note}
 ### Key Concepts
-* **Dependency Theory (Frank, Amin)**: Underdevelopment of the Global South is a direct result of its historical and ongoing exploitation by the developed Global North (development of underdevelopment). Extracting raw materials and providing a market for manufactured goods.
+* **Dependency Theory (Frank, Amin)**: Underdevelopment of the Global South is a direct result of its historical and ongoing exploitation by the developed Global North (development of underdevelopment). Key dependency theorists include **Paul Baron**, **Andre Gunder Frank**, and **Samir Amin**. It explains the **distorted development** of backward regions as a result of their integration into the global capitalist system.
 * **World Systems Theory (Immanuel Wallerstein)**: Global capitalist system divided into Core, Semi-periphery, and Periphery. Exploitative trade relations.
 * **Global Economic Blocks**: EU, NAFTA, ASEAN, MERCOSUR. Their role in shaping global regional development, creating core regions of prosperity while sometimes marginalizing non-members.
 :::

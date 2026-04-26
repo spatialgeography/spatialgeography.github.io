@@ -5,6 +5,13 @@
 | Syllabus | Topic Details |
 |----------|---------------|
 | **UGC NET** | Contributions of German, French, British, American schools |
+| **Mapping Institutions** | **National Atlas and Thematic Mapping Organisation (NATMO)**: Set up in **1956** for publishing thematic maps of India. |
+
+### Contributor Matching (Concepts)
+- **Humanistic Geography:** Yi-Fu Tuan
+- **Social Space:** Chombart de Lauwe
+- **Post-Modernism:** Michel Foucault
+- **Radicalism in Geography:** Richard Peet
 :::
 
 ---
@@ -48,7 +55,8 @@
 
 ##### Key Concepts by Ratzel
 - **'Anthropogeography'** — coined the term; further subdivided into Anthropogeography and Political Geography
-- **'Lebensraum'** (Living Space) — Organic Theory of State; applied Darwin's biological concepts to human societies = **Social Darwinism**
+- **'Lebensraum'** (Living Space) — Organic Theory of State; applied Darwin's biological concepts to human societies = **Social Darwinism**.
+- **Sex vs Gender**: In modern geographic thought, the biological view of **sex** and the social view of **gender** are distinct concepts.
 - **Basic philosophy:** *"Survival of the fittest"* in a physical environment
 - *"Similar location leads to similar mode of life"*
 - Progress of human society: (1) Hunting/fishing → (2) Hoe culture → (3) Crops cultivation → (4) Mixed farming → (5) Unmixed herding → (6) Horticulture
@@ -99,7 +107,7 @@
 - Coined concept of **'genre de vie'** (life style/way of life)
   - Complex of institutions, traditions, attitudes, purposes and technical skill of people
 - **'Pays'** — homogenous regions in France
-- Works: ***Tableau de la France***, ***Human Geography*** (1921, completed by Emmanuel de Martonne)
+- Works: ***Tableau de la France*** (or *Tableau de la Geographie de la France*), ***Human Geography*** (1921, completed by Emmanuel de Martonne)
 - Endorsed by **Lucien Febvre**: *"There are no necessities but everywhere possibilities"*
 - *"Man is the most adaptable and mobile organism on the face of the Earth"*
 - **'Regional geography — the core of geography'**
@@ -214,10 +222,17 @@
 - Pupil and follower of Ratzel
 - Works:
   - ***Influences of Geographic Environment*** (1911)
-  - ***American History and its Conditions*** (1903)
+  - ***American History in its Geographic Condition*** (1903) — sometimes cited as *American History and its Conditions*.
 - *"Man is a product of the surface of the earth"*
 - *"Location means climate and plant life at one end of the scale, civilization and political status at the other"*
 - *"Which was first, geography or history?"* (Kant) → *"Geography lies at the basis of history"*
+- **R. J. Johnston**: Wrote *Geography and Geographers*.
+- **D. M. Smith**: Wrote *Social Justice and the City*.
+- **David Harvey**: Wrote *The Urban Experience*.
+- **Robert Park**: Urban Ecology.
+- **J. Q. Stewart**: Social Physics.
+- **Peter Haggett**: Wrote *Geography: A Global Synthesis*.
+- **Griffith Taylor**: Proposed the **Migration Zone Theory**.
 
 #### Ellsworth Huntington (1876–1947)
 - Pupil of Davis; environmental deterministic

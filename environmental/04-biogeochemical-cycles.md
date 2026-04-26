@@ -18,7 +18,10 @@ Biogeochemical cycles are the pathways through which essential chemical elements
 ::: {.callout-note}
 ### Major Biogeochemical Cycles
 * **Carbon Cycle**: Photosynthesis → Respiration → Decomposition → Combustion. Carbon reservoirs: atmosphere (CO₂), oceans, fossil fuels, biomass. Human perturbation through fossil fuel burning.
-* **Nitrogen Cycle**: Nitrogen fixation (biological, atmospheric, industrial) → Nitrification → Assimilation → Ammonification → Denitrification. Role of Rhizobium, Azotobacter.
+* **Nitrogen Cycle**: Nitrogen fixation (biological, atmospheric, industrial) → Nitrification → Assimilation → Ammonification → Denitrification. Role of Rhizobium, Azotobacter. Note: Nitrogen is *not* more abundant in living organisms than carbon, hydrogen, and oxygen.
+  - *Nitrogen fixation:* Nitrogen is converted to ammonia.
+  - *Nitrification:* NH₄⁺ is converted to NO₃⁻.
+  - *Denitrification:* Bacteria use NO₃⁻ for metabolism.
 * **Oxygen Cycle**: Photosynthesis (O₂ release), respiration (O₂ consumption), ozone formation and depletion.
 * **Types of Cycles**:
   - *Gaseous Cycles*: Carbon, nitrogen, oxygen — reservoir in atmosphere/hydrosphere

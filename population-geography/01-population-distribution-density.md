@@ -17,7 +17,7 @@
 ### Key Concepts
 * **Distribution Patterns**: Ecumene (inhabited areas) vs. non-ecumene. Concentration in Asia (~60%), Europe, eastern North America.
 * **Determinants of Distribution**: Climate, terrain, soil fertility, water availability, mineral resources, industrial development, historical factors.
-* **Measures of Density**: Arithmetic density, physiological density, agricultural density.
+* **Measures of Density**: Arithmetic density, physiological density, agricultural density. Mountainous regions often exhibit low arithmetic density but high **physiological density**.
 * **Population Growth**: Prehistoric to modern — exponential growth since Industrial Revolution. World population milestones.
 * **Growth Rate**: Crude birth rate, crude death rate, natural increase rate, doubling time.
 * **Regional Variations**: High growth in Sub-Saharan Africa, South Asia; low/negative growth in Europe, Japan.

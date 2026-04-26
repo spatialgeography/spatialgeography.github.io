@@ -14,9 +14,11 @@
 
 - **Insolation** = Incoming Solar Radiation
 - Averaged over a year, approximately **342 W** of solar energy reaches every m² of Earth.
+- Solar radiation is mostly in the short wave range of **< 4 µm**. Solar wavelengths shorter than **0.285 µm** hardly penetrate below 20 km altitude of the atmosphere.
 - **Pyranometer** — instrument to measure Albedo
 - 44% of Energy emitted by Visible Light (EMR)
 - **Langley** — unit to measure solar constant
+- **Astronomical effects (Milankovitch cycles):** Eccentricity of earth's orbit = 95,000 years; Axial tilt = 41,000 years; Wobble and shift of axis (precession) = 21,000 years.
 
 #### Scattering
 - **Lord Rayleigh** — explained the phenomena = *"Rayleigh Scattering"*

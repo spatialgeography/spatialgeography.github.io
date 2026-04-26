@@ -17,7 +17,7 @@
 ### Key Concepts
 * **Conventional/Non-Renewable Energy**:
   - *Coal*: Four types (anthracite, bituminous, lignite, peat). Major producers: China, USA, India, Australia.
-  - *Petroleum*: Middle East, USA, Russia. Geopolitical significance (OPEC).
+  - *Petroleum*: Middle East, USA, Russia. Geopolitical significance (OPEC). In **1973**, oil prices rose from **$1.5 to $7.0** per barrel. The second oil crisis occurred in **1979** (linked to the Iranian Revolution).
   - *Natural Gas*: Cleanest fossil fuel.
 * **Non-Conventional/Renewable Energy**: Solar, wind, hydroelectric, geothermal, biomass, tidal. Crucial for sustainable development.
 * **World Energy Crisis**: Situation where energy demand outweighs supply or is threatened by geopolitical instability, infrastructure failures, or environmental constraints. The best strategy for energy crisis management is the **promotion of sustainable production and consumption of energy**.

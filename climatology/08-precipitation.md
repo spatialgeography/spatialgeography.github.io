@@ -27,8 +27,12 @@
 
 | Process | Scholars | Year |
 |:---|:---|:---|
-| **Bergeron–Findeisen Process** (Ice Crystal Process) | Tor Bergeron and von Findeisen | 1933 |
+| **Bergeron–Findeisen Process** (Ice Crystal Process) | Tor Bergeron and von Findeisen. It involves mixed clouds with co-existence of ice and water, differences in saturation vapour pressure, and migration of water vapour towards sublimation nuclei. | 1933 |
 | **Collision–Coalescence Process** | George Simpson and Mason; modified by Langmuir | — |
+
+### Key Definitions
+- **Cloudburst:** Defined by the IMD as rainfall of **$\ge$ 10 cm / hour**.
+
 
 ### Types of Rainfall
 - **Convectional Rainfall**

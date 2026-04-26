@@ -77,6 +77,8 @@
 - NH → SW to NE; SH → NW to SE
 - **Roaring Forties** = 40°S; **Furious Fifties** = 50°S; **Shrieking Sixties** = 60°S
 - **Dish-pan experiment** relates to the formation of **Rossby Waves** embedded in the Westerlies.
+- **Global Rainfall Changes:** Rainfall distribution at a global-scale in recent decades is altered due to the alteration of the **Hadley cell** of general wind circulation.
+
 
 #### Polar Winds
 - From Polar High → Sub-Polar Low

@@ -17,7 +17,7 @@
 ### Key Concepts
 * **Johann Heinrich von Thünen (1826)**: *The Isolated State* — first quantitative model of spatial economic organization.
 * **Assumptions**: Isolated state, isotropic plain, single central market, uniform transport costs, profit-maximizing farmers.
-* **Concept**: Economic rent (locational rent) determines land use. Products with high transport costs or perishability are produced closest to the market.
+* **Concept**: **Location Rent / Economic Rent** determines land use — it is the most important concept on which the model is based. Products with high transport costs or perishability are produced closest to the market.
 * **Concentric Rings**:
   1. Market gardening and dairying (perishable, high value)
   2. Forestry/Firewood (heavy/bulky to transport)

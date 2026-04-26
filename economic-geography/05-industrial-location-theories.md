@@ -19,7 +19,7 @@
   - *Material Index* = Weight of localized raw materials / Weight of finished product. MI > 1 = material-oriented; MI < 1 = market-oriented.
   - *Isodapanes*: Lines of equal total transport cost.
 * **August Lösch's Profit Maximization Theory (1954)**: Location where profit is maximized (total revenue minus total cost). Spatial demand cone; hexagonal market areas.
-* **David Smith's Spatial Margins of Profitability (1971)**: Incorporates spatial variations in both costs and revenues to find the area where profit is possible.
-* **Edgar Hoover**: Emphasized transport cost structure (terminal vs. line-haul costs).
+* **David Smith's Spatial Margins of Profitability (1971)**: Incorporates spatial variations in both costs and revenues to find the area where profit is possible. Also known for the **Area-cost curve** approach.
+* **Edgar Hoover**: Emphasized transport cost structure (terminal vs. line-haul costs) and the concept of **Delivered prices**.
 * **Allan Pred**: Behavioural approach — bounded rationality, imperfect information in locational decision-making. His proposition suggests that the 'Behavioral Approach' strongly determines the location of an industry.
 :::

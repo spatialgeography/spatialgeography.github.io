@@ -48,8 +48,9 @@
 
 - **Diameter:** 80–300 km (some 50 km or less)
 - **High wind speed**; sea temperature must be **27°C or more**
+- They mostly occur in late summer and autumn. They do *not* occur beneath the jet stream.
 - **No cyclones occur along the equator** because the Coriolis force is zero.
-- **Eye of the cyclone** — centre of extreme low pressure. The temperature inside the eye is typically warmer than that of the surroundings. Note that some cyclones may not develop an eye.
+- **Eye of the cyclone** — centre of extreme low pressure in spite of descending wind. At the eye, adiabatic warming of descending airmass accentuates high temperature. Note that some cyclones may not develop an eye.
 
 #### Classification (Christopherson, 1995)
 

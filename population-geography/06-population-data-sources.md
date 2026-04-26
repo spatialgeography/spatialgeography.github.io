@@ -14,7 +14,9 @@
 
 ::: {.callout-note}
 ### Key Concepts
-* **Census**: Complete enumeration of population — decennial in India. De facto vs. de jure enumeration.
+* **Census**: Complete enumeration of population — decennial in India. The first census in India was conducted in **1872**.
+  - **De-jure Method:** Enumeration based on the permanent address of individuals.
+  - **De-facto Method:** Enumeration based on the current address where people are found at the time of the census.
 * **Sample Surveys**: National Sample Survey (NSS/NSSO), Demographic and Health Surveys (DHS) — representative sampling.
 * **Vital Statistics Registration**: Registration of births, deaths, marriages — Civil Registration System (CRS) in India, Sample Registration System (SRS).
 * **Data Reliability and Errors**: Coverage errors, content errors, sampling errors, non-sampling errors. Age-sex misreporting, digit preference.

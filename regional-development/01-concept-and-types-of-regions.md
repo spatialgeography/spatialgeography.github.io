@@ -20,4 +20,7 @@
 * **Functional Region (Nodal Region)**: An area organized around a node or focal point, connected by flows (transport, communication, trade). Example: a metropolitan area and its commuter zone.
 * **Planning Region**: An area delineated for administrative or planning purposes. Must be large enough to take investment decisions, have some resource homogeneity, and possess an administrative center.
 * **Regional Hierarchy**: Regions exist at different scales (macro, meso, micro) forming a nested hierarchy.
+* **Regional Examples**:
+  - **Gangetic Plain:** Sub-divided into **Lower, Middle, Upper, and Trans** Gangetic Plain.
+  - **Four Asian Tigers:** High-growth economies including **Singapore, Hong Kong, South Korea, and Taiwan**.
 :::

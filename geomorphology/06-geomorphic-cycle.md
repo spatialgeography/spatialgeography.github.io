@@ -18,7 +18,8 @@ Davis proposed that landforms develop in a predictable sequence based on Darwini
 #### Stages of Erosion
 1. **Youth:** Stream lengthening, valley deepening, steep slopes, V-shaped valleys.
 2. **Maturity:** Lateral erosion begins, V-shaped valleys broaden, profile of equilibrium starts.
-3. **Old Age:** Base level of erosion reached; formation of a **Peneplain** (almost a plain) with residual hills called **Monadnocks**.
+3. **Old Age:** Base level of erosion reached; formation of a **Peneplain** (almost a plain) with residual hills called **Monadnocks**. The rate of erosion is minimal, and **Entropy is maximised** on the peneplain.
+- **Etch-surface:** A product of two phases of erosion (deep weathering followed by stripping of the saprolite).
 *Note: The **Hypsometric integral** provides quantitative support for the idea of Davis' three stages of landform development.*
 
 ---

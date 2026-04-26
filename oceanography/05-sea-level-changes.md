@@ -19,7 +19,7 @@
   - Glacial periods → sea-level fall (water locked in ice sheets)
   - Interglacial periods → sea-level rise (ice melting)
 * **Isostatic Changes**: Local changes due to crustal uplift or subsidence.
-  - Post-glacial rebound (Scandinavia, Canada)
+  - Post-glacial rebound (Scandinavia, Canada). Some European coasts record sea-level fall due to **isostatic rebound** resulting from deglaciation.
   - Tectonic subsidence
 * **Current Sea-Level Rise**: ~3.6 mm/year — thermal expansion of oceans + melting of glaciers and ice sheets.
 * **Impacts**: Coastal flooding, erosion, saltwater intrusion, loss of wetlands, island submergence.

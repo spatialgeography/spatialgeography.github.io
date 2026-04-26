@@ -21,4 +21,5 @@
   - *Representative Fraction (RF)*: 1:50,000. Independent of units.
   - *Graphical/Linear Scale*: A drawn line divided into segments. Remains true even if the map is enlarged/reduced.
   - *Statement Scale*: "1 cm represents 1 km".
+* **Nautical Mile:** One nautical mile measures the arc-length distance along the great-circle against **1' (one minute)** of angular distance at the centre of the Earth.
 :::

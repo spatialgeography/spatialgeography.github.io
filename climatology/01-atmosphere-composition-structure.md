@@ -22,7 +22,7 @@
 | Nitrogen (N₂) | Up to 100 km | 78.03% |
 | Oxygen (O₂) | Up to 120 km; concentration at 16 km | 20.99% |
 | Argon (Ar) | — (enters via radioactive breakdown) | 0.94% |
-| Carbon Dioxide (CO₂) | Up to 32 km | 0.03% |
+| Carbon Dioxide (CO₂) | Up to 32 km. Mainly from respiration and decomposition by biota. | 0.03% |
 | Hydrogen (H₂) | Up to 1100 km | 0.01% |
 | Neon (Ne) | — | 0.0018% |
 | Helium (He) | — | 0.0005% |
@@ -30,6 +30,9 @@
 | Xenon (Xe) | — | 0.000009% |
 | Ozone (O₃) | 12 to 50 km; absorbs UV-B wavelength | 0.000001% |
 
+- **Other Trace Gases:**
+  - **Methane (CH₄):** Derived from enteric fermentation in animals and decomposition.
+  - **Nitrous Oxide (N₂O):** Derived from microbial activity in soil.
 - **Water Vapour** — varies from 0–4%; less above 2000 meters
 - **Dust Particles** — hygroscopic nuclei; Smoke + Fog = **Smog**
 
@@ -57,6 +60,7 @@
   - Average temperature ranges from **−70°C to −85°C** (at equator).
   - Average pressure is approximately **100 mb**.
   - Discovered by **WMO (World Meteorological Organization) — 1957**.
+- **Air Travel:** Air travel from London to New York involves longer time than the return journey because of the resistance of the **Upper air jet stream** (headwinds).
 
 #### Stratosphere
 - **Altitude:** up to 50 km; contains 10% of atmosphere mass

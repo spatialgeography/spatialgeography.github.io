@@ -21,7 +21,7 @@
   - *Conical*: Best for mid-latitudes.
   - *Zenithal/Azimuthal*: Best for polar regions.
 * **Types by Property Preserved**:
-  - *Orthomorphic/Conformal*: Preserves shape/local angles.
+  - *Orthomorphic/Conformal*: Preserves shape/local angles. Examples include **Stereographic** and **Mercator** projections.
   - *Homolographic/Equal Area*: Preserves area (crucial for thematic mapping like population density).
   - *Equidistant*: Preserves scale along certain lines.
 * **Choice**: Depends on purpose (navigation vs. statistical display) and Latitudinal extent of the mapped area.

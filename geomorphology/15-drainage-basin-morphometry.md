@@ -20,7 +20,7 @@
   - *Linear Aspects*: Stream order, stream number, stream length, mean stream length ratio, bifurcation ratio
   - *Areal Aspects*: Drainage density, stream frequency, drainage texture, form factor, circularity ratio, elongation ratio
   - *Relief Aspects*: Basin relief, relief ratio, ruggedness number
-* **Hypsometric Analysis**: Hypsometric curve and integral — indicates stage of basin erosion.
+* **Hypsometric Analysis**: Hypsometric curve and integral — indicates stage of basin erosion. A hypsometric integral value of **0.92** denotes minimum erosion (youthful stage).
 * **Clinographic Curve**: Relationship between slope angle and area.
 * **Altimetric Frequency Graph**: Frequency distribution of elevations within a basin.
 * **Applications**: Flood prediction, watershed management, groundwater exploration, soil conservation.

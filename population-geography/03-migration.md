@@ -22,6 +22,7 @@
 * **Migration System Theory:** Focuses on historical linkage, feedback loops, and network dynamics.
 * **New Economics of Labour Migration:** Household level decision-making to diversify income.
 * **Gravity Model**: Migration proportional to population sizes, inversely proportional to distance.
+* **Arthur Lewis Model (Dual Economy):** Describes the transition of labor from the rural subsistence sector (surplus labor) to the urban industrial sector.
 * **Consequences**: Economic (remittances, brain drain/gain), social (cultural exchange, family disruption), demographic (age-sex structure), political (refugee crises). Note that the *improvement in the rural economy due to lower population pressure* is generally not considered a direct consequence of accelerated rural to urban migration. 
 * **Feminisation of the Farm Sector:** Gradually on the rise because of the increase in male migration from rural to urban areas.
 * **Refugee and Displacement**: UNHCR data, internally displaced persons (IDPs), climate refugees.

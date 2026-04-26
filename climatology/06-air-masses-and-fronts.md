@@ -44,6 +44,9 @@
 - Slope: 1:100 to 1:400
 - Clouds: Cirrus (Ci) → Cirrostratus (Cs) → Altocumulus (Ac) → Altostratus (As)
 
+#### Katafront
+- In Katafronts, the warm airmass sinks relative to the cold airmass. They are less active, and warm air is overrun by dry descending air.
+
 #### Cold Front
 - Cold air becomes aggressive and **invades the warm air**; forcibly lifts warm air
 - Slope: 1:50 to 1:100

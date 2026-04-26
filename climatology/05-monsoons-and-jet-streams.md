@@ -30,6 +30,7 @@
 - Rig Veda — first mention of monsoon
 - Al-Masudi — documented monsoon
 - Sidi Ali — 1564 AD
+- **Indian Ocean Dipole (IOD):** Refers to the **Sea surface temperature anomaly** and affects the **Rainfall** of countries that surround the Indian Ocean Basin.
 
 #### Monsoon Research Programmes
 

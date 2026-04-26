@@ -74,9 +74,18 @@
 ### Feminism
 - primarily studies how gender influences spatial patterns and human interactions with environments.
 - Studies in feminist geography often use qualitative methods to capture women's lived experience in spaces.
+- **Notable Feminist Geographers:** Doreen Massey, Gillian Rose, Susan Manson. Note that **Marjorie Sweeting** (Karst geomorphologist) is NOT a feminist geographer.
 
 ### Postmodernism
-- Rejection of grand theories, multiple truths, deconstruction, fragmentation
+- Rejection of grand theories, multiple truths, deconstruction, fragmentation.
+- **Basic Tenets:** Spatiality, volatility, and pluralism.
+- **Guiding Principle:** **Simultaneity**.
 - **Fallibilism:** The idea that knowledge is subject to scrutiny and no belief or theory is absolutely certain.
 - **Practical heterology:** Disorder, chaos, and difference.
 - Key scholars: **Soja**, **Dear**
+
+### Philosophy and Guiding Principles Matching
+- **Modernism:** Sequential analysis
+- **Structuralism:** Mode of production
+- **Post-structuralism:** Code of production
+- **Postmodernism:** Simultaneity

@@ -20,6 +20,9 @@ Biodiversity — the variety of life at genetic, species, and ecosystem levels �
 * **Concept of Biodiversity Hotspots**: Coined by Norman Myers (1988) — regions with high endemism and significant habitat loss.
 * **Global Hotspots**: 36 recognized hotspots covering just 2.5% of Earth's land surface but harboring >50% of plant species.
 * **Indian Hotspots**: Western Ghats–Sri Lanka, Eastern Himalayas, Indo-Burma, Sundaland.
+* **Special Ecosystem Phenomena**:
+  - **Darwin's Paradox**: The sustenance of an ecosystem with an abundance of marine life in apparently nutrient-free and clear water of the coral reefs.
+  - **Helophytes**: Plants that grow specifically in marshes.
 * **Conservation Status Categories**:
   - *Critical*: Imminent risk of extinction
   - *Endangered*: Very high risk of extinction in the wild
@@ -35,7 +38,7 @@ Biodiversity — the variety of life at genetic, species, and ecosystem levels �
   - *Overexploitation*: Overhunting, overfishing, illegal wildlife trade
   - *Pollution*: Pesticides, industrial effluents, plastic contamination
   - *Invasive Species*: Introduction of alien species disrupting native ecosystems
-  - *Climate Change*: Shifting habitats, coral bleaching, phenological mismatches
+  - *Climate Change*: Shifting habitats, phenological mismatches. **Coral bleaching** occurs when zooxanthellae are damaged by intense ultraviolet radiation, xenobiotic contaminants, alteration of ocean salinity & temperature, and intense sedimentation.
 * **IUCN Red List**: The global standard for assessing species extinction risk.
 * **Sixth Mass Extinction**: Anthropocene biodiversity crisis — current extinction rates 100–1000x background rates.
 :::

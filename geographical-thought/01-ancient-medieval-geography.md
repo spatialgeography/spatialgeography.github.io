@@ -170,7 +170,7 @@
 | **Al-Balkhi** | — | *Kitab-al-Ashkal* — 1st climatic atlas |
 | **Al-Masudi** | 896–956 | *Kitab-al-Tanbhual-Ishraf*; *Kitab Muruj-al-Dhahab*; *Kitab-Akhbar-al-Zaman* (30 vol); traveled Azerbaijan, Persia, India, Lanka, Egypt, Spain |
 | **Ibn Hawqal** | 912–978 | *'A Book of Routes and Realms'* — European countries and Caspian Sea |
-| **Al-Biruni** | 973–1039 | Encyclopaedic work on India; mathematics |
+| **Al-Biruni** | 973–1039 | Encyclopaedic work on India (*Kitab-ul-Hind*); used **trigonometry** and the **height of a hill** to determine the radius of the Earth. |
 | **Al-Idrisi** | 1099–1165 | Correlated with Ptolemy's book; world map |
 | **Ibn Battuta** | 1304–1368 | Extensive travels across Asia, Africa, Europe |
 | **Ibn Khaldun** | 1332–1406 | Social geography, philosophy of history |

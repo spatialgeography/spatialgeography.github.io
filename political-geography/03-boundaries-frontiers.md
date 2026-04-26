@@ -15,7 +15,7 @@
 
 ::: {.callout-note}
 ### Key Concepts
-* **Frontiers**: Geographic zones or belts that separate states. Margin of settlement, outward-oriented, dynamic, transitional (historical concept, now largely replaced by boundaries).
+* **Frontiers**: Geographic zones or belts that separate states. A **Frontier** is fundamentally a **separation zone** between two states or political entities. Margin of settlement, outward-oriented, dynamic, transitional (historical concept, now largely replaced by boundaries).
 * **Boundaries**: Precise linear dividing lines defined by treaties and demarcated on the ground. Inward-oriented.
 * **Boundary Classification (Genetic)**:
   - *Antecedent*: Drawn before the area was highly populated (e.g., 49th parallel US-Canada).

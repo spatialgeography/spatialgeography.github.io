@@ -14,7 +14,8 @@
 
 ::: {.callout-note}
 ### Key Concepts
-* **Principal Component Analysis (PCA)**: A dimensionality reduction technique. Correlated variables are transformed into a smaller number of uncorrelated variables called Principal Components. PC1 accounts for the most variance. Used to create composite indices (e.g., developmental index from 15 variables).
+* **Principal Component Analysis (PCA)**: A statistical procedure that uses an **orthogonal transformation** to convert a set of correlated variables to a set of uncorrelated variables. PC1 accounts for the most variance. Used to create composite indices (e.g., developmental index from 15 variables).
+* **ANOVA (Analysis of Variance):** Preferred over the 't' test where comparison between two or more population means are involved. This is because the probability of committing **Type I error** accumulates when the number of comparisons in the 't' test increases.
 * **Cluster Analysis**: Grouping a set of objects such that objects in the same group (cluster) are more similar to each other than to those in other groups. Used in regionalization (e.g., grouping districts based on socio-economic similarity).
 * **Time Series Analysis**: Analyzing sequence of data points over time to extract meaningful statistics. Components: Trend (long term), Cyclical, Seasonal, Irregular/Random variations. Used for climate data or population forecasting.
 :::

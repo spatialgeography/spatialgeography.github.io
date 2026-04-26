@@ -26,7 +26,9 @@
   - **Access vs Accessibility:** In the context of transportation, 'Access is not accessibility'. While access refers to the physical presence of a transport link and is often uniform, accessibility (the ease of reaching a destination) is not uniform.
 * **Trade**: Exchange of goods/services. Based on comparative advantage (Ricardo).
 * **Spatial Interaction Models:**
-  - *Edward Ullman:* Three main principles of spatial interaction are **complementarity, transferability, and intervening opportunities**.
+  - *Edward Ullman:* Three main principles of spatial interaction are **complementarity, transferability, and intervening opportunities**. The concept of **Intervening Opportunity** suggests that there is no better alternative destination for an interaction.
+  - *Destination Choice Models:* These are an extension of the gravity model.
+  - *Transport Friction:* The **Beta ($\beta$) index** is often used as a measure of transport friction.
   - *M. E. Hurst:* Emphasized the role of transportation infrastructure in shaping urban development patterns.
   - *W. J. Reilly:* Law of Retail Gravitation
   - *G. K. Zipf:* Least Effort Principle

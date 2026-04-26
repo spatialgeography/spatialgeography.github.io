@@ -27,8 +27,12 @@
 
 #### Fluvial Mechanics & Transport Capacity
 - **Stream Competence:** The measure of the maximum size of particles that a stream can transport.
+- **Reynolds Number:** The ratio of inertial force to viscous force in a fluid.
+- **Hydraulic Geometry:** In at-a-station hydraulic geometry equations ($b + f + m = 1$), if $b = 0.22$ and $f = 0.64$, the expected value of $m$ is $0.14$.
 - **Suspended Sediment:** High concentration of suspended sediment increases the transportational capacity of a stream because it increases **viscosity**, which reduces turbulence and energy dissipation.
 - **Impoundment:** The impoundment of a river (e.g., by a dam) decreases its downstream entrainment capacity because water velocity drops in the reservoir.
+- **Tectonic Sinuosity:** Sinuosity of an alluvial river **decreases** if slope increases due to tectonic movement. Channel slope usually increases downstream of an uplifting anticlinal axis.
+- **Sediment Stratum:** In a river terrace, a continuous stratum of pebbles within layers of sands indicates that the **river was moving fast** at the time of deposition.
 
 ---
 

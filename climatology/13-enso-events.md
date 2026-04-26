@@ -30,7 +30,7 @@
 - **SOI** = Southern Oscillation Index (negative SOI = favourable for El Niño)
 
 ### ENSO
-- **ENSO** = El Niño + Southern Oscillation
+- **ENSO** = El Niño + Southern Oscillation; a periodic fluctuation with a cycle of **2 – 7 years**. ENSO events are specifically associated with the **Walker cell**.
 
 ### La Niña
 - Abnormal **accumulation of cold water** in the central and eastern Pacific region (*'Little Girl'* — Spanish)

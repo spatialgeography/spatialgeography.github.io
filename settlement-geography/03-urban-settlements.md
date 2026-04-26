@@ -12,8 +12,16 @@ The geography of cities and towns.
 ### Urban Systems
 * **Definition of Urban**: Census criteria — population size, density, and proportion in non-agricultural activities.
 * **Urban Functions**: Central business district (CBD), industrial, residential, and recreational zones.
-* **Rank-Size Rule**: The relationship between city size and its rank in a national urban hierarchy.
+* **Rank-Size Rule**: The relationship between city size ($Pr = KR^{-b}$) and its rank. The Primacy Index is $P1/P2$. The gradient of the regression line is typically steeper in developed countries.
 * **Primate City**: When one city dominates the national urban system (London, Paris, Bangkok).
-* **World / Global Cities**: Cities that serve as command centers in the global economy (New York, Tokyo, London).
+* **Urban Economic Base Theory**: If non-basic employment is higher than basic employment, it can lead to **urban economic momentum**.
+* **Urban Social Areas**: Ethnicity tends to produce social areas of **clusters or nuclei**.
+* **World / Global Cities**: Cities that serve as command centers in the global economy (Saskia Sassen). Key characteristics include having a **major airport**, significant **international influence**, and a **trans-territorial** economic status.
+* **Mumford's Stages of Towns**: Eotechnic → Paleotechnic → Neotechnic → Biotechnic.
+* **Key Scholars & Concepts**:
+  - **Patrick Geddes**: City region.
+  - **Walter Christaller**: Settlement hierarchy.
+  - **Colin Clark**: Urban population density gradient.
+  - **W. J. Reilly**: Breaking Point theory.
 :::
 

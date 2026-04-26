@@ -15,6 +15,7 @@
 ::: {.callout-note}
 ### Key Concepts
 * **Fertility Measures**: Crude Birth Rate (CBR), General Fertility Rate (GFR), Age-Specific Fertility Rate (ASFR), Total Fertility Rate (TFR), Gross/Net Reproduction Rate (GRR/NRR).
+  - **Net Reproduction Rate (NRR):** The number of daughters that would be born to a female if she passed through her lifetime conforming to the age-specific fertility and mortality rates.
 * **Determinants of Fertility**: Age at marriage, education (especially female), contraceptive use, economic development, cultural and religious factors, government policies.
 * **Mortality Measures**: Crude Death Rate (CDR), Age-Specific Death Rate (ASDR), Infant Mortality Rate (IMR), Maternal Mortality Rate (MMR), Life Expectancy at Birth.
 * **Determinants of Mortality**: Healthcare access, nutrition, sanitation, epidemiological transition, living conditions.

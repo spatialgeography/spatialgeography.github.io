@@ -49,6 +49,8 @@
 #### Kyoto Protocol
 - **1997** — 141 countries signed
 - Goal: reduce greenhouse gas emissions
+- **Net Zero Target:** In **COP-26**, India pledged to achieve Net Zero by **2070**.
+
 
 ---
 

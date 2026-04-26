@@ -42,7 +42,8 @@
 |:---|:---|:---|
 | **Constructive** | Divergent / Spreading | Mid-Atlantic Ridge |
 | **Destructive** | Convergent / Subduction | Nazca vs. South American (Andes) |
-| **Conservative** | Transform Fault | San Andreas Fault |
+| **Conservative** | Transform Fault; located along ocean-floor fracture zones and continental faults like San Andreas. | San Andreas Fault |
+| **Wilson Cycle** | Model describing the stages of opening and closing of ocean basins. | — |
 
 ---
 

@@ -17,7 +17,7 @@ An ecosystem is a functional unit of nature where living organisms interact with
 
 ::: {.callout-note}
 ### Ecosystem Fundamentals
-* **Concept of Ecosystem**: Coined by A.G. Tansley (1935) — a self-sustaining, structural and functional unit of the biosphere.
+* **Concept of Ecosystem**: Coined by A.G. Tansley (1935) — a self-sustaining, structural and functional unit of the biosphere. The structure and function of living systems are maintained by chemical, physical, and organic activities known as **Homeostatic** mechanisms.
 * **Types of Ecosystems**: Terrestrial (forest, grassland, desert, tundra), Aquatic (freshwater, marine, estuarine), and Artificial (agro-ecosystem, urban).
 * **Ecosystem Structure**:
   - *Biotic Components*: Producers, Consumers (herbivores, carnivores, omnivores), Decomposers (saprotrophs)
