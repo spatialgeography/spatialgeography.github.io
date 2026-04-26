@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -120,6 +149,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#part-c-ugc-net-specific-topics" id="toc-part-c-ugc-net-specific-topics" class="nav-link" data-scroll-target="#part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</a></li>
   <li><a href="#natural-disasters-in-india" id="toc-natural-disasters-in-india" class="nav-link" data-scroll-target="#natural-disasters-in-india">Natural Disasters in India</a></li>
   <li><a href="#population-dynamics-and-policies" id="toc-population-dynamics-and-policies" class="nav-link" data-scroll-target="#population-dynamics-and-policies">Population Dynamics and Policies</a></li>
+  <li><a href="#impact-of-globalisation-on-indian-economy" id="toc-impact-of-globalisation-on-indian-economy" class="nav-link" data-scroll-target="#impact-of-globalisation-on-indian-economy">Impact of Globalisation on Indian Economy</a></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -257,13 +287,27 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>The Great Himalayas</strong>: Young fold mountains. Trans-Himalaya, Greater (Himadri), Lesser (Himachal), Outer (Shiwaliks), Northeast hills (Purvanchal). Influence on climate and rivers.</li>
 <li><strong>The Northern Plains</strong>: Formed by Indus, Ganga, Brahmaputra systems. Bhabar, Terai, Bangar, Khadar (soil zones). Extremely fertile and agriculturally productive.</li>
-<li><strong>The Peninsular Plateau</strong>: Oldest stable landmass (Gondwana). Central Highlands (Malwa, Chotanagpur) and Deccan Plateau. Flanked by Western and Eastern Ghats.</li>
+<li><strong>The Peninsular Plateau</strong>: Oldest stable landmass (Gondwana). Central Highlands (Malwa, Chotanagpur) and Deccan Plateau. Flanked by Western and Eastern Ghats.
+<ul>
+<li><strong>Palghat Gap (Palakkad Gap):</strong> Located between the <strong>Nilgiri Hills</strong> and <strong>Anaimalai Hills</strong>.</li>
+<li><strong>Mawsynram:</strong> The place with the highest recorded rainfall in the world, located in the <strong>Khasi Hills</strong>.</li>
+</ul></li>
 <li><strong>The Great Indian Desert (Thar)</strong>: Arid region, Luni river, shifting dunes (barchans).</li>
 <li><strong>The Coastal Plains</strong>: Western Coast (narrow, submerged - Konkan, Malabar) vs.&nbsp;Eastern Coast (broad, emergent - Coromandel, Northern Circars).
 <ul>
+<li><em>Thalghat:</em> A major pass located in the state of <strong>Maharashtra</strong>.</li>
+<li><em>Tropic of Cancer:</em> Passes through eight Indian states including Rajasthan, Madhya Pradesh, Chhattisgarh, and West Bengal.</li>
 <li><em>Indian Sundarban Region:</em> Eroding in the southern sea-facing section with little change or accreting in the northern interior section.</li>
 </ul></li>
-<li><strong>The Islands</strong>: Andaman &amp; Nicobar (volcanic/tectonic origin) and Lakshadweep (coral origin).</li>
+<li><strong>The Islands</strong>: Andaman &amp; Nicobar (volcanic/tectonic origin) and Lakshadweep (coral origin).
+<ul>
+<li><strong>Ten Degree Channel:</strong> Separates the <strong>Andaman Islands</strong> (Little Andaman) from the <strong>Nicobar Islands</strong> (Car Nicobar).</li>
+</ul></li>
+<li><strong>Syntaxial Bends:</strong> The Himalayan mountain range exhibits two major syntaxial bends — the <strong>Western</strong> (near the Indus gorge) and the <strong>Eastern</strong> (near the Tsangpo/Zangbo gorge).</li>
+<li><strong>Fluvial Indicators:</strong>
+<ul>
+<li><strong>Pebble Stratum:</strong> Usually associated with a <strong>fast-flowing river</strong>.</li>
+</ul></li>
 <li><strong>Geological Evolution Chronology:</strong> (i) Northward movement of Indian plate → (ii) Deccan plateau hotspot volcanism → (iii) Collision of Indian plate with Eurasian plate → (iv) Formation of Narmada fault system.</li>
 <li><strong>Impact Structures:</strong> Ramgarh (Rajasthan), Dhala (MP), Lonar (Maharashtra), and Shiva (Arabian Sea Shelf).</li>
 <li><strong>Mineral Reserves:</strong> The correct ranking of states with the largest Manganese reserves is <strong>Odisha &gt; Karnataka &gt; Madhya Pradesh &gt; Maharashtra</strong>.</li>
@@ -324,11 +368,30 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><em>Brahmaputra Basin:</em> Covers parts of <strong>China (Tibet), India, Bhutan, and Bangladesh</strong>.</li>
 </ul></li>
-<li><strong>Peninsular Rivers</strong>: Consequent, seasonal (rain-fed), mature stage (broad valleys, graded profiles). Flow largely west to east (Mahanadi, Godavari, Krishna, Cauvery) forming deltas, except Narmada and Tapi (flowing west in rift valleys forming estuaries).
+<li><strong>Peninsular Rivers</strong>: Consequent, seasonal (rain-fed), mature stage (broad valleys, graded profiles). Flow largely west to east (Mahanadi, Godavari, Krishna, Cauvery) forming deltas, except Narmada and Tapi (flowing west in rift valleys forming estuaries).</li>
+<li><strong>River Origins (Himachal Pradesh):</strong>
 <ul>
+<li><strong>Beas:</strong> Originates from <strong>Beas Kund</strong> near the Rohtang Pass.</li>
+<li><strong>Ravi:</strong> Originates from the <strong>Kullu Hills</strong> (near Rohtang Pass).</li>
+<li><strong>Chenab:</strong> Formed by the confluence of the <strong>Chandra</strong> and <strong>Bhaga</strong> rivers at Tandi.</li>
+<li><em>Mahanadi:</em> Does <strong>not</strong> originate from the Himalayas.</li>
 <li><em>Decreasing length:</em> <strong>Godavari &gt; Krishna &gt; Mahanadi &gt; Kaveri</strong>.</li>
 </ul></li>
 <li><strong>Water Divides</strong>: The Great Water Divide separating Arabian Sea drainage (23%) from Bay of Bengal drainage (77%).</li>
+<li><strong>River Basin Percentages:</strong> (of total geographical area of India)
+<ul>
+<li><strong>Ganga:</strong> 25.2%</li>
+<li><strong>Godavari:</strong> 9.5%</li>
+<li><strong>Krishna:</strong> 7.9%</li>
+<li><strong>Mahanadi:</strong> 4.3%</li>
+</ul></li>
+<li><strong>National Waterways (NW):</strong>
+<ul>
+<li><strong>NW 1:</strong> Allahabad to Haldia (Ganga-Bhagirathi-Hooghly system).</li>
+<li><strong>NW 2:</strong> Sadiya to Dhubri (Brahmaputra river).</li>
+<li><strong>NW 3:</strong> Kottapuram to Kollam (West Coast Canal).</li>
+<li><strong>NW 4:</strong> Kakinada to Pondicherry (Godavari-Krishna-Canals).</li>
+</ul></li>
 <li><strong>Interlinking of Rivers (NRLP)</strong>: Proposal to transfer water from surplus (Himalayan/Brahmaputra) to deficit basins (Peninsular). Ecological and geopolitical concerns.</li>
 <li><strong>India-WRIS:</strong> Refers to the Water Resources Information System.</li>
 <li><strong>Watershed Management</strong>: Integrated conservation of soil, water, and biomass within a hydrological unit to prevent degradation.</li>
@@ -395,6 +458,14 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 <li><strong>Climatic Classifications</strong>: Koeppen (Amw, Aw, BShw, Cwg), Trewartha.</li>
 <li><strong>Western Disturbances</strong>: Cyclonic storms from the Mediterranean bringing winter rain to NW India (crucial for Rabi crops).</li>
+<li><strong>Local Storms:</strong>
+<ul>
+<li><strong>NORWESTER:</strong> Also known as <strong>Kal Baisakhi</strong>, these are the most common summer storms in <strong>Bengal, Assam, and Odisha</strong>.</li>
+</ul></li>
+<li><strong>Extreme Weather:</strong>
+<ul>
+<li><strong>Cloudburst (IMD definition):</strong> Rainfall of <strong><span class="math inline">\(\ge\)</span> 10 cm in one hour</strong>.</li>
+</ul></li>
 </ul>
 </div>
 </div>
@@ -575,7 +646,11 @@ ul.task-list li input[type="checkbox"] {
 <div class="callout-body-container callout-body">
 <ul>
 <li><strong>Location Factors</strong>: Raw materials (iron/steel in Chotanagpur), market/labor/ports (textiles in Mumbai/Ahmedabad), footloose (IT in Bengaluru/Hyderabad).</li>
-<li><strong>Major Industrial Regions</strong>: Hooghly, Mumbai-Pune, Ahmedabad-Vadodara, Madurai-Coimbatore-Bengaluru, Chotanagpur, NCR, Visakhapatnam-Guntur, Kollam-Thiruvananthapuram.</li>
+<li><strong>Major Industrial Regions</strong>: Hooghly, Mumbai-Pune, Ahmedabad-Vadodara, Madurai-Coimbatore-Bengaluru, Chotanagpur, NCR, Visakhapatnam-Guntur, Kollam-Thiruvananthapuram.
+<ul>
+<li><em>Damodar Valley:</em> Known as the <strong>Ruhr of India</strong>.</li>
+<li><em>Coal Resources:</em> <strong>Gondwana coal</strong> accounts for 98% of total coal reserves in India. <strong>Jharia</strong> is the largest coalfield, while <strong>Raniganj</strong> (West Bengal) is the first coalfield of India.</li>
+</ul></li>
 <li><strong>Industrial Policies</strong>:
 <ul>
 <li><em>1956</em>: State-led command economy, focus on heavy industries.</li>
@@ -637,7 +712,10 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>Transport System</strong>:
 <ul>
-<li><em>Roads</em>: Golden Quadrilateral, North-South/East-West Corridors, Bharatmala.</li>
+<li><em>Roads</em>: Golden Quadrilateral, North-South/East-West Corridors, Bharatmala.
+<ul>
+<li><em>NH Lengths:</em> The sequence of decreasing length is <strong>NH 44 &gt; NH 27 &gt; NH 48 &gt; NH 52</strong>.</li>
+</ul></li>
 <li><em>Railways</em>: Largest network under single management, Dedicated Freight Corridors (DFC).</li>
 <li><em>Waterways/Ports</em>: Sagarmala project, 12 major ports (Kandla, JNPT, Chennai, etc.). Inland Waterways (NW-1, NW-2).</li>
 </ul></li>
@@ -758,10 +836,21 @@ ul.task-list li input[type="checkbox"] {
 </ul></li>
 <li><strong>Growth Phases</strong>: Stagnant (1901-21), Steady (1921-51), Rapid Explosive (1951-81), High but Decreasing (1981-present).</li>
 <li><strong>Demographic Dividend</strong>: Large working-age population (15-59 years) — an economic opportunity if skilled and employed.</li>
-<li><strong>Composition</strong>: Improving literacy, rural to urban shifts, adverse but stabilizing sex ratio.</li>
+<li><strong>Composition</strong>: Improving literacy, rural to urban shifts, adverse but stabilizing sex ratio.
+<ul>
+<li><strong>Scheduled Caste (SC) Population Highlights:</strong>
+<ul>
+<li>State with highest <strong>percentage</strong> of SC population: <strong>Punjab</strong>.</li>
+<li>State with highest <strong>absolute number</strong> of SC population: <strong>Uttar Pradesh</strong>.</li>
+</ul></li>
+</ul></li>
 <li><strong>Population Policy (2000)</strong>: Focus shifting from target-based coercive approaches to reproductive health, female education, and voluntary family planning. Goal to stabilize population around 2045.</li>
 <li><strong>Development Programmes:</strong> e.g., the <strong>Desert Development Programme (DDP)</strong> was started by the Ministry of Rural Development.</li>
+<li><strong>Biogeographic Zones</strong>: The <strong>Deccan Peninsula</strong> is the largest bio-geographic zone of India.</li>
 </ul>
+</div>
+</div>
+</section>
 <section id="impact-of-globalisation-on-indian-economy" class="level2">
 <h2 class="anchored" data-anchor-id="impact-of-globalisation-on-indian-economy">Impact of Globalisation on Indian Economy</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
@@ -814,9 +903,6 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 
 
-</section>
-</div>
-</div>
 </section>
 
 </main> <!-- /main -->

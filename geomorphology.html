@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -680,6 +709,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="cenozoic-new-life" class="level3">
 <h3 class="anchored" data-anchor-id="cenozoic-new-life">4. Cenozoic (New Life)</h3>
+<p>The Tertiary period consists of five epochs in chronological order (ancient to recent): <strong>Paleocene → Eocene → Oligocene → Miocene → Pliocene</strong>.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 33%">
@@ -960,7 +990,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="volcanic-landforms" class="level4">
 <h4 class="anchored" data-anchor-id="volcanic-landforms">Volcanic Landforms</h4>
 <ul>
-<li><strong>Extrusive:</strong> Ash cones, Composite cones (Strato), Calderas, Lava Plateaus (Deccan).</li>
+<li><strong>Extrusive:</strong> Ash cones, Composite cones (Strato), Calderas, Lava Plateaus (Deccan). <strong>Lapilli</strong> is a fragmented product specifically associated with volcanic eruptions. The <strong>Rajmahal Hills</strong>, formed by the eruption of basalts from the Kerguelen Hotspot about 100 million years ago, are partly connected to it by the 90-E ridge. <strong>Cocos Island</strong> is notably NOT a hotspot (unlike Easter, Tristan da Cunha, or Réunion).</li>
 <li><strong>Intrusive:</strong> Batholiths (largest), Laccoliths (dome), Lopoliths (saucer), Phacoliths (wave), Sills (horizontal), Dykes (vertical).</li>
 </ul>
 <hr>
@@ -1012,16 +1042,24 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: left;">One limb is steeper than the other.</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;"><strong>Overturned</strong></td>
+<td style="text-align: left;">Axial plane is inclined and both limbs of the fold dip in the same direction.</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;"><strong>Monoclinal</strong></td>
 <td style="text-align: left;">One limb is vertical.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: left;"><strong>Recumbent</strong></td>
 <td style="text-align: left;">Fold is pushed over so far that axial plane is horizontal.</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: left;"><strong>Nappe</strong></td>
 <td style="text-align: left;">Overthrust fold where a sheet of rock has moved miles (e.g., Alps).</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Plunge Fold</strong></td>
+<td style="text-align: left;">When the axis of the fold is tilted and forms an angle between the axis and the horizontal plane.</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Plunging Syncline</strong></td>
@@ -1033,7 +1071,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="faults" class="level3">
 <h3 class="anchored" data-anchor-id="faults">4. Faults</h3>
-<p>Fractures in the crust along which displacement occurs. - <strong>Normal Fault:</strong> Due to tension; creates <strong>Rift Valleys</strong> (e.g., Great Rift Valley of Africa, Rhine Valley). - <strong>Reverse Fault:</strong> Due to compression; creates <strong>Horsts / Block Mountains</strong> (e.g., Black Forest, Vosges). - <strong>Thrust Fault:</strong> Similar to reverse faults but with a very low dip angle; typically accommodates <strong>shortening in the earth’s crust</strong>. - <strong>Lateral / Strike-slip:</strong> Horizontal movement (e.g., San Andreas Fault). - <strong>En-echelon Faulting:</strong> Series of short, parallel faults that overlap like shingles on a roof. - <strong>Imbricate Thrusting:</strong> A series of closely spaced thrust faults dipping in the same direction. - <strong>Ramp Valley:</strong> Brahmaputra Valley (Assam).</p>
+<p>Fractures in the crust along which displacement occurs. - <strong>Normal Fault:</strong> Due to tension; <strong>Hanging wall moves downward relative to the foot wall</strong>. Creates <strong>Rift Valleys</strong> (e.g., Great Rift Valley of Africa, Rhine Valley). - <strong>Reverse Fault:</strong> Due to compression; creates <strong>Horsts / Block Mountains</strong> (e.g., Black Forest, Vosges). - <strong>Thrust Fault:</strong> Similar to reverse faults but with a very low dip angle; typically accommodates <strong>shortening in the earth’s crust</strong>. - <strong>Lateral / Strike-slip:</strong> Horizontal movement (e.g., San Andreas Fault). - <strong>En-echelon Faulting:</strong> Series of short, parallel faults that overlap like shingles on a roof. - <strong>Imbricate Thrusting:</strong> A series of closely spaced thrust faults dipping in the same direction. - <strong>Ramp Valley:</strong> Brahmaputra Valley (Assam).</p>
 </section>
 </section>
 <section id="denudation-processes-weathering-and-mass-wasting" class="level2">
@@ -1076,7 +1114,7 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="physical-mechanical-weathering">Physical (Mechanical) Weathering</h4>
 <ul>
 <li><strong>Insolation / Block Disintegration:</strong> Expansion/contraction due to temperature.</li>
-<li><strong>Exfoliation:</strong> “Onion weathering” where outer layers peel off.</li>
+<li><strong>Exfoliation:</strong> “Onion weathering” where outer layers peel off. An <strong>Exfoliation dome</strong> develops mainly due to <strong>pressure release stress</strong> resulting from denudation.</li>
 <li><strong>Frost Shattering:</strong> Water expands 10% when freezing.</li>
 <li><strong>Unloading / Pressure Release:</strong> Removal of overlying rock.</li>
 </ul>
@@ -1089,16 +1127,22 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Hydration:</strong> Minerals absorb water and expand (e.g., Gypsum).</li>
 <li><strong>Solution:</strong> Direct dissolution of minerals (e.g., Rock salt). Note that <strong>Muscovite</strong> is typically dissolved by alkaline solutions.</li>
 </ul>
+</section>
+<section id="soil-textures" class="level4">
+<h4 class="anchored" data-anchor-id="soil-textures">Soil Textures</h4>
+<ul>
+<li><strong>Clay:</strong> Represents grains of <strong>&lt; 2 μm</strong>. Unweathered stones at the base of a soil profile are associated with the <strong>R horizon</strong>.</li>
+</ul>
 <hr>
 </section>
 </section>
 <section id="mass-wasting" class="level3">
 <h3 class="anchored" data-anchor-id="mass-wasting">2. Mass Wasting</h3>
-<p>Movement of rock waste downslope under the direct influence of <strong>gravity</strong> (Sharpe, 1938).</p>
+<p>Movement of rock waste downslope under the direct influence of <strong>gravity</strong> (Sharpe, 1938). Weathering contributes to mass movement by increasing water holding capacity, reducing shear strength, and breaking particles (it does <em>not</em> directly contribute via the winnowing of finer particles, which is wind action).</p>
 <section id="slow-flowage" class="level4">
 <h4 class="anchored" data-anchor-id="slow-flowage">Slow Flowage</h4>
 <ul>
-<li><strong>Soil Creep:</strong> Extremely slow downward movement (e.g., observed when trees and posts lean towards the direction of the slope).</li>
+<li><strong>Soil Creep:</strong> Slow downhill movement of moist regolith under sustained shear stress without heaving (e.g., observed when trees and posts lean towards the direction of the slope).</li>
 <li><strong>Solifluction:</strong> Flow of water-saturated debris over permafrost.</li>
 </ul>
 </section>
@@ -1205,7 +1249,7 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><strong>Constructive</strong></td>
-<td style="text-align: left;">Divergent / Spreading</td>
+<td style="text-align: left;">Divergent / Spreading; Higher elevation of the mid-oceanic ridge relative to the flanking sea-floor is best explained by <strong>Airy’s theory of isostasy</strong>.</td>
 <td style="text-align: left;">Mid-Atlantic Ridge</td>
 </tr>
 <tr class="even">
@@ -1215,8 +1259,13 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Conservative</strong></td>
-<td style="text-align: left;">Transform Fault</td>
+<td style="text-align: left;">Transform Fault; located along ocean-floor fracture zones and continental faults like San Andreas.</td>
 <td style="text-align: left;">San Andreas Fault</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Wilson Cycle</strong></td>
+<td style="text-align: left;">Model describing the stages of opening and closing of ocean basins.</td>
+<td style="text-align: left;">—</td>
 </tr>
 </tbody>
 </table>
@@ -1333,8 +1382,11 @@ ul.task-list li input[type="checkbox"] {
 <ol type="1">
 <li><strong>Youth:</strong> Stream lengthening, valley deepening, steep slopes, V-shaped valleys.</li>
 <li><strong>Maturity:</strong> Lateral erosion begins, V-shaped valleys broaden, profile of equilibrium starts.</li>
-<li><strong>Old Age:</strong> Base level of erosion reached; formation of a <strong>Peneplain</strong> (almost a plain) with residual hills called <strong>Monadnocks</strong>. <em>Note: The <strong>Hypsometric integral</strong> provides quantitative support for the idea of Davis’ three stages of landform development.</em></li>
+<li><strong>Old Age:</strong> Base level of erosion reached; formation of a <strong>Peneplain</strong> (almost a plain) with residual hills called <strong>Monadnocks</strong>. The rate of erosion is minimal, and <strong>Entropy is maximised</strong> on the peneplain.</li>
 </ol>
+<ul>
+<li><strong>Etch-surface / Etchplain:</strong> A product of two phases of erosion (deep weathering followed by stripping of the saprolite). The deep weathering process is fundamentally linked to the formation of <strong>Etchplains</strong>. <em>Note: The <strong>Hypsometric integral</strong> provides quantitative support for the idea of Davis’ three stages of landform development. A value of <strong>0.18</strong> denotes maximum erosion of a drainage basin area down to its base level.</em></li>
+</ul>
 <hr>
 </section>
 </section>
@@ -1451,7 +1503,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="slope-evolution-models">3. Slope Evolution Models</h3>
 <ul>
 <li><strong>W.M. Davis (Slope Decline):</strong> Slopes become gentler over time as the landscape ages.</li>
-<li><strong>Walther Penck (Slope Replacement):</strong> Steep slopes are replaced by gentler ones from below (<em>Haldenhang</em> replaces <em>Böschungen</em>).</li>
+<li><strong>Walther Penck (Slope Replacement):</strong> Steep slopes are replaced by gentler ones from below (<em>Haldenhang</em> replaces <em>Böschungen</em>). A steep rectilinear slope without change of angle is specifically designated as <strong>Haldenhang</strong>.</li>
 <li><strong>L.C. King (Slope Retreat):</strong> Slopes maintain their angle but retreat backward (Parallel Retreat).</li>
 </ul>
 </section>
@@ -1514,8 +1566,13 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="fluvial-mechanics-transport-capacity">Fluvial Mechanics &amp; Transport Capacity</h4>
 <ul>
 <li><strong>Stream Competence:</strong> The measure of the maximum size of particles that a stream can transport.</li>
+<li><strong>Reynolds Number:</strong> The ratio of inertial force to viscous force in a fluid.</li>
+<li><strong>Hydraulic Geometry:</strong> In at-a-station hydraulic geometry equations (<span class="math inline">\(b + f + m = 1\)</span>), if <span class="math inline">\(b = 0.22\)</span> and <span class="math inline">\(f = 0.64\)</span>, the expected value of <span class="math inline">\(m\)</span> is <span class="math inline">\(0.14\)</span>.</li>
 <li><strong>Suspended Sediment:</strong> High concentration of suspended sediment increases the transportational capacity of a stream because it increases <strong>viscosity</strong>, which reduces turbulence and energy dissipation.</li>
 <li><strong>Impoundment:</strong> The impoundment of a river (e.g., by a dam) decreases its downstream entrainment capacity because water velocity drops in the reservoir.</li>
+<li><strong>Tectonic Sinuosity:</strong> Sinuosity of an alluvial river <strong>decreases</strong> if slope increases due to tectonic movement. Channel slope usually increases downstream of an uplifting anticlinal axis.</li>
+<li><strong>Sediment Stratum:</strong> In a river terrace, a continuous stratum of pebbles within layers of sands indicates that the <strong>river was moving fast</strong> at the time of deposition.</li>
+<li><strong>Potholes:</strong> The formation of potholes in river beds is a classic example of <strong>Corrasion</strong> (Abrasion).</li>
 </ul>
 <hr>
 </section>
@@ -1670,6 +1727,8 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Kames:</strong> Steep-sided hills of stratified drift.</li>
 <li><strong>Outwash Plain (Sandur):</strong> Flat plain of meltwater deposits.</li>
 <li><strong>Kettle Holes:</strong> Depressions formed by melting ice blocks.</li>
+<li><strong>Moulin:</strong> A vertical or nearly vertical shaft in a glacier, formed by surface water percolating through a crack in the ice.</li>
+<li><strong>Glaciated Valley Lake Sequence:</strong> From higher to lower altitudes, the landforms typically appear as <strong>Tarn → Paternoster lake → Moraine-dammed lake → Kettle lake</strong>.</li>
 </ul>
 </section>
 </section>
@@ -1726,6 +1785,8 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Stack:</strong> Isolated pillar of rock.</li>
 <li><strong>Stump:</strong> Low-level eroded stack.</li>
 <li><strong>Geo / Inlets:</strong> Long narrow opening in the cliff.</li>
+<li><strong>Runnel:</strong> A linear depression or channel on a beach, often separated from the sea by a ridge.</li>
+<li><strong>Sediment Dynamics:</strong> Coasts tend to become <strong>sandy to muddy</strong> as the tidal range changes from micro to macro. Mangrove vegetation in tropical coasts is highly conducive to the deposition of fine sediments.</li>
 </ul>
 </section>
 <section id="depositional-landforms-1" class="level3">
@@ -1818,6 +1879,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>Terra Rosa:</strong> Red residual clay on the surface.</li>
 <li><strong>Lapies:</strong> Deep grooves and ridges.</li>
+<li><strong>Cockpit:</strong> A star-shaped depression in Karst topography, typical of tropical Karst (e.g., Jamaica).</li>
 <li><strong>Sinkholes / Swallow Holes:</strong> Circular depressions where water disappears.</li>
 <li><strong>Doline:</strong> A larger sinkhole.</li>
 <li><strong>Uvala:</strong> Coalesced dolines.</li>
@@ -1879,6 +1941,7 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Erg:</strong> Sandy desert (Sahara).</li>
 <li><strong>Reg:</strong> Stony desert (Algeria).</li>
 <li><strong>Hammada:</strong> Rocky desert (Sahara).</li>
+<li><strong>Sheet Flood:</strong> A major land-forming process in arid and semi-arid regions, occurring when high intensity, short duration rainfall causes water to flow as a broad sheet over the surface.</li>
 </ul>
 </section>
 <section id="erosional-landforms-2" class="level3">
@@ -1886,8 +1949,9 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>Blow-out:</strong> Hollows formed by wind deflation.</li>
 <li><strong>Mushroom Rock (Gara / Pedestal Rock):</strong> Formed by abrasion near the ground.</li>
-<li><strong>Zeugen:</strong> Ridge-and-furrow landscape in layered rocks.</li>
-<li><strong>Yardang:</strong> Vertical rock ridges.</li>
+<li><strong>Zeugen:</strong> Ridge-and-furrow landscape in layered rocks (erosional).</li>
+<li><strong>Yardang:</strong> Vertical rock ridges (erosional).</li>
+<li><strong>Mesa:</strong> A flat-topped hill with steep sides (erosional landform common in arid environments).</li>
 <li><strong>Inselberg (Bornhardt):</strong> Isolated residual hill in arid plains.</li>
 <li><strong>Demoiselles:</strong> Earth pillars.</li>
 </ul>
@@ -2152,7 +2216,7 @@ ul.task-list li input[type="checkbox"] {
 <li><em>Areal Aspects</em>: Drainage density, stream frequency, drainage texture, form factor, circularity ratio, elongation ratio</li>
 <li><em>Relief Aspects</em>: Basin relief, relief ratio, ruggedness number</li>
 </ul></li>
-<li><strong>Hypsometric Analysis</strong>: Hypsometric curve and integral — indicates stage of basin erosion.</li>
+<li><strong>Hypsometric Analysis</strong>: Hypsometric curve and integral — indicates stage of basin erosion. A hypsometric integral value of <strong>0.92</strong> denotes minimum erosion (youthful stage).</li>
 <li><strong>Clinographic Curve</strong>: Relationship between slope angle and area.</li>
 <li><strong>Altimetric Frequency Graph</strong>: Frequency distribution of elevations within a basin.</li>
 <li><strong>Applications</strong>: Flood prediction, watershed management, groundwater exploration, soil conservation.</li>
