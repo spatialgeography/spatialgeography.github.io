@@ -24,8 +24,11 @@ Environmental hazards encompass natural and human-induced events that threaten e
 
 ::: {.callout-important}
 ### Pollution
-* **Atmospheric Pollution**: Sources (vehicular, industrial, biomass burning), types of pollutants (SOx, NOx, CO, PM2.5, PM10), smog, acid rain.
+* **Atmospheric Pollution**: Sources (vehicular, industrial, biomass burning), types of pollutants (SOx, NOx, CO, PM2.5, PM10).
+  - *National Ambient Air Quality Standards (NAAQS):* Includes pollutants like **Lead**, which is not included in the regular National Air Quality Index (AQI).
+  - *Smog Types:* **London smog** (high concentration of SO₂), **Photochemical smog** (volatile organic compounds/VOC).
 * **Water Pollution**: Point and non-point source pollution, eutrophication, groundwater contamination, marine pollution.
+* **Dam Construction Impacts:** Submersion leads to loss of arable farmland and forest, and these losses are borne disproportionately by people living in the command areas.
 * **Land Degradation**: Soil erosion, desertification, salinization, waterlogging, loss of soil fertility.
 * **Noise Pollution**: Sources, health impacts, regulatory standards.
 * **Impact Assessment**: Environmental Impact Assessment (EIA), pollution indices, monitoring networks.

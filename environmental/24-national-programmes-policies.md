@@ -34,5 +34,10 @@ India has developed a comprehensive environmental policy and legal framework to 
 * **National Afforestation Programme**: Restoration of degraded forest lands.
 * **Environmental Impact Assessment (EIA)**: Mandatory for development projects — screening, scoping, public hearing, appraisal.
 * **Coastal Regulation Zone (CRZ) Notifications**: Protection of coastal areas from uncontrolled development.
+  - **CRZ I A:** Turtle nesting grounds (ecologically sensitive)
+  - **CRZ I B:** Intertidal area
+  - **CRZ III B:** Area with population density of <2161/km² (2011)
+  - **CRZ IV A:** 12 nautical miles (approx. 22 km) offshore from Low Tide Line (LTL)
+  - **CRZ IV B:** Tidal influenced waterbodies
 :::
 

@@ -14,7 +14,8 @@
 
 ::: {.callout-note}
 ### Key Concepts
-* **Rank-Size Rule (G.K. Zipf, 1949)**: The population of a city is inversely proportional to its rank in the urban hierarchy ($P_r = P_1 / r$). Represents a balanced, integrated urban system.
+* **Rank-Size Rule (G.K. Zipf, 1949)**: The population of a city is approximately inversely proportional to its rank in the urban hierarchy ($P_r = P_1 / r$). Represents a balanced, integrated urban system.
+  - *Note:* It is based on observation and does **not** accurately predict the population of every city in a country without any deviation.
   - E.g., The USA roughly follows this rule.
 * **Primate City (Mark Jefferson, 1939)**: The largest city is "supereminent" and disproportionately larger than the second largest city (often >2x). It dominates the country politically and economically.
   - E.g., Paris, London, Mexico City, Bangkok.

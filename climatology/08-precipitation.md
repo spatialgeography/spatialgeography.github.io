@@ -20,6 +20,9 @@
 | **Drizzle** | Spray-like rainfall; small water drops; fine drizzle = *'mist'* (North America) |
 | **Rainfall** | Cloud particles; humid air rises, cools, condensation → precipitation |
 
+### Measurement of Humidity
+- **Lithium chloride-based hygrometer:** A technique for measuring atmospheric moisture based on electrical resistance.
+
 ### Rainfall Formation Processes
 
 | Process | Scholars | Year |

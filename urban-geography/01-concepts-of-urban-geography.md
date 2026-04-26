@@ -18,5 +18,9 @@
 * **Urban**: An area characterized by high population density, built environment, and non-agricultural occupations.
 * **Urbanization**: The demographic process (structural shift) whereby a growing percentage of a population lives in urban areas. Linked to industrialization and economic development.
 * **Urbanism**: A way of life, attitudes, values, and patterns of behavior characteristic of city dwellers (Louis Wirth).
+* **Key Urban Development Theories:**
+  - *Gordon Childe:* Viewed the neolithic village as the foundation of urban life.
+  - *Henri Pirenne:* Urban development centers around production of agricultural surplus.
+  - *Lewis Mumford:* Viewed urban growth as an organic process rooted in human social needs. He proposed that the first towns originated from 'cities of the dead' (necropolises) rather than living settlements.
 * **Scope of Urban Geography**: Studies the spatial aspects of urban development, the internal structure of cities, and the relationships between cities conceptually and functionally.
 :::

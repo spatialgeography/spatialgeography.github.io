@@ -19,5 +19,9 @@
 * **Iron and Steel Industry**: Basic/key industry. Location historically tied to coal (Ruhr, Appalachians), later to iron ore, and currently shifting to coastal locations or markets (mini-steel plants using scrap).
 * **Textile Industry**: Historically labour-intensive, raw material oriented, but highly mobile today due to cheap labour search (shift from developed to developing global South).
 * **Petrochemical Industry**: Market or port-oriented; forms base for plastics, fertilizers, synthetic fibres.
-* **World Industrial Regions**: Great Lakes/Northeastern USA, Western Europe (Ruhr, Midlands), Eastern Europe (Donbas), East Asia (Japan, coastal China, South Korea).
+* **World Industrial Regions**: 
+  - *East-North America:* Great Lakes, Boston
+  - *Western and Central Europe:* Ruhr, Paris
+  - *Eastern Europe:* Volga-Ural, Ukraine
+  - *Eastern Asia:* Tokyo, Yokohama, coastal China, South Korea
 :::

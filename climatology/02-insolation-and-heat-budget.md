@@ -13,6 +13,7 @@
 ### Insolation
 
 - **Insolation** = Incoming Solar Radiation
+- Averaged over a year, approximately **342 W** of solar energy reaches every m² of Earth.
 - **Pyranometer** — instrument to measure Albedo
 - 44% of Energy emitted by Visible Light (EMR)
 - **Langley** — unit to measure solar constant

@@ -15,7 +15,7 @@
 
 ::: {.callout-note}
 ### Key Concepts
-* **Supranationalism**: Voluntary association of three or more states for mutual benefit.
+* **Supranationalism & Intra-regional Cooperation**: Voluntary association of states for mutual benefit. Benefits include increased bargaining power, economic growth, and political stability (it does *not* aim to limit access to resources).
 * **Economic Blocs**:
   - *EU (European Union)*: Deepest integration — free movement of goods, services, capital, people. Common currency (Eurozone).
   - *ASEAN (Association of Southeast Asian Nations)*: Economic and security cooperation in SE Asia.

@@ -22,5 +22,14 @@
   - *Airways*: Fastest, highest cost, best for low-volume/high-value/perishable goods.
   - *Pipelines*: Continuous flow of liquids/gases (oil, natural gas, water).
 * **Trade**: Exchange of goods/services. Based on comparative advantage (Ricardo).
+* **Spatial Interaction Models:**
+  - *Edward Ullman:* Three main principles of spatial interaction are **complementarity, transferability, and intervening opportunities**.
+  - *M. E. Hurst:* Emphasized the role of transportation infrastructure in shaping urban development patterns.
+  - *W. J. Reilly:* Law of Retail Gravitation
+  - *G. K. Zipf:* Least Effort Principle
+  - *S. A. Stouffer:* Intervening Opportunities Model
+  - *T. Hägerstrand:* Spatial Interaction Model
 * **Global Trade Patterns**: Shift from North-North dominance to increasing South-South and intra-regional trade. Role of WTO, regional trade blocs (EU, NAFTA/USMCA, ASEAN, MERCOSUR).
+  - *WTO Equal Treatment Rule:* Ensures the same trade benefits for all members.
+* **Globalisation Impacts:** Negative impacts can include the exploitation of labour due to low wages in developing nations.
 :::

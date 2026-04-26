@@ -29,8 +29,10 @@
 | 1985 | 350 ppm |
 | 2000 | 360–400 ppm |
 
-#### Greenhouse Gases
+#### Greenhouse Gases & Radiative Forcing
 - CO₂ (50% share), CFC, CH₄, N₂O, O₃, NO
+- **Global Warming Potential (GWP) Order:** CO₂ < CH₄ < N₂O < CFC-11
+- **Anthropogenic Alteration:** Non-radiative, external radiative, and internal radiative forcing agents influence climate. Among these, **radiative forcing agents** (especially internal ones like GHG concentrations) are highly susceptible to anthropogenic alteration.
 
 #### CO₂ Emissions by Region
 

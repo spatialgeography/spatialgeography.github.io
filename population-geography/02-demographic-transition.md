@@ -20,7 +20,9 @@
   - *Stage 2*: Early expanding — declining death rates, high birth rates, rapid growth
   - *Stage 3*: Late expanding — declining birth rates, continued growth at slower pace
   - *Stage 4*: Low stationary — low birth and death rates, slow growth/stable population
-  - *Stage 5*: Declining — birth rate below death rate, population decline (Germany, Japan)
+  - *Stage 5*: Declining — birth rate below death rate, population decline (Germany, Japan). **Scandinavian countries** have a **regressive age-sex population structure** with a negative population growth rate.
+* **DALY:** Disability Adjusted Life Years.
+* **Cumulative Disadvantage:** Refers to the compounding effects of multiple forms of exclusion across an individual's life course.
 * **Malthusian Theory**: Population grows geometrically, food supply arithmetically — positive and preventive checks.
 * **Sadler's Theory**: Reproductive power inversely proportional to population density.
 * **Ricardo's Theory**: Law of diminishing returns in agriculture limits food production.

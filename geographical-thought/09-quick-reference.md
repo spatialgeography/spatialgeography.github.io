@@ -15,6 +15,7 @@
 | *Geography as Human Ecology* | H.H. Barrows |
 | Probabilism | O.H.K. Spate |
 | Paradigm | Kuhn |
+| Meta paradigm | Masterman (1970) |
 | Growth Pole Theory | Boudeville |
 | Cultural Landscape / Cultural Hearth | Carl Sauer |
 | Mental Map | Gould & White + Lynch |
@@ -32,6 +33,7 @@
 
 | Scholar | School | Key Contribution |
 |:---|:---|:---|
+| P. Haggett | British | Locational analysis |
 | Eratosthenes | Greek | Father of Geography; coined 'geography'; measured circumference |
 | Hipparchus | Greek | Father of Trigonometry; 360° circle; astrolabe; stereographic projection |
 | Posidonius | Greek | Father of Oceanography |

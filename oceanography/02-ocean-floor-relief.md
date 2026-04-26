@@ -20,8 +20,12 @@
 * **Continental Rise**: Gentle slope at base of continental slope — sediment accumulation from turbidity currents.
 * **Abyssal Plains**: Extensive flat areas of deep ocean floor — covered with fine sediments.
 * **Mid-Ocean Ridges**: Underwater mountain chains at divergent boundaries — Mid-Atlantic Ridge, East Pacific Rise, Indian Ocean Ridge system.
+  - *Slow-spreading ridges* are characterised by an axial graben with 1500–3000 m depth, faulted topography, and intermittent shield volcanoes.
+  - *Fracture Zones:* Elevation differences across ocean floor fracture zones are explained by **Age**, **Temperature**, and **Density** differences (not material differences).
 * **Deep Sea Trenches**: Deepest parts of ocean — Mariana Trench (11,034m), Tonga Trench, Java Trench. Formed at subduction zones.
+  - **Submarine Canyons:** e.g., **Swatch of No Ground**, extending offshore from the Ganga river delta.
 * **Seamounts and Guyots**: Submarine volcanic mountains — guyots are flat-topped (eroded by waves).
+* **Calcareous Oozes**: Found in lower latitudes and up to a depth of 4500 m because organisms with carbonate shells predominate in warm, shallow water, and calcium carbonate dissolves very slowly below this depth (Carbonate Compensation Depth).
 * **Specific Ocean Features**: Atlantic (S-shaped ridge), Pacific (Ring of Fire, trenches), Indian (triple junction, Ninety East Ridge).
 :::
 

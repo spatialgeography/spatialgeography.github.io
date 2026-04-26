@@ -52,9 +52,11 @@
 - **Water vapour:** 5000 ppm (lower) to 100 ppm (upper, 11–12 km)
 - **Pressure:** 1013 mb at sea level → 200 mb at 12 km
 - **Density:** 1 kg/m³ → 0.2 kg/m³ at top
-- **Tropopause:** 1.5 km thick; lapse rate decreases to 2°C/km
-  - Discovered by **WMO (World Meteorological Organization) — 1957**
-  - Temperature: −80°C (equator), −45°C (poles)
+- **Tropopause:** 1.5 km thick; acts as an **effective lid on convection**; it is an **isothermal** layer.
+  - Height varies latitudinally.
+  - Average temperature ranges from **−70°C to −85°C** (at equator).
+  - Average pressure is approximately **100 mb**.
+  - Discovered by **WMO (World Meteorological Organization) — 1957**.
 
 #### Stratosphere
 - **Altitude:** up to 50 km; contains 10% of atmosphere mass

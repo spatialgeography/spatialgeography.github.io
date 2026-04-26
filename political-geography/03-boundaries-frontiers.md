@@ -19,7 +19,7 @@
 * **Boundaries**: Precise linear dividing lines defined by treaties and demarcated on the ground. Inward-oriented.
 * **Boundary Classification (Genetic)**:
   - *Antecedent*: Drawn before the area was highly populated (e.g., 49th parallel US-Canada).
-  - *Subsequent*: Drawn after settlement, reflecting cultural patterns (e.g., India-Pakistan borders).
+  - *Subsequent*: Drawn after settlement, demarcated based on settlements and is modified by human activities and cultural traits (e.g., India-Pakistan borders).
   - *Superimposed*: Forced upon a landscape by outside powers, ignoring cultural realities (e.g., colonial borders in Africa).
   - *Relict*: Ceased to function but its imprint remains on the landscape (e.g., Great Wall of China, Berlin Wall).
 * **Morphological Classification**: Geometric (straight lines), Physiographic (rivers, mountains — e.g., Rio Grande).

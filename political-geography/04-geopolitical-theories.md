@@ -20,6 +20,7 @@
   - Divided world into the "World-Island" (Eurasia+Africa) and peripheral islands.
   - The "Heartland" (pivot area) is the vast interior of Eurasia, inaccessible to sea power, dominated by land power (railways).
   - *Dictum*: "Who rules East Europe commands the Heartland; Who rules the Heartland commands the World-Island; Who rules the World-Island commands the World."
+  - *Critique:* Ignored the potential of modern technological advancements, especially **air power** and nuclear weapons, which transcend land barriers.
 * **Rimland Theory (Nicholas Spykman, 1942)**:
   - Refuted Mackinder. Argued the coastal fringes (Rimland) of Eurasia are more important than the Heartland due to their demographic weight, resources, and access to both sea and land.
   - *Dictum*: "Who controls the Rimland rules Eurasia; who rules Eurasia controls the destinies of the world."

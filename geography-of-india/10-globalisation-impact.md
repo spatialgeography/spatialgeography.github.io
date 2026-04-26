@@ -17,6 +17,6 @@
 * **Economic Transformation**: Shift from import substitution to outward-looking, export-oriented economy post-1991.
 * **Service Sector Boom**: IT and BPO industries leveraging English-speaking workforce and time zone difference. Shifted GDP composition heavily towards tertiary sector.
 * **Agricultural Distress**: Exposure to global price volatilities, reduction in subsidies, WTO compliance challenges.
-* **Spatial Polarization**: 'India vs. Bharat' — heavy concentration of FDI and growth in southern/western metro corridors, leaving eastern/central regions behind.
+* **Spatial Polarization & Inequality**: 'India vs. Bharat' — heavy concentration of FDI and growth in southern/western metro corridors, leaving eastern/central regions behind. Globalization has increased income inequality in India because urban areas have benefited more from global trade and investment opportunities than rural areas.
 * **Urbanisation**: Growth of peri-urban areas, mega-cities, and consumerist culture.
 :::

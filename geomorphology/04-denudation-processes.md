@@ -22,7 +22,7 @@ Weathering is the in-situ disintegration and decomposition of rocks.
 - **Unloading / Pressure Release:** Removal of overlying rock.
 
 #### Chemical Weathering
-- **Oxidation:** Reaction with oxygen (rusting).
+- **Oxidation:** Reaction with oxygen (rusting). **Redox potential** regulates the alternation of oxidation state from ferrous to ferric oxides.
 - **Carbonation:** CO₂ in water forms carbonic acid, dissolving limestone.
 - **Hydration:** Minerals absorb water and expand (e.g., Gypsum).
 - **Solution:** Direct dissolution of minerals (Rock salt).
@@ -46,3 +46,5 @@ Movement of rock waste downslope under the direct influence of **gravity** (Shar
 - **Slump:** Rotational slip of a block.
 - **Rockfall / Debris Fall:** Free-falling material from steep cliffs.
 - **Rockslide:** Rapid sliding of rock along a plane of weakness.
+
+*(Note: Mass movement types in order of increasing dryness: Solifluction -> Mudflow -> Creep -> Rockslide)*

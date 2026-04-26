@@ -139,6 +139,11 @@
 - Thermal Efficiency
 - **Moisture Index (Im)** — key addition
 
+#### Criticisms of Thornthwaite's Classification
+- **Limited climatic variables:** It largely ignores the role of prevailing winds, air pressure, and air masses.
+- **Complexity and Replicability:** It uses complex indices, making it difficult to replicate for other areas.
+- **Overemphasis on Water Balance:** This rigid mathematical approach may not accurately capture true, holistic climate variability.
+
 ---
 
 ### Major Classification Systems Summary

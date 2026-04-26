@@ -41,3 +41,12 @@ Based on studies in South Africa.
 - **Pediment:** An erosional slope cut into bedrock at the foot of a mountain.
 - **Scarp Retreat:** Parallel retreat of slopes.
 - **Pediplain:** Coalesced pediments forming a vast plain with residual **Inselbergs**.
+
+---
+
+### 4. Geomorphic Equilibria
+
+Geomorphic systems tend towards a steady state, balancing inputs and outputs.
+- **Dynamic Equilibrium:** A state where small, frequent variations occur around a long-term unchanging mean.
+- **Metastable Equilibrium:** A state of equilibrium that is interrupted by a sudden change due to a threshold being crossed (e.g., a sudden landslide after prolonged weathering), establishing a new equilibrium state.
+- **Unstable Equilibrium:** A state where a small disturbance leads to continuous, progressive change away from the original state.

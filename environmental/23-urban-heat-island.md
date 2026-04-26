@@ -39,6 +39,7 @@ The Urban Heat Island (UHI) effect is a phenomenon where urban areas experience 
   - Urban tree planting and green corridors
   - Cool roofs and cool pavements (high-albedo surfaces)
   - Urban planning and ventilation corridors
+  - **Urban modelling** for city planning is effective in countering the UHI effect.
   - Water features and blue infrastructure
 :::
 

@@ -25,6 +25,10 @@
 - **Radial:** Flows outward from a central point (e.g., Ranchi Plateau).
 - **Centripetal:** Flows inward to a basin (e.g., Kathmandu Valley).
 
+#### Fluvial Mechanics & Transport Capacity
+- **Suspended Sediment:** High concentration of suspended sediment increases the transportational capacity of a stream because it increases **viscosity**, which reduces turbulence and energy dissipation.
+- **Impoundment:** The impoundment of a river (e.g., by a dam) decreases its downstream entrainment capacity because water velocity drops in the reservoir.
+
 ---
 
 ### 2. River Rejuvenation

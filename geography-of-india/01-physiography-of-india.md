@@ -20,5 +20,9 @@
 * **The Peninsular Plateau**: Oldest stable landmass (Gondwana). Central Highlands (Malwa, Chotanagpur) and Deccan Plateau. Flanked by Western and Eastern Ghats.
 * **The Great Indian Desert (Thar)**: Arid region, Luni river, shifting dunes (barchans).
 * **The Coastal Plains**: Western Coast (narrow, submerged - Konkan, Malabar) vs. Eastern Coast (broad, emergent - Coromandel, Northern Circars).
+  - *Indian Sundarban Region:* Eroding in the southern sea-facing section with little change or accreting in the northern interior section.
 * **The Islands**: Andaman & Nicobar (volcanic/tectonic origin) and Lakshadweep (coral origin).
+* **Geological Evolution Chronology:** (i) Northward movement of Indian plate → (ii) Deccan plateau hotspot volcanism → (iii) Collision of Indian plate with Eurasian plate → (iv) Formation of Narmada fault system.
+* **Impact Structures:** Ramgarh (Rajasthan), Dhala (MP), Lonar (Maharashtra), and Shiva (Arabian Sea Shelf).
+* **Mineral Reserves:** The correct ranking of states with the largest Manganese reserves is **Odisha > Karnataka > Madhya Pradesh > Maharashtra**.
 :::

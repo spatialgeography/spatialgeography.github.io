@@ -24,6 +24,7 @@
 4. Make accurate statements about location order
 5. Prepare estimates, principles and laws for testing and forecasts
 6. Provide sound philosophical and theoretical base to geography
+- **Working (Empirical) hypothesis:** A hypothesis which is provisionally accepted as a basis of further research.
 
 #### Key Scholars
 - **Burton** — *"This school had set out to discover universals, to build models and to establish methods and theoretical base on which geographical realities could be created"*
@@ -51,12 +52,15 @@
 
 ### Positivism
 - Logical positivism — objective, empirical, value-free science
+- Relies on the **formal construction of theories capable of empirical verification**.
 - Scientific method applied in geography
 - Foundation for the Quantitative Revolution
 
 ### Humanism (1970s)
-- Reaction against positivism — focus on lived experience, place, meaning
+- Reaction against positivism — focus on lived experience, place, meaning. Does **not** rely on positivist or Marxist methodology.
 - Key scholars: **Yi-Fu Tuan**, **Edward Relph**
+- **Topophilia:** Affective ties between people and place.
+- **Phenomenology:** Differential perception or impression of a geographical event.
 - Philosophical roots in phenomenology and existentialism
 
 ### Radicalism / Marxism (1970s)
@@ -68,8 +72,11 @@
 - Underlying structures shaping spatial patterns — Lévi-Strauss, Althusser influence
 
 ### Feminism
-- Gender relations in space, gendered experiences, feminist epistemology
+- primarily studies how gender influences spatial patterns and human interactions with environments.
+- Studies in feminist geography often use qualitative methods to capture women's lived experience in spaces.
 
 ### Postmodernism
 - Rejection of grand theories, multiple truths, deconstruction, fragmentation
+- **Fallibilism:** The idea that no idea or belief is absolutely certain.
+- **Practical heterology:** Disorder, chaos, and difference.
 - Key scholars: **Soja**, **Dear**

@@ -34,6 +34,7 @@ Conservation of ecosystems involves the sustainable management, protection, and 
   - Joint Forest Management (JFM)
   - Wetland conservation (Ramsar Convention)
   - Coral reef conservation and marine protected areas
+* **Carbon Sequestration:** In a stable climate, forests generally sequester more carbon than grasslands because they store most of their carbon in above-ground woody biomass.
 * **Community-based Conservation**: Role of indigenous communities, traditional ecological knowledge.
 :::
 

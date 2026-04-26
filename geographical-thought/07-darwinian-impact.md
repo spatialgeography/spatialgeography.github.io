@@ -16,6 +16,7 @@
 ### Key Concepts
 * **Evolutionary Theory and Geography**: Darwin's Origin of Species (1859) profoundly influenced geographic thinking.
 * **Environmental Determinism**: Ratzel's application of Darwinian ideas — natural selection in human-environment relations. Semple's "Influences of Geographic Environment."
+  - *Darwinism influenced environmental determinism* by suggesting that natural environments shape human societies (rather than societies evolving independently).
 * **Social Darwinism**: Misapplication of evolutionary theory to justify racial and cultural hierarchies in geography.
 * **Biogeography**: Darwin's observations (Galápagos finches) → island biogeography, species distribution patterns, zoogeographic regions.
 * **Landscape Evolution**: Davis's geomorphic cycle influenced by evolutionary stage concept — youth, maturity, old age.

@@ -22,7 +22,7 @@ Biogeochemical cycles are the pathways through which essential chemical elements
 * **Oxygen Cycle**: Photosynthesis (O₂ release), respiration (O₂ consumption), ozone formation and depletion.
 * **Types of Cycles**:
   - *Gaseous Cycles*: Carbon, nitrogen, oxygen — reservoir in atmosphere/hydrosphere
-  - *Sedimentary Cycles*: Phosphorus, sulphur — reservoir in lithosphere
+  - *Sedimentary Cycles*: Phosphorus, sulphur — reservoir in lithosphere. **Phosphorus** has the slowest rate of turnover with respect to its residence time in the lithosphere.
 * **Hydrological Cycle**: Evaporation → Condensation → Precipitation → Runoff → Infiltration — links all biogeochemical cycles.
 * **Human Impact**: Eutrophication (excess nitrogen/phosphorus), acidification, greenhouse gas enhancement.
 :::

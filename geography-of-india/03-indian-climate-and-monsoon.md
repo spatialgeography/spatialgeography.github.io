@@ -19,7 +19,7 @@
 * **Monsoon Mechanism**:
   - *Thermal Concept (Halley)*: Differential heating of land and sea.
   - *Dynamic Concept (Flohn)*: Shifting of the ITCZ northward over the Ganga plain.
-  - *Jet Stream Theory (Yin)*: Sub-Tropical Westerly Jet moving north of Himalayas allowing Tropical Easterly Jet to establish, triggering the onset.
+  - *Jet Stream Theory (Yin)*: Sub-Tropical Westerly Jet moving north of Himalayas allowing Tropical Easterly Jet to establish, triggering the onset. Jet streams also influence glacier melting in the Himalayas (when the polar jet stream moves northward, it brings warm air to the region accelerating glacier melt).
   - *Oceanic Factors*: El Niño (negative impact), Indian Ocean Dipole (Positive IOD enhances rainfall).
 * **Climatic Classifications**: Koeppen (Amw, Aw, BShw, Cwg), Trewartha.
 * **Western Disturbances**: Cyclonic storms from the Mediterranean bringing winter rain to NW India (crucial for Rabi crops).

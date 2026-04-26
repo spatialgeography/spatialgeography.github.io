@@ -54,6 +54,7 @@ Rock strata under horizontal compression.
 | **Monoclinal** | One limb is vertical. |
 | **Recumbent** | Fold is pushed over so far that axial plane is horizontal. |
 | **Nappe** | Overthrust fold where a sheet of rock has moved miles (e.g., Alps). |
+| **Plunging Syncline** | Two cuestas converging in the direction of plunge with dipslopes facing each other. |
 
 ---
 
@@ -63,4 +64,6 @@ Fractures in the crust along which displacement occurs.
 - **Normal Fault:** Due to tension; creates **Rift Valleys** (e.g., Great Rift Valley of Africa, Rhine Valley).
 - **Reverse Fault:** Due to compression; creates **Horsts / Block Mountains** (e.g., Black Forest, Vosges).
 - **Lateral / Strike-slip:** Horizontal movement (e.g., San Andreas Fault).
+- **En-echelon Faulting:** Series of short, parallel faults that overlap like shingles on a roof.
+- **Imbricate Thrusting:** A series of closely spaced thrust faults dipping in the same direction.
 - **Ramp Valley:** Brahmaputra Valley (Assam).
