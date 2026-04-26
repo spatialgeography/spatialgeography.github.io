@@ -8,13 +8,13 @@ toc-depth: 3
 
 ## 2025 Paper
 
-{{< include pyq/Geography_WBSET.md >}}
+{{< include pyq/wbset-2025.md >}}
 
 ---
 
 ## 2024 Paper
 
-*(Coming Soon)*
+{{< include pyq/wbset-2024.md >}}
 
 ---
 
