@@ -6,6 +6,61 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 
 ---
 
+## UGC NET
+
+### Unit I: Geomorphology
+* [Geomorphology](geomorphology.html)
+
+### Unit II: Climatology
+* [Climatology (Detailed Course)](climatology.html)
+* [Climatology and Oceanography](climatology-and-oceanography.html)
+
+### Unit III: Oceanography
+* [Oceanography (Detailed Course)](oceanography.html)
+
+### Unit IV: Geography of Environment
+* [Environmental Geography and Biogeography](environmental.html)
+* [Natural Hazards and Disaster Management](natural-hazards.html)
+
+### Unit V: Population and Settlement Geography
+* [Population Geography](population-geography.html)
+* [Settlement Geography](settlement-geography.html)
+* [Urban Geography](urban-geography.html)
+
+### Unit VI: Geography of Economic Activities and Regional Development
+* [Economic Geography](economic-geography.html)
+* [Agricultural Geography](agricultural-geography.html)
+* [Industrial Geography](industrial-geography.html)
+* [Trade and Transport](trade-and-transport.html)
+* [Regional Planning and Development](regional-development.html)
+* [Human Development and Sustainable Development](human-development.html)
+
+### Unit VII: Cultural, Social and Political Geography
+* [Social and Cultural Geography](social-and-cultural.html)
+* [Political Geography and Globalisation](political-geography.html)
+
+### Unit VIII: Geographic Thought
+* [Evolution of Geographical Thought](geographical-thought.html)
+
+### Unit IX: Geographical Techniques
+* [Cartography and Geo-Spatial Techniques](cartography.html)
+* [Quantitative Techniques in Geography](statistical-geography.html)
+* [Remote Sensing and GIS](gis-remote-sensing.html)
+* [Geospatial Modelling, AI and Machine Learning](geospatial-ai.html)
+* [Field Survey: Tools and Technique](field-survey.html)
+* [Natural Resource Management and Geo informatics](natural-resource-management.html)
+* [Research Methodology](research-methodology.html)
+
+### Unit X: Geography of India
+* [Geography of India](geography-of-india.html)
+* [Indian Physical Geography](indian-physical.html)
+* [Indian Socio-Economic Geography](indian-socioeco.html)
+* [Geography of Odisha](geography-of-odisha.html)
+
+---
+
+## Undergraduate Curriculum (NEP 2020)
+
 ### Semester I
 * [Physical Geography](physical-geography.html)
 * [Human Geography](human-geography.html)
@@ -47,18 +102,12 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 
 ---
 
-### Electives & Additional Modules (Existing Notes)
-* [Climatology (Detailed Course)](climatology.html)
-* [Oceanography (Detailed Course)](oceanography.html)
-* [Settlement Geography](settlement-geography.html)
-* [Agricultural Geography](agricultural-geography.html)
-* [Industrial Geography](industrial-geography.html)
-* [Trade and Transport](trade-and-transport.html)
-* [Indian Physical Geography](indian-physical.html)
-* [Indian Socio-Economic Geography](indian-socioeco.html)
+## Previous Year Questions
+* [UGC NET Previous Year Questions](ugc-net-pyq.html)
+
+---
 
 ### Supplementary Resources
-* [UGC NET Previous Year Questions](ugc-net-pyq.html)
 * [Reading Materials & Methodology](reading-materials.html)
 * [Geography in News](geography-in-news.html)
 
