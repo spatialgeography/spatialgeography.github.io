@@ -12,7 +12,28 @@ This page consolidates all the important **theories, models, books, scholars and
 
 ## 1. Geomorphology
 
-### Theories & Models
+### Origin of the Earth & Earth's Crust
+
+| Theory / Model | Scholar(s) |
+|:---|:---|
+| Gaseous Hypothesis | Immanuel Kant |
+| Nebular Hypothesis | Laplace |
+| Planetesimal Hypothesis | Chamberlin & Moulton |
+| Tidal Hypothesis | James Jeans & Jeffreys |
+| Binary Star Hypothesis | Russell |
+| Big Bang Theory | Georges Lemaître |
+| Tetrahedron Theory | Lowthian Green |
+| Continental Drift Hypothesis | F. B. Taylor |
+| Geo-Syncline Theory | Kober |
+| Thermal Contraction Theory | Jeffreys |
+| Radioactive Theory / Thermal Cycle Theory | Joly |
+| Sliding Continent Theory | R. A. Daly |
+| Elastic Rebound Theory | H. F. Reid | Explains energy release during earthquakes. |
+| Panplain Concept | C. H. Crickmay | Landscape formed by lateral planation of rivers. |
+| Primarrumpf | Walther Penck | Initial landform before uplift. |
+| Pleistocene Glaciation Evidence | Louis Agassiz | First to propose that Earth had been subject to a past ice age. |
+
+### Theories & Models of Landscape Development
 
 | Theory / Model | Scholar(s) | Key Idea |
 |:---|:---|:---|
@@ -33,13 +54,16 @@ This page consolidates all the important **theories, models, books, scholars and
 
 ### Key Concepts
 
-- Peneplain, Pediplain, Panplain, Etchplain
+- Peneplain (Davis), Pediplain (King), Panplain (Crickmay), Etchplain
+- Primarrumpf (Penck)
 - Monadnock, Inselberg, Bornhardt
 - Base level of erosion (local and ultimate)
 - Rejuvenation: Knickpoint, River terraces, Incised meanders
 - Superimposed and Antecedent drainage
 - Hydraulic geometry (Leopold & Maddock)
 - Thalweg, Sinuosity Index
+- **Term "Plate"**: First used by J. T. Wilson
+- **Term "Isostasy"**: First used by C. E. Dutton
 
 ---
 
@@ -82,6 +106,16 @@ This page consolidates all the important **theories, models, books, scholars and
 | Rule of Constant Proportions | Dittmar (1884) | Relative proportions of major dissolved salts remain constant across oceans. |
 | Sverdrup Balance | H. Sverdrup | Relates wind stress curl to meridional ocean transport. |
 | CaCO₃ Compensation Depth (CCD) | — | Depth (~4,000–4,500 m) below which calcium carbonate dissolves faster than it accumulates. |
+
+### Theories of Tides
+
+| Theory / Model | Scholar(s) |
+|:---|:---|
+| Equilibrium Theory | Isaac Newton |
+| Progressive Wave Theory | William Whewell |
+| Canal Theory | G. B. Airy |
+| Dynamical Theory | Laplace |
+| Stationary Wave Theory | R. A. Harris |
 
 ### Key Concepts
 
@@ -142,6 +176,8 @@ This page consolidates all the important **theories, models, books, scholars and
 | Bylund's Colonisation Theory | Erik Bylund | Rural settlement expansion through "clone" and "daughter" colonisation. |
 | Mumford's Theory of Town Origin | Lewis Mumford | Social evolution: Eotechnic → Paleotechnic → Neotechnic → Biotechnic. |
 | Urban Economic Base Theory | — | Cities grow by expanding their "basic" (export) sector relative to "non-basic" (local) sector. |
+| Fused Growth Theory | Garrison | |
+| Rank-Size Rule (Initial idea) | Felix Auerbach (1913) | First to observe the relationship between city rank and size. |
 
 ### Key Concepts
 
@@ -152,6 +188,7 @@ This page consolidates all the important **theories, models, books, scholars and
 - Ecumene and non-ecumene
 - Rural–urban fringe, Exurb, Ethnoburb
 - Nearest Neighbour Analysis (settlement pattern)
+- **Term "Umland"**: First used by Andre Allix
 
 ---
 
@@ -173,6 +210,9 @@ This page consolidates all the important **theories, models, books, scholars and
 | Gravity Model | — | Interaction between two places is proportional to their sizes and inversely proportional to distance. |
 | Ullman's Spatial Interaction | Edward Ullman | Three bases: Complementarity, Intervening Opportunity, Transferability. |
 | Fordism / Post-Fordism | — | Mass production (Fordism) vs flexible specialisation (Post-Fordism). |
+| Market Competition Theory | Fetter & Hotelling | |
+| Least Cost Theory | E. M. Hoover | |
+| Maximum Profit Theory | August Losch / D. M. Smith | |
 
 ### Key Concepts
 
@@ -193,6 +233,11 @@ This page consolidates all the important **theories, models, books, scholars and
 |:---|:---|:---|
 | Heartland Theory | Halford Mackinder (1904) | Who controls East Europe commands the Heartland → commands the World Island → commands the world. |
 | Rimland Theory | Nicholas Spykman (1944) | The coastal "Rimland" is the key to world power, not the Heartland. |
+| Sea Power Concept | A. T. Mahan | Emphasizes naval dominance for global hegemony. |
+| Air Power Theory | Seversky | Highlights the strategic importance of air superiority. |
+| Heart of Heartland Concept | David Hooson | Refinement of Mackinder's Heartland focused on internal resource nodes. |
+| Geo-Strategic Concept | Saul Cohen | Division of the world into geostrategic and geopolitical regions. |
+| Geopolitical Concept | Karl Haushofer | Influence of geography on state policy and expansion. |
 | Lebensraum (Living Space) | Friedrich Ratzel | States need expanding territory to sustain growing populations (influenced geopolitics). |
 | Unified Field Theory of Political Geography | S. B. Jones | Political territory develops through: Idea → Decision → Movement → Field. |
 | Cultural Landscape | Carl O. Sauer | Landscapes are shaped by human cultural imprint on the natural environment. |
@@ -350,6 +395,38 @@ This page consolidates all the important **theories, models, books, scholars and
 | Boserup | Population drives agricultural change |
 | Ravenstein | Laws of Migration |
 | Zelinsky | Mobility Transition Model |
+| Kant | Gaseous Hypothesis |
+| Laplace | Nebular Hypothesis; Dynamical Theory of Tides |
+| Chamberlin & Moulton | Planetesimal Hypothesis |
+| James Jeans & Jeffreys | Tidal Hypothesis |
+| Russell | Binary Star Hypothesis |
+| Georges Lemaître | Big Bang Theory |
+| Lowthian Green | Tetrahedron Theory |
+| F. B. Taylor | Continental Drift Hypothesis |
+| Kober | Geo-Syncline Theory |
+| Jeffreys | Thermal Contraction Theory |
+| Joly | Radioactive Theory |
+| R. A. Daly | Sliding Continent Theory |
+| Isaac Newton | Equilibrium Theory of Tides |
+| William Whewell | Progressive Wave Theory |
+| G. B. Airy | Canal Theory; Isostasy (Airy's Hypothesis) |
+| R. A. Harris | Stationary Wave Theory |
+| A. T. Mahan | Sea Power Concept |
+| Seversky | Air Power Theory |
+| David Hooson | Heart of Heartland Concept |
+| Saul Cohen | Geo-Strategic Concept |
+| Karl Haushofer | Geopolitical Concept |
+| H. F. Reid | Elastic Rebound Theory |
+| C. H. Crickmay | Panplain Concept |
+| Louis Agassiz | Pleistocene Glaciation Evidence |
+| J. T. Wilson | Coined the term "Plate" |
+| C. E. Dutton | Coined the term "Isostasy" |
+| Felix Auerbach | Initial observer of Rank-Size Rule |
+| Andre Allix | Coined the term "Umland" |
+| Fetter & Hotelling | Market Competition Theory |
+| E. M. Hoover | Least Cost Theory |
+| D. M. Smith | Maximum Profit Theory |
+| Garrison | Fused Growth Theory |
 
 ---
 
