@@ -26,6 +26,7 @@
 - **Centripetal:** Flows inward to a basin (e.g., Kathmandu Valley).
 
 #### Fluvial Mechanics & Transport Capacity
+- **Stream Competence:** The measure of the maximum size of particles that a stream can transport.
 - **Suspended Sediment:** High concentration of suspended sediment increases the transportational capacity of a stream because it increases **viscosity**, which reduces turbulence and energy dissipation.
 - **Impoundment:** The impoundment of a river (e.g., by a dam) decreases its downstream entrainment capacity because water velocity drops in the reservoir.
 

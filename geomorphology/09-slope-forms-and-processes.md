@@ -14,8 +14,8 @@
 
 According to **Wood (1942)** and **L.C. King**, a fully developed slope has four elements:
 1. **Waxing Slope (Upland Crest):** Convex top.
-2. **Free Face (Scarp):** Vertical or near-vertical rock face. According to Wood's model, the retreat of the free face in the initial stage results in the development of an **upper rectilinear slope**.
-3. **Debris Slope (Constant Slope / Talus):** Accumulation of weathered material.
+2. **Free Face (Scarp):** Bedrock outcrop, vertical or near-vertical rock face. According to Wood's model, the retreat of the free face in the initial stage results in the development of an **upper rectilinear slope**.
+3. **Debris Slope (Constant Slope / Talus):** Accumulation of weathered material, retreats with free face.
 4. **Waning Slope (Pediment / Valley Floor):** Concave base.
 
 ---

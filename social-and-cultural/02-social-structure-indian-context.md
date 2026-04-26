@@ -17,7 +17,7 @@
 ### Key Concepts
 * **Social Structure**: The patterned social arrangements in society that are emergent from and determinant of the actions of individuals (e.g., class, caste).
 * **Caste System (Jati/Varna)**: Hierarchical social stratification unique to India. Influences residential segregation (Dalit bastis), occupational structure, and land ownership.
-* **Tribal Groups (Adivasis)**: Indigenous populations with distinct cultures, mostly concentrated in Central India (Gonds, Santhals, Bhils) and Northeast India.
-* **Linguistic Diversity**: Indo-Aryan (North), Dravidian (South), Austroasiatic (Central), Tibeto-Burman (Northeast). Language families form major cultural fault lines.
+* **Tribal Groups (Adivasis)**: Indigenous populations with distinct cultures, mostly concentrated in Central India (Gonds, Santhals, Bhils) and Northeast India. Pastoral nomads like the **Gujjar Bakrawalas** follow transhumance, are mainly Muslims (not Hindus), and are affected by restricted grazing due to strict forest conservation laws.
+* **Linguistic Diversity**: Language families form major cultural fault lines. Key groups include Indo-Aryan (e.g., Bengali), Dravidian (e.g., Telugu), Sino-Tibetan (e.g., Lahuli), and Austric (e.g., Santhali).
 * **Religious Composition**: Hindu majority with significant Muslim, Christian, Sikh, Buddhist, and Jain communities. Spatial concentration patterns.
 :::

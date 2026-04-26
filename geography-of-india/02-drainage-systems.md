@@ -18,7 +18,9 @@
 * **Himalayan Rivers**: Antecedent, perennial (snow and rain-fed), youth stage (gorges, rapids), shifting courses (e.g., Kosi). Examples: Indus, Ganga, Brahmaputra systems.
   - *Brahmaputra Basin:* Covers parts of **China (Tibet), India, Bhutan, and Bangladesh**.
 * **Peninsular Rivers**: Consequent, seasonal (rain-fed), mature stage (broad valleys, graded profiles). Flow largely west to east (Mahanadi, Godavari, Krishna, Cauvery) forming deltas, except Narmada and Tapi (flowing west in rift valleys forming estuaries).
+  - *Decreasing length:* **Godavari > Krishna > Mahanadi > Kaveri**.
 * **Water Divides**: The Great Water Divide separating Arabian Sea drainage (23%) from Bay of Bengal drainage (77%).
 * **Interlinking of Rivers (NRLP)**: Proposal to transfer water from surplus (Himalayan/Brahmaputra) to deficit basins (Peninsular). Ecological and geopolitical concerns.
+* **India-WRIS:** Refers to the Water Resources Information System.
 * **Watershed Management**: Integrated conservation of soil, water, and biomass within a hydrological unit to prevent degradation.
 :::

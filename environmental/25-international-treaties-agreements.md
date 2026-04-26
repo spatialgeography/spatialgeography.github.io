@@ -24,6 +24,7 @@ International environmental governance has evolved through landmark summits, tre
 * **Johannesburg Summit (2002)**: World Summit on Sustainable Development — implementation of Agenda 21, partnerships for sustainable development.
 * **Sustainable Development Goals (SDGs) — 2015**: 17 goals with 169 targets adopted by UN General Assembly (Agenda 2030). Replace Millennium Development Goals (MDGs). Key goals include Climate Action (SDG 13), Life on Land (SDG 15), Life Below Water (SDG 14), Clean Water & Sanitation (SDG 6).
 * **Paris Agreement (2015)**: Global framework to limit warming to well below 2°C (preferably 1.5°C). Nationally Determined Contributions (NDCs). Global Stocktake every 5 years. India's NDCs — 45% reduction in emissions intensity by 2030, 50% non-fossil fuel energy, net-zero by 2070.
+* **UNFCCC:** The basic objective of the UN Framework Convention on Climate Change is to **stabilize greenhouse gas concentration** in the atmosphere.
 * **COP (Conference of Parties)**: Annual meetings under UNFCCC — COP26 (Glasgow), COP27 (Sharm el-Sheikh), COP28 (Dubai).
 :::
 

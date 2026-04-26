@@ -21,10 +21,11 @@
 - Destruction of Coral Reefs (rises temperature)
 - Spread of diseases
 - Disrupts weather
-- Associated with **weak monsoon, less rainfall and drought** in India
+- Associated with **occasional weak monsoon rains, less rainfall and drought** in the Indian sub-continent.
 
 ### Southern Oscillation
 - Discovered by **Gilbert Walker (1920)** — curious see-saw pattern of meteorological changes between Pacific and Indian Oceans
+- The term **oscillation** is associated with El Niño and La Niña because their fluctuations are **not perfectly periodic**.
 - **Walker Circulation** — Walker's model of atmospheric circulation
 - **SOI** = Southern Oscillation Index (negative SOI = favourable for El Niño)
 

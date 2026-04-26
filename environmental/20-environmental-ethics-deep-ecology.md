@@ -25,7 +25,7 @@ Environmental ethics examines the moral relationship between humans and the natu
 
 ::: {.callout-tip}
 ### Deep Ecology
-* **Founded by Arne Naess (1973)**: A philosophical movement that goes beyond "shallow" environmentalism.
+* **Founded by Arne Naess (1973)**: A philosophical movement that goes beyond "shallow" environmentalism. Inspired by Gandhi and Spinoza, Naess reinforced his intuitions about the equal "right" of all species to flourish on the planet together with the Eastern doctrine of Ahimsa.
 * **Core Principles**:
   - All living beings have intrinsic value independent of human purposes
   - Richness and diversity of life are values in themselves

@@ -24,6 +24,7 @@
 - **Conditionally Stable:** WALR < ELR < DALR
 - **Absolutely Unstable:** ELR > DALR
 - **Neutral Stability:** ELR = DALR
+- **Vertical Change of Temperature (Descending order of lapse rate):** Superadiabatic > Adiabatic > Subadiabatic > Inversion
 
 ---
 

@@ -21,7 +21,7 @@
   - **Forchammer's Principle:** The ratio of major salts is constant. For example, Potassium constitutes **1.1%** of dissolved salt in seawater.
 * **Factors Affecting Salinity**: Evaporation, precipitation, river discharge, ice formation/melting, ocean currents.
 * **Density of Seawater**: Function of temperature, salinity, and pressure. Cold, saline water is densest.
-  - **Pycnocline:** A layer where density changes rapidly. It is heavily influenced by the **thermocline** (temperature) and can also act as a **halocline** (salinity).
+  - **Pycnocline:** A zone below the surface waters and above the deep waters where density changes rapidly. It is heavily influenced by the **thermocline** (temperature) and can also act as a **halocline** (salinity).
 * **Thermohaline Circulation**: Global conveyor belt driven by density differences — meridional overturning circulation.
 * **Heat and Salt Budget**: Ocean as a heat reservoir — role in climate regulation.
 * **Desalination Processes:** Common methods include **Reverse osmosis**, **Electrolysis**, and **Freeze separation**.

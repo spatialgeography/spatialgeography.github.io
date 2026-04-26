@@ -24,4 +24,5 @@
   - *Western and Central Europe:* Ruhr, Paris
   - *Eastern Europe:* Volga-Ural, Ukraine
   - *Eastern Asia:* Tokyo, Yokohama, coastal China, South Korea
+* **Knowledge Industry:** A term introduced by **Fritz Machlup** to describe industries based heavily on knowledge and information.
 :::

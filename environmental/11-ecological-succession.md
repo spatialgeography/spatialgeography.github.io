@@ -20,6 +20,7 @@ Ecological succession is the orderly and predictable process of community change
 * **Types of Succession**:
   - *Primary Succession*: Begins on bare, lifeless substrate (e.g., lava flows, exposed rock). Pioneer species → Climax community.
   - *Secondary Succession*: Begins in areas where a previous community has been disturbed (e.g., abandoned farmland, forest fire areas). Faster than primary succession.
+* **Ecesis:** The successful establishment of a plant or animal species in a new habitat.
 * **Seral Stages**: Each intermediate community in the succession is called a *sere* or *seral stage*.
   - Hydrosere (aquatic succession)
   - Xerosere (dry land succession)

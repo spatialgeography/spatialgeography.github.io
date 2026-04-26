@@ -19,6 +19,7 @@ Davis proposed that landforms develop in a predictable sequence based on Darwini
 1. **Youth:** Stream lengthening, valley deepening, steep slopes, V-shaped valleys.
 2. **Maturity:** Lateral erosion begins, V-shaped valleys broaden, profile of equilibrium starts.
 3. **Old Age:** Base level of erosion reached; formation of a **Peneplain** (almost a plain) with residual hills called **Monadnocks**.
+*Note: The **Hypsometric integral** provides quantitative support for the idea of Davis' three stages of landform development.*
 
 ---
 
@@ -47,6 +48,7 @@ Based on studies in South Africa.
 ### 4. Geomorphic Equilibria
 
 Geomorphic systems tend towards a steady state, balancing inputs and outputs.
-- **Dynamic Equilibrium:** A state where small, frequent variations occur around a long-term unchanging mean.
+- **Dynamic Equilibrium:** A state where small, frequent variations occur around a long-term unchanging mean (e.g., **G.K. Gilbert's** concept of landscape equilibrium).
 - **Metastable Equilibrium:** A state of equilibrium that is interrupted by a sudden change due to a threshold being crossed (e.g., a sudden landslide after prolonged weathering), establishing a new equilibrium state.
 - **Unstable Equilibrium:** A state where a small disturbance leads to continuous, progressive change away from the original state.
+- **Steady State:** Ideal achievement of steady state in an open system occurs, for example, in a stretch of a river between two closely-spaced bridges.

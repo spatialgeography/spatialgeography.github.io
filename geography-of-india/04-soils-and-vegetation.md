@@ -24,4 +24,5 @@
 * **Natural Vegetation**:
   - *Tropical Evergreen* (Western Ghats, NE), *Tropical Deciduous* (Monsoon forests, most widespread - Sal, Teak), *Thorn Forests* (NW), *Montane Forests* (Himalayas - altitudinal zonation), *Mangroves* (Sundarbans).
 * **Conservation**: Social forestry, Joint Forest Management (JFM), Biosphere Reserves, National Parks.
+* **Environmental Social Movements**: Notable movements and their leadership include the **Chipko Movement** (Sunderlal Bahuguna), **Narmada Bachao Andolan** (Medha Patkar), **Bishnoi Movement** (Amrita Devi), and the **Jharkhand Movement** (R. M. Munda).
 :::

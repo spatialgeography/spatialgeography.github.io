@@ -105,7 +105,7 @@
 * **Physical vs. Human Geography**: Study of natural environment vs. human activities — quest for integration.
 * **Systematic vs. Regional Geography**: Topical study of phenomena (Humboldt) vs. regional synthesis (Ritter) — Hartshorne vs. Schaefer debate.
 * **Determinism vs. Possibilism**: Environment controls human activity (Ratzel, Semple) vs. humans choose from possibilities (Vidal, Febvre).
-* **Ideographic vs. Nomothetic**: Study of unique cases/regions vs. searching for general laws/patterns — Kantian distinction.
+* **Ideographic vs. Nomothetic**: Study of unique cases/regions (idiographic is fundamentally descriptive, *not* a quantitative model-building approach) vs. searching for general laws/patterns (nomothetic approach is focused on producing general statements or laws) — Kantian distinction.
 * **Qualitative vs. Quantitative**: Descriptive approaches vs. statistical/mathematical methods — quantitative revolution.
 * **General vs. Special Geography**: Varenius's distinction between universal principles and regional descriptions.
 * **Resolution**: Modern geography seeks integration — human-environment systems, mixed methods.

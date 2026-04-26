@@ -51,10 +51,10 @@
 ---
 
 ### Positivism
-- Logical positivism — objective, empirical, value-free science
+- Logical positivism — objective, empirical, value-free science relying heavily on **hypothesis testing**.
 - Relies on the **formal construction of theories capable of empirical verification**.
 - Scientific method applied in geography
-- Foundation for the Quantitative Revolution
+- Foundation for the Quantitative Revolution; utilized the **A Posteriori model** (a model developed from observed regularities using an inductive approach).
 
 ### Humanism (1970s)
 - Reaction against positivism — focus on lived experience, place, meaning. Does **not** rely on positivist or Marxist methodology.
@@ -77,6 +77,6 @@
 
 ### Postmodernism
 - Rejection of grand theories, multiple truths, deconstruction, fragmentation
-- **Fallibilism:** The idea that no idea or belief is absolutely certain.
+- **Fallibilism:** The idea that knowledge is subject to scrutiny and no belief or theory is absolutely certain.
 - **Practical heterology:** Disorder, chaos, and difference.
 - Key scholars: **Soja**, **Dear**

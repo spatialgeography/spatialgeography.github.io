@@ -25,7 +25,7 @@ Weathering is the in-situ disintegration and decomposition of rocks.
 - **Oxidation:** Reaction with oxygen (rusting). **Redox potential** regulates the alternation of oxidation state from ferrous to ferric oxides.
 - **Carbonation:** CO₂ in water forms carbonic acid, dissolving limestone.
 - **Hydration:** Minerals absorb water and expand (e.g., Gypsum).
-- **Solution:** Direct dissolution of minerals (Rock salt).
+- **Solution:** Direct dissolution of minerals (e.g., Rock salt). Note that **Muscovite** is typically dissolved by alkaline solutions.
 
 ---
 
@@ -34,7 +34,7 @@ Weathering is the in-situ disintegration and decomposition of rocks.
 Movement of rock waste downslope under the direct influence of **gravity** (Sharpe, 1938).
 
 #### Slow Flowage
-- **Soil Creep:** Extremely slow downward movement.
+- **Soil Creep:** Extremely slow downward movement (e.g., observed when trees and posts lean towards the direction of the slope).
 - **Solifluction:** Flow of water-saturated debris over permafrost.
 
 #### Rapid Flowage

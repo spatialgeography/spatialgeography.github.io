@@ -21,5 +21,5 @@
   1. *Long and healthy life* (Life expectancy at birth)
   2. *Knowledge* (Mean years of schooling and Expected years of schooling)
   3. *Decent standard of living* (GNI per capita).
-* **Other Indices**: Inequality-adjusted HDI (IHDI), Gender Development Index (GDI), Multidimensional Poverty Index (MPI).
+* **Other Indices**: Inequality-adjusted HDI (IHDI), Gender Development Index (GDI), Multidimensional Poverty Index (MPI). The **Global Gender Gap Index** uniquely takes into account health, education, economics, and politics in measuring the status of women.
 :::

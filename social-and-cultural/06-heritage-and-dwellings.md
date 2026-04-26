@@ -18,5 +18,5 @@
 * **Cultural Landscape**: The visible imprint of human activity on the landscape (Sauer's morphology of landscape).
 * **Dwelling Places**: Folk housing styles reflecting local climate, materials, and cultural beliefs (e.g., Igloos, Yurts, Stilt houses, Courtyard houses in India).
 * **Geo-heritage**: Sites of geological and geomorphological significance that provide scientific, educational, and cultural value (e.g., Lonar Crater, columnar basalts).
-* **Conservation**: UNESCO World Heritage sites, role of local communities in protecting heritage as part of identity.
+* **Conservation**: UNESCO World Heritage sites (tangible), and Intangible Cultural Heritage (e.g., the **Durga Puja of Kolkata**), reflecting the role of local communities in protecting heritage as part of identity.
 :::

@@ -44,6 +44,7 @@
 - **Pressure Gradient** — change of pressure per unit distance
 - **Coriolis Force** — G.G. de Coriolis (1835)
   - Right deflection in Northern Hemisphere; Left in Southern Hemisphere
+- **Geostrophic Balance:** Maintained with the exact balance of the Coriolis force and the horizontal pressure gradient force.
 - **Geostrophic Thermal Wind:** The speed of geostrophic thermal wind increases with height because each isobaric surface slopes more steeply than the one below it.
 - **1855** — W. Ferrel → **Ferrel's Law** / **Buys Ballot's Law**
 - **Buys Ballot (1857):** '0' at Equator → Maximum at Poles; 30° lat = 50% deflection; 60° lat = 86.7% deflection

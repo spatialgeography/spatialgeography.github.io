@@ -21,3 +21,8 @@
 |:---|:---|
 | **Warm Dry Winds** | Beng (S. Africa) = Chinook (Rockies) = Norwester (New Zealand) = Samun/Samoon (Iran) = Santa Ana (California) = Zonda (Argentina) |
 | **Warm Dusty & Dry** | Sirocco (Sahara) = Khamsin (Egypt) = Gibli (Libya) = Chili (Tunisia) = Leveche (Spain) = Simoom = (Arabian Desert) |
+
+### Mountain Winds
+
+- **Catabatic winds:** Move downslope when the mountain surface is colder than the surrounding air.
+- **Anabatic winds:** Move upslope driven by warmer surface temperature on the mountain slope.

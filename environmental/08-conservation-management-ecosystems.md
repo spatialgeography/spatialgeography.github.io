@@ -34,6 +34,8 @@ Conservation of ecosystems involves the sustainable management, protection, and 
   - Joint Forest Management (JFM)
   - Wetland conservation (Ramsar Convention)
   - Coral reef conservation and marine protected areas
+  - **Ecosystem Restoration:** Associated with introducing native plants, dam decommissioning, and restricting grazing (it is *not* directly associated with restricting anthropogenic control entirely, as restoration itself is often anthropogenic).
+  - **Soil Erosion Assessment Methods:** Models like RUSLE, PESERA, and CORINE are used to assess erosion risk.
 * **Carbon Sequestration:** In a stable climate, forests generally sequester more carbon than grasslands because they store most of their carbon in above-ground woody biomass.
 * **Community-based Conservation**: Role of indigenous communities, traditional ecological knowledge.
 :::

@@ -48,7 +48,8 @@
 
 - **Diameter:** 80–300 km (some 50 km or less)
 - **High wind speed**; sea temperature must be **27°C or more**
-- **Eye of the cyclone** — centre of extreme low pressure
+- **No cyclones occur along the equator** because the Coriolis force is zero.
+- **Eye of the cyclone** — centre of extreme low pressure. The temperature inside the eye is typically warmer than that of the surroundings. Note that some cyclones may not develop an eye.
 
 #### Classification (Christopherson, 1995)
 

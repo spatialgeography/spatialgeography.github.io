@@ -21,7 +21,7 @@ Energy flow is the passage of energy through the various trophic levels of an ec
 * **Laws of Thermodynamics**: First law (energy conservation) and second law (entropy) govern energy transfer.
 * **Gross Primary Productivity (GPP)**: Total organic matter produced by autotrophs through photosynthesis.
 * **Net Primary Productivity (NPP)**: GPP minus respiration losses — the energy available to consumers.
-* **10% Rule (Lindeman's Law)**: Only about 10% of energy is transferred from one trophic level to the next.
+* **10% Rule (Lindeman's Law)**: Coined by **R. Lindeman**, it states that only about 10% of energy is transferred from one trophic level to the next.
 * **Energy Flow Models**:
   - Single-channel energy flow model
   - Y-shaped energy flow model (grazing + detritus pathways)

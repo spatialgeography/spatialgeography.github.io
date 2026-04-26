@@ -26,6 +26,10 @@
 | Behaviouralism in Geography | Kirk |
 | Terrestrial Unity | Paul Vidal de la Blache |
 | Subsidence Theory of Coral Reef | Charles Darwin |
+| *Geographica* | Strabo |
+| *Explanation in Geography* | David Harvey |
+| *History of Geographical Discovery* | J. N. L. Baker |
+| *Ancient Geography of India* | Alexander Cunningham |
 
 ---
 

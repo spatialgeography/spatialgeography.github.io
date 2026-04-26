@@ -15,6 +15,7 @@
 
 ::: {.callout-note}
 ### Key Concepts
+* **Origin and Dispersal of Agriculture:** **Carl O. Sauer** contributed notably towards understanding the origin and dispersal of agriculture globally.
 * **Whittlesey's Classification (1936)**: Based on crop/livestock combination, intensity of land use, processing methods, mechanization, and destination of products.
 * **13 Agricultural Regions**:
   1. Nomadic Herding 

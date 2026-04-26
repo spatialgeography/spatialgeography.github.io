@@ -21,6 +21,7 @@
   - *Stage 3*: Late expanding — declining birth rates, continued growth at slower pace
   - *Stage 4*: Low stationary — low birth and death rates, slow growth/stable population
   - *Stage 5*: Declining — birth rate below death rate, population decline (Germany, Japan). **Scandinavian countries** have a **regressive age-sex population structure** with a negative population growth rate.
+* **Constrictive Population Pyramids:** Denote populations that are elderly and ageing.
 * **DALY:** Disability Adjusted Life Years.
 * **Cumulative Disadvantage:** Refers to the compounding effects of multiple forms of exclusion across an individual's life course.
 * **Malthusian Theory**: Population grows geometrically, food supply arithmetically — positive and preventive checks.

@@ -34,6 +34,8 @@
 - **Measurement:** 
   - **Richter Scale (1935):** Magnitude (logarithmic 0–9).
   - **Mercalli Scale (1902):** Intensity (Roman numerals I–XII).
+- **Elastic Rebound Theory (H.F. Reid):** Explains how energy is stored in rocks and released during an earthquake.
+- **Earth's Magnetism:** The magnetic property of the earth primarily results from convective movement in the **outer core**.
 
 #### Key Phenomena
 - **Liquefaction:** Saturated sands behaving like liquid.
@@ -63,6 +65,7 @@ Rock strata under horizontal compression.
 Fractures in the crust along which displacement occurs.
 - **Normal Fault:** Due to tension; creates **Rift Valleys** (e.g., Great Rift Valley of Africa, Rhine Valley).
 - **Reverse Fault:** Due to compression; creates **Horsts / Block Mountains** (e.g., Black Forest, Vosges).
+- **Thrust Fault:** Similar to reverse faults but with a very low dip angle; typically accommodates **shortening in the earth's crust**.
 - **Lateral / Strike-slip:** Horizontal movement (e.g., San Andreas Fault).
 - **En-echelon Faulting:** Series of short, parallel faults that overlap like shingles on a roof.
 - **Imbricate Thrusting:** A series of closely spaced thrust faults dipping in the same direction.

@@ -16,7 +16,7 @@
 - **Roman Scholars:** Strabo, Claudius Ptolemy
 - **Indian Scholars:** Varahmihira, Brahmagupta, Aryabhatta, Bhaskaracharya
 - **Arab Scholars:** Ibn Hawqal, Al-Battani, Al-Masudi, Ibn Sina, Al-Idrisi, Ibn Battuta, Al-Biruni, Al-Balkhi, Al-Khwarizmi
-- **Chinese Scholars:** Zhang Heng, Confucius, Laotze, I Ching, Chang Chien, Huan Tsang, Chou Ta Kuan, Zheng He
+- **Chinese Scholars:** Zhang Heng, Confucius, Laotze, I Ching, Chang Chien, Huan Tsang, Chou Ta Kuan, Zheng He. The **Song Dynasty** is notably credited with the first use of the magnetic compass.
 
 ---
 
@@ -64,6 +64,7 @@
 #### Herodotus (484–420 BCE)
 - **Father of History** and **Father of Ethnography**
 - *"History must be treated geographically and geography must be treated historically"*
+- Famously quoted: **"Egypt is the gift of the Nile"**.
 - First to state: **Wind moves from cold to hot places**
 - Calculated Earth's age at **440 million years** from sediment
   - 1 foot = 880 years; 158 km = 440 million years

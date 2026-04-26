@@ -30,6 +30,7 @@
 - **Erratics:** Large boulders transported far from their source.
 
 ### 4. Glacio-Fluvial (Meltwater) Features
+- **Melting:** Involves both supraglacial (surface) and subglacial (beneath) processes.
 - **Eskers (Osar):** Sinuous ridges of sand/gravel.
 - **Kames:** Steep-sided hills of stratified drift.
 - **Outwash Plain (Sandur):** Flat plain of meltwater deposits.
