@@ -1,0 +1,29 @@
+---
+title: "West Bengal SET Geography (Paper-II)"
+subtitle: "Previous Year Questions for Practice"
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+## 2025 Paper
+
+{{< include pyq/Geography_WBSET.md >}}
+
+---
+
+## 2024 Paper
+
+*(Coming Soon)*
+
+---
+
+## 2023 Paper
+
+*(Coming Soon)*
+
+---
+
+## 2022 Paper
+
+*(Coming Soon)*

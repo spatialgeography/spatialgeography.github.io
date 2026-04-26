@@ -196,5 +196,11 @@ To crack the UGC NET Geography exam, it is vital to understand the weightage of 
 
 ---
 
+## Actual Question Papers for Practice
+
+* [West Bengal SET Geography (Paper-II)](wb-set-pyq.html)
+
+---
+
 ### Books and Further Readings
 Focus your preparation on practicing questions corresponding to these standard 10 units. Use the modules across Geography OpenCourseWare to master each topic!
