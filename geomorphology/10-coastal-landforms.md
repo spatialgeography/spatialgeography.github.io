@@ -1,25 +1,44 @@
-## Coastal Geomorphology
+## Coastal Landforms
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Unit III — Coastal Geomorphology and Management |
-| **UGC NET** | Landforms associated with Coastal cycles |
+| **NEP-2020** | Geomorphology — Coastal landforms |
+| **UGC NET** | Unit I — Coastal landforms |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### 1. Beach Zones
+- **Shoreline:** Line between low and high tide.
+- **Backshore:** Normally dry; only reached by storm waves.
+- **Foreshore:** Intertidal zone where wave breaking occurs.
+- **Nearshore:** Between breaker zone and low tide.
+- **Offshore:** Beyond the low tide line.
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+### 2. Erosional Landforms
+- **Sea Cliff:** Steep rock face.
+- **Wave-cut Platform:** Flat area at the base of a cliff.
+- **Sea Cave:** Hollowed out base of a cliff.
+- **Sea Arch / Natural Bridge:** Formed when caves on both sides of a headland meet.
+- **Stack:** Isolated pillar of rock.
+- **Stump:** Low-level eroded stack.
+- **Geo / Inlets:** Long narrow opening in the cliff.
 
-::: {.callout-note}
-### Key Concepts
-* **Coastal Processes**: Waves (constructive/destructive), tides, longshore drift, marine erosion and deposition.
-* **Erosional Landforms**: Cliffs, wave-cut platforms, sea caves, arches, stacks, stumps, headlands and bays.
-* **Depositional Landforms**: Beaches, spits, bars, tombolos, barrier islands, lagoons, sand dunes.
-* **Coral Reefs**: Fringing, barrier, and atoll reefs — Darwin's subsidence theory.
-* **Shoreline Classification**: Emergent (uplifted) vs. submergent (drowned) coastlines; Johnson's classification.
-* **Coastal Management**: Beach nourishment, sea walls, groynes, managed retreat. Coastal zone regulations.
-:::
+### 3. Depositional Landforms
+- **Beach:** Sandy or pebbly deposit.
+- **Bar:** Submerged or semi-submerged ridge of sand (Offshore bar).
+- **Spit:** A bar attached to the land at one end (e.g., Chilika lake mouth).
+- **Hook:** A curved spit.
+- **Tombolo:** A bar connecting an island to the mainland.
+- **Lagoon:** Enclosed shallow water body (e.g., Pulicat Lake).
 
+### 4. Shoreline Classification (Johnson)
+
+| Type | Cause | Example |
+|:---|:---|:---|
+| **Submerged** | Sea level rise or land subsidence | **Fjord** (Norway), **Ria** (Ireland), **Dalmation** (Yugoslavia). |
+| **Emerged** | Sea level fall or land upliftment | **Kerala Coast** (India); characterized by bars and lagoons. |
+| **Neutral** | Deltaic or volcanic growth | — |
+| **Compound** | Mixture of processes | — |

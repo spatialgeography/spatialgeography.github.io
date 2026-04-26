@@ -4,22 +4,37 @@
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **UGC NET** | Geosynclines; Mountain building |
+| **UGC NET** | Unit I — Geosynclines and mountain building |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### 1. Geosynclines (Hall and Dana)
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+Geosynclines are long, narrow, and shallow water bodies which undergo gradual subsidence and sedimentation.
 
-::: {.callout-note}
-### Key Concepts
-* **Geosyncline Concept**: Large, elongated trough of subsidence filled with thick sedimentary deposits. Types: Miogeosyncline, Eugeosyncline.
-* **Geosynclinal Theory**: Sediment accumulation → compression → folding → mountain building (Dana, Hall, Haug).
-* **Orogenesis (Mountain Building)**: Compressive forces causing crustal shortening, folding, and thrusting.
-  - *Fold Mountains*: Himalayas, Alps, Andes, Rockies — formed at convergent plate boundaries
-  - *Block Mountains*: Horsts and grabens — formed by faulting (Vosges, Black Forest)
-  - *Volcanic Mountains*: Built by volcanic material accumulation (Mt. Fuji, Mt. Kilimanjaro)
-* **Modern Interpretation**: Plate tectonics replaces classical geosyncline theory — subduction, collision, and accretion.
-:::
+#### Types of Geosynclines (Schuchert)
+- **Monogeosyncline:** Narrow and shallow (e.g., Appalachian).
+- **Polygeosyncline:** Broad and complex (e.g., Rockies, Urals).
+- **Mesogeosyncline:** Mobile ocean basins between landmasses (e.g., Tethys).
 
+---
+
+### 2. Mountain Building (Orogenesis)
+
+#### Classification by Age
+- **Pre-Cambrian:** Canadian Shield, Aravallis (oldest).
+- **Caledonian:** (Silurian-Devonian) Appalachians, Grampians.
+- **Hercynian (Variscan):** (Carboniferous-Permian) Black Forest, Vosges.
+- **Alpine:** (Tertiary) Himalayas, Alps, Andes, Rockies.
+
+#### Major Theories of Orogeny
+
+| Theory | Scholar | Concept |
+|:---|:---|:---|
+| **Geosynclinal Theory** | Kober | *Orogenesis* from geosynclines; median mass (*Zwischengebirge*). |
+| **Thermal Contraction** | Jeffreys | Cooling Earth caused surface wrinkling (Mountains). |
+| **Thermal Convection** | Arthur Holmes | Convection currents in the mantle drive crustal deformation. |
+| **Radioactive Theory** | Joly | Radioactive heating/cooling cycles cause expansion/contraction. |
+| **Sliding Continents** | Daly | Gravity-driven sliding of continental blocks. |
+| **Plate Tectonics** | — | Collision of lithospheric plates (e.g., Indo-Eurasian collision). |

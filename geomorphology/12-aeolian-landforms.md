@@ -1,25 +1,41 @@
-## Aeolian Landforms
+## Aeolian Landforms (Arid and Semi-Arid)
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Unit I — Major Landforms: Aeolian |
-| **UGC NET** | Landforms associated with Arid cycles |
+| **NEP-2020** | Geomorphology — Aeolian landforms |
+| **UGC NET** | Unit I — Aeolian landforms |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### 1. Types of Desert Surface
+- **Erg:** Sandy desert (Sahara).
+- **Reg:** Stony desert (Algeria).
+- **Hammada:** Rocky desert (Sahara).
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+### 2. Erosional Landforms
+- **Blow-out:** Hollows formed by wind deflation.
+- **Mushroom Rock (Gara / Pedestal Rock):** Formed by abrasion near the ground.
+- **Zeugen:** Ridge-and-furrow landscape in layered rocks.
+- **Yardang:** Vertical rock ridges.
+- **Inselberg (Bornhardt):** Isolated residual hill in arid plains.
+- **Demoiselles:** Earth pillars.
 
-::: {.callout-note}
-### Key Concepts
-* **Aeolian Processes**: Deflation, abrasion, attrition by wind. Saltation, suspension, surface creep of particles.
-* **Erosional Landforms**: Yardangs, ventifacts, desert pavements, deflation hollows, pedestal rocks, mushroom rocks (zeugen).
-* **Depositional Landforms**: Sand dunes — barchan, seif (longitudinal), transverse, star dunes, parabolic dunes.
-* **Desert Landforms**: Playas, mesas, buttes, bajadas, pediments, inselbergs, wadis.
-* **Loess Deposits**: Wind-deposited fine silt — extensive in China, central Europe, and North America.
-* **Factors**: Wind velocity, sand supply, vegetation cover, moisture content.
-:::
+### 3. Depositional Landforms (Sand Dunes)
 
+| Dune Type | Features |
+|:---|:---|
+| **Barchan** | Crescent-shaped with horns pointing downwind. |
+| **Transverse** | Perpendicular to wind direction. |
+| **Longitudinal (Seif)** | Parallel to dominant wind direction. |
+| **Parabolic** | U-shaped with horns pointing upwind (found in coastal areas). |
+| **Star Dune** | Star-shaped with multiple arms. |
+
+---
+
+### 4. Loess
+- **Loess:** Fine, wind-blown silt deposited far from the desert source.
+- **North China Loess:** Extensively studied by **Von Richthofen**.
+- Loess covers approx. 10% of total land area (Peesi, 1968).

@@ -4,24 +4,37 @@
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Unit III — Land Degradation; slope analysis |
-| **UGC NET** | Slope forms and processes |
+| **NEP-2020** | Geomorphology — Slope forms and processes |
+| **UGC NET** | Unit I — Slope forms and processes |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### 1. Elements of Slope
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+According to **Wood (1942)** and **L.C. King**, a fully developed slope has four elements:
+1. **Waxing Slope (Upland Crest):** Convex top.
+2. **Free Face (Scarp):** Vertical or near-vertical rock face.
+3. **Debris Slope (Constant Slope / Talus):** Accumulation of weathered material.
+4. **Waning Slope (Pediment / Valley Floor):** Concave base.
 
-::: {.callout-note}
-### Key Concepts
-* **Slope Elements**: Waxing slope (convexity), free face (cliff), constant slope (debris/talus), waning slope (concavity) — King's four-element slope model.
-* **Slope Processes**: Weathering, mass wasting (creep, flows, slides, falls), surface wash, rill and gully erosion.
-* **Slope Evolution Theories**:
-  - *Davis*: Slope decline model — gradual flattening over time
-  - *Penck*: Slope replacement model — parallel retreat with slope segments replacing each other
-  - *King*: Parallel retreat model — backwearing of slopes maintaining angle
-* **Factors Controlling Slopes**: Lithology, structure, climate, vegetation, human activity.
-* **Slope Stability Analysis**: Factor of safety, shear strength vs. shear stress. Engineering applications.
-:::
+---
 
+### 2. Pediment Formation Theories
+
+A **Pediment** is a smooth, gently sloping erosional surface cut into bedrock at the base of a mountain.
+
+| Theory | Scholar | Year | Key Concept |
+|:---|:---|:---|:---|
+| **Sheetflood Theory** | McGee | 1897 | Formed by the erosive power of thin sheets of water after heavy desert rain. |
+| **Lateral Planation** | D.W. Johnson | — | Lateral erosion by shifting stream channels at the mountain foot. |
+| **Recession Theory** | Lawson | 1915 | Gradual recession of the mountain front (scarp retreat). |
+| **Composite Theory** | Kirk Bryan | 1923 | A combination of weathering, sheetflood, and lateral planation. |
+
+---
+
+### 3. Slope Evolution Models
+
+- **W.M. Davis (Slope Decline):** Slopes become gentler over time as the landscape ages.
+- **Walther Penck (Slope Replacement):** Steep slopes are replaced by gentler ones from below (*Haldenhang* replaces *Böschungen*).
+- **L.C. King (Slope Retreat):** Slopes maintain their angle but retreat backward (Parallel Retreat).

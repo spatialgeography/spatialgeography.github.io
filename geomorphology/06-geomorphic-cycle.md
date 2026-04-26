@@ -1,24 +1,43 @@
-## Concept of the Geomorphic Cycle
+## Geomorphic Cycle of Erosion
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Related to landscape evolution concepts |
-| **UGC NET** | Concept of the Geomorphic Cycle |
+| **NEP-2020** | Geomorphology — Concept of geomorphic cycle |
+| **UGC NET** | Unit I — Geomorphic Cycle (Davis, Penck) |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### 1. W.M. Davis: The Geographical Cycle (1899)
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+Davis proposed that landforms develop in a predictable sequence based on Darwinian principles.
+- **Trio of Davis:** *"Landscape is a function of Structure, Process, and Time (Stage)"*.
 
-::: {.callout-note}
-### Key Concepts
-* **Davis's Geographical Cycle (1899)**: Normal cycle of erosion — Structure, Process, Stage (Youth, Maturity, Old Age). Peneplain as the final stage.
-* **Penck's Morphological System**: Endogenetic vs. exogenetic processes — Aufsteigende (waxing), Gleichformige (uniform), Absteigende (waning) development.
-* **King's Pediplain Cycle**: Parallel retreat of slopes → pediplain formation (scarp retreat model). Relevant to arid and semi-arid landscapes.
-* **Hack's Dynamic Equilibrium**: Landscape in continuous adjustment — no final stage; balance between erosion and uplift.
-* **Rejuvenation**: Renewed erosion due to uplift or sea-level fall — knickpoints, incised meanders, river terraces.
-:::
+#### Stages of Erosion
+1. **Youth:** Stream lengthening, valley deepening, steep slopes, V-shaped valleys.
+2. **Maturity:** Lateral erosion begins, V-shaped valleys broaden, profile of equilibrium starts.
+3. **Old Age:** Base level of erosion reached; formation of a **Peneplain** (almost a plain) with residual hills called **Monadnocks**.
 
+---
+
+### 2. Walther Penck: Morphological Analysis (1924)
+
+Penck rejected Davis's focus on "time" and emphasized the relation between uplift and degradation.
+- *"Geomorphic forms are an expression of the phase and rate of uplift in relation to the rate of degradation"*.
+
+#### Penck's Development Phases (Entwickelung)
+- **Aufsteigende:** Accelerating development (Uplift > Erosion).
+- **Gleichformige:** Uniform development (Uplift = Erosion).
+- **Absteigende:** Waning development (Erosion > Uplift).
+- **Landform Features:** *Piedmont-trappen*, *Piedmontfläche*, *Haldenhang* (wash slope), and *Böschungen* (gravity slope).
+
+---
+
+### 3. L.C. King: Pediplanation (1950s)
+
+Based on studies in South Africa.
+- **Pediment:** An erosional slope cut into bedrock at the foot of a mountain.
+- **Scarp Retreat:** Parallel retreat of slopes.
+- **Pediplain:** Coalesced pediments forming a vast plain with residual **Inselbergs**.

@@ -1,24 +1,36 @@
-## Glacial and Periglacial Landforms
+## Glacial Landforms
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Unit I — Major Landforms: Glacial |
-| **UGC NET** | Landforms associated with Glacial cycles |
+| **NEP-2020** | Geomorphology — Glacial landforms |
+| **UGC NET** | Unit I — Glacial landforms |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### 1. Types of Glaciers
+- **Continental:** Large ice sheets (Antarctica, Greenland).
+- **Valley (Alpine):** High mountain ranges.
+- **Piedmont:** Spread out at the foot of mountains (Malaspina, Alaska).
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+### 2. Erosional Landforms
+- **Cirque / Corrie:** Armchair-shaped hollow.
+- **Tarn:** Lake in a cirque.
+- **Horn:** Pyramid peak (Matterhorn).
+- **U-shaped Valley / Glacial Trough:** Broad floor with steep sides.
+- **Hanging Valley:** Tributary glacier valley above the main trough.
+- **Fjord:** Submerged glacial trough.
+- **Roche Moutonnée:** "Sheep-back" rock with one smooth side and one jagged side.
 
-::: {.callout-note}
-### Key Concepts
-* **Erosional Landforms**: Cirques (corries), arêtes, horns, U-shaped valleys (troughs), hanging valleys, fjords, roches moutonnées, striations.
-* **Depositional Landforms**: Moraines (lateral, medial, terminal, ground), drumlins, eskers, outwash plains, kames, erratics.
-* **Types of Glaciers**: Continental/ice sheets, valley/alpine glaciers, piedmont glaciers, ice caps.
-* **Periglacial Landforms**: Permafrost features — thermokarst, patterned ground, pingos, ice wedges, solifluction lobes.
-* **Glacial Cycles**: Pleistocene glaciations — Gunz, Mindel, Riss, Würm (Alpine); evidence of glacial-interglacial cycles.
-:::
+### 3. Depositional Landforms
+- **Moraine:** Lateral, Medial, and Terminal debris.
+- **Drumlin:** Whale-shaped mound (*Basket of Eggs topography*).
+- **Erratics:** Large boulders transported far from their source.
 
+### 4. Glacio-Fluvial (Meltwater) Features
+- **Eskers (Osar):** Sinuous ridges of sand/gravel.
+- **Kames:** Steep-sided hills of stratified drift.
+- **Outwash Plain (Sandur):** Flat plain of meltwater deposits.
+- **Kettle Holes:** Depressions formed by melting ice blocks.

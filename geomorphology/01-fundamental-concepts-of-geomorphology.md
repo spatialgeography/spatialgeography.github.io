@@ -4,22 +4,32 @@
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Unit I — Principles of Geomorphology; Nature, Scope and Significance |
-| **UGC NET** | Fundamental concepts of geomorphology |
+| **NEP-2020** | Geomorphology section — Fundamental concepts |
+| **UGC NET** | Unit I — Fundamental concepts |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### The Ten Fundamental Concepts (Thornbury)
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+1. **Uniformitarianism:** The same physical processes operating today operated throughout geologic time, though not always with same intensity. *"Present is the key to the Past"* — Hutton (1785).
+2. **Geological Structure:** Structure is a dominant control factor in the evolution of landforms. Davis stated: *"Landforms are a function of Structure, Process & Stage"*.
+3. **Differential Rates:** Geomorphic processes operate at different rates on the Earth's surface, creating varied relief.
+4. **Distinctive Imprints:** Each geomorphic process leaves its own characteristic assemblage of landforms (e.g., glacial vs. fluvial).
+5. **Orderly Sequence:** As erosional agents act on the surface, they produce an orderly sequence of landforms (Youth, Maturity, Old Age).
+6. **Complexity of Evolution:** Complexity in landform history is more common than simple, single-process evolution.
+7. **Geological Age:** Little of the Earth's topography is older than the Tertiary; 90% of the present landscape is post-Tertiary (Pleistocene).
+8. **Pleistocene Influence:** Proper interpretation of the present landscape is impossible without considering the massive impacts of Pleistocene glaciations.
+9. **Climatic Control:** Appreciation of world climates is necessary to understand the varying importance of different geomorphic processes (e.g., arid vs. humid).
+10. **Historical Extension:** Geomorphology attains maximum usefulness by historical extension—studying the past to understand the present (Paleogeomorphology).
 
-::: {.callout-note}
-### Key Concepts
-* **Definition**: Study of Earth's surface forms (landforms) and the processes that shape them.
-* **Nature and Scope**: Integrates geology, physics, chemistry, and biology to understand landscape evolution.
-* **Approaches**: Descriptive (morphographic), Genetic (process-based), Quantitative (morphometric).
-* **Principles**: Uniformitarianism (Hutton), Catastrophism (Cuvier), Dynamic Equilibrium (Hack).
-* **Geomorphic Agents**: Rivers, glaciers, wind, waves, groundwater — their erosional and depositional work.
-* **Significance**: Applications in engineering, urban planning, hazard assessment, resource exploration.
-:::
+---
 
+### Key Historical Milestones
+
+- **1785:** James Hutton — *Theory of the Earth* (Uniformitarianism).
+- **1802:** John Playfair — *Illustrations of the Huttonian Theory*.
+- **1830:** Charles Lyell — *Principles of Geology*.
+- **Mid-1880s:** The term "Geomorphology" was formally introduced.
+- **1899:** W.M. Davis — *Geographical Cycle*.
+- **1924:** Walther Penck — *Morphological Analysis*.

@@ -1,27 +1,50 @@
-## Continental Drift and Plate Tectonics
+## Continental Drift, Plate Tectonics, and Sea Floor Spreading
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Related concepts in tectonic geomorphology |
-| **UGC NET** | Continental drift and plate tectonics |
+| **NEP-2020** | Geomorphology — Continental drift and plate tectonics |
+| **UGC NET** | Unit I — CD, Plate Tectonics, Sea Floor Spreading |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### 1. Continental Drift Theory
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+- **Alfred Wegener (1912):** Book *"Die Entstehung der Kontinente und Ozeane"*.
+- **Pangaea:** The supercontinent (All Earth) surrounded by **Panthalassa** (All Ocean).
+  - Split into **Laurasia** (North) and **Gondwanaland** (South).
+- **Evidence:**
+  - **Jig-Saw Fit:** Coasts of South America and Africa.
+  - **Glacial Evidence:** Carboniferous glaciations in India, Australia, S. Africa.
+  - **Fossil Evidence:** *Mesosaurus* and *Glossopteris* across southern continents.
 
-::: {.callout-note}
-### Key Concepts
-* **Continental Drift Theory** (Wegener, 1912): Pangaea → present continents. Evidences: jigsaw fit, fossil distribution, geological similarities, paleoclimate.
-* **Plate Tectonics**: Lithosphere divided into rigid plates moving on asthenosphere.
-  - *Divergent Boundaries*: Mid-ocean ridges, rift valleys (Mid-Atlantic Ridge, East African Rift)
-  - *Convergent Boundaries*: Subduction zones, mountain building (Himalayas, Andes)
-  - *Transform Boundaries*: Lateral sliding (San Andreas Fault)
-* **Driving Mechanisms**: Convection currents, slab pull, ridge push.
-* **Evidence**: Seafloor spreading (Hess), magnetic striping, earthquake and volcanic distribution.
-* **Wilson Cycle**: Opening and closing of ocean basins over geological time.
-:::
+---
 
+### 2. Sea Floor Spreading
+
+- **Harry Hess (1960):** Proposed that new ocean crust is created at mid-ocean ridges.
+- **Evidence:** Magnetic anomalies (Vine and Matthews) and the age of ocean floor rocks (youngest at ridges, oldest near coasts).
+- **Spreading Rates:** Atlantic (1–1.5 cm/yr), East Pacific Rise (6 cm/yr), Max (18.3 cm/yr at Nazca-Pacific-Atlantic trijunction).
+
+---
+
+### 3. Plate Tectonics
+
+- **Term 'Plate':** First used by J. Tuzo Wilson (1965).
+- **Theory Development:** McKenzie, Parker, Morgan, and Xavier Le Pichon (1968).
+- **Major Plates:** Pacific, American, Eurasian, African, Antarctic, Indo-Australian.
+
+#### Plate Margins
+
+| Type | Process | Example |
+|:---|:---|:---|
+| **Constructive** | Divergent / Spreading | Mid-Atlantic Ridge |
+| **Destructive** | Convergent / Subduction | Nazca vs. South American (Andes) |
+| **Conservative** | Transform Fault | San Andreas Fault |
+
+---
+
+### 4. Isostasy vs Plate Tectonics
+While Isostasy explains vertical balance, Plate Tectonics explains horizontal movement. Together they provide a complete framework for Earth's surface dynamics.

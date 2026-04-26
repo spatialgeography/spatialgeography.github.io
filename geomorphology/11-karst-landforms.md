@@ -4,22 +4,31 @@
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Unit I — Major Landforms: Karst |
-| **UGC NET** | Landforms associated with Karst cycles |
+| **NEP-2020** | Geomorphology — Karst landforms |
+| **UGC NET** | Unit I — Karst landforms |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+Karst topography develops in regions with soluble rocks like **Limestone, Dolomite, or Chalk**.
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+### 1. Surface Features
+- **Terra Rosa:** Red residual clay on the surface.
+- **Lapies:** Deep grooves and ridges.
+- **Sinkholes / Swallow Holes:** Circular depressions where water disappears.
+- **Doline:** A larger sinkhole.
+- **Uvala:** Coalesced dolines.
+- **Polje:** Largest Karst depression (huge flat floor).
+- **Blind Valley:** Valley that ends abruptly as stream sinks underground.
 
-::: {.callout-note}
-### Key Concepts
-* **Karst Processes**: Solution (carbonation) of limestone and dolomite by acidic water. Chemical weathering dominance.
-* **Surface Karst Features**: Sinkholes (dolines), uvalas, poljes, karren (lapies), disappearing streams, dry valleys.
-* **Subsurface Karst Features**: Caves, caverns, stalactites, stalagmites, columns, underground rivers.
-* **Karst Cycle**: Youth (sinkholes, caves forming) → Maturity (caves connecting, large caverns) → Old Age (collapse, karst plain).
-* **Factors Controlling Karst**: Rock solubility, joint/bedding patterns, climate (precipitation, temperature), vegetation cover.
-* **Tower Karst and Cockpit Karst**: Tropical karst landforms — mogotes, cockpits (Jamaica, South China).
-:::
+### 2. Underground Features
+- **Caverns / Limestone Caves:** Subterranean voids.
+- **Stalactite:** Icicle-like formation hanging from the ceiling.
+- **Stalagmite:** Pillar-like formation growing from the floor.
+- **Cavern Pillar:** When stalactite and stalagmite meet.
+- **Speleothems:** General term for all cave deposits.
 
+### 3. Karst Cycle (Beede / Cvijic)
+The karst cycle describes the evolution from early sinkhole development to the complete dissolution of limestone down to the base level.
+- **Classic Region:** Slovenia/Yugoslavia.
+- **Indian Example:** Sahastradhara in Dehradun, Uttarakhand.

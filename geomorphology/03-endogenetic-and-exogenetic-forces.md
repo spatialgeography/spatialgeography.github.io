@@ -1,28 +1,66 @@
-## Endogenetic and Exogenetic Forces
+## Endogenetic Forces: Volcanoes, Earthquakes, Folds, and Faults
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
 | Syllabus | Topic Details |
 |----------|---------------|
-| **NEP-2020** | Unit II — Environmental Geomorphology: Geomorphic Hazards |
-| **UGC NET** | Endogenetic and exogenetic forces |
+| **NEP-2020** | Geomorphology — Endogenetic and exogenetic forces |
+| **UGC NET** | Unit I — Endogenetic forces (V/E/F/F) |
 :::
 
+---
 
-[![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)
+### 1. Volcanicity
 
-[Get the Presentation &nearr;](#) &nbsp; | &nbsp; [Watch the Video &nearr;](#)
+- **Tephra:** Fragmented volcanic material.
+- **Magma:** Mixture of Silica (37–75%), Oxygen, and Gases.
 
-::: {.callout-note}
-### Key Concepts
-* **Endogenetic Forces**: Internal forces originating within the Earth.
-  - *Diastrophism*: Epeirogenic (vertical) and Orogenic (horizontal) movements
-  - *Volcanism*: Intrusive and extrusive volcanic activity
-  - *Earthquakes*: Seismic activity along plate boundaries and fault lines
-* **Exogenetic Forces**: External forces acting on Earth's surface.
-  - *Weathering*: Physical, chemical, and biological breakdown of rocks
-  - *Erosion*: Removal and transport of weathered material by running water, wind, glaciers, waves
-  - *Mass Wasting*: Gravity-driven downslope movement (landslides, rockfalls, creep, mudflows)
-  - *Deposition*: Accumulation of transported material
-:::
+#### Types of Volcanoes (by Eruption)
+- **Hawaiian:** 1200°C; basaltic lava, easy flow.
+- **Strombolian:** 1000°C; "Lighthouse of Mediterranean".
+- **Vulcanian:** Cauliflower-shaped ash clouds.
+- **Vesuvian / Plinian:** Violent blasts of gas and ash.
+- **Pelean:** 800°C; most violent (Mont Pelée).
 
+#### Volcanic Landforms
+- **Extrusive:** Ash cones, Composite cones (Strato), Calderas, Lava Plateaus (Deccan).
+- **Intrusive:** Batholiths (largest), Laccoliths (dome), Lopoliths (saucer), Phacoliths (wave), Sills (horizontal), Dykes (vertical).
+
+---
+
+### 2. Earthquakes
+
+- **Focus:** Point of origin. **Epicenter:** Point on surface directly above focus.
+- **Measurement:** 
+  - **Richter Scale (1935):** Magnitude (logarithmic 0–9).
+  - **Mercalli Scale (1902):** Intensity (Roman numerals I–XII).
+
+#### Key Phenomena
+- **Liquefaction:** Saturated sands behaving like liquid.
+- **Tsunami:** Harbour waves caused by sub-marine quakes.
+- **Seismic Gap:** Region of low activity prone to future major quakes (e.g., Central Gap in Himalayas).
+
+---
+
+### 3. Folds
+
+Rock strata under horizontal compression.
+- **Anticline:** Arch-shaped upfold. **Syncline:** Trough-shaped downfold.
+
+| Fold Type | Description |
+|:---|:---|
+| **Symmetrical** | Both limbs equally bent (e.g., Zagros Mts). |
+| **Asymmetrical** | One limb is steeper than the other. |
+| **Monoclinal** | One limb is vertical. |
+| **Recumbent** | Fold is pushed over so far that axial plane is horizontal. |
+| **Nappe** | Overthrust fold where a sheet of rock has moved miles (e.g., Alps). |
+
+---
+
+### 4. Faults
+
+Fractures in the crust along which displacement occurs.
+- **Normal Fault:** Due to tension; creates **Rift Valleys** (e.g., Great Rift Valley of Africa, Rhine Valley).
+- **Reverse Fault:** Due to compression; creates **Horsts / Block Mountains** (e.g., Black Forest, Vosges).
+- **Lateral / Strike-slip:** Horizontal movement (e.g., San Andreas Fault).
+- **Ramp Valley:** Brahmaputra Valley (Assam).

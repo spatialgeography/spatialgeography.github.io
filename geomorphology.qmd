@@ -18,6 +18,12 @@ Welcome to the **Geomorphology** module of Geography OpenCourseWare.
 
 These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.
 
+{{< include geomorphology/00b-solar-system-earth.md >}}
+
+{{< include geomorphology/00c-origin-age-earth.md >}}
+
+{{< include geomorphology/00d-geological-time-scale.md >}}
+
 {{< include geomorphology/01-fundamental-concepts-of-geomorphology.md >}}
 
 {{< include geomorphology/02-factors-controlling-landform-development.md >}}
@@ -28,19 +34,23 @@ These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC
 
 {{< include geomorphology/05-continental-drift-and-plate-tectonics.md >}}
 
+{{< include geomorphology/19-rocks.md >}}
+
 {{< include geomorphology/06-geomorphic-cycle.md >}}
+
+{{< include geomorphology/09-slope-forms-and-processes.md >}}
 
 {{< include geomorphology/07-landforms-fluvial.md >}}
 
 {{< include geomorphology/08-landforms-glacial.md >}}
-
-{{< include geomorphology/09-slope-forms-and-processes.md >}}
 
 {{< include geomorphology/10-coastal-landforms.md >}}
 
 {{< include geomorphology/11-karst-landforms.md >}}
 
 {{< include geomorphology/12-aeolian-landforms.md >}}
+
+{{< include geomorphology/18-plateaus-and-plains.md >}}
 
 ---
 
@@ -66,4 +76,8 @@ These topics are part of the UGC NET syllabus only.
 
 ---
 
-## Interview Questions & Answers
+## Quick Reference
+
+{{< include geomorphology/20-quick-reference.md >}}
+
+---
