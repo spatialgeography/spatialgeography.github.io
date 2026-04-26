@@ -720,17 +720,14 @@ ul.task-list li input[type="checkbox"] {
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    let selectedText = '';
     let searchWindow = null;
-
-    document.addEventListener('selectionchange', function() {
-      const selection = window.getSelection();
-      selectedText = selection.toString().trim();
-    });
+    let lastSearchedText = '';
 
     document.addEventListener('mouseup', function(e) {
       setTimeout(function() {
-        if (selectedText) {
+        const selectedText = window.getSelection().toString().trim();
+        
+        if (selectedText && (selectedText !== lastSearchedText || !searchWindow || searchWindow.closed)) {
           const url = 'https://www.google.com/search?q=' + encodeURIComponent(selectedText);
           const w = 800;
           const h = 600;
@@ -743,14 +740,17 @@ ul.task-list li input[type="checkbox"] {
           } else {
             searchWindow = window.open(url, 'searchPopup', `width=${w},height=${h},top=${top},left=${left},scrollbars=yes,resizable=yes`);
           }
+          
+          lastSearchedText = selectedText;
         }
-      }, 10);
+      }, 150); // wait slightly longer to ensure selection is cleared on a simple click
     });
 
     document.addEventListener('mousedown', function(e) {
       if (searchWindow && !searchWindow.closed) {
         searchWindow.close();
         searchWindow = null;
+        lastSearchedText = ''; // reset so the same text can be selected again
       }
     });
   });

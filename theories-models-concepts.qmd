@@ -1,0 +1,356 @@
+---
+title: "Theories, Models, Books & Concepts in Geography"
+subtitle: "A Comprehensive Quick-Reference Guide"
+author: "Geography Team"
+toc: true
+toc-depth: 3
+---
+
+This page consolidates all the important **theories, models, books, scholars and key concepts** across the entire Geography syllabus. Use it as a one-stop revision sheet for UGC NET, WB SET, and other competitive examinations.
+
+---
+
+## 1. Geomorphology
+
+### Theories & Models
+
+| Theory / Model | Scholar(s) | Key Idea |
+|:---|:---|:---|
+| Geographical (Normal) Cycle of Erosion | W. M. Davis (1899) | Landscape evolves through Youth → Maturity → Old Age stages ending in a peneplain. |
+| Penck's Model of Slope Development | Walther Penck | Landscape shaped by the ratio of uplift to erosion — Aufsteigende, Gleichförmige, Absteigende Entwicklung. |
+| Parallel Retreat of Slopes | L. C. King | Slopes retreat parallel to themselves forming pediplains (dominant in arid/semi-arid). |
+| Dynamic Equilibrium | J. T. Hack (1960) | Landscape maintains a balance between erosional and tectonic forces. |
+| Plate Tectonics | Hess, Wilson, Morgan | Earth's lithosphere divided into moving plates; explains volcanism, earthquakes, mountain building. |
+| Continental Drift | Alfred Wegener (1912) | All continents were once joined as Pangaea; moved apart over geological time. |
+| Sea-Floor Spreading | Harry Hess (1962) | New oceanic crust forms at mid-ocean ridges and spreads outward. |
+| Wilson Cycle | J. Tuzo Wilson | Cyclic opening and closing of ocean basins. |
+| Isostasy — Pratt's Hypothesis | J. H. Pratt | Crustal columns of equal depth but varying density; lighter columns stand higher. |
+| Isostasy — Airy's Hypothesis | G. B. Airy | Crustal columns of equal density but varying depth; mountains have deep roots. |
+| Convection Current Theory | Arthur Holmes | Convection currents in the mantle drive plate movements. |
+| Hypsometric Integral | Strahler | Ratio describing how much of a basin has been eroded; values near 0 = old, near 1 = young. |
+| Horton's Laws of Drainage | R. E. Horton | Laws of stream number, stream length, and drainage area in fluvial basins. |
+| Strahler's Stream Ordering | A. N. Strahler | Hierarchical ordering of streams in a drainage network. |
+
+### Key Concepts
+
+- Peneplain, Pediplain, Panplain, Etchplain
+- Monadnock, Inselberg, Bornhardt
+- Base level of erosion (local and ultimate)
+- Rejuvenation: Knickpoint, River terraces, Incised meanders
+- Superimposed and Antecedent drainage
+- Hydraulic geometry (Leopold & Maddock)
+- Thalweg, Sinuosity Index
+
+---
+
+## 2. Climatology
+
+### Theories & Models
+
+| Theory / Model | Scholar(s) | Key Idea |
+|:---|:---|:---|
+| Three-Cell Model | Hadley, Ferrel, Rossby | Global atmospheric circulation in three latitudinal cells per hemisphere. |
+| Polar Front Theory (Cyclone Model) | Bjerknes & Solberg (1922) | Mid-latitude cyclones form along the boundary (front) between polar and tropical air masses. |
+| Bergeron–Findeisen Process | Bergeron (1935) | Precipitation forms when ice crystals grow at the expense of supercooled water droplets. |
+| Milankovitch Cycles | Milutin Milankovitch | Earth's orbital variations (eccentricity, obliquity, precession) cause long-term climate change. |
+| Walker Circulation & ENSO | Sir Gilbert Walker | East–west atmospheric circulation over the tropical Pacific; linked to El Niño / La Niña. |
+| Rossby Waves | Carl-Gustaf Rossby | Large-scale planetary waves in the upper-atmosphere westerlies. |
+| Köppen Climate Classification | Wladimir Köppen | Climate classified using temperature and precipitation into A, B, C, D, E groups. |
+| Thornthwaite Climate Classification | C. W. Thornthwaite | Climate classified based on potential evapotranspiration and moisture index. |
+| Adiabatic Lapse Rate | — | Dry ALR ≈ 9.8°C/km; Saturated ALR ≈ 5–6°C/km. |
+| Environmental Lapse Rate (ELR) | — | Average observed rate ≈ 6.5°C/km. |
+
+### Key Concepts
+
+- Inversion of temperature, Chinook / Foehn winds
+- Coriolis force, Geostrophic wind, Gradient wind
+- ITCZ, Jet Streams, Monsoon mechanism
+- Cyclogenesis (tropical and extra-tropical)
+- Blocking anticyclone, Indian Ocean Dipole (IOD)
+- Greenhouse effect, Albedo, Radiation budget
+
+---
+
+## 3. Oceanography
+
+### Theories & Models
+
+| Theory / Model | Scholar(s) | Key Idea |
+|:---|:---|:---|
+| Thermohaline Circulation | — | Global ocean "conveyor belt" driven by differences in temperature and salinity. |
+| Ekman Spiral & Transport | V. W. Ekman | Wind-driven surface water moves at 45° to wind; net transport is 90° to wind direction. |
+| Rule of Constant Proportions | Dittmar (1884) | Relative proportions of major dissolved salts remain constant across oceans. |
+| Sverdrup Balance | H. Sverdrup | Relates wind stress curl to meridional ocean transport. |
+| CaCO₃ Compensation Depth (CCD) | — | Depth (~4,000–4,500 m) below which calcium carbonate dissolves faster than it accumulates. |
+
+### Key Concepts
+
+- T-S diagram, Water masses
+- Tides: Spring, Neap, Amphidromic points, Cotidal lines
+- Wave parameters: wavelength, wave base (= ½ wavelength), wave refraction
+- Ocean floor relief: Continental shelf, Abyssal plain, Mid-oceanic ridges, Trenches
+- Coral reefs: Darwin's Paradox, Zooxanthellae
+- Tsunami mechanics, Upwelling and downwelling
+
+---
+
+## 4. Biogeography & Environment
+
+### Theories & Models
+
+| Theory / Model | Scholar(s) | Key Idea |
+|:---|:---|:---|
+| Theory of Island Biogeography | MacArthur & Wilson (1967) | Species richness on islands determined by rates of immigration and extinction. |
+| Ecological Succession | F. E. Clements | Nudation → Invasion → Competition → Reaction → Stabilisation (Climax community). |
+| Gaia Hypothesis | James Lovelock | Earth's biosphere functions as a self-regulating system. |
+| Ecosystem Concept | A. G. Tansley (1935) | Organisms and their abiotic environment form an integrated system. |
+| Trophic Levels & Biomass Pyramid | Elton, Lindeman | Energy transfer (~10%) across successive trophic levels. |
+
+### Key Concepts
+
+- Biomes: Tundra, Taiga, Tropical Rainforest, Savanna, Desert, Mediterranean
+- Biodiversity hotspots (Norman Myers)
+- Nitrogen cycle, Carbon cycle, Hydrological cycle
+- COP summits, UNFCCC, Kyoto Protocol, Paris Agreement
+- EIA (Environmental Impact Assessment)
+- Deep Ecology vs Shallow Ecology
+- Ozone depletion: Montreal Protocol
+- Net Zero targets
+
+---
+
+## 5. Population & Settlement Geography
+
+### Theories & Models
+
+| Theory / Model | Scholar(s) | Key Idea |
+|:---|:---|:---|
+| Demographic Transition Model (DTM) | Warren Thompson, Frank Notestein | Population change through 4–5 stages from high birth/death to low birth/death rates. |
+| Malthusian Theory | Thomas Malthus (1798) | Population grows geometrically; food supply grows arithmetically → famine/checks. |
+| Boserupian Theory | Ester Boserup | Population pressure drives agricultural innovation (inverse of Malthus). |
+| Ravenstein's Laws of Migration | E. G. Ravenstein (1885) | Most migrants move short distances; each current produces a counter-current. |
+| Lee's Push-Pull Model | Everett Lee (1966) | Migration driven by push factors (origin), pull factors (destination), intervening obstacles. |
+| Harris–Todaro Model | Harris & Todaro | Rural–urban migration driven by expected urban wage differentials. |
+| Lewis Model | W. Arthur Lewis | Dual-sector model: surplus labour moves from subsistence to capitalist sector. |
+| Zelinsky's Mobility Transition | Wilbur Zelinsky | Migration patterns change with stages of demographic transition. |
+| Rank-Size Rule | G. K. Zipf | City population is inversely proportional to its rank. |
+| Primate City | Mark Jefferson | The largest city is disproportionately larger than the second city. |
+| Concentric Zone Model | E. W. Burgess (1925) | City grows outward in concentric rings from the CBD. |
+| Sector Model | Homer Hoyt (1939) | Urban growth follows wedge-shaped sectors along transport routes. |
+| Multiple Nuclei Model | Harris & Ullman (1945) | City develops around multiple centres, not just one CBD. |
+| Central Place Theory | Walter Christaller (1933) | Settlements arranged hierarchically based on market (k=3), transport (k=4), administrative (k=7) principles. |
+| Bylund's Colonisation Theory | Erik Bylund | Rural settlement expansion through "clone" and "daughter" colonisation. |
+| Mumford's Theory of Town Origin | Lewis Mumford | Social evolution: Eotechnic → Paleotechnic → Neotechnic → Biotechnic. |
+| Urban Economic Base Theory | — | Cities grow by expanding their "basic" (export) sector relative to "non-basic" (local) sector. |
+
+### Key Concepts
+
+- Fertility: CBR, TFR, GRR, NRR
+- Mortality: CDR, IMR, Life expectancy
+- Sex ratio, Dependency ratio
+- Census methods: de facto vs de jure
+- Ecumene and non-ecumene
+- Rural–urban fringe, Exurb, Ethnoburb
+- Nearest Neighbour Analysis (settlement pattern)
+
+---
+
+## 6. Economic Geography & Regional Development
+
+### Theories & Models
+
+| Theory / Model | Scholar(s) | Key Idea |
+|:---|:---|:---|
+| Von Thünen's Agricultural Location | J. H. von Thünen (1826) | Concentric rings of land use around a central market based on transport cost and rent. |
+| Weber's Industrial Location | Alfred Weber (1909) | Industry locates at point of least transport cost; Locational Triangle. |
+| Lösch's Market Area Theory | August Lösch | Hexagonal market areas maximising profit rather than minimising cost. |
+| Rostow's Stages of Growth | W. W. Rostow (1960) | Economic growth in 5 stages: Traditional → Preconditions → Take-off → Drive to Maturity → High Mass Consumption. |
+| Dependency Theory | A. G. Frank, Paul Baran | Underdevelopment of periphery caused by exploitation from core nations. |
+| Core-Periphery Model | John Friedmann | Spatial inequality: Core regions dominate while periphery remains underdeveloped. |
+| Growth Pole Theory | François Perroux | Development radiates from key industrial centres ("growth poles"). |
+| Cumulative Causation | Gunnar Myrdal | Initial advantage leads to cumulative growth (spread effects vs backwash effects). |
+| Hirschman's Unbalanced Growth | Albert Hirschman | Deliberate investment in strategic sectors creates forward/backward linkages. Trickling down vs polarization effects. |
+| Gravity Model | — | Interaction between two places is proportional to their sizes and inversely proportional to distance. |
+| Ullman's Spatial Interaction | Edward Ullman | Three bases: Complementarity, Intervening Opportunity, Transferability. |
+| Fordism / Post-Fordism | — | Mass production (Fordism) vs flexible specialisation (Post-Fordism). |
+
+### Key Concepts
+
+- Basic vs Non-basic activities
+- Agglomeration economies, Footloose industries
+- Quaternary and Quinary sectors
+- WTO, ASEAN, OPEC
+- Economic integration and globalisation
+- Smart Cities Mission (India)
+
+---
+
+## 7. Social, Cultural & Political Geography
+
+### Theories & Models
+
+| Theory / Model | Scholar(s) | Key Idea |
+|:---|:---|:---|
+| Heartland Theory | Halford Mackinder (1904) | Who controls East Europe commands the Heartland → commands the World Island → commands the world. |
+| Rimland Theory | Nicholas Spykman (1944) | The coastal "Rimland" is the key to world power, not the Heartland. |
+| Lebensraum (Living Space) | Friedrich Ratzel | States need expanding territory to sustain growing populations (influenced geopolitics). |
+| Unified Field Theory of Political Geography | S. B. Jones | Political territory develops through: Idea → Decision → Movement → Field. |
+| Cultural Landscape | Carl O. Sauer | Landscapes are shaped by human cultural imprint on the natural environment. |
+| Cultural Ecology | Julian Steward | Study of how cultures adapt to their environment. |
+| Social Area Analysis | Shevky & Bell | Urban areas differentiated by social rank, urbanisation, and segregation. |
+
+### Key Concepts
+
+- Culture trait, Culture complex, Culture realm, Culture hearth
+- Acculturation, Assimilation, Syncretism
+- Cultural convergence vs divergence
+- Boundary types: Antecedent, Subsequent, Superimposed, Relict
+- Buffer zones, Frontiers vs Boundaries
+- Gerrymandering
+- Scheduled Tribes and Castes distribution in India
+- Language families: Indo-Aryan, Dravidian, Austro-Asiatic, Sino-Tibetan
+- Religion-based demography
+
+---
+
+## 8. Geographical Thought & Philosophy
+
+### Theories & Paradigms
+
+| Paradigm / Approach | Scholar(s) | Key Idea |
+|:---|:---|:---|
+| Environmental Determinism | Ratzel, Semple, Huntington | Physical environment controls human activity and cultural development. |
+| Possibilism | Vidal de la Blache | Environment offers possibilities; humans choose based on culture (*genres de vie*). |
+| Neo-Determinism / Stop-and-Go Determinism | Griffith Taylor | Nature sets limits; within those, humans have choice. |
+| Regional Geography (Chorology) | Hettner, Hartshorne | Geography as the study of areal differentiation. |
+| Quantitative Revolution | Schaefer, Berry, Bunge, Hägerstrand | Geography as spatial science using statistical and mathematical methods. |
+| Behaviouralism | — | Focus on perception, mental maps, and decision-making. |
+| Radicalism / Marxist Geography | David Harvey, Richard Peet | Geography of social justice, inequality, and capitalist spatial structures. |
+| Humanistic Geography | Yi-Fu Tuan, Anne Buttimer | Emphasis on human experience, sense of place, and meaning (*Topophilia*). |
+| Feminism in Geography | Doreen Massey et al. | Gender shapes spatial experiences; challenges male-centric perspectives. |
+| Postmodernism | Michael Foucault, Soja | Rejects grand narratives; emphasises plurality, spatiality, and deconstruction. |
+| Structuralism | — | Deep structures (economic, social) shape surface-level phenomena. |
+| Post-Structuralism | — | Challenges fixed structures; focus on discourse, power, and knowledge. |
+
+### Key Books
+
+| Book | Author |
+|:---|:---|
+| *Cosmos* | Alexander von Humboldt |
+| *Erdkunde* | Carl Ritter |
+| *Anthropogeographie* | Friedrich Ratzel |
+| *The Nature of Geography* | Richard Hartshorne |
+| *Perspectives on the Nature of Geography* | Richard Hartshorne |
+| *Explanation in Geography* | David Harvey |
+| *Social Justice and the City* | David Harvey |
+| *Geography: A Global Synthesis* | Peter Haggett |
+| *Geography and Geographers* | R. J. Johnston |
+| *Locational Analysis in Human Geography* | Peter Haggett |
+| *Topophilia* | Yi-Fu Tuan |
+| *La Terre* | Elisée Réclus |
+| *Physische Geographie* | Immanuel Kant |
+| *The Structure of Scientific Revolutions* | Thomas Kuhn |
+
+### Key Concepts
+
+- Idiographic vs Nomothetic approaches
+- Paradigm shifts (Kuhn's model): Pre-paradigm → Normal science → Crisis → Revolution
+- Comte's stages: Theological → Metaphysical → Positive
+- Teleology vs Causality
+- Geopiety (J. K. Wright)
+- Darwinism in geography: evolution, ecology, organism analogy
+- Place–Work–Folk (Le Play / Vidal)
+
+---
+
+## 9. Cartography, Statistics & Remote Sensing
+
+### Key Concepts & Techniques
+
+| Concept / Technique | Details |
+|:---|:---|
+| Map Projections | Zenithal, Conical, Cylindrical; properties — Equal Area, Orthomorphic (Conformal), Equidistant. |
+| Mercator's Projection | Conformal (orthomorphic) cylindrical projection; used for navigation. |
+| UTM (Universal Transverse Mercator) | 60 zones worldwide, each 6° wide. West Bengal = Zone 45. |
+| Toposheet Reading | SOI topographic maps at 1:50,000 and 1:250,000 scales. |
+| NDVI | (NIR − Red) / (NIR + Red); measures vegetation health. |
+| FCC (False Colour Composite) | NIR → Red, Red → Green, Green → Blue; vegetation appears red. |
+| Spatial Resolution | LISS-III: 23.5 m; AWiFS: 56 m; CartoDEM: 30 m. |
+| Resampling Methods | Nearest Neighbour, Bilinear Interpolation, Cubic Convolution. |
+| Radiometric Resolution | Number of grey values (e.g., 8-bit = 256 levels). |
+| GIS Data Models | Vector (Points, Lines, Polygons) vs Raster (Grid cells). |
+| Overlay Operations | Intersection, Union, Identity, Clip, Erase. |
+| Chi-Square Test | Tests goodness of fit / independence; χ² = 0 means perfect fit (null hypothesis accepted). |
+| ANOVA | Preferred over multiple t-tests for comparing ≥3 group means (controls Type I error). |
+| Correlation (r) | Ranges from −1.0 to +1.0. |
+| Coefficient of Variation | (SD / Mean) × 100; measures relative dispersion. |
+| p-value ≤ 0.05 | Strong evidence against null hypothesis. |
+| PCA (Principal Component Analysis) | Orthogonal transformation converting correlated variables to uncorrelated. |
+| Random Forest | Machine learning algorithm based on bagging (Bootstrap Aggregation). |
+| Nearest Neighbour Statistic | R = 0 (clustered), 1 (random), 2.15 (dispersed). |
+| Hypsometric Integral | Low value → old/eroded basin; High value → young/uneroded basin. |
+
+---
+
+## 10. Geography of India
+
+### Key Facts & Concepts
+
+| Topic | Details |
+|:---|:---|
+| Tropic of Cancer states | Rajasthan, Gujarat, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram |
+| Green Revolution Phase I | Wheat — Punjab, Haryana, Western UP |
+| Green Revolution Phase II | Rice — Andhra Pradesh, Tamil Nadu |
+| "Ruhr of India" | Damodar Valley (Chhotanagpur Plateau) |
+| Major coalfields | Jharia (largest), Raniganj (WB), Bokaro |
+| Chromite | Odisha — largest producer |
+| Palghat Gap | Connects Kerala and Tamil Nadu through the Western Ghats |
+| Thalghat | Maharashtra |
+| Bhorghat | Maharashtra |
+| National Waterways | NW-1: Ganga (Allahabad–Haldia); NW-2: Brahmaputra (Sadiya–Dhubri); NW-3: Kerala (Kollam–Kottapuram) |
+| Biogeographic zones | Largest: Trans-Himalayan; largest biosphere reserve network varies by criteria |
+| North-Eastern Region (DoNER) | 8 states including Sikkim (not WB) |
+| Area rank of states | Rajasthan > Madhya Pradesh > Maharashtra > Uttar Pradesh |
+| Mawsynram | Wettest place; ~1,187 cm annual rainfall |
+| NE Monsoon | Winter rainfall in Tamil Nadu coast |
+
+---
+
+## Quick Revision: Scholar → Contribution
+
+| Scholar | Major Contribution |
+|:---|:---|
+| Humboldt | *Cosmos*; Unity of Nature; scientific exploration |
+| Ritter | *Erdkunde*; teleological approach; regional geography |
+| Ratzel | Anthropogeographie; Lebensraum; environmental determinism |
+| Vidal de la Blache | Possibilism; *genres de vie*; regional monographs |
+| W. M. Davis | Geographical Cycle of Erosion |
+| Walther Penck | Morphological analysis of slopes |
+| L. C. King | Pediplain concept; parallel slope retreat |
+| Christaller | Central Place Theory (1933) |
+| Von Thünen | Agricultural Location Theory (1826) |
+| Weber | Industrial Location Theory (1909) |
+| Wegener | Continental Drift (1912) |
+| Hess | Sea-Floor Spreading |
+| Hartshorne | *The Nature of Geography*; areal differentiation |
+| Sauer | Cultural landscape; Berkeley School |
+| Hägerstrand | Spatial diffusion; Time-Geography |
+| Harvey | *Explanation in Geography*; *Social Justice and the City* |
+| Yi-Fu Tuan | *Topophilia*; humanistic geography |
+| Mackinder | Heartland Theory |
+| Spykman | Rimland Theory |
+| Myrdal | Cumulative Causation; spread vs backwash |
+| Rostow | Stages of Economic Growth |
+| Burgess | Concentric Zone Model |
+| Hoyt | Sector Model |
+| Harris & Ullman | Multiple Nuclei Model |
+| Friedmann | Core-Periphery Model |
+| Perroux | Growth Pole Theory |
+| Malthus | Population–Food supply imbalance |
+| Boserup | Population drives agricultural change |
+| Ravenstein | Laws of Migration |
+| Zelinsky | Mobility Transition Model |
+
+---
+
+*Last updated: April 2026*

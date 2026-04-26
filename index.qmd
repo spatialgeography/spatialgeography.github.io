@@ -6,8 +6,9 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 
 ---
 
-## Previous Year Questions
+## Previous Year Questions & Reference
 * [Geography in News](geography-in-news.html)
+* [Theories, Models, Books & Concepts](theories-models-concepts.html)
 * [UGC NET Previous Year Questions](ugc-net-pyq.html)
 * [West Bengal SET Previous Year Questions](wb-set-pyq.html)
 
