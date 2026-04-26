@@ -34,7 +34,9 @@ format:
     breadcrumbs: true
     link-external-newwindow: true
     link-external-icon: true
-    include-after-body: print.html
+    include-after-body: 
+      - print.html
+      - search-popup.html
     other-links:
       - text: Print / Save as PDF
         icon: printer
