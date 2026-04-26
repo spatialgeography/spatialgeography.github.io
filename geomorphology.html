@@ -8,7 +8,7 @@
 
 <meta name="author" content="Geography Team">
 
-<title>Statistical Geography – Geography</title>
+<title>Geomorphology – Geography</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,35 +70,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -139,17 +110,26 @@ window.Quarto = {
   <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a></li>
   </ul></li>
   <li><a href="#part-a-common-topics-nep-2020-ugc-net" id="toc-part-a-common-topics-nep-2020-ugc-net" class="nav-link" data-scroll-target="#part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</a></li>
-  <li><a href="#geographic-data-sources-and-types" id="toc-geographic-data-sources-and-types" class="nav-link" data-scroll-target="#geographic-data-sources-and-types">Geographic Data Sources and Types</a></li>
-  <li><a href="#measures-of-central-tendency-and-dispersion" id="toc-measures-of-central-tendency-and-dispersion" class="nav-link" data-scroll-target="#measures-of-central-tendency-and-dispersion">Measures of Central Tendency and Dispersion</a></li>
-  <li><a href="#correlation-and-regression-analysis" id="toc-correlation-and-regression-analysis" class="nav-link" data-scroll-target="#correlation-and-regression-analysis">Correlation and Regression Analysis</a></li>
-  <li><a href="#map-projections-and-scales" id="toc-map-projections-and-scales" class="nav-link" data-scroll-target="#map-projections-and-scales">Map Projections and Scales</a></li>
-  <li><a href="#thematic-mapping-techniques" id="toc-thematic-mapping-techniques" class="nav-link" data-scroll-target="#thematic-mapping-techniques">Thematic Mapping Techniques</a></li>
-  <li><a href="#spatial-statistics-and-morphometry" id="toc-spatial-statistics-and-morphometry" class="nav-link" data-scroll-target="#spatial-statistics-and-morphometry">Spatial Statistics and Morphometry</a></li>
+  <li><a href="#fundamental-concepts-of-geomorphology" id="toc-fundamental-concepts-of-geomorphology" class="nav-link" data-scroll-target="#fundamental-concepts-of-geomorphology">Fundamental Concepts of Geomorphology</a></li>
+  <li><a href="#factors-controlling-landform-development" id="toc-factors-controlling-landform-development" class="nav-link" data-scroll-target="#factors-controlling-landform-development">Factors Controlling Landform Development</a></li>
+  <li><a href="#endogenetic-and-exogenetic-forces" id="toc-endogenetic-and-exogenetic-forces" class="nav-link" data-scroll-target="#endogenetic-and-exogenetic-forces">Endogenetic and Exogenetic Forces</a></li>
+  <li><a href="#denudation-processes-weathering-and-erosion" id="toc-denudation-processes-weathering-and-erosion" class="nav-link" data-scroll-target="#denudation-processes-weathering-and-erosion">Denudation Processes: Weathering and Erosion</a></li>
+  <li><a href="#continental-drift-and-plate-tectonics" id="toc-continental-drift-and-plate-tectonics" class="nav-link" data-scroll-target="#continental-drift-and-plate-tectonics">Continental Drift and Plate Tectonics</a></li>
+  <li><a href="#concept-of-the-geomorphic-cycle" id="toc-concept-of-the-geomorphic-cycle" class="nav-link" data-scroll-target="#concept-of-the-geomorphic-cycle">Concept of the Geomorphic Cycle</a></li>
+  <li><a href="#fluvial-landforms" id="toc-fluvial-landforms" class="nav-link" data-scroll-target="#fluvial-landforms">Fluvial Landforms</a></li>
+  <li><a href="#glacial-and-periglacial-landforms" id="toc-glacial-and-periglacial-landforms" class="nav-link" data-scroll-target="#glacial-and-periglacial-landforms">Glacial and Periglacial Landforms</a></li>
+  <li><a href="#slope-forms-and-processes" id="toc-slope-forms-and-processes" class="nav-link" data-scroll-target="#slope-forms-and-processes">Slope Forms and Processes</a></li>
+  <li><a href="#coastal-geomorphology" id="toc-coastal-geomorphology" class="nav-link" data-scroll-target="#coastal-geomorphology">Coastal Geomorphology</a></li>
+  <li><a href="#karst-landforms" id="toc-karst-landforms" class="nav-link" data-scroll-target="#karst-landforms">Karst Landforms</a></li>
+  <li><a href="#aeolian-landforms" id="toc-aeolian-landforms" class="nav-link" data-scroll-target="#aeolian-landforms">Aeolian Landforms</a></li>
   <li><a href="#part-b-nep-2020-specific-topics" id="toc-part-b-nep-2020-specific-topics" class="nav-link" data-scroll-target="#part-b-nep-2020-specific-topics">Part B: NEP-2020 Specific Topics</a></li>
-  <li><a href="#agricultural-delineation-methods" id="toc-agricultural-delineation-methods" class="nav-link" data-scroll-target="#agricultural-delineation-methods">Agricultural Delineation Methods</a></li>
+  <li><a href="#applied-geomorphology" id="toc-applied-geomorphology" class="nav-link" data-scroll-target="#applied-geomorphology">Applied Geomorphology</a></li>
+  <li><a href="#environmental-geomorphology" id="toc-environmental-geomorphology" class="nav-link" data-scroll-target="#environmental-geomorphology">Environmental Geomorphology</a></li>
+  <li><a href="#drainage-basin-morphometry" id="toc-drainage-basin-morphometry" class="nav-link" data-scroll-target="#drainage-basin-morphometry">Drainage Basin Morphometry</a></li>
+  <li><a href="#modern-techniques-in-geomorphology" id="toc-modern-techniques-in-geomorphology" class="nav-link" data-scroll-target="#modern-techniques-in-geomorphology">Modern Techniques in Geomorphology</a></li>
   <li><a href="#part-c-ugc-net-specific-topics" id="toc-part-c-ugc-net-specific-topics" class="nav-link" data-scroll-target="#part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</a></li>
-  <li><a href="#sampling-and-hypothesis-testing" id="toc-sampling-and-hypothesis-testing" class="nav-link" data-scroll-target="#sampling-and-hypothesis-testing">Sampling and Hypothesis Testing</a></li>
-  <li><a href="#advanced-multivariate-analysis" id="toc-advanced-multivariate-analysis" class="nav-link" data-scroll-target="#advanced-multivariate-analysis">Advanced Multivariate Analysis</a></li>
+  <li><a href="#geosynclines-and-mountain-building" id="toc-geosynclines-and-mountain-building" class="nav-link" data-scroll-target="#geosynclines-and-mountain-building">Geosynclines and Mountain Building</a></li>
+  <li><a href="#interview-questions-answers" id="toc-interview-questions-answers" class="nav-link" data-scroll-target="#interview-questions-answers">Interview Questions &amp; Answers</a></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -158,8 +138,8 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Statistical Geography</h1>
-<p class="subtitle lead">Quantitative methods, spatial statistics, and data analysis for geographic research.</p>
+<h1 class="title">Geomorphology</h1>
+<p class="subtitle lead">Study of landforms, their processes, and the forces that shape Earth’s surface.</p>
 </div>
 
 
@@ -192,12 +172,37 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Core I Paper IV — Cartography and Geo-Spatial Techniques
+<span class="screen-reader-only">Note</span>Core I Paper IX — Geomorphology
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><em>(Note: Quantitative topics are distributed in practical sections of various NEP papers)</em></p>
-<p><strong>Cartography &amp; Data:</strong> - Scientific basis of Cartography, needs of map making, characteristics of maps - Geographical Coordinates, Graticules, Types of Scales (Plain, Diagonal) - Types of Map Projection, Transformation of area, Distance and Direction - Drawing of Choropleth and isopleth maps - Traffic flow diagram and Drawing of Isochrones, Isotims, Isodapanes - Slope Analysis (Wentworth’s method and Smith) - Determination of agricultural efficiency (Kendall and Bhatia method) - Delineation of crop combination regions (Weaver and Doi’s method) - Nearest Neighbour Analysis, Rank Size Rule</p>
+<p><strong>(4 Credit, Theory: 45hrs, Practical: 30hrs)</strong></p>
+<p><strong>Unit I — Applied Geomorphology</strong></p>
+<ul>
+<li>Applied Geomorphology: Nature, Scope and Significance</li>
+<li>Principles of Geomorphology</li>
+<li>Modern Techniques in Geomorphology: Profile, Hypsometry, Altimetry and Clinographic</li>
+<li>Drainage Basin: Network Characteristics, Morphology, Phases of Development</li>
+<li>Major Landforms: Fluvial, Aeolian, Glacial, Karst and Coastal</li>
+</ul>
+<p><strong>Unit II — Environmental Geomorphology</strong></p>
+<ul>
+<li>Environmental Geomorphology: Meaning and Application</li>
+<li>Natural Hazards and Environmental Management</li>
+<li>Geomorphic Hazards: Volcanic, Earthquakes, Landslide and Floods</li>
+<li>Anthropogenic Activities and Effects on Erosion and Sedimentation</li>
+<li>Urban Geomorphology and Application in Urban Planning</li>
+<li>Concept of Economic Geomorphology</li>
+</ul>
+<p><strong>Unit III — Case Studies in Applied Geomorphology</strong></p>
+<ul>
+<li>Geomorphic Application in Soil Studies</li>
+<li>Geomorphology and Disaster Management</li>
+<li>Geomorphology in Engineering Construction (Dams, Roads, Tunnels)</li>
+<li>Coastal Geomorphology and Management</li>
+<li>Land Degradation and Restoration</li>
+<li>Sustainable Geomorphological Practices</li>
+</ul>
 </div>
 </div>
 <hr>
@@ -210,16 +215,27 @@ window.Quarto = {
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Unit IX/X — Statistical Methods and Cartography
+<span class="screen-reader-only">Tip</span>Unit I — Geomorphology
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>I. Statistical Methods</strong> - Sources of Geographic Information and Data (spatial and non-spatial) - Applications of Measures of Central Tendency, Dispersion and Inequalities - Sampling, Sampling Procedure and Hypothesis Testing (chi square, t-test, ANOVA) - Time Series Analysis, Correlation and Regression Analysis - Measurement of Indices, Making Indicators Scale Free, Computation of Composite Index - Principal Component Analysis and Cluster Analysis - Morphometric Analysis: Stream ordering, Bifurcation ratio, Drainage density, Slope Analysis</p>
-<p><strong>II. Cartography</strong> - Types of Maps, Techniques of Map Making - Data Representation on Maps (Pie diagrams, Bar diagrams, Line Graph) - Thematic maps: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps</p>
+<ul>
+<li>Fundamental concepts of geomorphology</li>
+<li>Factors controlling landform development</li>
+<li>Endogenetic and exogenetic forces</li>
+<li>Denudation processes: weathering and erosion</li>
+<li>Geosynclines</li>
+<li>Mountain building</li>
+<li>Continental drift and plate tectonics</li>
+<li>Concept of the Geomorphic Cycle</li>
+<li>Landforms associated with: Fluvial, Glacial, Arid, Coastal, Karst cycles</li>
+<li>Slope forms and processes</li>
+<li>Environmental and Applied Geomorphology</li>
+</ul>
 </div>
 </div>
 <hr>
-<p>Welcome to the <strong>Statistical Geography</strong> module of Geography OpenCourseWare.</p>
+<p>Welcome to the <strong>Geomorphology</strong> module of Geography OpenCourseWare.</p>
 <hr>
 </section>
 </section>
@@ -227,8 +243,8 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</h2>
 <p>These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC NET syllabus.</p>
 </section>
-<section id="geographic-data-sources-and-types" class="level2">
-<h2 class="anchored" data-anchor-id="geographic-data-sources-and-types">Geographic Data Sources and Types</h2>
+<section id="fundamental-concepts-of-geomorphology" class="level2">
+<h2 class="anchored" data-anchor-id="fundamental-concepts-of-geomorphology">Fundamental Concepts of Geomorphology</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -253,11 +269,11 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td><strong>NEP-2020</strong></td>
-<td>Geo-spatial techniques data handling</td>
+<td>Unit I — Principles of Geomorphology; Nature, Scope and Significance</td>
 </tr>
 <tr class="even">
 <td><strong>UGC NET</strong></td>
-<td>Sources of Geographic Information and Data (spatial and non-spatial)</td>
+<td>Fundamental concepts of geomorphology</td>
 </tr>
 </tbody>
 </table>
@@ -276,20 +292,73 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Spatial Data</strong>: Information tied to a specific location on Earth’s surface (coordinates, addresses, administrative boundaries).</li>
-<li><strong>Non-Spatial (Attribute) Data</strong>: Characteristics or qualities of the spatial features (population count, soil type name, temperature reading).</li>
-<li><strong>Data Sources</strong>:
-<ul>
-<li><em>Primary</em>: Field survey, interviews, observations, GPS data collection.</li>
-<li><em>Secondary</em>: Census reports, meteorological data, satellite imagery, topographical maps, statistical abstracts.</li>
-</ul></li>
-<li><strong>Measurement Scales</strong>: Nominal (categories), Ordinal (rank), Interval (no true zero, e.g., Temp in C), Ratio (true zero, e.g., population, distance).</li>
+<li><strong>Definition</strong>: Study of Earth’s surface forms (landforms) and the processes that shape them.</li>
+<li><strong>Nature and Scope</strong>: Integrates geology, physics, chemistry, and biology to understand landscape evolution.</li>
+<li><strong>Approaches</strong>: Descriptive (morphographic), Genetic (process-based), Quantitative (morphometric).</li>
+<li><strong>Principles</strong>: Uniformitarianism (Hutton), Catastrophism (Cuvier), Dynamic Equilibrium (Hack).</li>
+<li><strong>Geomorphic Agents</strong>: Rivers, glaciers, wind, waves, groundwater — their erosional and depositional work.</li>
+<li><strong>Significance</strong>: Applications in engineering, urban planning, hazard assessment, resource exploration.</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="measures-of-central-tendency-and-dispersion" class="level2">
-<h2 class="anchored" data-anchor-id="measures-of-central-tendency-and-dispersion">Measures of Central Tendency and Dispersion</h2>
+<section id="factors-controlling-landform-development" class="level2">
+<h2 class="anchored" data-anchor-id="factors-controlling-landform-development">Factors Controlling Landform Development</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Principles affecting landform development</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Factors controlling landform development</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Structure</strong>: Rock type, geological structure (folds, faults, joints) determine landform resistance and form.</li>
+<li><strong>Process</strong>: Weathering, erosion, mass wasting, deposition — the agents of landscape change.</li>
+<li><strong>Stage/Time</strong>: Davis’s cycle of erosion — youth, maturity, old age stages of landscape evolution.</li>
+<li><strong>Climate</strong>: Temperature and precipitation regimes control dominant geomorphic processes (humid, arid, glacial, periglacial).</li>
+<li><strong>Tectonic Activity</strong>: Uplift, subsidence, faulting — endogenetic forces driving landscape rejuvenation.</li>
+<li><strong>Sea Level Change</strong>: Eustatic and isostatic changes affecting coastal and fluvial landforms.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="endogenetic-and-exogenetic-forces" class="level2">
+<h2 class="anchored" data-anchor-id="endogenetic-and-exogenetic-forces">Endogenetic and Exogenetic Forces</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -314,11 +383,11 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td><strong>NEP-2020</strong></td>
-<td>Basic statistical analysis required for practical geography</td>
+<td>Unit II — Environmental Geomorphology: Geomorphic Hazards</td>
 </tr>
 <tr class="even">
 <td><strong>UGC NET</strong></td>
-<td>Applications of Measures of Central Tendency, Dispersion and Inequalities</td>
+<td>Endogenetic and exogenetic forces</td>
 </tr>
 </tbody>
 </table>
@@ -337,25 +406,25 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Central Tendency</strong>: Identifying the ‘center’ of a dataset.
+<li><strong>Endogenetic Forces</strong>: Internal forces originating within the Earth.
 <ul>
-<li><em>Mean</em>: Arithmetic average. Sensitive to outliers. Spatial mean (mean center) for spatial data.</li>
-<li><em>Median</em>: Middle value. Robust to outliers.</li>
-<li><em>Mode</em>: Most frequent value.</li>
+<li><em>Diastrophism</em>: Epeirogenic (vertical) and Orogenic (horizontal) movements</li>
+<li><em>Volcanism</em>: Intrusive and extrusive volcanic activity</li>
+<li><em>Earthquakes</em>: Seismic activity along plate boundaries and fault lines</li>
 </ul></li>
-<li><strong>Dispersion</strong>: How spread out the data is around the center.
+<li><strong>Exogenetic Forces</strong>: External forces acting on Earth’s surface.
 <ul>
-<li><em>Range</em>, <em>Quartile Deviation</em>.</li>
-<li><em>Standard Deviation (SD)</em>: Average distance from the mean. Standard distance in spatial analysis.</li>
-<li><em>Coefficient of Variation (CV)</em>: (SD/Mean)*100. Useful for comparing variability of datasets with different units.</li>
+<li><em>Weathering</em>: Physical, chemical, and biological breakdown of rocks</li>
+<li><em>Erosion</em>: Removal and transport of weathered material by running water, wind, glaciers, waves</li>
+<li><em>Mass Wasting</em>: Gravity-driven downslope movement (landslides, rockfalls, creep, mudflows)</li>
+<li><em>Deposition</em>: Accumulation of transported material</li>
 </ul></li>
-<li><strong>Inequalities Measurement</strong>: Lorenz Curve (graphical), Gini Coefficient (numerical, 0 to 1).</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="correlation-and-regression-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="correlation-and-regression-analysis">Correlation and Regression Analysis</h2>
+<section id="denudation-processes-weathering-and-erosion" class="level2">
+<h2 class="anchored" data-anchor-id="denudation-processes-weathering-and-erosion">Denudation Processes: Weathering and Erosion</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -376,11 +445,11 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td><strong>NEP-2020</strong></td>
-<td>Applied in geographical data analysis</td>
+<td>Unit I — Major Landforms formation processes</td>
 </tr>
 <tr class="even">
 <td><strong>UGC NET</strong></td>
-<td>Correlation and Regression Analysis</td>
+<td>Denudation processes: weathering and erosion</td>
 </tr>
 </tbody>
 </table>
@@ -399,22 +468,26 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Correlation</strong>: Measures the strength and direction of the linear relationship between two variables (x and y).
+<li><strong>Weathering</strong>: In-situ disintegration and decomposition of rocks.
 <ul>
-<li><em>Pearson’s Product Moment (r)</em>: For interval/ratio data. Ranges from -1 to +1.</li>
-<li><em>Spearman’s Rank Correlation (Rho)</em>: For ordinal (ranked) data.</li>
+<li><em>Physical/Mechanical</em>: Frost action, thermal expansion, exfoliation, salt crystallization</li>
+<li><em>Chemical</em>: Oxidation, carbonation, hydrolysis, solution, hydration</li>
+<li><em>Biological</em>: Root wedging, burrowing organisms, lichen action</li>
 </ul></li>
-<li><strong>Regression</strong>: Predictive modeling. Investigates the dependence of a dependent variable (Y) on one or more independent variables (X).
+<li><strong>Erosion</strong>: Removal and transport of weathered material.
 <ul>
-<li><em>Linear Regression</em>: <span class="math inline">\(Y = a + bX\)</span>. ‘a’ is intercept, ‘b’ is slope (regression coefficient).</li>
-<li><em>Residuals</em>: The difference between observed and predicted values. Mapping residuals (Spatial Regression) reveals spatial anomalies.</li>
+<li><em>Fluvial Erosion</em>: Hydraulic action, abrasion, attrition, corrosion</li>
+<li><em>Glacial Erosion</em>: Plucking, abrasion, freeze-thaw</li>
+<li><em>Aeolian Erosion</em>: Deflation, abrasion by wind-borne particles</li>
+<li><em>Marine Erosion</em>: Wave action, hydraulic pressure, abrasion</li>
 </ul></li>
+<li><strong>Mass Wasting</strong>: Rapid vs.&nbsp;slow movements — landslides, mudflows, soil creep, solifluction.</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="map-projections-and-scales" class="level2">
-<h2 class="anchored" data-anchor-id="map-projections-and-scales">Map Projections and Scales</h2>
+<section id="continental-drift-and-plate-tectonics" class="level2">
+<h2 class="anchored" data-anchor-id="continental-drift-and-plate-tectonics">Continental Drift and Plate Tectonics</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -435,11 +508,11 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td><strong>NEP-2020</strong></td>
-<td>Types of Scales, Map Projection, Transformation</td>
+<td>Related concepts in tectonic geomorphology</td>
 </tr>
 <tr class="even">
 <td><strong>UGC NET</strong></td>
-<td>Techniques of Map Making</td>
+<td>Continental drift and plate tectonics</td>
 </tr>
 </tbody>
 </table>
@@ -458,22 +531,22 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Map Scale</strong>: Ratio between map distance and ground distance. Types: Representative Fraction (RF), Statement, Graphical/Linear, Diagonal.</li>
-<li><strong>Map Projection</strong>: Mathematical transformation of the 3D Earth surface to a 2D plane. Always involves distortion.</li>
-<li><strong>Preserved Properties</strong>:
+<li><strong>Continental Drift Theory</strong> (Wegener, 1912): Pangaea → present continents. Evidences: jigsaw fit, fossil distribution, geological similarities, paleoclimate.</li>
+<li><strong>Plate Tectonics</strong>: Lithosphere divided into rigid plates moving on asthenosphere.
 <ul>
-<li><em>Conformal (Orthomorphic)</em>: Preserves exact local angles/shapes (e.g., Mercator). Used for navigation.</li>
-<li><em>Equal-Area (Equivalent)</em>: Preserves area proportions (e.g., Mollweide, Peters). Used for thematic density distributions.</li>
-<li><em>Equidistant</em>: Preserves correct distance from a center point.</li>
-<li><em>Azimuthal</em>: Preserves correct direction from a center point.</li>
+<li><em>Divergent Boundaries</em>: Mid-ocean ridges, rift valleys (Mid-Atlantic Ridge, East African Rift)</li>
+<li><em>Convergent Boundaries</em>: Subduction zones, mountain building (Himalayas, Andes)</li>
+<li><em>Transform Boundaries</em>: Lateral sliding (San Andreas Fault)</li>
 </ul></li>
-<li><strong>Developable Surfaces</strong>: Cylinder, Cone, Plane (Zenithal).</li>
+<li><strong>Driving Mechanisms</strong>: Convection currents, slab pull, ridge push.</li>
+<li><strong>Evidence</strong>: Seafloor spreading (Hess), magnetic striping, earthquake and volcanic distribution.</li>
+<li><strong>Wilson Cycle</strong>: Opening and closing of ocean basins over geological time.</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="thematic-mapping-techniques" class="level2">
-<h2 class="anchored" data-anchor-id="thematic-mapping-techniques">Thematic Mapping Techniques</h2>
+<section id="concept-of-the-geomorphic-cycle" class="level2">
+<h2 class="anchored" data-anchor-id="concept-of-the-geomorphic-cycle">Concept of the Geomorphic Cycle</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -485,10 +558,6 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <table class="caption-top table">
-<colgroup>
-<col style="width: 40%">
-<col style="width: 60%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Syllabus</th>
@@ -498,11 +567,11 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td><strong>NEP-2020</strong></td>
-<td>Drawing of Choropleth, Isopleth, Traffic flow diagrams</td>
+<td>Related to landscape evolution concepts</td>
 </tr>
 <tr class="even">
 <td><strong>UGC NET</strong></td>
-<td>Data Representation: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps</td>
+<td>Concept of the Geomorphic Cycle</td>
 </tr>
 </tbody>
 </table>
@@ -521,18 +590,17 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Choropleth Map</strong>: Uses shading/colors within predefined administrative boundaries (states, districts) to represent derived data (densities, rates, percentages). Not suitable for absolute numbers.</li>
-<li><strong>Isopleth (Isarithmic) Map</strong>: Lines connecting points of equal value (e.g., isotherms, contours, isobars). Assumes continuous data mapped over an isotropic surface.</li>
-<li><strong>Chorochromatic Map</strong>: Color-patch map showing qualitative distribution without numerical value (e.g., soil types, land use zones).</li>
-<li><strong>Dasymetric Map</strong>: Advanced choropleth that ignores administrative boundaries in favor of actual geographical boundaries of the phenomenon (e.g., mapping population density excluding lakes and forests).</li>
-<li><strong>Flow Map</strong>: Lines of varying thickness show direction and volume of movement (trade, traffic, migration).</li>
-<li><strong>Diagrammatic Maps</strong>: Pie diagrams, bar graphs superimposed on maps to show multiple variables.</li>
+<li><strong>Davis’s Geographical Cycle (1899)</strong>: Normal cycle of erosion — Structure, Process, Stage (Youth, Maturity, Old Age). Peneplain as the final stage.</li>
+<li><strong>Penck’s Morphological System</strong>: Endogenetic vs.&nbsp;exogenetic processes — Aufsteigende (waxing), Gleichformige (uniform), Absteigende (waning) development.</li>
+<li><strong>King’s Pediplain Cycle</strong>: Parallel retreat of slopes → pediplain formation (scarp retreat model). Relevant to arid and semi-arid landscapes.</li>
+<li><strong>Hack’s Dynamic Equilibrium</strong>: Landscape in continuous adjustment — no final stage; balance between erosion and uplift.</li>
+<li><strong>Rejuvenation</strong>: Renewed erosion due to uplift or sea-level fall — knickpoints, incised meanders, river terraces.</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="spatial-statistics-and-morphometry" class="level2">
-<h2 class="anchored" data-anchor-id="spatial-statistics-and-morphometry">Spatial Statistics and Morphometry</h2>
+<section id="fluvial-landforms" class="level2">
+<h2 class="anchored" data-anchor-id="fluvial-landforms">Fluvial Landforms</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -544,10 +612,6 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <table class="caption-top table">
-<colgroup>
-<col style="width: 40%">
-<col style="width: 60%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Syllabus</th>
@@ -557,11 +621,11 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td><strong>NEP-2020</strong></td>
-<td>Nearest Neighbour, Slope Analysis (Wentworth), Agricultural indices</td>
+<td>Unit I — Major Landforms: Fluvial</td>
 </tr>
 <tr class="even">
 <td><strong>UGC NET</strong></td>
-<td>Morphometric Analysis, Measurement of Indices</td>
+<td>Landforms associated with Fluvial cycles</td>
 </tr>
 </tbody>
 </table>
@@ -580,15 +644,290 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Nearest Neighbour Analysis (NNA)</strong>: Measures spatial arrangement of points. Nearest Neighbour Index (R). R=0 (clustered), R=1 (random), R=2.15 (perfectly uniform/regular).</li>
-<li><strong>Slope Analysis</strong>: Wentworth’s method (based on contour crossings per grid cell) and Smith’s method (relative relief combined with drainage density).</li>
-<li><strong>Drainage Morphometry</strong>:
+<li><strong>Erosional Landforms</strong>: V-shaped valleys, gorges, canyons, waterfalls, rapids, potholes, river terraces, incised/entrenched meanders.</li>
+<li><strong>Depositional Landforms</strong>: Alluvial fans, flood plains, natural levees, deltas (arcuate, bird’s foot, cuspate), meanders, oxbow lakes.</li>
+<li><strong>Drainage Patterns</strong>: Dendritic, trellis, rectangular, radial, annular, parallel, centripetal.</li>
+<li><strong>River Morphometry</strong>: Stream ordering (Strahler, Horton), bifurcation ratio, drainage density, stream frequency.</li>
+<li><strong>Channel Morphology</strong>: Braided, meandering, straight — factors controlling channel patterns.</li>
+<li><strong>Base Level</strong>: Ultimate (sea level) and temporary/local base levels.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="glacial-and-periglacial-landforms" class="level2">
+<h2 class="anchored" data-anchor-id="glacial-and-periglacial-landforms">Glacial and Periglacial Landforms</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Major Landforms: Glacial</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Landforms associated with Glacial cycles</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <ul>
-<li><em>Stream Ordering</em>: Strahler (only same orders combine to increase) vs.&nbsp;Horton.</li>
-<li><em>Bifurcation Ratio</em>: Ratio of number of streams of a given order to the number of next higher order.</li>
-<li><em>Drainage Density</em>: Total stream length / basin area.</li>
+<li><strong>Erosional Landforms</strong>: Cirques (corries), arêtes, horns, U-shaped valleys (troughs), hanging valleys, fjords, roches moutonnées, striations.</li>
+<li><strong>Depositional Landforms</strong>: Moraines (lateral, medial, terminal, ground), drumlins, eskers, outwash plains, kames, erratics.</li>
+<li><strong>Types of Glaciers</strong>: Continental/ice sheets, valley/alpine glaciers, piedmont glaciers, ice caps.</li>
+<li><strong>Periglacial Landforms</strong>: Permafrost features — thermokarst, patterned ground, pingos, ice wedges, solifluction lobes.</li>
+<li><strong>Glacial Cycles</strong>: Pleistocene glaciations — Gunz, Mindel, Riss, Würm (Alpine); evidence of glacial-interglacial cycles.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="slope-forms-and-processes" class="level2">
+<h2 class="anchored" data-anchor-id="slope-forms-and-processes">Slope Forms and Processes</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Land Degradation; slope analysis</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Slope forms and processes</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Slope Elements</strong>: Waxing slope (convexity), free face (cliff), constant slope (debris/talus), waning slope (concavity) — King’s four-element slope model.</li>
+<li><strong>Slope Processes</strong>: Weathering, mass wasting (creep, flows, slides, falls), surface wash, rill and gully erosion.</li>
+<li><strong>Slope Evolution Theories</strong>:
+<ul>
+<li><em>Davis</em>: Slope decline model — gradual flattening over time</li>
+<li><em>Penck</em>: Slope replacement model — parallel retreat with slope segments replacing each other</li>
+<li><em>King</em>: Parallel retreat model — backwearing of slopes maintaining angle</li>
 </ul></li>
-<li><strong>Indices</strong>: Agricultural efficiency (Kendall’s ranking, Bhatia’s weighted output). Handling data of different scales requires normalization (Z-scores) to create composite indices.</li>
+<li><strong>Factors Controlling Slopes</strong>: Lithology, structure, climate, vegetation, human activity.</li>
+<li><strong>Slope Stability Analysis</strong>: Factor of safety, shear strength vs.&nbsp;shear stress. Engineering applications.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="coastal-geomorphology" class="level2">
+<h2 class="anchored" data-anchor-id="coastal-geomorphology">Coastal Geomorphology</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit III — Coastal Geomorphology and Management</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Landforms associated with Coastal cycles</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Coastal Processes</strong>: Waves (constructive/destructive), tides, longshore drift, marine erosion and deposition.</li>
+<li><strong>Erosional Landforms</strong>: Cliffs, wave-cut platforms, sea caves, arches, stacks, stumps, headlands and bays.</li>
+<li><strong>Depositional Landforms</strong>: Beaches, spits, bars, tombolos, barrier islands, lagoons, sand dunes.</li>
+<li><strong>Coral Reefs</strong>: Fringing, barrier, and atoll reefs — Darwin’s subsidence theory.</li>
+<li><strong>Shoreline Classification</strong>: Emergent (uplifted) vs.&nbsp;submergent (drowned) coastlines; Johnson’s classification.</li>
+<li><strong>Coastal Management</strong>: Beach nourishment, sea walls, groynes, managed retreat. Coastal zone regulations.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="karst-landforms" class="level2">
+<h2 class="anchored" data-anchor-id="karst-landforms">Karst Landforms</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Major Landforms: Karst</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Landforms associated with Karst cycles</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Karst Processes</strong>: Solution (carbonation) of limestone and dolomite by acidic water. Chemical weathering dominance.</li>
+<li><strong>Surface Karst Features</strong>: Sinkholes (dolines), uvalas, poljes, karren (lapies), disappearing streams, dry valleys.</li>
+<li><strong>Subsurface Karst Features</strong>: Caves, caverns, stalactites, stalagmites, columns, underground rivers.</li>
+<li><strong>Karst Cycle</strong>: Youth (sinkholes, caves forming) → Maturity (caves connecting, large caverns) → Old Age (collapse, karst plain).</li>
+<li><strong>Factors Controlling Karst</strong>: Rock solubility, joint/bedding patterns, climate (precipitation, temperature), vegetation cover.</li>
+<li><strong>Tower Karst and Cockpit Karst</strong>: Tropical karst landforms — mogotes, cockpits (Jamaica, South China).</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="aeolian-landforms" class="level2">
+<h2 class="anchored" data-anchor-id="aeolian-landforms">Aeolian Landforms</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Major Landforms: Aeolian</td>
+</tr>
+<tr class="even">
+<td><strong>UGC NET</strong></td>
+<td>Landforms associated with Arid cycles</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Aeolian Processes</strong>: Deflation, abrasion, attrition by wind. Saltation, suspension, surface creep of particles.</li>
+<li><strong>Erosional Landforms</strong>: Yardangs, ventifacts, desert pavements, deflation hollows, pedestal rocks, mushroom rocks (zeugen).</li>
+<li><strong>Depositional Landforms</strong>: Sand dunes — barchan, seif (longitudinal), transverse, star dunes, parabolic dunes.</li>
+<li><strong>Desert Landforms</strong>: Playas, mesas, buttes, bajadas, pediments, inselbergs, wadis.</li>
+<li><strong>Loess Deposits</strong>: Wind-deposited fine silt — extensive in China, central Europe, and North America.</li>
+<li><strong>Factors</strong>: Wind velocity, sand supply, vegetation cover, moisture content.</li>
 </ul>
 </div>
 </div>
@@ -598,8 +937,8 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="part-b-nep-2020-specific-topics">Part B: NEP-2020 Specific Topics</h2>
 <p>These topics are part of the NEP-2020 undergraduate programme only.</p>
 </section>
-<section id="agricultural-delineation-methods" class="level2">
-<h2 class="anchored" data-anchor-id="agricultural-delineation-methods">Agricultural Delineation Methods</h2>
+<section id="applied-geomorphology" class="level2">
+<h2 class="anchored" data-anchor-id="applied-geomorphology">Applied Geomorphology</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -624,7 +963,7 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td><strong>NEP-2020</strong></td>
-<td>Delineation of crop combination regions (Weaver and Doi’s method)</td>
+<td>Unit I — Applied Geomorphology; Unit III — Case Studies</td>
 </tr>
 </tbody>
 </table>
@@ -643,20 +982,69 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Crop Combination Analysis</strong>: Identifying the dominant crop assemblages in a region to understand agricultural regionalization.</li>
-<li><strong>Weaver’s Method (1954)</strong>: Calculates variance (<span class="math inline">\(\Sigma d^2 / n\)</span>) between actual crop percentages and theoretical distributions (monoculture = 100%, 2-crop = 50% each, etc.). The combination with the lowest variance is chosen.</li>
-<li><strong>Doi’s Modification (1959)</strong>: Simplified Weaver’s method by using <span class="math inline">\(\Sigma d^2\)</span> without dividing by ‘n’ and providing a ready-to-use critical value table, making manual calculation much faster while yielding similar results.</li>
+<li><strong>Nature and Scope</strong>: Application of geomorphic knowledge to solve practical problems in engineering, planning, and resource management.</li>
+<li><strong>Geomorphic Application in Soil Studies</strong>: Relationship between landforms and soil types; soil mapping using geomorphic analysis.</li>
+<li><strong>Engineering Geomorphology</strong>: Site selection for dams, roads, tunnels, bridges — terrain analysis for construction.</li>
+<li><strong>Urban Geomorphology</strong>: Understanding pre-existing terrain for urban planning; slope stability, flood risk, foundation conditions.</li>
+<li><strong>Economic Geomorphology</strong>: Mineral exploration, groundwater prospecting, sand and gravel extraction.</li>
+<li><strong>Coastal Management</strong>: Shoreline protection, beach nourishment, harbor siting.</li>
 </ul>
 </div>
 </div>
-<hr>
 </section>
-<section id="part-c-ugc-net-specific-topics" class="level2">
-<h2 class="anchored" data-anchor-id="part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</h2>
-<p>These topics are part of the UGC NET syllabus only.</p>
+<section id="environmental-geomorphology" class="level2">
+<h2 class="anchored" data-anchor-id="environmental-geomorphology">Environmental Geomorphology</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit II — Environmental Geomorphology</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Definition</strong>: Study of human impact on geomorphic processes and landforms, and natural hazards affecting human activities.</li>
+<li><strong>Anthropogenic Impacts</strong>: Effects of construction, mining, deforestation, agriculture on erosion, sedimentation, and landscape change.</li>
+<li><strong>Land Degradation and Restoration</strong>: Causes (overgrazing, deforestation, urbanization), assessment, and remediation strategies.</li>
+<li><strong>Sustainable Geomorphological Practices</strong>: Balancing development with landscape conservation.</li>
+<li><strong>Geomorphic Hazards</strong>: Volcanic eruptions, earthquakes, landslides, floods — hazard mapping and risk assessment.</li>
+<li><strong>Natural Hazards and Environmental Management</strong>: Disaster preparedness, mitigation strategies, early warning systems.</li>
+</ul>
+</div>
+</div>
 </section>
-<section id="sampling-and-hypothesis-testing" class="level2">
-<h2 class="anchored" data-anchor-id="sampling-and-hypothesis-testing">Sampling and Hypothesis Testing</h2>
+<section id="drainage-basin-morphometry" class="level2">
+<h2 class="anchored" data-anchor-id="drainage-basin-morphometry">Drainage Basin Morphometry</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -680,8 +1068,8 @@ window.Quarto = {
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>UGC NET</strong></td>
-<td>Sampling, Sampling Procedure and Hypothesis Testing (chi square, t-test, ANOVA)</td>
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Drainage Basin: Network Characteristics, Morphology; Unit IV — Practical</td>
 </tr>
 </tbody>
 </table>
@@ -700,23 +1088,85 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Sampling</strong>: Selecting a subset from a population. Probability (Random, Stratified, Systematic, Cluster) vs.&nbsp;Non-probability (Purposive, Snowball, Quota).</li>
-<li><strong>Hypothesis Testing</strong>: Formulating Null (<span class="math inline">\(H_0\)</span>) and Alternative (<span class="math inline">\(H_1\)</span>) hypotheses. Type I error (reject true <span class="math inline">\(H_0\)</span>) and Type II error (accept false <span class="math inline">\(H_0\)</span>). Set significance level (<span class="math inline">\(lpha\)</span>, usually 0.05).</li>
-<li><strong>Parametric Tests</strong> (assume normal distribution):
+<li><strong>Drainage Basin</strong>: Fundamental geomorphic unit — area drained by a river and its tributaries.</li>
+<li><strong>Stream Ordering</strong>: Horton’s and Strahler’s methods of stream classification.</li>
+<li><strong>Morphometric Parameters</strong>:
 <ul>
-<li><em>t-test</em>: Compares means of two groups.</li>
-<li><em>ANOVA (Analysis of Variance)</em>: Compares means of three or more groups.</li>
+<li><em>Linear Aspects</em>: Stream order, stream number, stream length, mean stream length ratio, bifurcation ratio</li>
+<li><em>Areal Aspects</em>: Drainage density, stream frequency, drainage texture, form factor, circularity ratio, elongation ratio</li>
+<li><em>Relief Aspects</em>: Basin relief, relief ratio, ruggedness number</li>
 </ul></li>
-<li><strong>Non-Parametric Tests</strong> (distribution-free):
-<ul>
-<li><em>Chi-Square (<span class="math inline">\(\chi^2\)</span>) Test</em>: Tests association between categorical variables (observed vs.&nbsp;expected frequencies).</li>
-</ul></li>
+<li><strong>Hypsometric Analysis</strong>: Hypsometric curve and integral — indicates stage of basin erosion.</li>
+<li><strong>Clinographic Curve</strong>: Relationship between slope angle and area.</li>
+<li><strong>Altimetric Frequency Graph</strong>: Frequency distribution of elevations within a basin.</li>
+<li><strong>Applications</strong>: Flood prediction, watershed management, groundwater exploration, soil conservation.</li>
 </ul>
 </div>
 </div>
 </section>
-<section id="advanced-multivariate-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="advanced-multivariate-analysis">Advanced Multivariate Analysis</h2>
+<section id="modern-techniques-in-geomorphology" class="level2">
+<h2 class="anchored" data-anchor-id="modern-techniques-in-geomorphology">Modern Techniques in Geomorphology</h2>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>📘 Syllabus Coverage
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<table class="caption-top table">
+<colgroup>
+<col style="width: 40%">
+<col style="width: 60%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Syllabus</th>
+<th>Topic Details</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>NEP-2020</strong></td>
+<td>Unit I — Modern Techniques; Unit IV — Practical (RS, GIS, DEM)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p><a href="#"><img src="https://via.placeholder.com/600x300?text=Course+Module+Video.png" class="img-fluid"></a></p>
+<p><a href="#">Get the Presentation ↗</a> &nbsp; | &nbsp; <a href="#">Watch the Video ↗</a></p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Key Concepts
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Remote Sensing</strong>: Satellite imagery and aerial photographs for landform identification and mapping.</li>
+<li><strong>GIS (Geographic Information Systems)</strong>: Spatial analysis, terrain modeling, overlay analysis for geomorphic studies.</li>
+<li><strong>Digital Elevation Models (DEM)</strong>: Generation, analysis, and visualization of terrain — SRTM, ASTER, LiDAR.</li>
+<li><strong>GPS and GNSS</strong>: Precise positioning for field surveys, monitoring ground displacement.</li>
+<li><strong>Profile Analysis</strong>: Longitudinal and transverse profiles of rivers and slopes.</li>
+<li><strong>Hypsometry and Altimetry</strong>: Quantitative terrain analysis using elevation data.</li>
+<li><strong>Geomorphic Mapping</strong>: Systematic mapping of landforms, processes, and deposits using standardized legends.</li>
+</ul>
+</div>
+</div>
+<hr>
+</section>
+<section id="part-c-ugc-net-specific-topics" class="level2">
+<h2 class="anchored" data-anchor-id="part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</h2>
+<p>These topics are part of the UGC NET syllabus only.</p>
+</section>
+<section id="geosynclines-and-mountain-building" class="level2">
+<h2 class="anchored" data-anchor-id="geosynclines-and-mountain-building">Geosynclines and Mountain Building</h2>
 <div class="callout callout-style-default callout-warning callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -737,7 +1187,7 @@ window.Quarto = {
 <tbody>
 <tr class="odd">
 <td><strong>UGC NET</strong></td>
-<td>Principal Component Analysis and Cluster Analysis</td>
+<td>Geosynclines; Mountain building</td>
 </tr>
 </tbody>
 </table>
@@ -756,13 +1206,22 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Principal Component Analysis (PCA)</strong>: A dimensionality reduction technique. Correlated variables are transformed into a smaller number of uncorrelated variables called Principal Components. PC1 accounts for the most variance. Used to create composite indices (e.g., developmental index from 15 variables).</li>
-<li><strong>Cluster Analysis</strong>: Grouping a set of objects such that objects in the same group (cluster) are more similar to each other than to those in other groups. Used in regionalization (e.g., grouping districts based on socio-economic similarity).</li>
-<li><strong>Time Series Analysis</strong>: Analyzing sequence of data points over time to extract meaningful statistics. Components: Trend (long term), Cyclical, Seasonal, Irregular/Random variations. Used for climate data or population forecasting.</li>
+<li><strong>Geosyncline Concept</strong>: Large, elongated trough of subsidence filled with thick sedimentary deposits. Types: Miogeosyncline, Eugeosyncline.</li>
+<li><strong>Geosynclinal Theory</strong>: Sediment accumulation → compression → folding → mountain building (Dana, Hall, Haug).</li>
+<li><strong>Orogenesis (Mountain Building)</strong>: Compressive forces causing crustal shortening, folding, and thrusting.
+<ul>
+<li><em>Fold Mountains</em>: Himalayas, Alps, Andes, Rockies — formed at convergent plate boundaries</li>
+<li><em>Block Mountains</em>: Horsts and grabens — formed by faulting (Vosges, Black Forest)</li>
+<li><em>Volcanic Mountains</em>: Built by volcanic material accumulation (Mt. Fuji, Mt. Kilimanjaro)</li>
+</ul></li>
+<li><strong>Modern Interpretation</strong>: Plate tectonics replaces classical geosyncline theory — subduction, collision, and accretion.</li>
 </ul>
 </div>
 </div>
 <hr>
+</section>
+<section id="interview-questions-answers" class="level2">
+<h2 class="anchored" data-anchor-id="interview-questions-answers">Interview Questions &amp; Answers</h2>
 
 
 </section>

@@ -33,3 +33,9 @@ toc-depth: 3
 ## 2021 Paper
 
 {{< include pyq/wbset-2021.md >}}
+
+---
+
+## 2020 Paper
+
+{{< include pyq/wbset-2020.md >}}
