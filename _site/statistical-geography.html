@@ -340,16 +340,17 @@ window.Quarto = {
 <li><strong>Central Tendency</strong>: Identifying the ‘center’ of a dataset.
 <ul>
 <li><em>Mean</em>: Arithmetic average. Sensitive to outliers. Spatial mean (mean center) for spatial data.</li>
-<li><em>Median</em>: Middle value. Robust to outliers.</li>
+<li><em>Median</em>: The <strong>score in the middle</strong> of a distribution. Robust to outliers.</li>
 <li><em>Mode</em>: Most frequent value.</li>
 </ul></li>
+<li><strong>Z-score:</strong> Also known as the Standard Score, it is used for data transformation and comparison. The formula is <strong><span class="math inline">\(Z = (X - \bar{X}) / \sigma\)</span></strong>, where <span class="math inline">\(X\)</span> is the value, <span class="math inline">\(\bar{X}\)</span> is the mean, and <span class="math inline">\(\sigma\)</span> is the standard deviation.</li>
 <li><strong>Dispersion</strong>: How spread out the data is around the center.
 <ul>
 <li><em>Range</em>, <em>Quartile Deviation</em>.</li>
 <li><em>Standard Deviation (SD)</em>: Average distance from the mean. Standard distance in spatial analysis.</li>
 <li><em>Coefficient of Variation (CV)</em>: (SD/Mean)*100. Useful for comparing variability of datasets with different units.</li>
 </ul></li>
-<li><strong>Inequalities Measurement</strong>: Lorenz Curve (graphical), Gini Coefficient (numerical, 0 to 1).</li>
+<li><strong>Inequalities Measurement</strong>: Lorenz Curve (graphical), Gini Coefficient (numerical, 0 to 1). Gini’s coefficient is a widely used technique to show <strong>Income Inequality</strong>.</li>
 <li><strong>Shape of Distribution:</strong> <strong>Skewness and Kurtosis</strong> are used for determining the <strong>Shape</strong> of a frequency distribution.</li>
 <li><strong>Normal Distribution:</strong> In a normal distribution, the percentage of the area between the mean <span class="math inline">\(\pm 1 \sigma\)</span> (Standard Deviation) is <strong>68.27%</strong>.</li>
 </ul>
@@ -524,7 +525,7 @@ window.Quarto = {
 <div class="callout-body-container callout-body">
 <ul>
 <li><strong>Choropleth Map</strong>: Uses shading/colors within predefined administrative boundaries (states, districts) to represent derived data (densities, rates, percentages). Not suitable for absolute numbers.</li>
-<li><strong>Isopleth (Isarithmic) Map</strong>: Lines connecting points of equal value (e.g., isotherms, contours, isobars). Assumes continuous data mapped over an isotropic surface.</li>
+<li><strong>Isopleth (Isarithmic) Map</strong>: Lines connecting points of equal value (e.g., isotherms, contours, isobars). Assumes continuous data mapped over an isotropic surface. It is the best method to represent the <strong>Rate of change</strong> (when data is given in ratios or percentages).</li>
 <li><strong>Chorochromatic Map</strong>: Color-patch map showing qualitative distribution without numerical value (e.g., soil types, land use zones).</li>
 <li><strong>Dasymetric Map</strong>: Advanced choropleth that ignores administrative boundaries in favor of actual geographical boundaries of the phenomenon (e.g., mapping population density excluding lakes and forests).</li>
 <li><strong>Flow Map</strong>: Lines of varying thickness show direction and volume of movement (trade, traffic, migration).</li>
@@ -704,6 +705,7 @@ window.Quarto = {
 <ul>
 <li><strong>Sampling</strong>: Selecting a subset from a population. Probability (Random, Stratified, Systematic, Cluster) vs.&nbsp;Non-probability (Purposive, Snowball, Quota).</li>
 <li><strong>Hypothesis Testing</strong>: Formulating Null (<span class="math inline">\(H_0\)</span>) and Alternative (<span class="math inline">\(H_1\)</span>) hypotheses. Type I error (reject true <span class="math inline">\(H_0\)</span>) and Type II error (accept false <span class="math inline">\(H_0\)</span>). Set significance level (<span class="math inline">\(lpha\)</span>, usually 0.05).</li>
+<li><strong>Standard Error (SE):</strong> Considered as the measure of the <strong>sampling error</strong>. It indicates how much the sample mean is likely to differ from the actual population mean.</li>
 <li><strong>Parametric Tests</strong> (assume normal distribution):
 <ul>
 <li><em>t-test</em>: Compares means of two groups.</li>
