@@ -132,81 +132,81 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<pre class="{raw html}"><code>&lt;div id="test-container" class="test-container"&gt;
-    &lt;!-- Header --&gt;
-    &lt;div class="test-header"&gt;
-        &lt;div class="test-title"&gt;Geography Practice Test&lt;/div&gt;
-        &lt;div class="test-timer" id="timer"&gt;Time Left: 60:00&lt;/div&gt;
-    &lt;/div&gt;
+<div id="test-container" class="test-container">
+    <!-- Header -->
+    <div class="test-header">
+        <div class="test-title">Geography Practice Test</div>
+        <div class="test-timer" id="timer">Time Left: 60:00</div>
+    </div>
 
-    &lt;div class="test-main"&gt;
-        &lt;!-- Left Side: Question Area --&gt;
-        &lt;div class="question-section"&gt;
-            &lt;div class="question-header"&gt;
-                &lt;span id="question-number"&gt;Question No. 1&lt;/span&gt;
-            &lt;/div&gt;
-            &lt;div class="question-body" id="question-text"&gt;
+    <div class="test-main">
+        <!-- Left Side: Question Area -->
+        <div class="question-section">
+            <div class="question-header">
+                <span id="question-number">Question No. 1</span>
+            </div>
+            <div class="question-body" id="question-text">
                 Loading question...
-            &lt;/div&gt;
-            &lt;div class="options-container" id="options-container"&gt;
-                &lt;!-- Options will be injected here --&gt;
-            &lt;/div&gt;
-            &lt;div class="question-footer"&gt;
-                &lt;button id="mark-review-btn" class="btn btn-secondary"&gt;Mark for Review &amp; Next&lt;/button&gt;
-                &lt;button id="clear-btn" class="btn btn-outline"&gt;Clear Response&lt;/button&gt;
-                &lt;button id="save-next-btn" class="btn btn-primary"&gt;Save &amp; Next&lt;/button&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
+            </div>
+            <div class="options-container" id="options-container">
+                <!-- Options will be injected here -->
+            </div>
+            <div class="question-footer">
+                <button id="mark-review-btn" class="btn btn-secondary">Mark for Review &amp; Next</button>
+                <button id="clear-btn" class="btn btn-outline">Clear Response</button>
+                <button id="save-next-btn" class="btn btn-primary">Save &amp; Next</button>
+            </div>
+        </div>
 
-        &lt;!-- Right Side: Status Palette --&gt;
-        &lt;div class="status-section"&gt;
-            &lt;div class="candidate-info"&gt;
-                &lt;div class="candidate-img"&gt;👤&lt;/div&gt;
-                &lt;div class="candidate-name"&gt;Geography Student&lt;/div&gt;
-            &lt;/div&gt;
+        <!-- Right Side: Status Palette -->
+        <div class="status-section">
+            <div class="candidate-info">
+                <div class="candidate-img">👤</div>
+                <div class="candidate-name">Geography Student</div>
+            </div>
             
-            &lt;div class="status-legend"&gt;
-                &lt;div class="legend-item"&gt;&lt;span class="badge badge-not-visited"&gt;0&lt;/span&gt; Not Visited&lt;/div&gt;
-                &lt;div class="legend-item"&gt;&lt;span class="badge badge-not-answered"&gt;0&lt;/span&gt; Not Answered&lt;/div&gt;
-                &lt;div class="legend-item"&gt;&lt;span class="badge badge-answered"&gt;0&lt;/span&gt; Answered&lt;/div&gt;
-                &lt;div class="legend-item"&gt;&lt;span class="badge badge-marked"&gt;0&lt;/span&gt; Marked for Review&lt;/div&gt;
-                &lt;div class="legend-item"&gt;&lt;span class="badge badge-answered-marked"&gt;0&lt;/span&gt; Answered &amp; Marked&lt;/div&gt;
-            &lt;/div&gt;
+            <div class="status-legend">
+                <div class="legend-item"><span class="badge badge-not-visited">0</span> Not Visited</div>
+                <div class="legend-item"><span class="badge badge-not-answered">0</span> Not Answered</div>
+                <div class="legend-item"><span class="badge badge-answered">0</span> Answered</div>
+                <div class="legend-item"><span class="badge badge-marked">0</span> Marked for Review</div>
+                <div class="legend-item"><span class="badge badge-answered-marked">0</span> Answered &amp; Marked</div>
+            </div>
 
-            &lt;div class="question-palette-container"&gt;
-                &lt;div class="palette-header"&gt;Question Palette:&lt;/div&gt;
-                &lt;div class="question-palette" id="question-palette"&gt;
-                    &lt;!-- Palette buttons will be injected here --&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
+            <div class="question-palette-container">
+                <div class="palette-header">Question Palette:</div>
+                <div class="question-palette" id="question-palette">
+                    <!-- Palette buttons will be injected here -->
+                </div>
+            </div>
 
-            &lt;div class="submit-section"&gt;
-                &lt;button id="submit-test-btn" class="btn btn-success w-100"&gt;Submit Test&lt;/button&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+            <div class="submit-section">
+                <button id="submit-test-btn" class="btn btn-success w-100">Submit Test</button>
+            </div>
+        </div>
+    </div>
+</div>
 
-&lt;!-- Results Modal --&gt;
-&lt;div id="results-modal" class="modal"&gt;
-    &lt;div class="modal-content"&gt;
-        &lt;h2&gt;Test Results&lt;/h2&gt;
-        &lt;div class="results-summary"&gt;
-            &lt;div class="result-card"&gt;
-                &lt;div class="result-label"&gt;Total Score&lt;/div&gt;
-                &lt;div class="result-value" id="total-score"&gt;0/0&lt;/div&gt;
-            &lt;/div&gt;
-            &lt;div class="result-details"&gt;
-                &lt;p&gt;Correct: &lt;span id="correct-count" style="color: #27ae60; font-weight: bold;"&gt;0&lt;/span&gt;&lt;/p&gt;
-                &lt;p&gt;Incorrect: &lt;span id="incorrect-count" style="color: #e74c3c; font-weight: bold;"&gt;0&lt;/span&gt;&lt;/p&gt;
-                &lt;p&gt;Unanswered: &lt;span id="unanswered-count" style="color: #7f8c8d; font-weight: bold;"&gt;0&lt;/span&gt;&lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        &lt;button id="close-results" class="btn btn-primary"&gt;Try Again&lt;/button&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+<!-- Results Modal -->
+<div id="results-modal" class="modal">
+    <div class="modal-content">
+        <h2 class="anchored">Test Results</h2>
+        <div class="results-summary">
+            <div class="result-card">
+                <div class="result-label">Total Score</div>
+                <div class="result-value" id="total-score">0/0</div>
+            </div>
+            <div class="result-details">
+                <p>Correct: <span id="correct-count" style="color: #27ae60; font-weight: bold;">0</span></p>
+                <p>Incorrect: <span id="incorrect-count" style="color: #e74c3c; font-weight: bold;">0</span></p>
+                <p>Unanswered: <span id="unanswered-count" style="color: #7f8c8d; font-weight: bold;">0</span></p>
+            </div>
+        </div>
+        <button id="close-results" class="btn btn-primary">Try Again</button>
+    </div>
+</div>
 
-&lt;style&gt;
+<style>
 :root {
     --not-visited: #ffffff;
     --not-answered: #ff4d4d;
@@ -488,9 +488,9 @@ ul.task-list li input[type="checkbox"] {
     .status-section { border-top: 1px solid var(--border-color); }
     .question-section { height: auto; min-height: 400px; }
 }
-&lt;/style&gt;
+</style>
 
-&lt;script&gt;
+<script>
 document.addEventListener('DOMContentLoaded', function() {
     const questions = [
         {
@@ -604,12 +604,12 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function startTimer() {
-        const interval = setInterval(() =&gt; {
+        const interval = setInterval(() => {
             timeLeft--;
             const mins = Math.floor(timeLeft / 60);
             const secs = timeLeft % 60;
-            timerEl.textContent = `Time Left: ${mins}:${secs &lt; 10 ? '0' : ''}${secs}`;
-            if (timeLeft &lt;= 0) {
+            timerEl.textContent = `Time Left: ${mins}:${secs < 10 ? '0' : ''}${secs}`;
+            if (timeLeft <= 0) {
                 clearInterval(interval);
                 alert("Time is up! Submitting your test.");
                 submitTest();
@@ -619,11 +619,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function renderPalette() {
         palette.innerHTML = '';
-        questions.forEach((q, i) =&gt; {
+        questions.forEach((q, i) => {
             const btn = document.createElement('button');
             btn.className = `palette-btn ${getStatusClass(status[i])} ${i === currentIdx ? 'current' : ''}`;
             btn.textContent = i + 1;
-            btn.onclick = () =&gt; loadQuestion(i);
+            btn.onclick = () => loadQuestion(i);
             palette.appendChild(btn);
         });
         updateLegendCounts();
@@ -642,7 +642,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function updateLegendCounts() {
         const counts = [0,0,0,0,0];
-        status.forEach(s =&gt; counts[s]++);
+        status.forEach(s => counts[s]++);
         document.querySelector('.badge-not-visited').textContent = counts[0];
         document.querySelector('.badge-not-answered').textContent = counts[1];
         document.querySelector('.badge-answered').textContent = counts[2];
@@ -660,11 +660,11 @@ document.addEventListener('DOMContentLoaded', function() {
         qText.textContent = q.text;
 
         optContainer.innerHTML = '';
-        q.options.forEach((opt, i) =&gt; {
+        q.options.forEach((opt, i) => {
             const div = document.createElement('div');
             div.className = `option-item ${answers[idx] === i ? 'selected' : ''}`;
-            div.innerHTML = `&lt;input type="radio" name="option" ${answers[idx] === i ? 'checked' : ''}&gt; &lt;span&gt;${opt}&lt;/span&gt;`;
-            div.onclick = () =&gt; selectOption(i);
+            div.innerHTML = `<input type="radio" name="option" ${answers[idx] === i ? 'checked' : ''}> <span>${opt}</span>`;
+            div.onclick = () => selectOption(i);
             optContainer.appendChild(div);
         });
 
@@ -674,14 +674,14 @@ document.addEventListener('DOMContentLoaded', function() {
     function selectOption(i) {
         answers[currentIdx] = i;
         const items = optContainer.querySelectorAll('.option-item');
-        items.forEach((item, idx) =&gt; {
+        items.forEach((item, idx) => {
             item.classList.toggle('selected', idx === i);
             item.querySelector('input').checked = (idx === i);
         });
     }
 
     // Buttons
-    document.getElementById('save-next-btn').onclick = () =&gt; {
+    document.getElementById('save-next-btn').onclick = () => {
         if (answers[currentIdx] !== null) {
             status[currentIdx] = 2;
         } else {
@@ -690,7 +690,7 @@ document.addEventListener('DOMContentLoaded', function() {
         moveToNext();
     };
 
-    document.getElementById('mark-review-btn').onclick = () =&gt; {
+    document.getElementById('mark-review-btn').onclick = () => {
         if (answers[currentIdx] !== null) {
             status[currentIdx] = 4;
         } else {
@@ -699,7 +699,7 @@ document.addEventListener('DOMContentLoaded', function() {
         moveToNext();
     };
 
-    document.getElementById('clear-btn').onclick = () =&gt; {
+    document.getElementById('clear-btn').onclick = () => {
         answers[currentIdx] = null;
         if (status[currentIdx] === 2) status[currentIdx] = 1;
         if (status[currentIdx] === 4) status[currentIdx] = 3;
@@ -707,7 +707,7 @@ document.addEventListener('DOMContentLoaded', function() {
     };
 
     function moveToNext() {
-        if (currentIdx &lt; questions.length - 1) {
+        if (currentIdx < questions.length - 1) {
             loadQuestion(currentIdx + 1);
         } else {
             renderPalette();
@@ -720,8 +720,8 @@ document.addEventListener('DOMContentLoaded', function() {
         let incorrect = 0;
         let unanswered = 0;
 
-        questions.forEach((q, i) =&gt; {
-            // Only Answered (2) and Answered &amp; Marked (4) are evaluated
+        questions.forEach((q, i) => {
+            // Only Answered (2) and Answered & Marked (4) are evaluated
             if (status[i] === 2 || status[i] === 4) {
                 if (answers[i] === q.correct) {
                     correct++;
@@ -739,7 +739,7 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('unanswered-count').textContent = unanswered;
         document.getElementById('results-modal').style.display = 'flex';
 
-        if (correct &gt;= (questions.length * 0.7)) {
+        if (correct >= (questions.length * 0.7)) {
             confetti({
                 particleCount: 150,
                 spread: 70,
@@ -749,20 +749,20 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    document.getElementById('submit-test-btn').onclick = () =&gt; {
-        const answeredCount = status.filter(s =&gt; s === 2 || s === 4).length;
+    document.getElementById('submit-test-btn').onclick = () => {
+        const answeredCount = status.filter(s => s === 2 || s === 4).length;
         if (confirm(`You have answered ${answeredCount} out of ${questions.length} questions. Are you sure you want to submit?`)) {
             submitTest();
         }
     };
 
-    document.getElementById('close-results').onclick = () =&gt; {
+    document.getElementById('close-results').onclick = () => {
         location.reload();
     };
 
     init();
 });
-&lt;/script&gt;</code></pre>
+</script>
 <hr>
 <section id="important-test-instructions" class="level3">
 <h3 class="anchored" data-anchor-id="important-test-instructions">Important Test Instructions</h3>
