@@ -26,7 +26,9 @@ website:
   comments:
     giscus:
       repo: spatialgeography/spatialgeography.github.io
+      repo-id: R_kgDOQ3kQ4w
       category: General
+      category-id: DIC_kwDOQ3kQ484C7v6Y
       mapping: pathname
       reactions-enabled: true
       loading: lazy
