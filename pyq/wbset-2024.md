@@ -1,4 +1,4 @@
-# Geography Paper-II (SET 2024)
+# WB SET 2024
 
 **Subject Code:** 13 | **Series:** X | **Maximum Marks:** 200 | **Time:** 2 Hours
 
