@@ -33,3 +33,9 @@
 - **Mid-1880s:** The term "Geomorphology" was formally introduced.
 - **1899:** W.M. Davis — *Geographical Cycle*.
 - **1924:** Walther Penck — *Morphological Analysis*.
+
+#### Evolution of Geomorphic Concepts (Chronology)
+1. **Principle of Uniformitarianism** (James Hutton, 1785)
+2. **Theory of Continental Drift** (Alfred Wegener, 1912)
+3. **Theory of Convection Current** (Arthur Holmes, 1928)
+4. **Dynamic Equilibrium Theory** (John Hack, 1960)

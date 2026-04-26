@@ -22,4 +22,5 @@
 * **David Smith's Spatial Margins of Profitability (1971)**: Incorporates spatial variations in both costs and revenues to find the area where profit is possible. Also known for the **Area-cost curve** approach.
 * **Edgar Hoover**: Emphasized transport cost structure (terminal vs. line-haul costs) and the concept of **Delivered prices**.
 * **Allan Pred**: Behavioural approach — bounded rationality, imperfect information in locational decision-making. His proposition suggests that the 'Behavioral Approach' strongly determines the location of an industry.
+* **Textile Industry Location:** Transportation cost does not play a major role in the location of the textile industry because the weight of cotton is more or less equal to the weight of the finished product (i.e., cotton is a **pure material** or weight-neutral).
 :::

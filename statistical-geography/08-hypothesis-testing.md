@@ -16,6 +16,7 @@
 ### Key Concepts
 * **Sampling**: Selecting a subset from a population. Probability (Random, Stratified, Systematic, Cluster) vs. Non-probability (Purposive, Snowball, Quota).
 * **Hypothesis Testing**: Formulating Null ($H_0$) and Alternative ($H_1$) hypotheses. Type I error (reject true $H_0$) and Type II error (accept false $H_0$). Set significance level ($lpha$, usually 0.05).
+* **Standard Error (SE):** Considered as the measure of the **sampling error**. It indicates how much the sample mean is likely to differ from the actual population mean.
 * **Parametric Tests** (assume normal distribution):
   - *t-test*: Compares means of two groups.
   - *ANOVA (Analysis of Variance)*: Compares means of three or more groups.

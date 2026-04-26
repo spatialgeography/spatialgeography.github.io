@@ -22,6 +22,8 @@
 * **Migration System Theory:** Focuses on historical linkage, feedback loops, and network dynamics.
 * **New Economics of Labour Migration:** Household level decision-making to diversify income.
 * **Gravity Model**: Migration proportional to population sizes, inversely proportional to distance.
+* **Mobility Transition Model (Zelinsky):** Suggests that the type and scale of migration change as a society moves through the stages of the Demographic Transition Model, conditioned by **population growth, level of urbanization, and technology**.
+* **Small Distance Migration:** For small distance migration, **female migration** often overtakes male migration due to the **patriarchal structure** of the society (primarily marriage-related migration).
 * **Arthur Lewis Model (Dual Economy):** Describes the transition of labor from the rural subsistence sector (surplus labor) to the urban industrial sector.
 * **Consequences**: Economic (remittances, brain drain/gain), social (cultural exchange, family disruption), demographic (age-sex structure), political (refugee crises). Note that the *improvement in the rural economy due to lower population pressure* is generally not considered a direct consequence of accelerated rural to urban migration. 
 * **Feminisation of the Farm Sector:** Gradually on the rise because of the increase in male migration from rural to urban areas.

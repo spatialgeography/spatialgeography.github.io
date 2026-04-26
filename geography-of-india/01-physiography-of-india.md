@@ -28,9 +28,10 @@
 * **The Islands**: Andaman & Nicobar (volcanic/tectonic origin) and Lakshadweep (coral origin).
   - **Ten Degree Channel:** Separates the **Andaman Islands** (Little Andaman) from the **Nicobar Islands** (Car Nicobar).
 * **Syntaxial Bends:** The Himalayan mountain range exhibits two major syntaxial bends — the **Western** (near the Indus gorge) and the **Eastern** (near the Tsangpo/Zangbo gorge).
+* **Kashmir Valley:** A large intermontane valley located between the **Pir Panjal Range** and the **Zaskar Range**.
 * **Fluvial Indicators:**
   - **Pebble Stratum:** Usually associated with a **fast-flowing river**.
 * **Geological Evolution Chronology:** (i) Northward movement of Indian plate → (ii) Deccan plateau hotspot volcanism → (iii) Collision of Indian plate with Eurasian plate → (iv) Formation of Narmada fault system.
-* **Impact Structures:** Ramgarh (Rajasthan), Dhala (MP), Lonar (Maharashtra), and Shiva (Arabian Sea Shelf).
+* **Impact Structures:** Ramgarh (Rajasthan), Dhala (MP), and **Lonar Lake (Maharashtra)** — a unique basaltic rock crater lake formed by a meteorite impact.
 * **Mineral Reserves:** The correct ranking of states with the largest Manganese reserves is **Odisha > Karnataka > Madhya Pradesh > Maharashtra**.
 :::

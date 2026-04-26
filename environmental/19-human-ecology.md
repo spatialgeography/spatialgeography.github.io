@@ -35,5 +35,7 @@ Human ecology studies the relationships between human societies and their natura
 * **Social Ecology & Concepts:**
   - **Kropotkin:** Developed the idea of social interaction within social groups under the principle of **Mutual aid**.
   - **Frederic le Play:** Originator of the conceptual interplay between **"place-work-folk"**, a foundation of social geography.
+  - **Herbert Spencer:** First applied **Darwinism** in the field of Social Ecology.
+  - **Deep Ecology:** Characterized by a **holistic view**, **green movements**, and **simple living** (not anthropocentric).
 :::
 

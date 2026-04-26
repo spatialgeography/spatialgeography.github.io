@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -153,6 +182,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#types-of-precipitation" id="toc-types-of-precipitation" class="nav-link" data-scroll-target="#types-of-precipitation">Types of Precipitation</a></li>
   <li><a href="#measurement-of-humidity" id="toc-measurement-of-humidity" class="nav-link" data-scroll-target="#measurement-of-humidity">Measurement of Humidity</a></li>
   <li><a href="#rainfall-formation-processes" id="toc-rainfall-formation-processes" class="nav-link" data-scroll-target="#rainfall-formation-processes">Rainfall Formation Processes</a></li>
+  <li><a href="#key-definitions" id="toc-key-definitions" class="nav-link" data-scroll-target="#key-definitions">Key Definitions</a></li>
   <li><a href="#types-of-rainfall" id="toc-types-of-rainfall" class="nav-link" data-scroll-target="#types-of-rainfall">Types of Rainfall</a></li>
   <li><a href="#rainfall-distribution-classes" id="toc-rainfall-distribution-classes" class="nav-link" data-scroll-target="#rainfall-distribution-classes">Rainfall Distribution Classes</a></li>
   </ul></li>
@@ -160,6 +190,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#koeppens-climate-classification" id="toc-koeppens-climate-classification" class="nav-link" data-scroll-target="#koeppens-climate-classification">Koeppen’s Climate Classification</a></li>
   <li><a href="#thornthwaites-climate-classification" id="toc-thornthwaites-climate-classification" class="nav-link" data-scroll-target="#thornthwaites-climate-classification">Thornthwaite’s Climate Classification</a></li>
+  <li><a href="#köppen-symbol-matching" id="toc-köppen-symbol-matching" class="nav-link" data-scroll-target="#köppen-symbol-matching">Köppen Symbol Matching</a></li>
   <li><a href="#major-classification-systems-summary" id="toc-major-classification-systems-summary" class="nav-link" data-scroll-target="#major-classification-systems-summary">Major Classification Systems Summary</a></li>
   </ul></li>
   <li><a href="#hydrological-cycle" id="toc-hydrological-cycle" class="nav-link" data-scroll-target="#hydrological-cycle">Hydrological Cycle</a>
@@ -201,6 +232,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#quick-reference" id="toc-quick-reference" class="nav-link" data-scroll-target="#quick-reference">Quick Reference</a></li>
   <li><a href="#international-conferences-on-climate" id="toc-international-conferences-on-climate" class="nav-link" data-scroll-target="#international-conferences-on-climate">International Conferences on Climate</a></li>
   <li><a href="#key-scholars-their-contributions-summary" id="toc-key-scholars-their-contributions-summary" class="nav-link" data-scroll-target="#key-scholars-their-contributions-summary">Key Scholars &amp; Their Contributions (Summary)</a></li>
+  <li><a href="#key-formulae" id="toc-key-formulae" class="nav-link" data-scroll-target="#key-formulae">Key Formulae</a></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -355,6 +387,11 @@ ul.task-list li input[type="checkbox"] {
 <section id="gaseous-composition" class="level3">
 <h3 class="anchored" data-anchor-id="gaseous-composition">Gaseous Composition (%)</h3>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Gas</th>
@@ -380,7 +417,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td style="text-align: left;">Carbon Dioxide (CO₂)</td>
-<td style="text-align: left;">Up to 32 km</td>
+<td style="text-align: left;">Up to 32 km. Mainly from respiration and decomposition by biota.</td>
 <td style="text-align: left;">0.03%</td>
 </tr>
 <tr class="odd">
@@ -416,6 +453,11 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 <ul>
+<li><strong>Other Trace Gases:</strong>
+<ul>
+<li><strong>Methane (CH₄):</strong> Derived from enteric fermentation in animals and decomposition.</li>
+<li><strong>Nitrous Oxide (N₂O):</strong> Derived from microbial activity in soil.</li>
+</ul></li>
 <li><strong>Water Vapour</strong> — varies from 0–4%; less above 2000 meters</li>
 <li><strong>Dust Particles</strong> — hygroscopic nuclei; Smoke + Fog = <strong>Smog</strong></li>
 </ul>
@@ -456,7 +498,7 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="troposphere">Troposphere</h4>
 <ul>
 <li><strong>Altitude:</strong> 0–8 km (poles) to 16 km (equator); Avg = 16 km</li>
-<li><strong>Lapse Rate:</strong> 1°C per 165 m (or 6.4°C per km)</li>
+<li><strong>Lapse Rate:</strong> 1°C per 165 m (or 6.4°C per km). A <strong>negative lapse rate</strong> is synonymous with <strong>temperature inversion</strong>, where temperature increases with height.</li>
 <li><strong>Water vapour:</strong> 5000 ppm (lower) to 100 ppm (upper, 11–12 km)</li>
 <li><strong>Pressure:</strong> 1013 mb at sea level → 200 mb at 12 km</li>
 <li><strong>Density:</strong> 1 kg/m³ → 0.2 kg/m³ at top</li>
@@ -467,6 +509,7 @@ ul.task-list li input[type="checkbox"] {
 <li>Average pressure is approximately <strong>100 mb</strong>.</li>
 <li>Discovered by <strong>WMO (World Meteorological Organization) — 1957</strong>.</li>
 </ul></li>
+<li><strong>Air Travel:</strong> Air travel from London to New York involves longer time than the return journey because of the resistance of the <strong>Upper air jet stream</strong> (headwinds).</li>
 </ul>
 </section>
 <section id="stratosphere" class="level4">
@@ -579,9 +622,11 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>Insolation</strong> = Incoming Solar Radiation</li>
 <li>Averaged over a year, approximately <strong>342 W</strong> of solar energy reaches every m² of Earth.</li>
+<li>Solar radiation is mostly in the short wave range of <strong>&lt; 4 µm</strong>. Solar wavelengths shorter than <strong>0.285 µm</strong> hardly penetrate below 20 km altitude of the atmosphere.</li>
 <li><strong>Pyranometer</strong> — instrument to measure Albedo</li>
 <li>44% of Energy emitted by Visible Light (EMR)</li>
 <li><strong>Langley</strong> — unit to measure solar constant</li>
+<li><strong>Astronomical effects (Milankovitch cycles):</strong> Eccentricity of earth’s orbit = 95,000 years; Axial tilt = 41,000 years; Wobble and shift of axis (precession) = 21,000 years.</li>
 </ul>
 <section id="scattering" class="level4">
 <h4 class="anchored" data-anchor-id="scattering">Scattering</h4>
@@ -754,8 +799,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="vertical-temperature" class="level3">
 <h3 class="anchored" data-anchor-id="vertical-temperature">Vertical Temperature</h3>
 <ul>
-<li><strong>Normal Lapse Rate</strong> = 1°C per 165 m (6.4°C/km)</li>
+<li><strong>Normal / Environmental Lapse Rate</strong> = <strong>0.0065°C/m</strong> (or 6.4 to 6.5°C/km).</li>
 <li>Temperature at upper troposphere = −55°C to −60°C</li>
+<li>Temperature varies at different times of the day because radiation intensity per unit area and the amount of reflection depend on the angle between solar rays and a tangent to the earth’s surface.</li>
 <li>Mesosphere upper limit = −80°C</li>
 <li>At 400 km = 1000°C</li>
 </ul>
@@ -821,6 +867,11 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: left;"><strong>Trade Wind Inversion</strong></td>
 <td style="text-align: left;">—</td>
 <td style="text-align: left;">—</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Blocking Anticyclone</strong></td>
+<td style="text-align: left;">Associated with NW Europe in both winter and summer. It causes prolonged cold dry seasons in Western Europe and exceptionally fine weather in summer.</td>
+<td style="text-align: left;">NW Europe</td>
 </tr>
 </tbody>
 </table>
@@ -998,6 +1049,7 @@ ul.task-list li input[type="checkbox"] {
 <li>NH → SW to NE; SH → NW to SE</li>
 <li><strong>Roaring Forties</strong> = 40°S; <strong>Furious Fifties</strong> = 50°S; <strong>Shrieking Sixties</strong> = 60°S</li>
 <li><strong>Dish-pan experiment</strong> relates to the formation of <strong>Rossby Waves</strong> embedded in the Westerlies.</li>
+<li><strong>Global Rainfall Changes:</strong> Rainfall distribution at a global-scale in recent decades is altered due to the alteration of the <strong>Hadley cell</strong> of general wind circulation.</li>
 </ul>
 </section>
 <section id="polar-winds" class="level4">
@@ -1106,6 +1158,8 @@ ul.task-list li input[type="checkbox"] {
 <li>Rig Veda — first mention of monsoon</li>
 <li>Al-Masudi — documented monsoon</li>
 <li>Sidi Ali — 1564 AD</li>
+<li><strong>Indian Ocean Dipole (IOD):</strong> Refers to the <strong>Sea surface temperature anomaly</strong> and affects the <strong>Rainfall</strong> of countries that surround the Indian Ocean Basin.</li>
+<li><strong>Monsoon Delay Factors:</strong> Delay in monsoon onset in India is often caused by (1) El Niño, (2) Weak Tibetan anticyclone, (3) Presence of Westerly Jet Stream south of the Himalaya during summer, and (4) Late shifting of ITCZ.</li>
 </ul>
 </section>
 <section id="monsoon-research-programmes" class="level4">
@@ -1335,6 +1389,12 @@ ul.task-list li input[type="checkbox"] {
 <li>Clouds: Cirrus (Ci) → Cirrostratus (Cs) → Altocumulus (Ac) → Altostratus (As)</li>
 </ul>
 </section>
+<section id="katafront" class="level4">
+<h4 class="anchored" data-anchor-id="katafront">Katafront</h4>
+<ul>
+<li>In Katafronts, the warm airmass sinks relative to the cold airmass. They are less active, and warm air is overrun by dry descending air.</li>
+</ul>
+</section>
 <section id="cold-front" class="level4">
 <h4 class="anchored" data-anchor-id="cold-front">Cold Front</h4>
 <ul>
@@ -1346,7 +1406,8 @@ ul.task-list li input[type="checkbox"] {
 <section id="occluded-front" class="level4">
 <h4 class="anchored" data-anchor-id="occluded-front">Occluded Front</h4>
 <ul>
-<li>When a cold front <strong>overtakes a warm front</strong> and lifts the warm air mass completely off the ground</li>
+<li>When a cold front <strong>overtakes a warm front</strong> and lifts the warm air mass completely off the ground.</li>
+<li><strong>Warm Occluded Front:</strong> The air behind the cold front is <strong>warmer</strong> than the cool air it is overtaking.</li>
 </ul>
 </section>
 <section id="quasi-stationary-front" class="level4">
@@ -1471,8 +1532,9 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>Diameter:</strong> 80–300 km (some 50 km or less)</li>
 <li><strong>High wind speed</strong>; sea temperature must be <strong>27°C or more</strong></li>
+<li>They mostly occur in late summer and autumn. They do <em>not</em> occur beneath the jet stream.</li>
 <li><strong>No cyclones occur along the equator</strong> because the Coriolis force is zero.</li>
-<li><strong>Eye of the cyclone</strong> — centre of extreme low pressure. The temperature inside the eye is typically warmer than that of the surroundings. Note that some cyclones may not develop an eye.</li>
+<li><strong>Eye of the cyclone</strong> — centre of extreme low pressure in spite of descending wind. At the eye, adiabatic warming of descending airmass accentuates high temperature. Note that some cyclones may not develop an eye.</li>
 </ul>
 <section id="classification-christopherson-1995" class="level4">
 <h4 class="anchored" data-anchor-id="classification-christopherson-1995">Classification (Christopherson, 1995)</h4>
@@ -1521,6 +1583,8 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Fujita Scale (F-scale)</strong> — T. Theodore Fujita, University of Chicago</li>
 <li><strong>Mamma clouds</strong> — formed at the base of severe thunderstorms</li>
 <li><strong>News clouds</strong> — appear like a long rolling cylinder / wedge</li>
+<li><strong>Doppler Radar:</strong> Used for <strong>Nowcasting</strong> (very short-range weather forecasting).</li>
+<li><strong>Water spout:</strong> An intense low pressure system similar to a tornado but develops over a sea or large water-body; typically associated with a cumulonimbus cloud-base.</li>
 </ul>
 </section>
 <section id="structure-of-tropical-cyclone" class="level4">
@@ -1639,6 +1703,9 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
+<ul>
+<li><strong>Fog:</strong> Geographically, the most extensive fogs in India during winter are mainly <strong>Radiation fogs</strong>.</li>
+</ul>
 </section>
 <section id="measurement-of-humidity" class="level3">
 <h3 class="anchored" data-anchor-id="measurement-of-humidity">Measurement of Humidity</h3>
@@ -1664,7 +1731,7 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><strong>Bergeron–Findeisen Process</strong> (Ice Crystal Process)</td>
-<td style="text-align: left;">Tor Bergeron and von Findeisen</td>
+<td style="text-align: left;">Tor Bergeron and von Findeisen. It involves mixed clouds with co-existence of ice and water, differences in saturation vapour pressure, and migration of water vapour towards sublimation nuclei.</td>
 <td style="text-align: left;">1933</td>
 </tr>
 <tr class="even">
@@ -1674,6 +1741,12 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
+</section>
+<section id="key-definitions" class="level3">
+<h3 class="anchored" data-anchor-id="key-definitions">Key Definitions</h3>
+<ul>
+<li><strong>Cloudburst:</strong> Defined by the IMD as rainfall of <strong><span class="math inline">\(\ge\)</span> 10 cm / hour</strong>.</li>
+</ul>
 </section>
 <section id="types-of-rainfall" class="level3">
 <h3 class="anchored" data-anchor-id="types-of-rainfall">Types of Rainfall</h3>
@@ -2161,8 +2234,17 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Complexity and Replicability:</strong> It uses complex indices, making it difficult to replicate for other areas.</li>
 <li><strong>Overemphasis on Water Balance:</strong> This rigid mathematical approach may not accurately capture true, holistic climate variability.</li>
 </ul>
-<hr>
 </section>
+</section>
+<section id="köppen-symbol-matching" class="level3">
+<h3 class="anchored" data-anchor-id="köppen-symbol-matching">Köppen Symbol Matching</h3>
+<ul>
+<li><strong>Tropical Monsoon:</strong> Am</li>
+<li><strong>Mediterranean:</strong> Csa / Csb</li>
+<li><strong>Tropical Hot Desert:</strong> Bwh</li>
+<li><strong>Arctic:</strong> ET / EF</li>
+</ul>
+<hr>
 </section>
 <section id="major-classification-systems-summary" class="level3">
 <h3 class="anchored" data-anchor-id="major-classification-systems-summary">Major Classification Systems Summary</h3>
@@ -2394,6 +2476,7 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li><strong>1997</strong> — 141 countries signed</li>
 <li>Goal: reduce greenhouse gas emissions</li>
+<li><strong>Net Zero Target:</strong> In <strong>COP-26</strong>, India pledged to achieve Net Zero by <strong>2070</strong>.</li>
 </ul>
 <hr>
 </section>
@@ -2615,14 +2698,14 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Discovered by <strong>Gilbert Walker (1920)</strong> — curious see-saw pattern of meteorological changes between Pacific and Indian Oceans</li>
 <li>The term <strong>oscillation</strong> is associated with El Niño and La Niña because their fluctuations are <strong>not perfectly periodic</strong>.</li>
-<li><strong>Walker Circulation</strong> — Walker’s model of atmospheric circulation</li>
+<li><strong>Walker Circulation</strong> — Walker’s model of atmospheric circulation. In an <strong>El Niño year</strong>, the Western Pacific warm pool moves towards the east, which modifies the Walker Circulation.</li>
 <li><strong>SOI</strong> = Southern Oscillation Index (negative SOI = favourable for El Niño)</li>
 </ul>
 </section>
 <section id="enso" class="level3">
 <h3 class="anchored" data-anchor-id="enso">ENSO</h3>
 <ul>
-<li><strong>ENSO</strong> = El Niño + Southern Oscillation</li>
+<li><strong>ENSO</strong> = El Niño + Southern Oscillation; a periodic fluctuation with a cycle of <strong>2 – 7 years</strong>. ENSO events are specifically associated with the <strong>Walker cell</strong>.</li>
 </ul>
 </section>
 <section id="la-niña" class="level3">
@@ -3078,11 +3161,22 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: left;">Invented Aneroid Barometer</td>
 </tr>
 <tr class="odd">
+<td style="text-align: left;"><strong>Admiral Beaufort</strong></td>
+<td style="text-align: left;"><strong>Beaufort scale</strong>: relates to the <strong>Velocity of Winds</strong>.</td>
+</tr>
+<tr class="even">
 <td style="text-align: left;">R.K. Pachauri</td>
 <td style="text-align: left;">Crop yield impact of global warming</td>
 </tr>
 </tbody>
 </table>
+<hr>
+</section>
+<section id="key-formulae" class="level2">
+<h2 class="anchored" data-anchor-id="key-formulae">Key Formulae</h2>
+<ul>
+<li><strong>Relative Humidity (RH):</strong> <span class="math inline">\(\frac{\text{Actual water vapour content}}{\text{Water vapour capacity (saturation)}} \times 100\)</span>. (e.g., at 25°C, if capacity is 20g and content is 15g, <span class="math inline">\(RH = (15/20) \times 100 = 75\%\)</span>).</li>
+</ul>
 <hr>
 <p><em>Notes compiled by Pulakesh Pradhan — Climatology (NET)</em></p>
 <hr>

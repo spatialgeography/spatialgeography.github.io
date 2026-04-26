@@ -30,6 +30,12 @@
 | *Explanation in Geography* | David Harvey |
 | *History of Geographical Discovery* | J. N. L. Baker |
 | *Ancient Geography of India* | Alexander Cunningham |
+| Rimland Theory | Nicholas J. Spykman |
+| Geostrategic and Geopolitical Realms | Saul Cohen |
+| Unified Field Theory | S. B. Jones (linked Gottman & Hartshorne) |
+| *Grand Theory* | C. Wright Mills |
+| Geopiety | J. K. Wright |
+| Model Elements (Channels, Diffusion, etc.) | Peter Haggett |
 
 ---
 

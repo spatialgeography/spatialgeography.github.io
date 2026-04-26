@@ -20,5 +20,6 @@
 * **Under-population**: Resources exceed population needs — labour shortage, untapped potential (Australia, Canada, parts of Russia).
 * **Optimum Population**: Ideal balance between population and resources for maximum welfare.
 * **Resource Frontiers**: Newly developed regions with low population but high resource potential.
+* **Boserupian Theory:** The theory of population growth proposed by **Ester Boserup** (population growth drives agricultural intensity) is most appropriate for **subsistence societies**.
 :::
 

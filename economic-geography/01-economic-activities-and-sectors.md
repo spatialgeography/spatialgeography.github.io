@@ -21,5 +21,6 @@
 * **Tertiary Activities**: Provision of services (retail, banking, transport, education, healthcare).
 * **Quaternary Activities**: Information processing and knowledge-based services (research, IT, financial planning).
 * **Quinary Activities**: High-level decision-making roles (executives, government officials, research scientists).
+* **Mentifact:** Refers to the abstract belief systems (ideas, values, beliefs) that pass over from generation to generation within a culture.
 * **Sectoral Shift**: Transition of economies from primary to secondary to tertiary dominance as they develop (Clark-Fisher model).
 :::

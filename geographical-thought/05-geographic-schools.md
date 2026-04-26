@@ -112,6 +112,7 @@
 - *"Man is the most adaptable and mobile organism on the face of the Earth"*
 - **'Regional geography — the core of geography'**
 - **Principle of Terrestrial Unity** — dominant idea in all geographical processes
+- **Influences:** Vidal de la Blache was notably influenced by **Friedrich Ratzel's Anthropogeography** while articulating his ideas of Possibilism.
 - After his death: **16 departments of geography** in France occupied by his pupils
 - **Father of Human Geography (France)**
 
@@ -131,7 +132,7 @@
 - Supported 1848 revolution; leading promoter of anarchism; friend of **Mikhail Bakunin**
 - Taught at *New University of Brussels* in his last years
 - Works:
-  - ***La Terre*** — systematic physical geography
+  - ***La Terre*** (1868) — Systematic physical geography.
   - ***Nouvelle Géographie Universelle*** (1875–94) — 19 volumes; best known work
   - ***L'Homme et la Terre*** (1905–08) — social geography; historical account of humanity's life on Earth
 - *"The Ritter of France"*

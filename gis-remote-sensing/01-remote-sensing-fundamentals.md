@@ -31,6 +31,7 @@
   - **LISS-3:** The sensor has a spatial resolution of **23.5 meters**. The spectral range of the 10-bit SWIR band of the LISS-3 sensor on Resourcesat-2 is **1.55 – 1.70 µm**.
   - **AWiFS (Advanced Wide Field Sensor):** The spatial resolution of this sensor is **56 meters**.
   - **CartoDEM:** This digital elevation model has its origin in **India**.
+  - **INSAT (Indian National Satellite):** Series of multipurpose geostationary satellites used for **Meteorology**, telecommunications, and broadcasting.
   - **EOS-01:** An Indian SAR-based (Synthetic Aperture Radar) earth imaging satellite launched in 2020.
 * **Image Processing & ML:**
   - **Random Forest:** A widely used and effective machine learning algorithm based on the idea of **bagging**.

@@ -27,10 +27,10 @@
 
 | Belt | Latitude | Type |
 |:---|:---|:---|
-| Equatorial Low | 10° N/S | Low Pressure (Doldrums) |
-| Sub-Tropical High | Up to 35° N/S | High Pressure (Horse Latitudes) |
-| Sub-Polar Low | 45° N/S | Low Pressure |
-| Polar High | 80° N/S | High Pressure |
+| Equatorial Low | **5°–5° North and South** | Low Pressure (Doldrums) |
+| Sub-Tropical High | **25°–35° North and South** | High Pressure (Horse Latitudes) |
+| Sub-Polar Low | **60°–65° North and South** | Low Pressure |
+| Polar High | **85°–90° North and South** | High Pressure |
 
 - **Doldrums** — extremely calm air movement (Equatorial region)
 - **Horse Latitude** — Sub-tropical high pressure zone
@@ -44,7 +44,7 @@
 - **Pressure Gradient** — change of pressure per unit distance
 - **Coriolis Force** — G.G. de Coriolis (1835)
   - Right deflection in Northern Hemisphere; Left in Southern Hemisphere
-- **Geostrophic Balance:** Maintained with the exact balance of the Coriolis force and the horizontal pressure gradient force.
+- **Geostrophic Balance:** Maintained with the exact balance of the Coriolis force and the horizontal pressure gradient force. **Geostrophic Wind** is originated when the pressure gradient force is balanced by the Coriolis force acting in the **opposite direction**.
 - **Geostrophic Thermal Wind:** The speed of geostrophic thermal wind increases with height because each isobaric surface slopes more steeply than the one below it.
 - **1855** — W. Ferrel → **Ferrel's Law** / **Buys Ballot's Law**
 - **Buys Ballot (1857):** '0' at Equator → Maximum at Poles; 30° lat = 50% deflection; 60° lat = 86.7% deflection

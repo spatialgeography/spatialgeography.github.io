@@ -16,7 +16,7 @@
 ::: {.callout-note}
 ### Key Concepts
 * **Choropleth Map**: Uses shading/colors within predefined administrative boundaries (states, districts) to represent derived data (densities, rates, percentages). Not suitable for absolute numbers.
-* **Isopleth (Isarithmic) Map**: Lines connecting points of equal value (e.g., isotherms, contours, isobars). Assumes continuous data mapped over an isotropic surface.
+* **Isopleth (Isarithmic) Map**: Lines connecting points of equal value (e.g., isotherms, contours, isobars). Assumes continuous data mapped over an isotropic surface. It is the best method to represent the **Rate of change** (when data is given in ratios or percentages).
 * **Chorochromatic Map**: Color-patch map showing qualitative distribution without numerical value (e.g., soil types, land use zones).
 * **Dasymetric Map**: Advanced choropleth that ignores administrative boundaries in favor of actual geographical boundaries of the phenomenon (e.g., mapping population density excluding lakes and forests).
 * **Flow Map**: Lines of varying thickness show direction and volume of movement (trade, traffic, migration).

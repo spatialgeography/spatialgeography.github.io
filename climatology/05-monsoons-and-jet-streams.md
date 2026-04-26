@@ -32,6 +32,8 @@
 - Sidi Ali — 1564 AD
 - **Indian Ocean Dipole (IOD):** Refers to the **Sea surface temperature anomaly** and affects the **Rainfall** of countries that surround the Indian Ocean Basin.
 - **Monsoon Delay Factors:** Delay in monsoon onset in India is often caused by (1) El Niño, (2) Weak Tibetan anticyclone, (3) Presence of Westerly Jet Stream south of the Himalaya during summer, and (4) Late shifting of ITCZ.
+- **Major Monsoon Factors:** The major factors responsible for the monsoon type of climate in India include **Location**, **Thermal contrast**, **Upper air circulation**, and the **Inter-tropical convergence zone**.
+- **Rainiest Month:** According to the IMD, **July** is the rainiest month in India. The South-West Monsoon usually covers the whole country by the middle of July.
 
 #### Monsoon Research Programmes
 

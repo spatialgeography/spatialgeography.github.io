@@ -25,6 +25,7 @@
     - *Surging Breaker:* Steep beach gradient, moderate grain size, moderate/low energy dissipation.
 * **Tides**: Periodic rise and fall of sea level caused by gravitational pull of Moon and Sun. Development of the earth's tidal bulge on the opposite direction of the moon is best explained by **Centrifugal force**.
   - Spring tides (syzygy), neap tides (quadrature)
+  - **Perigean Spring Tides:** These tides have the **highest amplitude** among various tidal types, occurring when the moon is at perigee (closest to Earth) during a full or new moon.
   - Diurnal, semi-diurnal, and mixed tidal patterns
   - **Rotating Tide:** The co-tidal line rotates in a clockwise direction, and tidal amplitude increases away from the **amphidromic point**, which is a position inside the ocean that experiences **no fluctuation** of water level due to tide.
   - Tidal bore and tidal range

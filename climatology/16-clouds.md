@@ -35,3 +35,7 @@
 |:---|:---|
 | Cumulus | 'Pile' — flat base, rounded tops |
 | Cumulonimbus | Storm cloud; reaches from low to high level |
+
+#### Cloud Sequence by Height
+The correct sequence of cloud types with increasing height from the ground level is:
+**Cumulus → Stratocumulus → Altocumulus → Cirrocumulus**.

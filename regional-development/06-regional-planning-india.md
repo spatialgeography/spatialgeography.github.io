@@ -19,6 +19,9 @@
 * **NITI Aayog**: Replaced Planning Commission. Focus on 'cooperative federalism', bottom-up approach, think-tank role.
 * **Multi-Level Planning**: Central → State → District → Block → Gram Panchayat (73rd/74th Constitutional Amendments).
 * **District Planning**: Constitution of District Planning Committees (DPCs) to integrate rural and urban plans.
+* **Planning Milestones:**
+  - **Second Five Year Plan:** Based on the **P. C. Mahalanobis Model**, which emphasized heavy industrialization.
+  - **National Income Estimation:** The data for the estimation of India's National Income is issued by the **Central Statistical Organisation (CSO)**.
 * **Target Area/Group Planning**: Addressed specific geographic disadvantages.
   - *Area*: Drought Prone Area Prog (DPAP), Hill Area Development Prog (HADP), Command Area Development (CAD).
   - *Groups*: Tribal Sub Plan (TSP), Special Component Plan for Scheduled Castes.

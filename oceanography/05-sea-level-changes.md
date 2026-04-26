@@ -21,7 +21,8 @@
 * **Isostatic Changes**: Local changes due to crustal uplift or subsidence.
   - Post-glacial rebound (Scandinavia, Canada). Some European coasts record sea-level fall due to **isostatic rebound** resulting from deglaciation.
   - Tectonic subsidence
-* **Current Sea-Level Rise**: ~3.6 mm/year — thermal expansion of oceans + melting of glaciers and ice sheets.
+* **Current Sea-Level Rise**: The average global rate of sea-level rise at present is about **3.3 mm/year**. Past records of sea-level changes are best deciphered from **Mangrove-fringed coasts**.
+* **Carbonate Compensation Depth (CCD):** The depth in the ocean below which the rate of supply of calcium carbonate is exceeded by the rate of dissolution. In most oceans, the CCD is usually about **4,500 meters**.
 * **Impacts**: Coastal flooding, erosion, saltwater intrusion, loss of wetlands, island submergence.
 * **Emergent and Submergent Coastlines**: Raised beaches, marine terraces (emergent); rias, fjords, drowned valleys (submergent).
 * **Coral Reefs as Indicators**: Reef growth tracks sea-level changes — Darwin's subsidence theory.

@@ -22,7 +22,15 @@
 * **Fog:** Geographically, the most extensive fogs in India during winter are mainly **Radiation fogs**.
 
 ### Measurement of Humidity
+- **Specific Humidity:** The ratio of the weight of water vapour in a parcel of the atmosphere to the total weight of moist air.
 - **Lithium chloride-based hygrometer:** A technique for measuring atmospheric moisture based on electrical resistance.
+
+### Dew Formation
+Favourable conditions for the formation of dew include:
+1. **Clear sky.**
+2. **Calm evening** without turbulence in the atmosphere.
+3. **Nocturnal radiative cooling** below the dew point temperature of the air resting near the earth's surface.
+4. **Warm previous day** to raise the moisture content of the air.
 
 ### Rainfall Formation Processes
 

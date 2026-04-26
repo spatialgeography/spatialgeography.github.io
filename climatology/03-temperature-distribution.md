@@ -20,6 +20,7 @@
 | Tropical / Torrid | 23½°N to 23½°S | No winter season |
 | Temperate | 23½°N/S to 66½°N/S | Both summer and winter |
 | Frigid | 66½°N/S to 90°N/S | — |
+| **Minimum Temperature Range** | — | The range of temperatures ever recorded had been the minimum in the continent of **Antarctica**. |
 
 ### Vertical Temperature
 

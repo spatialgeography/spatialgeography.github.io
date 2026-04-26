@@ -19,6 +19,7 @@ Environmental ethics examines the moral relationship between humans and the natu
 * **Anthropocentrism**: Human-centred ethics — nature has value only insofar as it serves human needs.
 * **Biocentrism**: Life-centred ethics — all living organisms have inherent moral value (Paul Taylor).
 * **Ecocentrism**: Ecosystem-centred ethics — entire ecosystems, species, and ecological processes have intrinsic value (Aldo Leopold's "Land Ethic").
+* **Tragedy of the Commons:** A classic essay written by **Garrett Hardin** (1968), discussing the conflict between individual interests and the common good in resource management.
 * **Intergenerational Equity**: Obligation to preserve environmental quality for future generations.
 * **Precautionary Principle**: Where threats of serious damage exist, lack of scientific certainty should not postpone preventive measures.
 :::

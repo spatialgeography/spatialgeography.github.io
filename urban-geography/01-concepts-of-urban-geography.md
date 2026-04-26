@@ -23,5 +23,6 @@
   - *Gordon Childe:* Viewed the neolithic village as the foundation of urban life.
   - *Henri Pirenne:* Urban development centers around production of agricultural surplus.
   - *Lewis Mumford:* Viewed urban growth as an organic process rooted in human social needs. He proposed that the first towns originated from 'cities of the dead' (necropolises) rather than living settlements.
+* **Pre-industrial Urban Growth:** The best combination as a precondition for pre-industrial urban growth is **Population – Environment – Technology – Social organization**.
 * **Scope of Urban Geography**: Studies the spatial aspects of urban development, the internal structure of cities, and the relationships between cities conceptually and functionally.
 :::

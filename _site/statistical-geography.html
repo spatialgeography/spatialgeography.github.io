@@ -350,6 +350,8 @@ window.Quarto = {
 <li><em>Coefficient of Variation (CV)</em>: (SD/Mean)*100. Useful for comparing variability of datasets with different units.</li>
 </ul></li>
 <li><strong>Inequalities Measurement</strong>: Lorenz Curve (graphical), Gini Coefficient (numerical, 0 to 1).</li>
+<li><strong>Shape of Distribution:</strong> <strong>Skewness and Kurtosis</strong> are used for determining the <strong>Shape</strong> of a frequency distribution.</li>
+<li><strong>Normal Distribution:</strong> In a normal distribution, the percentage of the area between the mean <span class="math inline">\(\pm 1 \sigma\)</span> (Standard Deviation) is <strong>68.27%</strong>.</li>
 </ul>
 </div>
 </div>
@@ -709,7 +711,7 @@ window.Quarto = {
 </ul></li>
 <li><strong>Non-Parametric Tests</strong> (distribution-free):
 <ul>
-<li><em>Chi-Square (<span class="math inline">\(\chi^2\)</span>) Test</em>: Tests association between categorical variables (observed vs.&nbsp;expected frequencies).</li>
+<li><em>Chi-Square (<span class="math inline">\(\chi^2\)</span>) Test</em>: Tests association between categorical variables (observed vs.&nbsp;expected frequencies). A value of <strong>0</strong> indicates that the Null hypothesis is accepted.</li>
 </ul></li>
 </ul>
 </div>
@@ -756,7 +758,8 @@ window.Quarto = {
 </div>
 <div class="callout-body-container callout-body">
 <ul>
-<li><strong>Principal Component Analysis (PCA)</strong>: A dimensionality reduction technique. Correlated variables are transformed into a smaller number of uncorrelated variables called Principal Components. PC1 accounts for the most variance. Used to create composite indices (e.g., developmental index from 15 variables).</li>
+<li><strong>Principal Component Analysis (PCA)</strong>: A statistical procedure that uses an <strong>orthogonal transformation</strong> to convert a set of correlated variables to a set of uncorrelated variables. PC1 accounts for the most variance. Used to create composite indices (e.g., developmental index from 15 variables).</li>
+<li><strong>ANOVA (Analysis of Variance):</strong> Preferred over the ‘t’ test where comparison between two or more population means are involved. This is because the probability of committing <strong>Type I error</strong> accumulates when the number of comparisons in the ‘t’ test increases.</li>
 <li><strong>Cluster Analysis</strong>: Grouping a set of objects such that objects in the same group (cluster) are more similar to each other than to those in other groups. Used in regionalization (e.g., grouping districts based on socio-economic similarity).</li>
 <li><strong>Time Series Analysis</strong>: Analyzing sequence of data points over time to extract meaningful statistics. Components: Trend (long term), Cyclical, Seasonal, Irregular/Random variations. Used for climate data or population forecasting.</li>
 </ul>

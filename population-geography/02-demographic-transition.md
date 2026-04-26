@@ -15,10 +15,10 @@
 
 ::: {.callout-note}
 ### Key Concepts
-* **Demographic Transition Model (DTM)**: Describes transition from high birth/death rates to low birth/death rates.
+* **Demographic Transition Model (DTM)**: Describes transition from high birth/death rates to low birth/death rates. The growth of population through the successive stages of the DTM has the appearance of a **Sigmoid curve (S-curve)**.
   - *Stage 1*: High stationary — high birth and death rates, slow growth (pre-industrial). It took about **2 million years** for the human population to reach the **1 billion** mark.
   - *Stage 2*: Early expanding — declining death rates, high birth rates, rapid growth
-  - *Stage 3*: Late expanding — declining birth rates, continued growth at slower pace
+  - *Stage 3*: Late expanding — declining birth rates and natural increase of population begins to slow down.
   - *Stage 4*: Low stationary — low birth and death rates, slow growth/stable population. Birth and death rates **converge at a low level** in the late stage of demographic transition. The demographic transition model suggests that the **mortality rate determines the fertility rate** in the form of a positive relationship.
   - *Stage 5*: Declining — birth rate below death rate, population decline (Germany, Japan). **Scandinavian countries** have a **regressive age-sex population structure** with a negative population growth rate.
 - **Zero Population Growth (ZPG):** A condition of demographic balance where the number of people in a specified population neither grows nor declines. It is achieved when **Births + Immigration = Deaths + Emigration**.

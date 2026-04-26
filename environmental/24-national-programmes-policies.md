@@ -42,5 +42,6 @@ India has developed a comprehensive environmental policy and legal framework to 
 * **National Governance & Resources:**
   - **National Commission on Population:** Headed by the **Prime Minister of India**.
   - **Rare Earth Mining:** The **Odisha coast** is notable for the mining of 'Rare Earth' minerals (e.g., monazite).
+  - **Hill Areas Development Programme:** Initiated during the **Fifth Five Year Plan** period in India.
 :::
 

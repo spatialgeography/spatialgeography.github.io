@@ -7,7 +7,7 @@
 | **NEP-2020** | Unit III — Soil Classification: (a) By Maturity (Entisols, Inceptisols, Alfisols, Spodosols, Ultisols, Oxisols), (b) By Climate (Mollisols, Ardisols, Gelisols), (c) By Parent Material (Vertisols, Andisols) |
 :::
 
-Soil classification provides a systematic framework for understanding, comparing, and mapping soils based on their properties, formation processes, and environmental context.
+Soil classification provides a systematic framework for understanding, comparing, and mapping soils based on their properties, formation processes, and environmental context. The terms **'Pedocals'** and **'Pedalfers'** were first proposed by **C.F. Marbut**.
 
 
 [![](https://via.placeholder.com/600x300?text=Course+Module+Video)](#)

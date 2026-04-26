@@ -35,6 +35,8 @@
   - **Richter Scale (1935):** Magnitude (logarithmic 0–9).
   - **Mercalli Scale (1902):** Intensity (Roman numerals I–XII).
 - **Elastic Rebound Theory (H.F. Reid):** Explains how energy is stored in rocks and released during an earthquake.
+- **Dip:** The value of **apparent dip** of a sedimentary stratum is **always lower** than the true dip.
+- **Mass Movements:** **Lahars** are a specific type of mass-movement (mudflow) associated with **volcanoes**.
 - **Earth's Magnetism:** The magnetic property of the earth primarily results from convective movement in the **outer core**.
 
 #### Key Phenomena

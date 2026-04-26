@@ -30,6 +30,7 @@ An ecosystem is a functional unit of nature where living organisms interact with
 * **Food Chain**: Linear sequence of energy transfer — grazing chain, detritus chain.
 * **Food Web**: Complex, interconnected network of multiple food chains in an ecosystem.
 * **Trophic Levels**: Producers (T1), Primary consumers (T2), Secondary consumers (T3), Tertiary consumers (T4).
+- **Ecotone:** A transition zone between two different ecosystems. It can be depicted through a quantitative method as an **Intersection Set**.
 * **Ecological Pyramids**:
   - Pyramid of Numbers (Elton)
   - Pyramid of Biomass

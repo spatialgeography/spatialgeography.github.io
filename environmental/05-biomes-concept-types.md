@@ -21,6 +21,7 @@ A biome is a large-scale biotic community characterized by dominant vegetation t
 * **Subtropical Biome**: Savanna, Mediterranean — seasonal rainfall, dry winters or dry summers.
 * **Temperate Biome**: Deciduous and mixed forests, grasslands (prairies, steppes) — moderate climate with four distinct seasons. **Teak and Sal** are the most dominant species in **Tropical Deciduous Forests**.
 * **Polar Biome**: Tundra and ice caps — extreme cold, permafrost, limited vegetation (lichens, mosses).
+* **Desert Vegetation:** Leaf modifications like **hard and waxy leaves**, **tiny leaves or no leaves**, and **thorns instead of leaves** are adaptations in desert areas to inhibit water loss.
 :::
 
 ::: {.callout-tip}

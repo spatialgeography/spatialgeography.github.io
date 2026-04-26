@@ -65,9 +65,14 @@
 - Philosophical roots in phenomenology and existentialism
 
 ### Radicalism / Marxism (1970s)
+- **Sequence:** Radicalism appeared as a sequel to **Behaviouralism** in the development of geographical thought.
 - Social justice, inequality, class structure, political economy
 - Key scholars: **David Harvey**, **Richard Peet**
 - Spatial analysis of capitalism
+
+### Empiricism
+- The philosophical view that all knowledge originates in experience.
+- Primarily associated with **John Locke** and **David Hume**.
 
 ### Structuralism
 - Underlying structures shaping spatial patterns — Lévi-Strauss, Althusser influence

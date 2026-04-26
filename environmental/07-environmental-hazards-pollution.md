@@ -25,7 +25,7 @@ Environmental hazards encompass natural and human-induced events that threaten e
 
 ::: {.callout-important}
 ### Pollution
-* **Atmospheric Pollution**: Sources (vehicular, industrial, biomass burning), types of pollutants (SOx, NOx, CO, PM2.5, PM10, VOCs). Note that **Arsenopyrite** is a mineral and not an air pollutant.
+* **Atmospheric Pollution**: Sources (vehicular, industrial, biomass burning), types of pollutants (SOx, NOx, CO, PM2.5, PM10, VOCs). Note that **Arsenopyrite** is a mineral and not an air pollutant. **Automobile Industries** are the main source of **Carbon Monoxide (CO)** pollution by human practices.
   - *National Ambient Air Quality Standards (NAAQS):* Includes pollutants like **Lead**, which is not included in the regular National Air Quality Index (AQI).
   - *Smog Types:* **London smog** (high concentration of SO₂), **Photochemical smog** (volatile organic compounds/VOC).
 * **Water Pollution**: Point and non-point source pollution, eutrophication, groundwater contamination, marine pollution. The maximum permissible limit set by the Bureau of Indian Standards (BIS) for nitrate level in drinking water is **45 mg/l**.
@@ -36,7 +36,7 @@ Environmental hazards encompass natural and human-induced events that threaten e
   - **Resettlement of displaced persons** is a very serious and difficult issue.
 * **Land Degradation**: Soil erosion, desertification, salinization, waterlogging, loss of soil fertility.
 * **Noise Pollution**: Sources, health impacts, regulatory standards.
-* **Impact Assessment**: Environmental Impact Assessment (EIA), pollution indices, monitoring networks. A notable qualitative environmental assessment method developed in 1971 by the USGS is the **Leopold Matrix**.
+* **Impact Assessment**: Environmental Impact Assessment (EIA), pollution indices, monitoring networks. EIA was **first introduced in the U.S.A.** (NEPA, 1969). A notable qualitative environmental assessment method developed in 1971 by the USGS is the **Leopold Matrix**.
 * **Pollution Management**:
   - **Principles**: The principles of managing water and air pollution rest on **Dilution and Concentration**.
   - **Waste-water Treatment**:

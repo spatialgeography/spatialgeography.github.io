@@ -248,7 +248,9 @@ ul.task-list li input[type="checkbox"] {
 <div class="callout-body-container callout-body">
 <ul>
 <li><strong>Remote Sensing</strong>: Acquiring information about an object/phenomenon without making physical contact.</li>
-<li><strong>EMR (Electromagnetic Radiation)</strong>: Energy waves interacting with targets. Key regions: Visible (0.4-0.7 µm), Near Infrared (NIR, 0.7-1.3 µm), Shortwave Infrared (SWIR), Thermal IR, Microwave.</li>
+<li><strong>EMR (Electromagnetic Radiation)</strong>: Energy waves interacting with targets. Key regions: Visible (0.4-0.7 µm), Near Infrared (NIR, 0.7-1.3 µm), Shortwave Infrared (SWIR), Thermal IR, Microwave. <strong>Vegetation stress</strong> is best detected using the <strong>SWIR</strong> region.</li>
+<li><strong>NDVI (Normalized Difference Vegetation Index)</strong>: Calculated as <strong>(NIR - Red) / (NIR + Red)</strong>.</li>
+<li><strong>GIS Components</strong>: It is important to note that <strong>GPS</strong> is NOT considered a core component of a Geographic Information System (GIS), which typically consists of hardware, software, data, people, and methods.</li>
 <li><strong>Interaction with Atmosphere</strong>: Scattering (Rayleigh, Mie, Non-selective) and Absorption (Ozone, Carbon dioxide, Water vapour). Atmospheric windows.</li>
 <li><strong>Spectral Signatures</strong>: Unique reflectance/emittance curve of a material (e.g., healthy vegetation reflects highly in NIR, absorbs in Red).</li>
 <li><strong>Sensor Resolutions</strong>:
@@ -261,8 +263,15 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Key Satellite Sensors and Platforms:</strong>
 <ul>
 <li><em>Landsat-8 OLI, Sentinel-2 MSI, MODIS, ASTER</em> are major multispectral sensors.</li>
-<li><strong>LISS-3:</strong> The spectral range of the 10-bit SWIR band of the LISS-3 sensor on Resourcesat-2 is <strong>1.55 – 1.70 µm</strong>.</li>
+<li><strong>LISS-3:</strong> The sensor has a spatial resolution of <strong>23.5 meters</strong>. The spectral range of the 10-bit SWIR band of the LISS-3 sensor on Resourcesat-2 is <strong>1.55 – 1.70 µm</strong>.</li>
+<li><strong>AWiFS (Advanced Wide Field Sensor):</strong> The spatial resolution of this sensor is <strong>56 meters</strong>.</li>
+<li><strong>CartoDEM:</strong> This digital elevation model has its origin in <strong>India</strong>.</li>
 <li><strong>EOS-01:</strong> An Indian SAR-based (Synthetic Aperture Radar) earth imaging satellite launched in 2020.</li>
+</ul></li>
+<li><strong>Image Processing &amp; ML:</strong>
+<ul>
+<li><strong>Random Forest:</strong> A widely used and effective machine learning algorithm based on the idea of <strong>bagging</strong>.</li>
+<li><strong>FCC Representation:</strong> In a standard FCC of the winter season, <strong>laterite duricrusts</strong> are typically represented in <strong>Brown</strong>.</li>
 </ul></li>
 </ul>
 </div>
@@ -442,7 +451,10 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Vector Overlay Operations</strong>: Combining two or more layers to create a new layer (Union, Intersect, Identity).</li>
 <li><strong>Proximity Analysis</strong>: Buffering (creating zones of a specified distance around features).</li>
 <li><strong>Geoprocessing</strong>: Executing operations (Clip, Dissolve, Merge) to manipulate data and solve spatial problems.</li>
+<li><strong>Vector Data Model</strong>: Represents geographical features as points, lines, and polygons.</li>
 <li><strong>Raster Analysis</strong>: Map Algebra (local, focal, zonal, global operations), suitability modeling.</li>
+<li><strong>Bilinear Interpolation</strong>: A resampling technique that uses a weighted average of the <strong>four closest pixels</strong> to determine the new pixel value.</li>
+<li><strong>Overlay Analysis Applications:</strong> This technique is suitable for identifying changes in river <strong>bankline polygons</strong> across different years.</li>
 </ul>
 </div>
 </div>

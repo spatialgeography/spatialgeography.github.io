@@ -23,4 +23,5 @@
   - *1956*: State-led command economy, focus on heavy industries.
   - *1991 (New Economic Policy)*: Liberalization, Privatization, Globalization (LPG). De-licensing, welcoming FDI.
 * **Special Economic Zones (SEZs)**: Export hubs with liberal laws. Aimed at mimicking China's manufacturing success, mixed results in India.
+* **Mineral Resources:** The **Odisha coast** and **Kerala coast** are notable for the mining of **'Rare Earth'** minerals, particularly **Monazite**.
 :::

@@ -19,8 +19,8 @@
 * **Assumptions**: Isolated state, isotropic plain, single central market, uniform transport costs, profit-maximizing farmers.
 * **Concept**: **Location Rent / Economic Rent** determines land use — it is the most important concept on which the model is based. Products with high transport costs or perishability are produced closest to the market.
 * **Concentric Rings**:
-  1. Market gardening and dairying (perishable, high value)
-  2. Forestry/Firewood (heavy/bulky to transport)
+  1. **Dairying and market gardening** (performed quite close to the market as they are perishable and have high value).
+  2. Forestry/Firewood (heavy/bulky to transport).
   3. Intensive crop farming without fallow
   4. Crop farming with fallow and pasture
   5. Three-field system

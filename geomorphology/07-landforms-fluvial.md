@@ -34,6 +34,11 @@
 - **Tectonic Sinuosity:** Sinuosity of an alluvial river **decreases** if slope increases due to tectonic movement. Channel slope usually increases downstream of an uplifting anticlinal axis.
 - **Sediment Stratum:** In a river terrace, a continuous stratum of pebbles within layers of sands indicates that the **river was moving fast** at the time of deposition.
 - **Potholes:** The formation of potholes in river beds is a classic example of **Corrasion** (Abrasion).
+- **Helical Flow:** A continuous **spiral motion of water** as it flows along a river channel.
+- **Yazoo Stream:** A tributary that flows parallel to the main stream for a distance before joining, often due to the presence of natural levees on the main stream.
+- **Meander Chute Cut-off:** Occurs when two meander necks do not come closer, but a channel from one neck joins the other and the main flow turns on that channel.
+- **Channel Pattern Alteration:** A river's channel pattern may alter from **braided to meandering** due to a **decrease in rainfall** in its catchment area.
+- **Horton's Law of Stream Number:** Confirms to the mathematical model of a **Negative Exponential Function**.
 
 ---
 

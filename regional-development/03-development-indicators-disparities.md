@@ -21,5 +21,5 @@
   - *Social*: Literacy rate, life expectancy, IMR, poverty ratio.
   - *Composite*: Human Development Index (HDI), Multidimensional Poverty Index (MPI), Gender Inequality Index (GII).
 * **Regional Imbalances**: Unequal distribution of resources, industrialization, and infrastructure across space. Caused primarily by historical advantages and physical geographical factors. While unequal investment by central governments may exist, it is *not* considered the primary underlying explanation for uneven development in India.
-* **Measurement**: Coefficient of Variation, Lorenz Curve, Gini Coefficient, Principal Component Analysis of socio-economic variables.
+* **Measurement**: Coefficient of Variation, Lorenz Curve, Gini Coefficient, Principal Component Analysis of socio-economic variables. **Principal Component Analysis** is considered as the segregated set of relationship among the factors of an event.
 :::
