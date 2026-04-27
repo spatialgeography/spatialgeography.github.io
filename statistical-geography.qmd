@@ -49,3 +49,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include statistical-geography/09-advanced-multivariate-techniques.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include statistical-geography/14-quick-reference.md >}}
+
+---

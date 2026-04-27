@@ -15,3 +15,12 @@ Welcome to the **Agricultural Geography** module.
 {{< include economic-geography/12-agriculture-measurement-methods.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include agricultural-geography/29-quick-reference.md >}}
+
+---

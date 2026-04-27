@@ -55,3 +55,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include social-and-cultural/12-theories-of-tribal-groups.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include social-and-cultural/16-quick-reference.md >}}
+
+---

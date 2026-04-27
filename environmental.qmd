@@ -98,3 +98,12 @@ These topics are part of the UGC NET syllabus only.
 
 Environmental Geography provides the essential bridge between physical processes and human impacts. Explore [Climatology](climatology.html) and [Oceanography](oceanography.html) for deeper physical science perspectives.
 
+
+
+---
+
+## Quick Reference
+
+{{< include environmental/27-quick-reference.md >}}
+
+---

@@ -71,3 +71,5 @@ These topics are part of the UGC NET syllabus only.
 {{< include climatology/19-key-scholars-climatology.md >}}
 
 ---
+
+{{< include climatology/20-quick-reference.md >}}

@@ -45,3 +45,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include geography-of-india/10-globalisation-impact.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include geography-of-india/11-quick-reference.md >}}
+
+---

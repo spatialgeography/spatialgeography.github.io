@@ -51,3 +51,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include political-geography/10-neopolitics-of-resources.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include political-geography/12-quick-reference.md >}}
+
+---

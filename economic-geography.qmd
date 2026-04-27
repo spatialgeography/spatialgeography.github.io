@@ -57,3 +57,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include economic-geography/13-contemporary-industry-trends.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include economic-geography/19-quick-reference.md >}}
+
+---

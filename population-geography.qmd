@@ -55,3 +55,5 @@ These topics are part of the UGC NET syllabus only.
 {{< include population-geography/10-key-scholars-population.md >}}
 
 ---
+
+{{< include population-geography/11-quick-reference.md >}}

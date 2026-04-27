@@ -49,3 +49,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include regional-development/09-social-movements-regional-development.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include regional-development/14-quick-reference.md >}}
+
+---

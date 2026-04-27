@@ -33,3 +33,12 @@ Welcome to the **Settlement Geography** module.
 ## Theoretical Frameworks
 
 {{< include human-geography/08-central-place-theory.md >}}
+
+
+---
+
+## Quick Reference
+
+{{< include settlement-geography/31-quick-reference.md >}}
+
+---

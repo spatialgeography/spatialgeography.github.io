@@ -16,3 +16,12 @@ Welcome to the **Industrial Geography** module.
 {{< include economic-geography/13-contemporary-industry-trends.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include industrial-geography/19-quick-reference.md >}}
+
+---

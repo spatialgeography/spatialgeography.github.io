@@ -45,3 +45,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include urban-geography/07-rank-size-and-primate-city.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include urban-geography/08-quick-reference.md >}}
+
+---

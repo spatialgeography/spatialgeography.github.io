@@ -27,3 +27,12 @@ These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC
 {{< include natural-hazards/04-disaster-management-framework.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include natural-hazards/05-quick-reference.md >}}
+
+---

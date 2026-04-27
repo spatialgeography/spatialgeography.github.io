@@ -25,3 +25,12 @@ These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC
 {{< include field-survey/03-socio-economic-survey.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include field-survey/04-quick-reference.md >}}
+
+---

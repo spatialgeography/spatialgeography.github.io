@@ -23,3 +23,5 @@ Welcome to the **Indian Socio-Economic Geography** module.
 {{< include indian-socioeco/26-key-scholars-indian-socioeco.md >}}
 
 ---
+
+{{< include indian-socioeco/27-quick-reference.md >}}

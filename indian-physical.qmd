@@ -23,3 +23,5 @@ Welcome to the **Indian Physical Geography** module.
 {{< include indian-physical/29-key-scholars-indian-physical.md >}}
 
 ---
+
+{{< include indian-physical/30-quick-reference.md >}}

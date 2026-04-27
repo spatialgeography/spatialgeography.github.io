@@ -47,3 +47,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include human-geography/08-central-place-theory.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include human-geography/09-quick-reference.md >}}
+
+---

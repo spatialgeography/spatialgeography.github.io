@@ -13,3 +13,12 @@ Welcome to the **Trade and Transport** module.
 {{< include economic-geography/07-transport-and-trade.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include trade-and-transport/19-quick-reference.md >}}
+
+---

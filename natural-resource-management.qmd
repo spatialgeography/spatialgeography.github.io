@@ -27,3 +27,12 @@ These topics are covered in both the NEP-2020 undergraduate syllabus and the UGC
 {{< include natural-resource-management/04-geoinformatics-in-nrm.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include natural-resource-management/05-quick-reference.md >}}
+
+---

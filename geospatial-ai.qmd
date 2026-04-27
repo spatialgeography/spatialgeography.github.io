@@ -29,3 +29,12 @@ Welcome to the **Geospatial Modelling, AI and Machine Learning** module. This ad
 {{< include geospatial-ai/04-practical.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include geospatial-ai/05-quick-reference.md >}}
+
+---

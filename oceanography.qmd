@@ -39,3 +39,12 @@ These topics are part of the UGC NET syllabus only.
 {{< include oceanography/07-oceanic-hazards.md >}}
 
 ---
+
+
+---
+
+## Quick Reference
+
+{{< include oceanography/10-quick-reference.md >}}
+
+---
