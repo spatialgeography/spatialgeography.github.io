@@ -8,7 +8,7 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 
 ## Quick Reference
 * [Geography in News](geography-in-news.html)
-* [Theories, Models, Books & Concepts](theories-models-concepts.html)
+* [Theories, Models, Books & Concepts](theories-models-concepts.html) <sup>**<span style="color:red">NEW</span>**</sup>
 
 ---
 
