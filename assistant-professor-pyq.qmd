@@ -1,6 +1,6 @@
 ---
-title: "Assistant Professor Geography Previous Year Questions"
-subtitle: "Practice papers for Assistant Professor (Geography) exams"
+title: "Assistant Professor Geography PYQs"
+subtitle: "PYQs for Assistant Professor (Geography) exams"
 author: "Geography Team"
 toc: true
 ---

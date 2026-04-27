@@ -1,12 +1,12 @@
 ---
-title: "UGC NET Previous Year Questions"
+title: "UGC NET PYQs"
 subtitle: "Geography — Based on the Latest UGC NET Syllabus (Code No. 80)"
 author: "Geography Team"
 toc: true
 toc-depth: 3
 ---
 
-Welcome to the **UGC NET Previous Year Questions** module of Geography OpenCourseWare. This page is completely aligned with the official UGC NET Geography (Code No. 80) syllabus. Below is the detailed breakdown of all 10 units along with their key focus areas for PYQ preparation.
+Welcome to the **UGC NET PYQs** module of Geography OpenCourseWare. This page is completely aligned with the official UGC NET Geography (Code No. 80) syllabus. Below is the detailed breakdown of all 10 units along with their key focus areas for PYQ preparation.
 
 ---
 

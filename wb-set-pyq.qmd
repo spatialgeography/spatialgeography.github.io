@@ -1,6 +1,6 @@
 ---
-title: "West Bengal SET Geography (Paper-II)"
-subtitle: "Previous Year Questions for Practice"
+title: "West Bengal SET Geography (Paper-II) PYQs"
+subtitle: "PYQs for Practice"
 author: "Geography Team"
 toc: true
 toc-depth: 3
