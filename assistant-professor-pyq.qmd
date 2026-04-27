@@ -5,6 +5,10 @@ author: "Geography Team"
 toc: true
 ---
 
-## Assistant Professor 2023 Paper
+## RPSC Assistant Professor 2021 Paper 1
 
-{{< include pyq-assistant-professor/assistant-prof-2023.md >}}
+{{< include pyq-assistant-professor/rpsc2021_geo1.md >}}
+
+## RPSC Assistant Professor 2021 Paper 2
+
+{{< include pyq-assistant-professor/rpsc2021_geo2.md >}}
