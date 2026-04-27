@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -108,18 +137,49 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#nep-2020-syllabus" id="toc-nep-2020-syllabus" class="nav-link" data-scroll-target="#nep-2020-syllabus">NEP-2020 Syllabus</a></li>
   <li><a href="#ugc-net-syllabus" id="toc-ugc-net-syllabus" class="nav-link" data-scroll-target="#ugc-net-syllabus">UGC NET Syllabus</a></li>
+  <li><a href="#net-population-geography-important-topics-traditions" id="toc-net-population-geography-important-topics-traditions" class="nav-link" data-scroll-target="#net-population-geography-important-topics-traditions">NET Population Geography — Important Topics &amp; Traditions</a></li>
   </ul></li>
   <li><a href="#part-a-common-topics-nep-2020-ugc-net" id="toc-part-a-common-topics-nep-2020-ugc-net" class="nav-link" data-scroll-target="#part-a-common-topics-nep-2020-ugc-net">Part A: Common Topics (NEP-2020 &amp; UGC NET)</a></li>
-  <li><a href="#world-population-distribution-growth-and-density" id="toc-world-population-distribution-growth-and-density" class="nav-link" data-scroll-target="#world-population-distribution-growth-and-density">World Population Distribution, Growth, and Density</a></li>
-  <li><a href="#demographic-transition" id="toc-demographic-transition" class="nav-link" data-scroll-target="#demographic-transition">Demographic Transition</a></li>
-  <li><a href="#migration-types-causes-and-consequences" id="toc-migration-types-causes-and-consequences" class="nav-link" data-scroll-target="#migration-types-causes-and-consequences">Migration: Types, Causes, and Consequences</a></li>
-  <li><a href="#population-policies" id="toc-population-policies" class="nav-link" data-scroll-target="#population-policies">Population Policies</a></li>
+  <li><a href="#world-population-distribution-growth-and-density" id="toc-world-population-distribution-growth-and-density" class="nav-link" data-scroll-target="#world-population-distribution-growth-and-density">World Population Distribution, Growth, and Density</a>
+  <ul class="collapse">
+  <li><a href="#population-distribution-density-growth-net-notes" id="toc-population-distribution-density-growth-net-notes" class="nav-link" data-scroll-target="#population-distribution-density-growth-net-notes">Population Distribution, Density &amp; Growth (NET Notes)</a></li>
+  </ul></li>
+  <li><a href="#demographic-transition" id="toc-demographic-transition" class="nav-link" data-scroll-target="#demographic-transition">Demographic Transition</a>
+  <ul class="collapse">
+  <li><a href="#demographic-transition-models-net-notes" id="toc-demographic-transition-models-net-notes" class="nav-link" data-scroll-target="#demographic-transition-models-net-notes">Demographic Transition Models (NET Notes)</a></li>
+  </ul></li>
+  <li><a href="#migration-types-causes-and-consequences" id="toc-migration-types-causes-and-consequences" class="nav-link" data-scroll-target="#migration-types-causes-and-consequences">Migration: Types, Causes, and Consequences</a>
+  <ul class="collapse">
+  <li><a href="#migration-theories-models-net-notes" id="toc-migration-theories-models-net-notes" class="nav-link" data-scroll-target="#migration-theories-models-net-notes">Migration Theories &amp; Models (NET Notes)</a></li>
+  </ul></li>
+  <li><a href="#population-policies" id="toc-population-policies" class="nav-link" data-scroll-target="#population-policies">Population Policies</a>
+  <ul class="collapse">
+  <li><a href="#population-policy-electoral-reforms-net-notes" id="toc-population-policy-electoral-reforms-net-notes" class="nav-link" data-scroll-target="#population-policy-electoral-reforms-net-notes">Population Policy &amp; Electoral Reforms (NET Notes)</a></li>
+  </ul></li>
   <li><a href="#part-b-nep-2020-specific-topics" id="toc-part-b-nep-2020-specific-topics" class="nav-link" data-scroll-target="#part-b-nep-2020-specific-topics">Part B: NEP-2020 Specific Topics</a></li>
-  <li><a href="#population-resource-regions" id="toc-population-resource-regions" class="nav-link" data-scroll-target="#population-resource-regions">Population-Resource Regions</a></li>
+  <li><a href="#population-resource-regions" id="toc-population-resource-regions" class="nav-link" data-scroll-target="#population-resource-regions">Population-Resource Regions</a>
+  <ul class="collapse">
+  <li><a href="#population-resource-regions-net-notes" id="toc-population-resource-regions-net-notes" class="nav-link" data-scroll-target="#population-resource-regions-net-notes">Population Resource Regions (NET Notes)</a></li>
+  </ul></li>
   <li><a href="#part-c-ugc-net-specific-topics" id="toc-part-c-ugc-net-specific-topics" class="nav-link" data-scroll-target="#part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</a></li>
-  <li><a href="#sources-of-population-data" id="toc-sources-of-population-data" class="nav-link" data-scroll-target="#sources-of-population-data">Sources of Population Data</a></li>
+  <li><a href="#sources-of-population-data" id="toc-sources-of-population-data" class="nav-link" data-scroll-target="#sources-of-population-data">Sources of Population Data</a>
+  <ul class="collapse">
+  <li><a href="#population-projection-net-notes" id="toc-population-projection-net-notes" class="nav-link" data-scroll-target="#population-projection-net-notes">Population Projection (NET Notes)</a></li>
+  </ul></li>
   <li><a href="#fertility-and-mortality-analysis" id="toc-fertility-and-mortality-analysis" class="nav-link" data-scroll-target="#fertility-and-mortality-analysis">Fertility and Mortality Analysis</a></li>
-  <li><a href="#population-composition-and-characteristics" id="toc-population-composition-and-characteristics" class="nav-link" data-scroll-target="#population-composition-and-characteristics">Population Composition and Characteristics</a></li>
+  <li><a href="#population-composition-and-characteristics" id="toc-population-composition-and-characteristics" class="nav-link" data-scroll-target="#population-composition-and-characteristics">Population Composition and Characteristics</a>
+  <ul class="collapse">
+  <li><a href="#population-composition-pyramids-net-notes" id="toc-population-composition-pyramids-net-notes" class="nav-link" data-scroll-target="#population-composition-pyramids-net-notes">Population Composition &amp; Pyramids (NET Notes)</a></li>
+  </ul></li>
+  <li><a href="#settlement-geography" id="toc-settlement-geography" class="nav-link" data-scroll-target="#settlement-geography">Settlement Geography</a>
+  <ul class="collapse">
+  <li><a href="#key-concepts-and-types-net-notes" id="toc-key-concepts-and-types-net-notes" class="nav-link" data-scroll-target="#key-concepts-and-types-net-notes">Key Concepts and Types (NET Notes)</a></li>
+  </ul></li>
+  <li><a href="#quick-reference" id="toc-quick-reference" class="nav-link" data-scroll-target="#quick-reference">Quick Reference</a></li>
+  <li><a href="#key-scholars-population-geography" id="toc-key-scholars-population-geography" class="nav-link" data-scroll-target="#key-scholars-population-geography">Key Scholars — Population Geography</a>
+  <ul class="collapse">
+  <li><a href="#contributors-and-their-contributions-net-notes-pulakesh-pradhan" id="toc-contributors-and-their-contributions-net-notes-pulakesh-pradhan" class="nav-link" data-scroll-target="#contributors-and-their-contributions-net-notes-pulakesh-pradhan">Contributors and Their Contributions (NET Notes — Pulakesh Pradhan)</a></li>
+  </ul></li>
   </ul>
 <div class="quarto-other-links"><h2>Other Links</h2><ul><li><a href="javascript:window.print()"><i class="bi bi-printer"></i>Print / Save as PDF</a></li></ul></div></nav>
     </div>
@@ -215,8 +275,43 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <hr>
+</section>
+<section id="net-population-geography-important-topics-traditions" class="level3">
+<h3 class="anchored" data-anchor-id="net-population-geography-important-topics-traditions">NET Population Geography — Important Topics &amp; Traditions</h3>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>High-Yield Topics
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>World Population Distribution</li>
+<li>Growth + Density of Population</li>
+<li>Population Policy</li>
+<li>Migration</li>
+<li>Demographic Transition</li>
+<li>Population Resource Region</li>
+<li>Nature, Scope of Settlement Geography</li>
+<li>Subject matter and Recent Trends</li>
+</ul>
+</div>
+</div>
+<section id="four-traditions-of-geography-william-d.-pattison" class="level4">
+<h4 class="anchored" data-anchor-id="four-traditions-of-geography-william-d.-pattison">Four Traditions of Geography (William D. Pattison)</h4>
+<ol type="1">
+<li>Spatial / Locational Tradition</li>
+<li>Areal / Regional Tradition</li>
+<li>Man–Land Tradition</li>
+<li>Earth Science Tradition</li>
+</ol>
+<hr>
 <p>Welcome to the <strong>Population Geography</strong> module of Geography OpenCourseWare.</p>
 <hr>
+</section>
 </section>
 </section>
 <section id="part-a-common-topics-nep-2020-ugc-net" class="level2">
@@ -282,6 +377,59 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </div>
 </div>
+<hr>
+<section id="population-distribution-density-growth-net-notes" class="level3">
+<h3 class="anchored" data-anchor-id="population-distribution-density-growth-net-notes">Population Distribution, Density &amp; Growth (NET Notes)</h3>
+<section id="key-definitions" class="level4">
+<h4 class="anchored" data-anchor-id="key-definitions">Key Definitions</h4>
+<ul>
+<li><strong>Demography:</strong> Statistical analysis of population</li>
+<li><strong>Population Geography:</strong> Spatial variation of population and its distribution</li>
+</ul>
+</section>
+<section id="measures-of-population-distribution" class="level4">
+<h4 class="anchored" data-anchor-id="measures-of-population-distribution">Measures of Population Distribution</h4>
+<ul>
+<li><strong>Mean Point / Centre of Population:</strong> The most popular measuring of population centre</li>
+<li><strong>Median Point of Population:</strong> Calculated with the help of median lines</li>
+<li><strong>Concept of Population Potential:</strong> Stewart and Warntz (1958)</li>
+</ul>
+</section>
+<section id="density-formulas-types" class="level4">
+<h4 class="anchored" data-anchor-id="density-formulas-types">Density Formulas &amp; Types</h4>
+<ul>
+<li><strong>Arithmetic Density:</strong> Total Population / Total Land Area</li>
+<li><strong>Physiological Density:</strong> Total Population / Cultivated Land</li>
+<li><strong>Agricultural Density:</strong> Rural Population / Cultivated Land</li>
+<li><strong>Economic Density (George):</strong> ED = NK/SK (N=inhabitants, K’=per capita requirement, S=area, K=resource produced)</li>
+<li><strong>Scholars:</strong>
+<ul>
+<li><strong>G.T. Trewartha:</strong> Arithmetic, Nutritional, Agricultural</li>
+<li><strong>Vincent:</strong> Comparative density (population correlated to land weighted by productivity)</li>
+</ul></li>
+</ul>
+</section>
+<section id="world-population-distribution-key-facts" class="level4">
+<h4 class="anchored" data-anchor-id="world-population-distribution-key-facts">World Population Distribution — Key Facts</h4>
+<ul>
+<li><strong>Asia:</strong> 60% of World Pop, 29.5% Landmass (Density: 246)</li>
+<li><strong>80%</strong> of total population concentrated in <strong>20%</strong> of land area</li>
+<li><strong>56%</strong> of population between 0–200 m altitude (Clark; Staszewski)</li>
+<li><strong>Trewartha:</strong> About half of the population occupies 5% of total earth area</li>
+<li><strong>Latitudinal:</strong> 20°–40°N → 50%+ of world population</li>
+<li><strong>Birth/Death:</strong> Every 10 births: 9 in LDC, 1 in MDC. Out of 80 infant deaths: 79 occur in LDC.</li>
+<li><strong>Wolfanger (1935):</strong> Podzols of higher middle latitudes and mature laterites of the tropics → intensive cultivation</li>
+</ul>
+</section>
+<section id="indias-population-growth-census-data" class="level4">
+<h4 class="anchored" data-anchor-id="indias-population-growth-census-data">India’s Population Growth (Census Data)</h4>
+<ul>
+<li><strong>1921:</strong> <em>‘Year of Great Divide’</em> (population decline, −0.31%)</li>
+<li><strong>1971 and 1981:</strong> Highest growth period in India (+24.80% and +24.66%)</li>
+<li><strong>1991:</strong> Lowest sex ratio (927)</li>
+</ul>
+</section>
+</section>
 </section>
 <section id="demographic-transition" class="level2">
 <h2 class="anchored" data-anchor-id="demographic-transition">Demographic Transition</h2>
@@ -352,6 +500,28 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </div>
 </div>
+<hr>
+<section id="demographic-transition-models-net-notes" class="level3">
+<h3 class="anchored" data-anchor-id="demographic-transition-models-net-notes">Demographic Transition Models (NET Notes)</h3>
+<section id="evolution-of-the-model" class="level4">
+<h4 class="anchored" data-anchor-id="evolution-of-the-model">Evolution of the Model</h4>
+<ul>
+<li><strong>Landry (1909):</strong> First attempt at a demographic model</li>
+<li><strong>W.S. Thompson (1929):</strong> 3-category model; originator</li>
+<li><strong>Frank Notestein (1945):</strong> Comprehensive model (3 stages: High Growth, Transitional Growth, Incipient Decline)</li>
+<li><strong>C.P. Blacker (1947):</strong> 5-stage model (High Stationary, Early Expanding, Late Expanding, Low Stationary, Declining)</li>
+<li><strong>Coale &amp; Hoover (1958):</strong> Role of modernisation and development</li>
+</ul>
+</section>
+<section id="w.s.-thompsons-3-hypotheses" class="level4">
+<h4 class="anchored" data-anchor-id="w.s.-thompsons-3-hypotheses">W.S. Thompson’s 3 Hypotheses</h4>
+<ol type="1">
+<li>Decline in <strong>mortality comes before</strong> decline in fertility</li>
+<li>Fertility <strong>eventually declines</strong> to match mortality</li>
+<li>Socio-economic transformation of a society takes place <strong>simultaneously</strong> with its demographic transformation</li>
+</ol>
+</section>
+</section>
 </section>
 <section id="migration-types-causes-and-consequences" class="level2">
 <h2 class="anchored" data-anchor-id="migration-types-causes-and-consequences">Migration: Types, Causes, and Consequences</h2>
@@ -414,6 +584,63 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </div>
 </div>
+<hr>
+<section id="migration-theories-models-net-notes" class="level3">
+<h3 class="anchored" data-anchor-id="migration-theories-models-net-notes">Migration Theories &amp; Models (NET Notes)</h3>
+<section id="ravensteins-laws-of-migration-1885" class="level4">
+<h4 class="anchored" data-anchor-id="ravensteins-laws-of-migration-1885">1. Ravenstein’s Laws of Migration (1885)</h4>
+<ul>
+<li>Short distance moves; long distance for industry/commerce</li>
+<li>Agricultural to industrial areas</li>
+<li>Most migration is rural to urban, proceeds step by stage</li>
+<li>Females more migratory over short distances; males dominate international</li>
+<li>Major cause is economic</li>
+<li>Each stream produces a counter-stream</li>
+</ul>
+</section>
+<section id="pushpull-theory-e.s.-lee-1966" class="level4">
+<h4 class="anchored" data-anchor-id="pushpull-theory-e.s.-lee-1966">2. Push–Pull Theory — E.S. Lee (1966)</h4>
+<ul>
+<li><strong>Push:</strong> Reasons to move OUT</li>
+<li><strong>Pull:</strong> Reasons to move INTO</li>
+<li><strong>Intervening Obstacles:</strong> Barriers between origin and destination</li>
+<li>Volume is related to diversity of territory and difficulty of surmounting obstacles</li>
+</ul>
+</section>
+<section id="gravity-model-w.j.-reilly-1929" class="level4">
+<h4 class="anchored" data-anchor-id="gravity-model-w.j.-reilly-1929">3. Gravity Model — W.J. Reilly (1929)</h4>
+<ul>
+<li>Formula: <span class="math inline">\(M_{ij} = k \cdot \frac{P_i \cdot P_j}{d_{ij}^2}\)</span></li>
+<li>Proportional to population size, inversely proportional to distance squared.</li>
+<li>Derived from ‘Law of Retail Gravitation’ and Social Physics.</li>
+</ul>
+</section>
+<section id="intervening-opportunities-stouffer-1940" class="level4">
+<h4 class="anchored" data-anchor-id="intervening-opportunities-stouffer-1940">4. Intervening Opportunities — Stouffer (1940)</h4>
+<ul>
+<li><strong>No relation</strong> between mobility and distance; depends on intervening opportunities.</li>
+<li>Formula: <span class="math inline">\(y = \frac{V_x}{x} k\)</span></li>
+</ul>
+</section>
+<section id="zelinskys-migration-transition-model" class="level4">
+<h4 class="anchored" data-anchor-id="zelinskys-migration-transition-model">5. Zelinsky’s Migration Transition Model</h4>
+<ul>
+<li>Linked to Demographic Transition:
+<ul>
+<li>Stage 2: Rural to Urban</li>
+<li>Stage 3: Urban to Urban</li>
+<li>Stage 4: Urban agglomeration / Counter-urbanisation</li>
+</ul></li>
+</ul>
+</section>
+<section id="internal-migration-in-india-stream-wise" class="level4">
+<h4 class="anchored" data-anchor-id="internal-migration-in-india-stream-wise">Internal Migration in India (Stream-wise)</h4>
+<ul>
+<li><strong>Streams:</strong> Rural-Rural (64.21%), Rural-Urban (17.67%), Urban-Urban (11.70%), Urban-Rural (6.97%)</li>
+<li><strong>Scale:</strong> Intra-state (88.18%), Inter-state (11.82%)</li>
+</ul>
+</section>
+</section>
 </section>
 <section id="population-policies" class="level2">
 <h2 class="anchored" data-anchor-id="population-policies">Population Policies</h2>
@@ -474,6 +701,27 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <hr>
+<section id="population-policy-electoral-reforms-net-notes" class="level3">
+<h3 class="anchored" data-anchor-id="population-policy-electoral-reforms-net-notes">Population Policy &amp; Electoral Reforms (NET Notes)</h3>
+<section id="indias-population-policy" class="level4">
+<h4 class="anchored" data-anchor-id="indias-population-policy">India’s Population Policy</h4>
+<ul>
+<li><strong>1952:</strong> National Family Planning Programme (First country to launch official family planning)</li>
+<li><strong>1976:</strong> National Population Policy (Emergency period; coercive sterilisation)</li>
+<li><strong>2000:</strong> National Population Policy 2000 (TFR target of 2.1 by 2010)</li>
+</ul>
+</section>
+<section id="electoral-reforms-in-india" class="level4">
+<h4 class="anchored" data-anchor-id="electoral-reforms-in-india">Electoral Reforms in India</h4>
+<ul>
+<li><strong>61st Amendment Act (1988):</strong> Voting age reduced from 21 to 18 years</li>
+<li><strong>EVMs introduced:</strong> 1989 (experimental 1988 in Rajasthan, MP, Delhi)</li>
+<li><strong>EPIC (1993):</strong> Elector’s Photo Identity Card</li>
+<li><strong>Goa (1999):</strong> First general election completely using EVMs</li>
+</ul>
+<hr>
+</section>
+</section>
 </section>
 <section id="part-b-nep-2020-specific-topics" class="level2">
 <h2 class="anchored" data-anchor-id="part-b-nep-2020-specific-topics">Part B: NEP-2020 Specific Topics</h2>
@@ -531,6 +779,25 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <hr>
+<section id="population-resource-regions-net-notes" class="level3">
+<h3 class="anchored" data-anchor-id="population-resource-regions-net-notes">Population Resource Regions (NET Notes)</h3>
+<section id="malthusian-theory-1798" class="level4">
+<h4 class="anchored" data-anchor-id="malthusian-theory-1798">Malthusian Theory (1798)</h4>
+<ul>
+<li>First systematic study of population–resource relationship.</li>
+<li>Population grows geometrically, food supply grows arithmetically.</li>
+<li><strong>Preventive checks:</strong> Celibacy, late marriage, moral restraint</li>
+<li><strong>Positive checks:</strong> War, famine, disease</li>
+</ul>
+</section>
+<section id="optimum-population-theory" class="level4">
+<h4 class="anchored" data-anchor-id="optimum-population-theory">Optimum Population Theory</h4>
+<ul>
+<li>Optimum level of population for a given area where <strong>per capita income is maximised</strong>.</li>
+</ul>
+<hr>
+</section>
+</section>
 </section>
 <section id="part-c-ugc-net-specific-topics" class="level2">
 <h2 class="anchored" data-anchor-id="part-c-ugc-net-specific-topics">Part C: UGC NET Specific Topics</h2>
@@ -594,6 +861,17 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </div>
 </div>
+<hr>
+<section id="population-projection-net-notes" class="level3">
+<h3 class="anchored" data-anchor-id="population-projection-net-notes">Population Projection (NET Notes)</h3>
+<ul>
+<li><strong>Quetelet (1835):</strong> Propounded population projection method.</li>
+<li><strong>Arithmetic Method:</strong> <span class="math inline">\(P_p = P_t + \frac{n(P_1 - P_2)}{N}\)</span></li>
+<li><strong>Geometric Method:</strong> <span class="math inline">\(P_p = P_1(1 + r)^n\)</span></li>
+<li><strong>Growth Component Method:</strong> Considers fertility, mortality, and migration separately (more practical).</li>
+<li><strong>Economic Method:</strong> Studies how birth/death/migration are affected by economic factors.</li>
+</ul>
+</section>
 </section>
 <section id="fertility-and-mortality-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="fertility-and-mortality-analysis">Fertility and Mortality Analysis</h2>
@@ -718,8 +996,214 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <hr>
+<section id="population-composition-pyramids-net-notes" class="level3">
+<h3 class="anchored" data-anchor-id="population-composition-pyramids-net-notes">Population Composition &amp; Pyramids (NET Notes)</h3>
+<section id="population-pyramids-3-types" class="level4">
+<h4 class="anchored" data-anchor-id="population-pyramids-3-types">Population Pyramids (3 Types)</h4>
+<ul>
+<li><strong>Expansive:</strong> Wide base, narrow top (Developing countries: India, Africa)</li>
+<li><strong>Constrictive:</strong> Narrower base than middle; declining birth rate, ageing (European countries)</li>
+<li><strong>Stationary:</strong> Equal % in all age groups; stable (Developed nations)</li>
+</ul>
+</section>
+<section id="population-dynamics-measures" class="level4">
+<h4 class="anchored" data-anchor-id="population-dynamics-measures">Population Dynamics Measures</h4>
+<ul>
+<li><strong>Crude Birth Rate (CBR) / Crude Death Rate (CDR):</strong> Per 1000 population per year.</li>
+<li><strong>Natural Growth Rate:</strong> CBR − CDR</li>
+<li><strong>Total Fertility Rate (TFR):</strong> Average children a woman would have in lifetime.</li>
+<li><strong>Dependency Ratio:</strong> Non-working age (0–14 + 65+) / working age (15–64).</li>
+</ul>
+</section>
+</section>
+</section>
+<section id="settlement-geography" class="level2">
+<h2 class="anchored" data-anchor-id="settlement-geography">Settlement Geography</h2>
+<section id="key-concepts-and-types-net-notes" class="level3">
+<h3 class="anchored" data-anchor-id="key-concepts-and-types-net-notes">Key Concepts and Types (NET Notes)</h3>
+<section id="key-definitions-1" class="level4">
+<h4 class="anchored" data-anchor-id="key-definitions-1">Key Definitions</h4>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Term</th>
+<th style="text-align: left;">Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Settlement</strong></td>
+<td style="text-align: left;">Any form of human habitation — from single dwelling to largest city</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Rural Settlement</strong></td>
+<td style="text-align: left;">Settlements dependent on primary activities; low density</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Urban Settlement</strong></td>
+<td style="text-align: left;">Settlements dependent on secondary/tertiary activities; high density</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="types-of-rural-settlements" class="level4">
+<h4 class="anchored" data-anchor-id="types-of-rural-settlements">Types of Rural Settlements</h4>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Type</th>
+<th style="text-align: left;">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Clustered / Nucleated</strong></td>
+<td style="text-align: left;">Houses close together; common in India</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Dispersed / Scattered</strong></td>
+<td style="text-align: left;">Houses far apart; common in W. Europe, USA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Linear</strong></td>
+<td style="text-align: left;">Along roads, rivers or coastlines</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Hamleted</strong></td>
+<td style="text-align: left;">Fragmented into sub-hamlets</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="urban-settlement-hierarchy" class="level4">
+<h4 class="anchored" data-anchor-id="urban-settlement-hierarchy">Urban Settlement Hierarchy</h4>
+<p>City → Town → Borough → Municipality → Village</p>
+<hr>
+</section>
+</section>
+</section>
+<section id="quick-reference" class="level2">
+<h2 class="anchored" data-anchor-id="quick-reference">Quick Reference</h2>
+</section>
+<section id="key-scholars-population-geography" class="level2">
+<h2 class="anchored" data-anchor-id="key-scholars-population-geography">Key Scholars — Population Geography</h2>
+<section id="contributors-and-their-contributions-net-notes-pulakesh-pradhan" class="level3">
+<h3 class="anchored" data-anchor-id="contributors-and-their-contributions-net-notes-pulakesh-pradhan">Contributors and Their Contributions (NET Notes — Pulakesh Pradhan)</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Scholar</th>
+<th style="text-align: left;">Year</th>
+<th style="text-align: left;">Contribution</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>E.G. Ravenstein</strong></td>
+<td style="text-align: left;">1885</td>
+<td style="text-align: left;">Laws of Migration (9 laws)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>E.S. Lee</strong></td>
+<td style="text-align: left;">1966</td>
+<td style="text-align: left;">Push–Pull Theory of Migration</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>W.J. Reilly</strong></td>
+<td style="text-align: left;">1929</td>
+<td style="text-align: left;">Gravity Model; Law of Retail Gravitation</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>S.A. Stouffer</strong></td>
+<td style="text-align: left;">1940</td>
+<td style="text-align: left;">Intervening Opportunity Model</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Wilbur Zelinsky</strong></td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;">Migration Transition Model (5 stages)</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>W.S. Thompson</strong></td>
+<td style="text-align: left;">1929</td>
+<td style="text-align: left;">Demographic Transition — 3 categories</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Frank Notestein</strong></td>
+<td style="text-align: left;">1945</td>
+<td style="text-align: left;">Comprehensive Demographic Transition Model</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>C.P. Blacker</strong></td>
+<td style="text-align: left;">1947</td>
+<td style="text-align: left;">5-stage Demographic Transition</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Landry</strong></td>
+<td style="text-align: left;">1909</td>
+<td style="text-align: left;">First demographic model</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Coale &amp; Hoover</strong></td>
+<td style="text-align: left;">1958</td>
+<td style="text-align: left;">Modernisation and Demographic Transition</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>G.T. Trewartha</strong></td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;">3 types of density; <em>Elements of Geography</em></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Stewart &amp; Warntz</strong></td>
+<td style="text-align: left;">1958</td>
+<td style="text-align: left;">Population Potential concept</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Vincent</strong></td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;">Comparative density</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Quetelet</strong></td>
+<td style="text-align: left;">1835</td>
+<td style="text-align: left;">Population projection method</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>T.R. Malthus</strong></td>
+<td style="text-align: left;">1798</td>
+<td style="text-align: left;">Population–resource theory</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>William D. Pattison</strong></td>
+<td style="text-align: left;">—</td>
+<td style="text-align: left;">Four traditions of geography</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Wolfanger</strong></td>
+<td style="text-align: left;">1935</td>
+<td style="text-align: left;">Podzols and laterites — intensive cultivation</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p><em>Notes compiled by Pulakesh Pradhan — Population Geography (NET)</em></p>
+<hr>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
