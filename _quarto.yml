@@ -48,6 +48,7 @@ format:
     include-after-body: 
       - print.html
       - search-popup.html
+      - visitor-map.html
     other-links:
       - text: Print / Save as PDF
         icon: printer
