@@ -11,6 +11,6 @@
 | **S.P. Ray Chaudhry** | ICAR 1963 soil classification (Seven groups, later expanded to ten) |
 | **S.K. Chatterjee** | Key geographer in NATMO (1957) soil and thematic mapping |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Indian Physical Geography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Indian Physical Geography (NET)

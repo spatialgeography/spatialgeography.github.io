@@ -24,13 +24,13 @@
 * **Indices**: Agricultural efficiency (Kendall's ranking, Bhatia's weighted output). Handling data of different scales requires normalization (Z-scores) to create composite indices.
 :::
 
----
+
 
 ### Nearest Neighbour Analysis — Detailed (NET Notes — Pulakesh Pradhan)
 
 > Measures the pattern of point distribution — whether clustered, random or regular
 
-**Formula:**
+**Formula:*
 > Rn = 2D̄ × √(n/A)
 > D̄ = mean nearest neighbour distance
 > n = number of points

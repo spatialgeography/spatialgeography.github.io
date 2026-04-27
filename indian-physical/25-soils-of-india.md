@@ -18,7 +18,7 @@ Pedological diversity of the subcontinent.
 * **Arid & Desert Soils**: Sandy, low humus, high salt content — Rajasthan and Gujarat.
 :::
 
----
+
 
 ### Soils of India — Facts & Statistics (NET Notes)
 

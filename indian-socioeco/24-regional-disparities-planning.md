@@ -18,7 +18,7 @@ Addressing India's development imbalance.
 * **NITI Aayog SDG Index**: Tracking India's progress on Sustainable Development Goals by state.
 :::
 
----
+
 
 ### Books and Further Readings
 Indian Socio-Economic Geography provides the lens for understanding India's development challenges and opportunities. Continue with [Indian Physical](indian-physical.html) and [Regional Development](regional-development.html) for comprehensive India coverage.

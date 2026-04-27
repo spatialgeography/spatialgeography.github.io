@@ -8,7 +8,7 @@
 | *Regional Development and Planning* | John Friedmann & William Alonso |
 | *The Anatomy of Regional Activity* | Perroux |
 
----
+
 
 ### Theories and Models
 
@@ -20,7 +20,7 @@
 | **Unbalanced Growth** | Albert O. Hirschman | Intentional imbalance in investment to stimulate development. |
 | **Economic Base Theory** | North / Tiebout | Regional growth depends on export-oriented (basic) industries. |
 
----
+
 
 ### Planning Concepts
 
@@ -30,5 +30,5 @@
 - **Top-Down Planning:** Centralized decision-making (e.g., Growth Pole).
 - **Bottom-Up Planning:** Community-based development (e.g., Agropolitan district).
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

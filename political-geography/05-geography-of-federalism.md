@@ -22,11 +22,11 @@
 * **Centripetal vs. Centrifugal Forces**: Hartshorne's concept. Centripetal forces bind a state together (nationalism, institutions, transport network); Centrifugal forces pull it apart (ethnic conflict, regionalism, physical barriers).
 :::
 
----
+
 
 ### Geography of Federalism (NET Notes)
 
-> **Neumann (1955):** *"Federalism is seen as one of the devices to curb the evil use of power by dividing it among a number of competing power units."*
+> **Neumann (1955):** *"Federalism is seen as one of the devices to curb the evil use of power by dividing it among a number of competing power units."
 
 #### Key Features of Federal State
 - Division of powers between central and state/provincial governments

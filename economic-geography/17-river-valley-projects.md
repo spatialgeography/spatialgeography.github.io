@@ -8,7 +8,7 @@
 | **UGC NET** | Natural Resources Management |
 :::
 
----
+
 
 ### Major River Valley Projects in India (NET Notes — Pulakesh Pradhan)
 
@@ -37,10 +37,10 @@
 
 #### Cauvery Water Dispute
 - States: Tamil Nadu, Kerala, Karnataka and Pondicherry
-- Started: **1892**
+- Started: **1892*
 - **1924:** Krishnaraja Sagar Dam agreement
 - **2007:** Supreme Court Award:
-  - Tamil Nadu: **56.62%**
-  - Karnataka: **36.48%**
-  - Kerala: **4.05%**
-  - Pondicherry: **0.94%**
+  - Tamil Nadu: **56.62%*
+  - Karnataka: **36.48%*
+  - Kerala: **4.05%*
+  - Pondicherry: **0.94%*

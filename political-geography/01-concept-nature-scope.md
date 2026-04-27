@@ -24,14 +24,14 @@
 * **Approaches**: Morphological (studying structure), Functional (how a state functions), Behavioural, Political Economy approach.
 :::
 
----
+
 
 ### Nature & Scope of Political Geography (NET Notes)
 
 #### Definitions
-- **Ratzel:** *"Political Geography is the study of the state as an organism attached to the soil"*
-- **Hartshorne:** *"Political Geography is concerned with the variation of political phenomena from place to place..."*
-- **Pounds:** *"Political Geography is the study of the variation of political phenomena over the earth's surface"*
+- **Ratzel:** *"Political Geography is the study of the state as an organism attached to the soil"
+- **Hartshorne:** *"Political Geography is concerned with the variation of political phenomena from place to place..."
+- **Pounds:** *"Political Geography is the study of the variation of political phenomena over the earth's surface"
 
 #### Scope
 - Geography of state boundaries and frontiers, geopolitics, electoral geography, international organisations, war and peace, political regions.

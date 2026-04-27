@@ -22,6 +22,6 @@
 | **William D. Pattison** | — | Four traditions of geography |
 | **Wolfanger** | 1935 | Podzols and laterites — intensive cultivation |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Population Geography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Population Geography (NET)

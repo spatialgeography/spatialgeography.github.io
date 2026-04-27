@@ -23,7 +23,7 @@
 * **Measurement Scales**: Nominal (categories), Ordinal (rank), Interval (no true zero, e.g., Temp in C), Ratio (true zero, e.g., population, distance).
 :::
 
----
+
 
 ### Data Collection (NET Notes — Pulakesh Pradhan)
 
@@ -47,17 +47,17 @@
 
 #### Types of Statistical Units
 
-**Unit of Collection:**
+**Unit of Collection:*
 
 - **Unit of enumeration** — whether by sample or census method
 - **Unit of recording** — Kilogram, Quintal, Metre, km, etc.
 
-**Unit of Analysis and Interpretation:**
+**Unit of Analysis and Interpretation:*
 
 - Rates, ratios, percentages and coefficients
 - Examples: CBR (Crude Birth Rate), IMR (Infant Mortality Rate)
 
----
+
 
 ### Sources of Data (NET Notes)
 
@@ -79,7 +79,7 @@
 
 #### Sources of Secondary Data
 
-**Official Publications (Central Government):**
+**Official Publications (Central Government):*
 
 - Office of the Registrar General and Census Commissioner of India
 - Directorate General of Commercial Intelligence and Statistics
@@ -88,7 +88,7 @@
 - Indian Army Statistical Organization
 - Central Statistical Organization (CSO)
 
-**Semi-Government Publications:**
+**Semi-Government Publications:*
 
 - Statistical Department of RBI (Mumbai)
 - Economic Department of RBI
@@ -96,20 +96,20 @@
 - Gokhale Institute of Politics and Economics
 - Institute of Foreign Trade
 
-**Research Institutes:**
+**Research Institutes:*
 
 - Statistical Institute of Kolkata
 - Indian Agricultural Statistical Research Institute
 - NCERT
 
-**International Publications:**
+**International Publications:*
 
 - UNO Statistical Yearbook
 - UN Statistical Abstract
 - Demographic Yearbook
 - IMF, ILO, World Bank publications
 
----
+
 
 ### Types of Enquiry (NET Notes)
 
@@ -121,7 +121,7 @@
 | **Direct / Indirect** | Direct = quantitative phenomena (age, weight, income); Indirect = qualitative phenomena (honesty, intelligence) |
 | **Regular / Ad-hoc** | Regular = at fixed intervals; Ad-hoc = as and when required |
 
----
+
 
 ### Quality of a Good Questionnaire
 1. Size should be as small as possible
@@ -135,7 +135,7 @@
 9. Use pre-tested questionnaires
 10. Include covering letter from organizers
 
----
+
 
 ### Types of Scales (NET Notes)
 
@@ -146,7 +146,7 @@
 | **Interval** | Equal intervals; no true zero | Temperature in °C, dates |
 | **Ratio** | Equal intervals + true zero | Height, weight, distance, income |
 
----
+
 
 ### Types of Data / Variables (NET Notes)
 

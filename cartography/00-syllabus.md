@@ -4,20 +4,20 @@
 
 ::: {.callout-note}
 #### Core I Paper IV — Cartography and Geo-Spatial Techniques
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I:**
+**Unit I:*
 - Scientific basis of Cartography, needs of map making, characteristics of maps
 - Geographical Coordinates (Latitude and Longitude), Graticules
 - Types of Scales (Plain, and Diagonal Scale)
 
-**Unit II:**
+**Unit II:*
 - Meaning, Uses and types of Map Projection
 - Transformation of area, Distance and Direction, Choice of map projection
 - Interpretation of Bedding plane, Strike, Dip, structure & stratigraphy of Geological map
 - Methods of determination of slope (Wentworth's method and Smith)
 
-**Unit III:**
+**Unit III:*
 - History of Geographical Information System, Components of GIS
 - Dimensions of GIS data (field/object) and logical (raster/vector)
 - Data sources, data types (raster/vector/attribute)
@@ -27,7 +27,7 @@
 - Applications of GIS and RS
 :::
 
----
+
 
 ### UGC NET Syllabus
 
@@ -38,7 +38,7 @@
 - Thematic maps: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps
 :::
 
----
+
 
 ### NET Cartography — Detailed Syllabus (Pulakesh Pradhan)
 
@@ -54,7 +54,7 @@
 - Accessibility and flow maps
 :::
 
----
+
 
 ### Important Topics for NET
 

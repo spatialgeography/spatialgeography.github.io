@@ -24,7 +24,7 @@
 * **Nautical Mile:** One nautical mile measures the arc-length distance along the great-circle against **1' (one minute)** of angular distance at the centre of the Earth.
 :::
 
----
+
 
 ### Types of Maps — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -56,7 +56,7 @@
 - Does not show physical features
 - Capital cities marked with a star within a circle
 
----
+
 
 ### Scales — Detailed (NET Notes)
 
@@ -72,4 +72,4 @@
 - **Small scale:** 1:1,000,000 or smaller
 
 #### Map Enlargement and Reduction
-- If RF is 1:5000 and map is reduced three times, new RF becomes **1:15,000**
+- If RF is 1:5000 and map is reduced three times, new RF becomes **1:15,000*

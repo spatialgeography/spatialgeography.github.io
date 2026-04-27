@@ -7,7 +7,7 @@
 | **UGC NET** | Unit I — Geosynclines and mountain building |
 :::
 
----
+
 
 ### 1. Geosynclines (Hall and Dana)
 
@@ -18,7 +18,7 @@ Geosynclines are long, narrow, and shallow water bodies which undergo gradual su
 - **Polygeosyncline:** Broad and complex (e.g., Rockies, Urals).
 - **Mesogeosyncline:** Mobile ocean basins between landmasses (e.g., Tethys).
 
----
+
 
 ### 2. Mountain Building (Orogenesis)
 

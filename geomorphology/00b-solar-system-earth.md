@@ -28,14 +28,14 @@
 
 #### Inner vs Outer Planets
 - **Inner Planets:** Mercury (57.9m km from Sun, 88-day revolution), Venus (Earth's twin), Earth ('Blue' Planet), Mars (Red Planet, satellites Phobos & Deimos).
-- **Outer Planets:**
+- **Outer Planets:*
   - **Jupiter:** King of planets (318× Earth mass); fastest rotating (9 hrs 55 min); 63 satellites (Io, Europa, Ganymede, Callisto).
   - **Saturn:** 95× Earth mass; Rings A to G; 10 hrs 40 min rotation.
   - **Uranus:** 27 satellites (Titania & Oberon).
   - **Neptune:** twin of Uranus; 13 satellites (Triton & Nereid).
 - **Asteroids:** Thousands of small planets between Mars and Jupiter.
 
----
+
 
 ### Earth as a Planet
 

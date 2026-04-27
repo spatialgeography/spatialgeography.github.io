@@ -18,7 +18,7 @@
 * **Himalayan Rivers**: Antecedent, perennial (snow and rain-fed), youth stage (gorges, rapids), shifting courses (e.g., Kosi). Examples: Indus, Ganga, Brahmaputra systems.
   - *Brahmaputra Basin:* Covers parts of **China (Tibet), India, Bhutan, and Bangladesh**.
 * **Peninsular Rivers**: Consequent, seasonal (rain-fed), mature stage (broad valleys, graded profiles). Flow largely west to east (Mahanadi, Godavari, Krishna, Cauvery) forming deltas, except Narmada and Tapi (flowing west in rift valleys forming estuaries).
-* **River Origins (Himachal Pradesh):**
+* **River Origins (Himachal Pradesh):*
   - **Beas:** Originates from **Beas Kund** near the Rohtang Pass.
   - **Ravi:** Originates from the **Kullu Hills** (near Rohtang Pass).
   - **Chenab:** Formed by the confluence of the **Chandra** and **Bhaga** rivers at Tandi.
@@ -30,7 +30,7 @@
   - **Godavari:** 9.5%
   - **Krishna:** 7.9%
   - **Mahanadi:** 4.3%
-* **National Waterways (NW):**
+* **National Waterways (NW):*
   - **NW 1:** Allahabad to Haldia (Ganga-Bhagirathi-Hooghly system).
   - **NW 2:** Sadiya to Dhubri (Brahmaputra river).
   - **NW 3:** Kottapuram to Kollam (West Coast Canal).

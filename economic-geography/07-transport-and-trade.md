@@ -25,7 +25,7 @@
   - **Gamma Index (γ):** Relates to the connectivity of a network (ratio between the observed number of edges and the maximum possible number of edges/vertices).
   - **Access vs Accessibility:** In the context of transportation, 'Access is not accessibility'. While access refers to the physical presence of a transport link and is often uniform, accessibility (the ease of reaching a destination) is not uniform.
 * **Trade**: Exchange of goods/services. Based on comparative advantage (Ricardo).
-* **Spatial Interaction Models:**
+* **Spatial Interaction Models:*
   - *Edward Ullman:* Three main principles of spatial interaction are **complementarity, transferability, and intervening opportunities**. The concept of **Intervening Opportunity** suggests that there is no better alternative destination for an interaction.
   - *Destination Choice Models:* These are an extension of the gravity model.
   - *Transport Friction:* The **Beta ($\beta$) index** is often used as a measure of transport friction.
@@ -39,7 +39,7 @@
 * **Globalisation Impacts:** Negative impacts can include the exploitation of labour due to low wages in developing nations.
 :::
 
----
+
 
 ### Accessibility and Connectivity (NET Notes — Pulakesh Pradhan)
 
@@ -59,11 +59,11 @@
 
 - **Detour Index** — degree to which actual route exceeds straight-line distance
 
----
+
 
 ### Comparative Cost Advantage (NET Notes)
 
-> **David Ricardo** — Theory of **Comparative Advantage**
+> **David Ricardo** — Theory of **Comparative Advantage*
 > A country should specialise in producing goods in which it has lower *relative* cost
 
 #### Heckscher–Ohlin Theory

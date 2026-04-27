@@ -8,7 +8,7 @@
 | **UGC NET** | Dualisms in Geographic Studies |
 :::
 
----
+
 
 ### Man–Environment Relationship
 
@@ -27,11 +27,11 @@
 | **Taylor** | Race, population, states and cities directly influenced by environmental factors |
 | **Hartshorne** | Determinist-possibilist debate was unreal and futile |
 
----
+
 
 ### Determinism
 
-> **Platt (1948):** *"Determinism refers to the idea that everything in human life is caused certainly by preceding events or conditions"*
+> **Platt (1948):** *"Determinism refers to the idea that everything in human life is caused certainly by preceding events or conditions"
 
 - Humans considered as **passive agent** on whom physical factors work continuously
 - The level of development of history, culture, lifestyle of any social group is **solely governed** by physical components of environment
@@ -50,7 +50,7 @@
 | **Ellsworth Huntington** | Climate and civilization; selective migration and selective survival |
 | **Griffith Taylor** | *"Environment has set the limit of human development"*; man can only speed, slow or stop development |
 
-- **Black (1986):** *"Environmental determinism was at the center of one of the longest debates in the history of social science of geography"*
+- **Black (1986):** *"Environmental determinism was at the center of one of the longest debates in the history of social science of geography"
 - **Stoddart (1966)** — Darwin's biology played crucial role in establishing human's place in nature
 
 #### Criticisms of Determinism
@@ -59,13 +59,13 @@
 - **Peet (1985)** — Cultural geography of Blache and Sauer failed to establish a comprehensive theory
 - **Hartshorne** — Geography must analyse relationships regardless of natural or social laws
 
----
+
 
 ### Possibilism
 
 > Puts human at a higher level as an **active agent**; environment provides opportunities and man chooses from those possibilities
 
-- **Direct contrast to Determinism**
+- **Direct contrast to Determinism*
 
 #### Key Possibilist Thinkers
 
@@ -87,18 +87,18 @@
 - Leaves unsolved question: why one possibility rather than another? Was choice free or necessitated by psychological, political or economic factors?
 - *"Determinism may persist as a false guide in geography ever after environmentalism has been banished from the field"* (Platt)
 
----
+
 
 ### Probabilism / Neo-Determinism
 
-> **O.H.K. Spate (1957):** *"The physical environment does not specifically determine human activities yet it gives some reactions to others; human action was not said in the case of all on some kind of compulsion, but rather the balance of the possibilities"*
+> **O.H.K. Spate (1957):** *"The physical environment does not specifically determine human activities yet it gives some reactions to others; human action was not said in the case of all on some kind of compulsion, but rather the balance of the possibilities"
 
 - After this, **probability theory** became an essential component of geographic analysis
-- **Cultural / Social Darwinism:**
-  - **Edward Wellman:** *"The environment is essentially natural, its role depends on the level of technology, the types of culture and other characteristics of changing society"*
+- **Cultural / Social Darwinism:*
+  - **Edward Wellman:** *"The environment is essentially natural, its role depends on the level of technology, the types of culture and other characteristics of changing society"
   - **George Carter:** Cultural forces determine the human use of the physical world
 
----
+
 
 ### Key Dualisms Summary
 

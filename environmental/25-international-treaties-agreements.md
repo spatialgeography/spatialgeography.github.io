@@ -29,7 +29,7 @@ International environmental governance has evolved through landmark summits, tre
 * **Political Ecology:** The relationship among **power structure**, the **environment**, and **economic inequalities**.
 :::
 
----
+
 
 ### Environmental Policies & Treaties (NET Notes — Pulakesh Pradhan)
 

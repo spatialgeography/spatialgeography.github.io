@@ -26,12 +26,12 @@
   - **Four Asian Tigers:** High-growth economies including **Singapore, Hong Kong, South Korea, and Taiwan**.
 :::
 
----
+
 
 ### Concept of Region — Detailed (NET Notes — Pulakesh Pradhan)
 
 #### Definition
-- **Any space having common characteristics can be called a region**
+- **Any space having common characteristics can be called a region*
 
 #### Classification of Regions
 
@@ -43,7 +43,7 @@
 
 **By Activity:** Agricultural, Mining, Service
 
----
+
 
 #### Definitions of Region by Scholars
 
@@ -57,14 +57,14 @@
 | **Whittlesey** | Region is a segment of earth's surface homogeneous in terms of areal grouping |
 | **James** | Distinction between arbitrary area and spatially meaningful region |
 
----
+
 
 ### Regional Concept in Geography (NET Notes)
 
 #### Important Statements
-- **William Bunge**: *"Systematic geography must move into theoretical sphere and regional geography into search for generic and not unique studies"*
-- **C.C. Carter**: *"Regions are good servants but bad masters"*
-- **Patrick Geddes**: Region consists of trinity of **Place, Folk and Work**
+- **William Bunge**: *"Systematic geography must move into theoretical sphere and regional geography into search for generic and not unique studies"
+- **C.C. Carter**: *"Regions are good servants but bad masters"
+- **Patrick Geddes**: Region consists of trinity of **Place, Folk and Work*
 - **Concept of mental map** — Roger Gold
 - **Concept of Chorology** — Kant
 

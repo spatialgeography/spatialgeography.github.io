@@ -23,8 +23,8 @@
   - *Oceanic Factors*: El Niño (negative impact), Indian Ocean Dipole (Positive IOD enhances rainfall).
 * **Climatic Classifications**: Koeppen (Amw, Aw, BShw, Cwg), Trewartha.
 * **Western Disturbances**: Cyclonic storms from the Mediterranean bringing winter rain to NW India (crucial for Rabi crops).
-* **Local Storms:**
+* **Local Storms:*
   - **NORWESTER:** Also known as **Kal Baisakhi**, these are the most common summer storms in **Bengal, Assam, and Odisha**.
-* **Extreme Weather:**
+* **Extreme Weather:*
   - **Cloudburst (IMD definition):** Rainfall of **$\ge$ 10 cm in one hour**.
 :::

@@ -4,34 +4,34 @@
 
 ::: {.callout-note}
 #### Core I Paper XXIII — Social and Cultural Geography
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I:**
+**Unit I:*
 - Definition and Nature of Social Geography; Social Geography in the Realm of Social Sciences
 - Concept of Social Structure and its importance in Indian Social Realities
 - Understanding early Cultural differentiation and Social Formation in India (Mahajanapadas, Mughal/British Provinces)
 
-**Unit II:**
+**Unit II:*
 - Concepts of Social Justice and Wellbeing; Social Inclusion and Exclusion
 - Geographies of Gated Communities and Slums
 - Social Empowerment: Major Schemes of Social Empowerment in India
 - Affordable Housing Schemes for Low and Moderate-income Resident in India (PMAY, BPGY)
 
-**Unit III:**
+**Unit III:*
 - Meaning and definition of Culture and Cultural traits
 - Types of Culture: Folk and Popular Culture, Cultural Realms, Cultural Hearth
 - Diffusion of Innovations: Spatial Dimensions
 - Concept, Types and Conservation of Geo-heritage
 :::
 
----
+
 
 ### UGC NET Syllabus
 
 ::: {.callout-tip}
 #### Unit VII — Political, Social, and Cultural Geography
 
-**II. Social Geography**
+**II. Social Geography*
 - Nature and scope of social geography
 - Social structure and processes 
 - Social Well-being and Quality of Life, Social Exclusion
@@ -40,14 +40,14 @@
 - Nutritional Status (classification and spatial/seasonal patterns in India)
 - Health Care Planning and Policies in India, Medical Tourism
 
-**III. Cultural Geography**
+**III. Cultural Geography*
 - Nature and scope of cultural geography
 - Concept of Culture, Cultural Complexes, Areas and Region, Cultural Heritage, Cultural Ecology, Cultural Convergence
 - Theories of tribal groups
 - Dwelling places as cultural expressions
 :::
 
----
+
 
 ### NET Social & Cultural Geography — Detailed Syllabus (Pulakesh Pradhan)
 

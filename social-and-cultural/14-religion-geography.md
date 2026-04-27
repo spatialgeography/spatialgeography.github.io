@@ -7,7 +7,7 @@
 | **UGC NET** | Spatial distribution of social groups in India (Religion) |
 :::
 
----
+
 
 ### Religion Geography (NET Notes — Pulakesh Pradhan)
 
@@ -30,5 +30,5 @@
 - **Shia** — follow lineage of Ali; dominant in Iran, Iraq
 
 #### Religious Diversity in India
-- India — officially a **secular state**
+- India — officially a **secular state*
 - Major religions: Hinduism (~79.8%), Islam (~14.2%), Christianity (~2.3%), Sikhism (~1.7%), Buddhism (~0.7%), Jainism (~0.4%)

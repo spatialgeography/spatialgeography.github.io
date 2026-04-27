@@ -19,7 +19,7 @@
 * **Participatory Planning**: Involving local communities, NGOs, and stakeholders in the planning process to ensure plans reflect real needs (e.g., Kerala model of decentralized planning).
 :::
 
----
+
 
 ### Urban and Related Planning Concepts (NET Notes — Pulakesh Pradhan)
 
@@ -28,13 +28,13 @@
 - **Radiant City** — Le Corbusier
 - **Garden City** — Ebenezer Howard
 - **Green Belt** — Metropolitan planning
-- **Slum Zone → Zone of Assimilation → Suburban Zone → Discard Zone**
+- **Slum Zone → Zone of Assimilation → Suburban Zone → Discard Zone*
 - **Exploitative model of urban structure** — city of death, city of need, city of superfluity
 - **Tribal area development** — social and cultural stability
 - **JNNURM** — upgradation of urban infrastructure
 - **River basin planning** — command area approach
 
----
+
 
 ### Planned Cities and Planners (NET Notes)
 

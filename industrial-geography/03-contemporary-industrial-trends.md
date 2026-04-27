@@ -18,7 +18,7 @@ The evolving landscape of global manufacturing.
 * **Green Industry**: Low-carbon manufacturing, renewable energy equipment, and environmental compliance.
 :::
 
----
+
 
 ### Books and Further Readings
 Industrial Geography provides insights into the spatial dynamics of production and economic transformation. Continue with [Economic Geography](economic-geography.html) and [Trade and Transport](trade-and-transport.html) for complementary perspectives.

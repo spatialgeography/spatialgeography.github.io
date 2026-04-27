@@ -35,12 +35,12 @@
 * **Modern Changes**: Impact of Green Revolution, globalization, corporate farming, contract farming.
 :::
 
----
+
 
 ### Agricultural Geography — Whittlesey's Classification (1936) (NET Notes)
 
 > **Derwent Whittlesey (1936)** — *"Major Agricultural Regions of the Earth"* (AAG)
-> *"Physical environment sets the limit for production of crops and raising of livestock"*
+> *"Physical environment sets the limit for production of crops and raising of livestock"
 
 #### 5-Fold Criteria
 1. Crops and livestock combination

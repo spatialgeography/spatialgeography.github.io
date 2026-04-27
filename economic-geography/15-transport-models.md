@@ -8,7 +8,7 @@
 | **UGC NET** | Factors affecting spatial organisation (tertiary) |
 :::
 
----
+
 
 ### Transport Models (NET Notes — Pulakesh Pradhan)
 
@@ -18,31 +18,31 @@
 > 3. Spatial Input–Output
 
 #### 1. Location & Accessibility Models
-- A modification of the **Central Place Model**
+- A modification of the **Central Place Model*
 
 #### 2. Spatial Interdependence Model
 - **1961** — by Gotman (Goldman)
 - Specialisation and interdependency taken into account
-- *"Specialisation occurs at low cost and tries to increase trade"*
+- *"Specialisation occurs at low cost and tries to increase trade"
 
 #### 3. Distribution / Flow Model
 - Large urban centres are collection points for smaller centres
 - Human behaviour tries to visit particular place at particular time
 
 #### 4. Lowry Model — 1964
-- **First model of transport and land use**
+- **First model of transport and land use*
 - Basically demand-driven; flow-chart form
 - Spatial interaction of basic employment affects zone of transparency
 
 #### 5. ITLUP — Integrated Transport Land Use Package
-- By **Putman**
+- By **Putman*
 - Three components:
   - **DRAM** — Disaggregated Residential Allocation Model
   - **EAM** — Employment Allocation Model
   - **TDM** — Travel Demand Model
 
 #### 6. LILT — Least Integrated Land Use Transport Model
-- By **Machett**
+- By **Machett*
 - Combines concepts of Lowry + Carowhender
 
 #### 7. IRPUD Model
@@ -59,7 +59,7 @@
 - Simulates land use, transport, economic activity
 
 #### 11. PECAS Model
-- **Production, Exchange, Consumption, Allocation System**
+- **Production, Exchange, Consumption, Allocation System*
 
 #### 12. DELTA Model
-- For both **Urban and Regional Level**
+- For both **Urban and Regional Level*

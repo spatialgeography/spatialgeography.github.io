@@ -17,7 +17,7 @@ Monsoon-driven climate system of the subcontinent.
 * **Climate Zones of India**: Tropical wet, tropical dry, subtropical humid, semi-arid, arid, and montane.
 :::
 
----
+
 
 ### Climate Facts (NET Notes)
 - Tamil Nadu coast gets most of its rainfall from the retreating monsoon.

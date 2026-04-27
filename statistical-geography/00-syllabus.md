@@ -4,9 +4,9 @@
 
 ::: {.callout-note}
 #### Core I Paper IV — Cartography and Geo-Spatial Techniques
-*(Note: Quantitative topics are distributed in practical sections of various NEP papers)*
+*(Note: Quantitative topics are distributed in practical sections of various NEP papers)
 
-**Cartography & Data:**
+**Cartography & Data:*
 - Scientific basis of Cartography, needs of map making, characteristics of maps
 - Geographical Coordinates, Graticules, Types of Scales (Plain, Diagonal)
 - Types of Map Projection, Transformation of area, Distance and Direction
@@ -18,14 +18,14 @@
 - Nearest Neighbour Analysis, Rank Size Rule
 :::
 
----
+
 
 ### UGC NET Syllabus
 
 ::: {.callout-tip}
 #### Unit IX/X — Statistical Methods and Cartography
 
-**I. Statistical Methods**
+**I. Statistical Methods*
 - Sources of Geographic Information and Data (spatial and non-spatial)
 - Applications of Measures of Central Tendency, Dispersion and Inequalities
 - Sampling, Sampling Procedure and Hypothesis Testing (chi square, t-test, ANOVA)
@@ -34,13 +34,13 @@
 - Principal Component Analysis and Cluster Analysis
 - Morphometric Analysis: Stream ordering, Bifurcation ratio, Drainage density, Slope Analysis
 
-**II. Cartography**
+**II. Cartography*
 - Types of Maps, Techniques of Map Making
 - Data Representation on Maps (Pie diagrams, Bar diagrams, Line Graph)
 - Thematic maps: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps
 :::
 
----
+
 
 ### NET Statistics for Geography — Detailed Syllabus (Pulakesh Pradhan)
 
@@ -61,7 +61,7 @@
 > **Exam:** 5 Questions = 10 Marks
 :::
 
----
+
 
 ### Important Topics for NET
 

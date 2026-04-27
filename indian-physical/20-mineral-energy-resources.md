@@ -17,7 +17,7 @@ India's natural resource endowment.
 * **Renewable Energy**: Solar (Rajasthan, Gujarat), wind (Tamil Nadu, Gujarat), and hydropower potential.
 :::
 
----
+
 
 ### Mineral & Energy Resources (NET Notes)
 

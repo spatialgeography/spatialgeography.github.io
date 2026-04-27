@@ -15,7 +15,7 @@ Plateaus cover about 33% of the Earth's surface and house 9% of the world's popu
 - **Mature:** Ranchi Plateau, Appalachians.
 - **Old / Rejuvenated:** Missouri Plateau.
 
----
+
 
 ### 2. Plains
 Plains cover 41% of the land area and house 85% of the global population.

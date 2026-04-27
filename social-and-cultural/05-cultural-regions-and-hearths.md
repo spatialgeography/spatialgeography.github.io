@@ -23,7 +23,7 @@
 * **Cultural Convergence**: Cultures becoming more alike due to globalization and technology.
 :::
 
----
+
 
 ### Cultural Diffusion — Detailed (NET Notes — Pulakesh Pradhan)
 

@@ -8,7 +8,7 @@
 | **UGC NET** | Factors affecting spatial organisation (tertiary) |
 :::
 
----
+
 
 ### Roads in India (NET Notes — Pulakesh Pradhan)
 
@@ -39,7 +39,7 @@
 - **Mumbai–Pune Expressway** (Six-lane; 94 km)
 - **Greater Noida–Agra / Yamuna Expressway** (NH 2)
 
----
+
 
 ### Railways in India (NET Notes)
 
@@ -50,7 +50,7 @@
 | 16 April 1853 | First passenger train: Bori Bunder (Mumbai) → Thane |
 | 1871 | Calcutta, Bombay & Madras connected |
 
-- **India — 4th largest railway network in the world**
+- **India — 4th largest railway network in the world*
 - **Samjhauta Express** → Pakistan; **Maitri Express** → Bangladesh
 
 #### Railway Zones of India (16 Zones)

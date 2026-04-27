@@ -37,7 +37,7 @@
 | Geopiety | J. K. Wright |
 | Model Elements (Channels, Diffusion, etc.) | Peter Haggett |
 
----
+
 
 ## Key Scholars — Master Quick Reference
 
@@ -76,6 +76,9 @@
 | Dokuchaiev | Russian | First prof of geography Russia; Soil Geography |
 | Norman Myers | — | 'Biodiversity Hotspot' concept |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Geographical Thought (NET)*
+
+Notes compiled by Pulakesh Pradhan — Geographical Thought (NET)
+
+
+Notes compiled by Geography Team

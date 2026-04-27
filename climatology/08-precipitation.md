@@ -8,7 +8,7 @@
 | **UGC NET** | Unit II — Precipitation types and distribution |
 :::
 
----
+
 
 ### Types of Precipitation
 
@@ -28,7 +28,7 @@
 
 ### Dew Formation
 Favourable conditions for the formation of dew include:
-1. **Clear sky.**
+1. **Clear sky.*
 2. **Calm evening** without turbulence in the atmosphere.
 3. **Nocturnal radiative cooling** below the dew point temperature of the air resting near the earth's surface.
 4. **Warm previous day** to raise the moisture content of the air.
@@ -45,9 +45,9 @@ Favourable conditions for the formation of dew include:
 
 
 ### Types of Rainfall
-- **Convectional Rainfall**
+- **Convectional Rainfall*
 - **Orographic Rainfall** (Rain Shadow on lee side)
-- **Cyclonic / Frontal Rainfall**
+- **Cyclonic / Frontal Rainfall*
 
 ### Rainfall Distribution Classes
 

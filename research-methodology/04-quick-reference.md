@@ -8,3 +8,6 @@
 | **Hypothesis** | Tentative assumption formulated for testing. |
 | **Sampling Types** | Random, Stratified, Purposive, Snowball. |
 | **Qualitative vs Quantitative** | Descriptive vs Numerical/Statistical analysis. |
+
+
+Notes compiled by Geography Team

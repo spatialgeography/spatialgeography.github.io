@@ -13,6 +13,6 @@
 | **E. Shevky** | Social Area Analysis |
 | **Clark & Evans** | Nearest Neighbour Analysis |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Statistics for Geography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Statistics for Geography (NET)

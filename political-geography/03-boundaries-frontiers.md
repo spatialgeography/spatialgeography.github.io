@@ -26,7 +26,7 @@
 * **Buffer Zone/State**: Weak, independent state located between two major, rival powers (e.g., historical Nepal between British India and China/Tibet).
 :::
 
----
+
 
 ### Boundaries and Frontiers (NET Notes)
 
@@ -42,7 +42,7 @@
 
 #### Boundary Classification
 - **Evolutionary Process:** Arbitrary, Evolutionary, Arbitration.
-- **By Origin (Jones, 1945 — 4-stage model):**
+- **By Origin (Jones, 1945 — 4-stage model):*
   1. **Allocation:** Political decision.
   2. **Delimitation:** Drawn on map.
   3. **Demarcation:** Marked on ground.

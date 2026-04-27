@@ -16,6 +16,6 @@ Several scholars modified Weaver's approach to overcome drawbacks like the tende
 *   **J.T. Coppock**: Modified methods to account for all animals on the farm by converting them into equivalent units based on food consumption.
 
 #### 3. Other Contributors
-*   **Jasbir Singh (1971)**
-*   **Singh and Dhillon (1984)**
-*   **Tinath and Krishan (1966)**
+*   **Jasbir Singh (1971)*
+*   **Singh and Dhillon (1984)*
+*   **Tinath and Krishan (1966)*

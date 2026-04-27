@@ -8,12 +8,12 @@
 | **UGC NET** | Unit I — Weathering and mass wasting |
 :::
 
----
+
 
 ### 1. Weathering
 
 Weathering is the in-situ disintegration and decomposition of rocks.
-- **Denudation = Weathering + Erosion + Transportation.**
+- **Denudation = Weathering + Erosion + Transportation.*
 
 #### Physical (Mechanical) Weathering
 - **Insolation / Block Disintegration:** Expansion/contraction due to temperature.
@@ -31,7 +31,7 @@ Weathering is the in-situ disintegration and decomposition of rocks.
 #### Soil Textures
 - **Clay:** Represents grains of **< 2 μm**. Unweathered stones at the base of a soil profile are associated with the **R horizon**.
 
----
+
 
 ### 2. Mass Wasting
 
@@ -51,4 +51,4 @@ Movement of rock waste downslope under the direct influence of **gravity** (Shar
 - **Rockfall / Debris Fall:** Free-falling material from steep cliffs.
 - **Rockslide:** Rapid sliding of rock along a plane of weakness.
 
-*(Note: Mass movement types in order of increasing dryness: Solifluction -> Mudflow -> Creep -> Rockslide)*
+*(Note: Mass movement types in order of increasing dryness: Solifluction -> Mudflow -> Creep -> Rockslide)

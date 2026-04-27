@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Glacial landforms |
 :::
 
----
+
 
 ### 1. Types of Glaciers
 - **Continental:** Large ice sheets (Antarctica, Greenland).

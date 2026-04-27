@@ -7,7 +7,7 @@
 | **UGC NET** | Study of frequency distribution and cumulative frequency; Selection of class interval for mapping |
 :::
 
----
+
 
 ### Frequency Distribution — Detailed (NET Notes — Pulakesh Pradhan)
 

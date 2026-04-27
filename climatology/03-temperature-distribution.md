@@ -8,7 +8,7 @@
 | **UGC NET** | Unit II — Distribution of temperature |
 :::
 
----
+
 
 - **Isotherms** — imaginary lines joining equal temperature
 - **Temperature Anomaly** — difference between mean temperature and parallel temperature

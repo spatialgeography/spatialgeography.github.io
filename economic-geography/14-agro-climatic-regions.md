@@ -7,7 +7,7 @@
 | **UGC NET** | Agricultural Systems / Regional Variations |
 :::
 
----
+
 
 ### Agro-Climatic Regions of India (NET Notes — Pulakesh Pradhan)
 
@@ -16,7 +16,7 @@
 
 #### Planning Commission of India (1989)
 - With National Remote Sensing Agency (NRSA)
-- Devised **15 Agro-Climatic Regions**
+- Devised **15 Agro-Climatic Regions*
 - **Basis:** Soil type, rainfall, temperature, water resources
 
 #### Objectives of Agro-Climatic Zoning

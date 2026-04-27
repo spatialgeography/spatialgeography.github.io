@@ -6,15 +6,9 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 
 ---
 
-## Previous Year Questions & Reference
+## Quick Reference
 * [Geography in News](geography-in-news.html)
 * [Theories, Models, Books & Concepts](theories-models-concepts.html)
-* [UGC NET  PYQs](ugc-net-pyq.html)
-* [West Bengal SET  PYQs](wb-set-pyq.html)
-* [PGT Geography PYQs](pgt-pyq.html)
-* [CUET-PG Geography PYQs](cuet-pg-pyq.html)
-* [Assistant Professor Geography PYQs](assistant-professor-pyq.html)
-* [Geography Model Test Series](model-test-series.html)
 
 ---
 
@@ -113,8 +107,15 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 
 ---
 
-
-### Supplementary Resources
-* [Reading Materials & Methodology](reading-materials.html)
+## Previous Year Questions
+* [UGC NET  PYQs](ugc-net-pyq.html)
+* [West Bengal SET  PYQs](wb-set-pyq.html)
+* [PGT Geography PYQs](pgt-pyq.html)
+* [CUET-PG Geography PYQs](cuet-pg-pyq.html)
+* [Assistant Professor Geography PYQs](assistant-professor-pyq.html)
+* [Geography Model Test Series](model-test-series.html)
 
 ---
+
+<script type='text/javascript' id='mapmyvisitors' src='//mapmyvisitors.com/map.js?d=zoRyOwVabxYy8pKXTEHm298M6YYDT9dmnyf3mucKRt4&cl=ffffff&w=a'></script>
+

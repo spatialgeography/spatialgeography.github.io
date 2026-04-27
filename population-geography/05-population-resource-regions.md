@@ -23,7 +23,7 @@
 * **Boserupian Theory:** The theory of population growth proposed by **Ester Boserup** (population growth drives agricultural intensity) is most appropriate for **subsistence societies**.
 :::
 
----
+
 
 ### Population Resource Regions (NET Notes)
 

@@ -11,7 +11,7 @@ The geography of villages and agricultural communities.
 ::: {.callout-tip}
 ### Rural Landscape
 * **Factors Affecting Rural Settlement**: Water supply, terrain, soil fertility, defense, and transport.
-* **Settlement Shapes and Types:**
+* **Settlement Shapes and Types:*
   - **Compact settlements** often occur in the alluvial plains of the tropical areas.
   - **Dispersed settlements** are found in the tropical coastal plains and hilly areas.
   - **Star-like / Star pattern** grow in the confluence areas of big rivers or multi-road junctions (dwelling units spread out in several directions).

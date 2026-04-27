@@ -4,28 +4,28 @@
 
 ::: {.callout-note}
 #### Core I Paper XXII — Political Geography and Globalisation
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I**
+**Unit I*
 - Political geography: concept, nature, scope and evolution
 - Concept of state, nation and nation-state
 - Attributes of state: frontiers, boundaries, buffer zone, population, territory, sovereignty
 - Geopolitics: concept, and theories (Heartland and Rimland)
 
-**Unit II**
+**Unit II*
 - Political geography and systems of government: Federalism, Local self-government administration
 - Creation of new states
 - Political geography of resource conflicts: inter-state river water sharing disputes
 - Conflicts on forest rights and mineral resources
 - Politics of Displacement: Issues of relief, compensation and rehabilitation (Dams, SEZs)
 
-**Unit III**
+**Unit III*
 - Geo-Economic and Political Blocks: UNO, SAARC, ASEAN, NATO, EU, OPEC, BRICS
 - India as a global power with special reference to G20
 - India and its relationship with neighbouring countries: Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar and Sri Lanka
 :::
 
----
+
 
 ### UGC NET Syllabus
 
@@ -41,7 +41,7 @@
 - Neopolitics of World Natural Resources
 :::
 
----
+
 
 ### NET Political Geography — Detailed Syllabus (Pulakesh Pradhan)
 
@@ -56,7 +56,7 @@
 - Geography of Federalism
 :::
 
----
+
 
 ### Most Important Topics for Exam (NET Notes)
 

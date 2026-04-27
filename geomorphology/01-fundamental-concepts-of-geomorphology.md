@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Fundamental concepts |
 :::
 
----
+
 
 ### The Ten Fundamental Concepts (Thornbury)
 
@@ -23,7 +23,7 @@
 9. **Climatic Control:** Appreciation of world climates is necessary to understand the varying importance of different geomorphic processes (e.g., arid vs. humid).
 10. **Historical Extension:** Geomorphology attains maximum usefulness by historical extension—studying the past to understand the present (Paleogeomorphology).
 
----
+
 
 ### Key Historical Milestones
 

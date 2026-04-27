@@ -9,7 +9,7 @@
 | *Industrial Location* | David M. Smith |
 | *The Location of Economic Activity* | Edgar M. Hoover |
 
----
+
 
 ### Theories and Models
 
@@ -21,7 +21,7 @@
 | **Product Life Cycle Theory** | Raymond Vernon | Stages: New product, Maturing product, Standardized product. |
 | **Industrial Inertia** | - | Tendency of an industry to remain in its original location even after advantages disappear. |
 
----
+
 
 ### Key Terms
 
@@ -31,5 +31,5 @@
 - **Agglomeration:** Benefits from shared infrastructure and proximity to other firms.
 - **Deglomeration:** Disadvantages (congestion, high rent) leading to industrial dispersal.
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

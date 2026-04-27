@@ -17,7 +17,7 @@ India's connectivity infrastructure.
 * **Telecommunications**: Digital India, BharatNet, and 5G rollout — bridging the digital divide.
 :::
 
----
+
 
 ### Transport Networks (NET Notes)
 

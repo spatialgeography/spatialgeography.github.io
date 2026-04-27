@@ -32,15 +32,15 @@
 | Gunder Frank | Dependency Theory; Metropolis-Satellite Model |
 | Nurkse | Vicious Circle Theory; Balanced Development |
 
----
+
 
 ### Quick Facts (NET Notes)
 
-- **Club of Rome** formed in **1968**
-- **Punsari village**, Sabarkantha district, Gujarat — full Wi-Fi village; associated with **Himanshu Patel**
+- **Club of Rome** formed in **1968*
+- **Punsari village**, Sabarkantha district, Gujarat — full Wi-Fi village; associated with **Himanshu Patel*
 - **Elementary education target** — 100% enrolment for children aged 6–14 years
 - **AQI Scale:** 1–50 Good; 51–100 Satisfactory; 101–200 Partially Polluted; 201–300 Bad; 301–400 Very Bad; 401–500 Dangerous
 
----
 
-*Notes compiled by Pulakesh Pradhan — Regional Planning (NET)*
+
+Notes compiled by Pulakesh Pradhan — Regional Planning (NET)

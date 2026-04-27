@@ -4,7 +4,7 @@
 **Maximum Marks:** 200 | **Time:** 2 Hours
 **Total Questions:** 100 (All compulsory, 2 marks each)
 
----
+
 
 ## Instructions for Candidates
 
@@ -15,7 +15,7 @@
 5. Use of any calculator, mobile phone, electronic devices/gadgets etc. is strictly prohibited.
 6. There is no negative marks for incorrect answer.
 
----
+
 
 ## Section 1: Geomorphology (Q1–Q10)
 
@@ -90,7 +90,7 @@ Reason (R): The 90-E ridge partly connects the Rajmahal Hills with the hotspot t
 - (C) Terraces formed in valley sidewalls due to change in glacial mass balance.
 - (D) Mounds of stratified sands and gravels.
 
----
+
 
 ## Section 2: Climatology & Atmosphere (Q11–Q20)
 
@@ -186,7 +186,7 @@ Codes:
 - (C) 0.0055 °C/m
 - (D) 0.0050 °C/m
 
----
+
 
 ## Section 3: Oceanography (Q21–Q30)
 
@@ -266,7 +266,7 @@ Codes:
 - (C) Centrifugal force
 - (D) Coriolis force
 
----
+
 
 ## Section 4: Biogeography & Environment (Q31–Q40)
 
@@ -359,7 +359,7 @@ Codes:
 - (C) Katowice, Madrid, Bonn, Sharm el-Sheikh, Glasgow
 - (D) Bonn, Madrid, Katowice, Glasgow, Sharm el-Sheikh
 
----
+
 
 ## Section 5: Population & Settlement Geography (Q41–Q50)
 
@@ -466,7 +466,7 @@ Codes:
 - (C) (ii), (iii) and (iv)
 - (D) (i), (ii), (iii) and (iv)
 
----
+
 
 ## Section 6: Economic Geography & Regional Development (Q51–Q60)
 
@@ -568,7 +568,7 @@ Which of the above statements is/are correct?
 - (C) John Friedman
 - (D) Samir Amin
 
----
+
 
 ## Section 7: Cultural & Political Geography (Q61–Q70)
 
@@ -685,7 +685,7 @@ Codes:
 - (C) (ii) and (iv)
 - (D) (iii) only
 
----
+
 
 ## Section 8: Geographical Thought & Philosophy (Q71–Q80)
 
@@ -787,7 +787,7 @@ Codes: (a) (b) (c) (d)
 - (C) Concept of anarchism.
 - (D) Concept of struggle and selection.
 
----
+
 
 ## Section 9: Cartography, Statistics & Remote Sensing (Q81–Q90)
 
@@ -868,7 +868,7 @@ Codes:
 - (C) Vector data model
 - (D) Grid data model
 
----
+
 
 ## Section 10: India — Physical & Economic Geography (Q91–Q100)
 
@@ -964,6 +964,6 @@ Codes:
 - (C) (ii) and (iii)
 - (D) (i), (ii) and (iii)
 
----
 
-*End of Question Paper*
+
+*End of Question Paper

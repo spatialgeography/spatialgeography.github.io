@@ -18,7 +18,7 @@ Demographic characteristics and trends.
 * **Tribal Population**: Scheduled Tribes — distribution, development, and rights (PESA, FRA).
 :::
 
----
+
 
 ### Population Dynamics & Policies (NET Notes)
 

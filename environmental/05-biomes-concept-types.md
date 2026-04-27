@@ -32,11 +32,11 @@ A biome is a large-scale biotic community characterized by dominant vegetation t
 * **Mountain Ecosystems**: Altitudinal zonation, alpine meadows, fragile ecology — climate change vulnerability.
 :::
 
----
+
 
 ### Biomes — Detailed Classification (NET Notes — Pulakesh Pradhan)
 
-> **I.G. Simmons (1982):** *"The most extensive ecosystem unit which it is convenient to designate is called Biome"*
+> **I.G. Simmons (1982):** *"The most extensive ecosystem unit which it is convenient to designate is called Biome"
 
 #### 1. Tropical Evergreen Forest (Selva)
 - **High rainfall + high temperature** throughout the year

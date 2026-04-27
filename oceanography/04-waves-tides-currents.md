@@ -35,18 +35,18 @@
   - *Gyres*: Circular current systems in major ocean basins — North Atlantic, South Pacific, etc.
   - **Ekman Transport:** In the southern hemisphere, it occurs **90° to the left** of the wind direction.
 * **Upwelling and Downwelling**: Vertical water movements — upwelling brings nutrients to surface (productive fishing grounds).
-* **Coastal Circulation and Hazards:**
+* **Coastal Circulation and Hazards:*
   - **Tsunami:** Involves movement of water from surface to sea-floor. The **shoaling effect** can greatly increase wave-heights closer to the coast.
   - **Rip-cell circulations:** Developed along the coasts by the combination of **shore-normal** and **long-shore** currents.
 :::
 
----
+
 
 ### Tides & Tidal Waves — Detailed (NET Notes — Pulakesh Pradhan)
 
 - **Pliny** — tides developed due to combined action of sun and moon
 - **Isaac Newton (1687)** — first rational explanation: Gravitational attraction
-- **Ratio of tidal forces:** Moon : Sun = **11 : 5**
+- **Ratio of tidal forces:** Moon : Sun = **11 : 5*
 
 #### Key Tidal Concepts
 
@@ -75,7 +75,7 @@
 | **Dynamical Theory** | Laplace | 1755 |
 | **Stationary Wave Theory** | Dr. R.A. Harris | — |
 
----
+
 
 ### Ocean Currents — Detailed (NET Notes)
 

@@ -10,7 +10,7 @@
 | *Geography of Agriculture* | J.R. Tarrant |
 | *Agricultural Systems of the World* | Derwent Whittlesey (1936) |
 
----
+
 
 ### Theories, Models & Concepts
 
@@ -23,7 +23,7 @@
 | **Agricultural Productivity** | M.G. Kendall (1939) | Ranking coefficient method for agricultural efficiency |
 | **Agricultural Efficiency** | S.S. Bhatia / Shafi | Output per unit area/input |
 
----
+
 
 ### Agricultural Revolutions
 
@@ -33,5 +33,5 @@
 - **Yellow Revolution:** Oilseeds.
 - **Gene Revolution:** Biotechnology and GM crops.
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

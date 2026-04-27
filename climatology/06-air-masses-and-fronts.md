@@ -8,7 +8,7 @@
 | **UGC NET** | Unit II — Air masses and fronts |
 :::
 
----
+
 
 ### Air Mass
 
@@ -29,18 +29,18 @@
 - Air mass **heated from below** → **K** (Kalt — cold air mass)
 - Air mass **cooled from below** → **W** (Warm air mass)
 
----
+
 
 ### Fronts
 
-> Concept given by **Vilhelm Bjerknes & Jakob Bjerknes**
+> Concept given by **Vilhelm Bjerknes & Jakob Bjerknes*
 
 - **Frontogenesis** — process of front formation
 - Inclined at surface: angle 1/30 to 1/200
 - Depth: 3000–5000 m; Width: 50–80 km; Movement: 50–80 km/h
 
 #### Warm Front
-- Light warm air becomes aggressive and **rises slowly over cold dense air**
+- Light warm air becomes aggressive and **rises slowly over cold dense air*
 - Slope: 1:100 to 1:400
 - Clouds: Cirrus (Ci) → Cirrostratus (Cs) → Altocumulus (Ac) → Altostratus (As)
 

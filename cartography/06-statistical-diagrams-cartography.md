@@ -7,7 +7,7 @@
 | **UGC NET** | Data Representation on Maps |
 :::
 
----
+
 
 ### Star Diagram (NET Notes — Pulakesh Pradhan)
 
@@ -15,7 +15,7 @@
 - A central space displays the topic, while each point of the star lists a fact, attribute, or trait
 - Examples: radar charts and wind rose diagrams
 
----
+
 
 ### Scatter Diagram (NET Notes)
 
@@ -23,7 +23,7 @@
 - Scatter pattern shows the relationship
 - Common forms: no correlation, weak positive, strong positive, strong negative
 
----
+
 
 ### Spearman's Rank Correlation Coefficient
 
@@ -41,15 +41,15 @@
 | 0.70 to 0.89 | Strong correlation |
 | 0.90 to 1.00 | Very strong correlation |
 
----
+
 
 ### Hythergraph (NET Notes)
 
-- Associated with **Griffith Taylor**
+- Associated with **Griffith Taylor*
 - Shows the relationship between temperature and rainfall
 - Important for comparing the climatic character of different regions
 
----
+
 
 ### Triangulation Graph (NET Notes)
 
@@ -57,7 +57,7 @@
 - Each axis is divided into 100 percent
 - This method helps determine the exact location
 
----
+
 
 ### Correlation Analysis Methods (NET Notes)
 

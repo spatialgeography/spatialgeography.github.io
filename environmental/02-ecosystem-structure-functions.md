@@ -37,7 +37,7 @@ An ecosystem is a functional unit of nature where living organisms interact with
   - Pyramid of Energy (always upright)
 :::
 
----
+
 
 ### Ecosystem — Detailed Concepts (NET Notes — Pulakesh Pradhan)
 

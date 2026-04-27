@@ -4,35 +4,35 @@
 
 ::: {.callout-note}
 #### Core I Paper XIV — Geography of India
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I:**
+**Unit I:*
 - Physiography divisions of India
 - Himalayan and Peninsular rivers, watershed and interlinking rivers
 - India's Climatic classification (Koeppen and Trewartha), Mechanism of Indian monsoon
 - Soils: distribution and characteristics of major soil groups
 
-**Unit II:**
+**Unit II:*
 - Agricultural regionalization (Agro climatic zones), regional disparities
 - Govt. Schemes related to Agriculture; Green/White/Blue revolution and implications
 - Joint Forest Management, Social forestry
 - Conventional and non-conventional sources of energy, Energy Crisis
 - Biosphere reserves and National Parks
 
-**Unit III:**
+**Unit III:*
 - Industries: Types and classifications, location factors (jute, Tea, Paper, Fertilizer, IT)
 - Industrial policies, SEZs
 - Transport system: Roadways, Railways, Ports, Waterways, Airways, Pipeline
 - Growing importance of ports in trade
 
-**Unit IV:**
+**Unit IV:*
 - Experience of regional planning: Five year plans, integrated rural dev, Panchayati Raj
 - Command area, Watershed management, backward area planning
 - Geographical basis of Indian federalism, State reorganization, Emergence of new states
 - Regional consciousness, International boundary and related issues
 :::
 
----
+
 
 ### UGC NET Syllabus
 

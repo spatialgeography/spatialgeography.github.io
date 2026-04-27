@@ -8,3 +8,6 @@
 | **Capabilities Approach** | Amartya Sen |
 | **Gender Inequality Index (GII)** | UNDP |
 | **Multidimensional Poverty Index (MPI)** | OPHI and UNDP |
+
+
+Notes compiled by Geography Team

@@ -8,3 +8,6 @@
 | **Industrial Corridors** | DMIC, AKIC, CBIC etc. |
 | **Demographic Dividend** | Favorable age structure (high working-age population). |
 | **Poverty Line Estimation** | Tendulkar Committee, Rangarajan Committee. |
+
+
+Notes compiled by Geography Team

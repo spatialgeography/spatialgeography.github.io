@@ -39,7 +39,7 @@ India has developed a comprehensive environmental policy and legal framework to 
   - **CRZ III B:** Area with population density of <2161/km² (2011)
   - **CRZ IV A:** 12 nautical miles (approx. 22 km) offshore from Low Tide Line (LTL)
   - **CRZ IV B:** Tidal influenced waterbodies
-* **National Governance & Resources:**
+* **National Governance & Resources:*
   - **National Commission on Population:** Headed by the **Prime Minister of India**.
   - **Rare Earth Mining:** The **Odisha coast** is notable for the mining of 'Rare Earth' minerals (e.g., monazite).
   - **Hill Areas Development Programme:** Initiated during the **Fifth Five Year Plan** period in India.

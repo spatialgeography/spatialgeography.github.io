@@ -22,7 +22,7 @@
 * **Slope Analysis**: Techniques like Wentworth's or Smith's method to derive quantitative slope data from contour lines on topomaps.
 :::
 
----
+
 
 ### Toposheet — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -34,14 +34,14 @@
 
 #### Contour
 - Joins points of equal elevation
-- The vertical distance between two consecutive contours is called the **contour interval**
+- The vertical distance between two consecutive contours is called the **contour interval*
 
----
+
 
 ### Survey of India (SOI) — Detailed (NET Notes)
 
-- Prints maps at **1:250,000**, **1:50,000**, and **1:2,500**
-- Based on **Everest datum** and **Polyconic Projection**
+- Prints maps at **1:250,000**, **1:50,000**, and **1:2,500*
+- Based on **Everest datum** and **Polyconic Projection*
 
 | Map Series | Datum | Projection |
 |:---|:---|:---|
@@ -55,7 +55,7 @@
 - General wall maps: **1:12M** scale
 - State maps: **1:1M** scale
 
----
+
 
 ### Dot Maps (NET Notes)
 

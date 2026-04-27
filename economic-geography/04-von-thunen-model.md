@@ -28,7 +28,7 @@
 * **Relevance Today**: Modified by modern transport (refrigeration, highways) and global markets, but core concept of *distance decay* remains valid.
 :::
 
----
+
 
 ### Van Thünen's Model — Detailed (NET Notes — Pulakesh Pradhan)
 

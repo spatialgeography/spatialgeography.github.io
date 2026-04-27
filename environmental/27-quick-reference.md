@@ -12,7 +12,7 @@
 | *Sand County Almanac* | Aldo Leopold | 1949 |
 | *Population Bomb* | Paul R. Ehrlich | 1968 |
 
----
+
 
 ### Key Concepts & Propounders
 
@@ -27,7 +27,7 @@
 | **Tragedy of the Commons** | Garrett Hardin (1968) | Overexploitation of shared resources |
 | **Gaia Hypothesis** | James Lovelock | Earth as a self-regulating, living organism |
 
----
+
 
 ### Global Environmental Initiatives
 
@@ -39,5 +39,5 @@
 | **Kyoto Protocol** | 1997 | Legally binding emission reduction targets |
 | **Paris Agreement** | 2015 | Limit global warming to well below 2°C |
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

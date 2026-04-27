@@ -22,16 +22,16 @@
 * **Spatial Challenges**: Displacement by development projects, forest rights conflicts, cultural erosion.
 :::
 
----
+
 
 ### Tribes of India — State-wise Distribution (NET Notes — Pulakesh Pradhan)
 
 #### Definition
 - A tribe is a social group sharing common ancestry, culture, language and territory
-- Usually inhabit **forest, hill and remote areas**
+- Usually inhabit **forest, hill and remote areas*
 - Recognised as **Scheduled Tribes (ST)** under Indian Constitution (Article 342)
 
----
+
 
 #### Jammu & Kashmir
 Bakarwal, Buddhists of Ladakh, Gaddi, Gujjars, Pahadi
@@ -82,10 +82,10 @@ Asur, Baiga, Badia, Banjara, Banaik, Bhumij, Binhor, Binjia, Bhoomiji, Bhulia, C
 Asur, Baiga, Banjara, Bedia, Binjhia, Binhor, Binjia, Chena, Chik, Gond, Ho, Karmali, Kharia, Kherwar, Khond, Kora, Konwa, Lohar, Mahli, Mal-Paharia, **Munda**, **Oraon**, Parhaiya, **Santhal**, Paharia, Saunia, Savar
 
 #### Uttar Pradesh
-Banjara, Bhoksa, **Bhotia**, Buxa, Hanju, Jaunsari, Kangar, Raji, Sainsi, **Tharu**
+Banjara, Bhoksa, **Bhotia**, Buxa, Hanju, Jaunsari, Kangar, Raji, Sainsi, **Tharu*
 
 #### Uttarakhand
-Bhulia, Buksa, Jaunsan, **Raji**, **Tharu**
+Bhulia, Buksa, Jaunsan, **Raji**, **Tharu*
 
 #### Arunachal Pradesh
 Abon, Adi, Aka, Apatani, Dafla, Digaru, Gamba, Khamti, Miji, Mishmi, Monba, Nokte, Singhpo
@@ -103,9 +103,9 @@ Aimol, Hmar, Kuki, Mayon, Ralte, Zou
 **Angami**, **Ao**, Konyak, Kuki, Lotha, Mikir, Mon, Rengama, Sema
 
 #### Andaman & Nicobar Islands
-**Andamanese**, **Chompens**, **Jarwa (Jarawa)**, **Nicobari**, **Onge**, **Sentinelese**
+**Andamanese**, **Chompens**, **Jarwa (Jarawa)**, **Nicobari**, **Onge**, **Sentinelese*
 
----
+
 
 ### Tribes Practising Hunting in Forests
 
@@ -120,11 +120,11 @@ Aimol, Hmar, Kuki, Mayon, Ralte, Zou
 | Chotanagpur | Binhor, Korwa, Hill-Kharia |
 | Odisha | **Juang** |
 
----
+
 
 ### Tribes Practising Shifting Cultivation (Jhum / Jhuming)
 
-- Most tribes in hilly areas of **Assam, Arunachal Pradesh, Meghalaya, Mizoram, Manipur, Nagaland** and **Tripura**
+- Most tribes in hilly areas of **Assam, Arunachal Pradesh, Meghalaya, Mizoram, Manipur, Nagaland** and **Tripura*
 - **Asur, Gond, Baiga, Munda** — Madhya Pradesh
 
 ### Tribes Practising Plain Area Cultivation

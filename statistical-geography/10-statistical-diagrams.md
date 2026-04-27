@@ -13,13 +13,13 @@
 * **Graph vs. Diagram**: A *Graph* studies numerical relationship between two variables; a *Diagram* provides only approximate information.
 :::
 
----
+
 
 ### Types of Diagrams (NET Notes — Pulakesh Pradhan)
 
 #### One-Dimensional
 - **Line diagram** — used for time series data
-- **Bar diagram:**
+- **Bar diagram:*
   - *Simple bar* — comparison of one variable across categories
   - *Component bar* — shows parts of a total
   - *Percentage bar* — relative changes
@@ -33,7 +33,7 @@
 - **Circle / Pie diagram** — same purpose as square diagram
 
 #### Three-Dimensional
-- **Cubes, spheres, prisms, cylinders, blocks**
+- **Cubes, spheres, prisms, cylinders, blocks*
 - Used when proportion of smallest to largest is very high (e.g., 1:1000 → cube; 1:32 ratio of radii)
 
 #### Other

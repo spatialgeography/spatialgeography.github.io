@@ -19,7 +19,7 @@
 * **Global Economic Blocks**: EU, NAFTA, ASEAN, MERCOSUR. Their role in shaping global regional development, creating core regions of prosperity while sometimes marginalizing non-members.
 :::
 
----
+
 
 ### Other Development Theories (NET Notes — Pulakesh Pradhan)
 

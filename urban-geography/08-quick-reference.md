@@ -9,7 +9,7 @@
 | *The Urban Question* | Manuel Castells |
 | *Megalopolis* | Jean Gottmann (1961) |
 
----
+
 
 ### Theories of Urban Structure
 
@@ -20,7 +20,7 @@
 | **Multiple Nuclei Model** | C.D. Harris & E.L. Ullman (1945) | City has several specialized centers (nodes), not just one CBD |
 | **Central Place Theory** | Walter Christaller (1933) | Spatial arrangement of settlements/services (Hexagons) |
 
----
+
 
 ### Key Concepts
 
@@ -33,5 +33,5 @@
 | **Gentrification** | Ruth Glass (1964): Middle-class settlement in working-class neighborhoods. |
 | **Suburbanization** | Outward growth of urban areas into rural fringe. |
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

@@ -7,7 +7,7 @@
 | **UGC NET** | Regional planning methodologies and survey techniques |
 :::
 
----
+
 
 ### Surveys for Planning (NET Notes — Pulakesh Pradhan)
 
@@ -36,7 +36,7 @@
 - **Folk** — demographic characteristics
 - **Work** — economic potentialities
 
----
+
 
 ### Diagnostic Survey
 
@@ -45,11 +45,11 @@
 - Discovers people's attitudes toward deficiencies
 
 #### Three Types of Problem Areas
-1. **Redevelopment areas**
-2. **Rehabilitation areas**
-3. **Conservation areas**
+1. **Redevelopment areas*
+2. **Rehabilitation areas*
+3. **Conservation areas*
 
----
+
 
 ### Techno-Economic Survey
 

@@ -25,13 +25,13 @@
 * **Textile Industry Location:** Transportation cost does not play a major role in the location of the textile industry because the weight of cotton is more or less equal to the weight of the finished product (i.e., cotton is a **pure material** or weight-neutral).
 :::
 
----
+
 
 ### Weber's Theory of Industrial Location — Detailed (NET Notes — Pulakesh Pradhan)
 
-> **Alfred Weber (1909)** — *Theory of the Location of Industries*
+> **Alfred Weber (1909)** — *Theory of the Location of Industries
 
-- Location of industry determined by **minimum transport cost**
+- Location of industry determined by **minimum transport cost*
 - Three factors:
   1. **Transport costs** (primary factor)
   2. **Labour costs** (secondary factor)
@@ -39,7 +39,7 @@
 
 #### Weber's Material Index (MI)
 
-> **MI = Weight of localised materials / Weight of finished product**
+> **MI = Weight of localised materials / Weight of finished product*
 
 - MI > 1 → industry locates near **raw material** (material oriented)
 - MI < 1 → industry locates near **market** (market oriented)
@@ -49,10 +49,10 @@
 - Line joining points of **equal transport cost** around the least cost location
 - **Critical Isodapane** — isodapane where saving in labour = extra transport cost
 
----
+
 
 ### Lösch's Theory (NET Notes)
-- **August Lösch (1954)** — *"The Economics of Location"*
+- **August Lösch (1954)** — *"The Economics of Location"
 - Maximum **profit** orientation (unlike Weber's minimum cost)
 - Hexagonal market areas for optimal spatial distribution
 - **Landscape of hexagonal nets** = Löschian Landscape

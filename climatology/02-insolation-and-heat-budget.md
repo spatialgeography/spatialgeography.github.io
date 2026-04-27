@@ -8,7 +8,7 @@
 | **UGC NET** | Unit II — Insolation and heat budget of the Earth |
 :::
 
----
+
 
 ### Insolation
 
@@ -21,7 +21,7 @@
 - **Astronomical effects (Milankovitch cycles):** Eccentricity of earth's orbit = 95,000 years; Axial tilt = 41,000 years; Wobble and shift of axis (precession) = 21,000 years.
 
 #### Scattering
-- **Lord Rayleigh** — explained the phenomena = *"Rayleigh Scattering"*
+- **Lord Rayleigh** — explained the phenomena = *"Rayleigh Scattering"
 - **Peterson:** "at altitude and thickness of sun rays"
 - Scattering factors at different latitudes:
   - 0° → 1; 30°N/S → 1.15; 60°N/S → 2.0; 80°N/S → 5.7; 90° → 44.7
@@ -38,11 +38,11 @@
 
 - **Sunspots** — dark areas of high temperature (faculae) on the sun's surface
 
----
+
 
 ### Heat Budget
 
-> *"Balance between incoming and outgoing radiation"*
+> *"Balance between incoming and outgoing radiation"
 
 - **Albedo** (Latin: *Albus* = white) = Earth's reflectivity = **35%** (Möller)
 - Two billion part of solar radiation = 1/2 billion of total energy

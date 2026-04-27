@@ -4,21 +4,21 @@
 
 ::: {.callout-note}
 #### Core I Paper II — Human Geography
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I:**
+**Unit I:*
 - Meaning, Nature and Scope of Human Geography; Its Contemporary Relevance
 - Major Themes/Concepts: Location, Place, Region, Movement, Accessibility, Agglomeration, Mental Map, Space, Landscape, Diffusion, Distribution
 - Man-nature inter-relationship (Determinism, Possibilism and Neo-determinism)
 - Development of human geography (Germans, French, Americans)
 
-**Unit II:**
+**Unit II:*
 - World Distribution of racial, religious, linguistic and ethnic groups
 - Evolution of Culture and Cultural realms of the world
 - World Population Growth, Population Problems
 - Global cultural diversities - diffusion of culture
 
-**Unit III:**
+**Unit III:*
 - Types and Patterns of Rural Settlements
 - Concept and Classification of Urban Settlements
 - World Urbanization with special reference to developing countries
@@ -26,7 +26,7 @@
 - Regional diversity and disparity (Gender, Ethnicity and Income)
 :::
 
----
+
 
 ### UGC NET Syllabus
 

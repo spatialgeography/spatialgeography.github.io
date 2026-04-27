@@ -31,7 +31,7 @@
 * **Ethnic, Linguistic, and Religious Composition**: Diversity indices, spatial patterns, geopolitical implications.
 :::
 
----
+
 
 ### Population Composition & Pyramids (NET Notes)
 

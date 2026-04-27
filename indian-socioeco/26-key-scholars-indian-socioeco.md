@@ -12,6 +12,6 @@
 | **E. Sreedharan** | 'Metro Man' of India; spearheaded the Konkan Railway and Delhi Metro |
 | **J.R.D. Tata** | Pioneer of Indian aviation (Tata Airlines, 1932) |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Indian Socio-Economic Geography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Indian Socio-Economic Geography (NET)

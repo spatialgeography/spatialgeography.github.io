@@ -4,9 +4,9 @@
 
 ::: {.callout-note}
 #### Core I Paper IX — Geomorphology
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I — Applied Geomorphology**
+**Unit I — Applied Geomorphology*
 
 - Applied Geomorphology: Nature, Scope and Significance
 - Principles of Geomorphology
@@ -14,7 +14,7 @@
 - Drainage Basin: Network Characteristics, Morphology, Phases of Development
 - Major Landforms: Fluvial, Aeolian, Glacial, Karst and Coastal
 
-**Unit II — Environmental Geomorphology**
+**Unit II — Environmental Geomorphology*
 
 - Environmental Geomorphology: Meaning and Application
 - Natural Hazards and Environmental Management
@@ -23,7 +23,7 @@
 - Urban Geomorphology and Application in Urban Planning
 - Concept of Economic Geomorphology
 
-**Unit III — Case Studies in Applied Geomorphology**
+**Unit III — Case Studies in Applied Geomorphology*
 
 - Geomorphic Application in Soil Studies
 - Geomorphology and Disaster Management
@@ -33,7 +33,7 @@
 - Sustainable Geomorphological Practices
 :::
 
----
+
 
 ### UGC NET Syllabus
 

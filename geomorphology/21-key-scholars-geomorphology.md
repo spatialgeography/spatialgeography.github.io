@@ -20,6 +20,6 @@
 | **Bouguer** | 1735 | Discovered gravity anomalies during Andes expedition |
 | **Listing** | 1873 | Coined the term 'Geoid' |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Geomorphology (NET)*
+
+Notes compiled by Pulakesh Pradhan — Geomorphology (NET)

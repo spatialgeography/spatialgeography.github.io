@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Geomorphic Cycle (Davis, Penck) |
 :::
 
----
+
 
 ### 1. W.M. Davis: The Geographical Cycle (1899)
 
@@ -23,9 +23,9 @@ Davis proposed that landforms develop in a predictable sequence based on Darwini
 - **Entrenched Meanders:** A primary indicator of a **rejuvenation process** in a river valley.
 - **Superimposed Profile:** Drawn primarily to understand the **cyclic nature of a landscape**.
 - **Relaxation Time:** The time interval between two steady state or equilibrium conditions in a geomorphic system.
-*Note: The **Hypsometric integral** provides quantitative support for the idea of Davis' three stages of landform development. A value of **0.18** denotes maximum erosion of a drainage basin area down to its base level.*
+*Note: The **Hypsometric integral** provides quantitative support for the idea of Davis' three stages of landform development. A value of **0.18** denotes maximum erosion of a drainage basin area down to its base level.
 
----
+
 
 ### 2. Walther Penck: Morphological Analysis (1924)
 
@@ -38,7 +38,7 @@ Penck rejected Davis's focus on "time" and emphasized the relation between uplif
 - **Absteigende:** Waning development (Erosion > Uplift).
 - **Landform Features:** *Piedmont-trappen*, *Piedmontfläche*, *Haldenhang* (wash slope), and *Böschungen* (gravity slope).
 
----
+
 
 ### 3. L.C. King: Pediplanation (1950s)
 
@@ -47,7 +47,7 @@ Based on studies in South Africa.
 - **Scarp Retreat:** Parallel retreat of slopes.
 - **Pediplain:** Coalesced pediments forming a vast plain with residual **Inselbergs**.
 
----
+
 
 ### 4. Geomorphic Equilibria
 

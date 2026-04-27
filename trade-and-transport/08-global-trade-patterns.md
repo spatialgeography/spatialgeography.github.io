@@ -16,7 +16,7 @@ Contemporary shifts in global trade geography.
 * **Trade & Environment**: Carbon footprint of shipping, green logistics, and sustainability.
 :::
 
----
+
 
 ### Books and Further Readings
 Trade and Transport geography provides insights into connectivity and economic interaction. Explore [Economic Geography](economic-geography.html) and [Industrial Geography](industrial-geography.html) for deeper engagement with economic spatial patterns.

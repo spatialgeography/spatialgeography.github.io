@@ -4,24 +4,24 @@
 
 ::: {.callout-note}
 #### Core I Paper XXI — Field Survey: Tools and Technique
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I:**
+**Unit I:*
 - Field survey: rationales, approaches, basic principles, Classification
 
-**Unit II:**
+**Unit II:*
 - Physical survey: Plain Table survey (instruments, steps, methods, limitations)
 - Dumpy level survey (components, steps, methods)
 - Prismatic Compass survey (components, steps, methods)
 
-**Unit III:**
+**Unit III:*
 - Socio-economic survey: Objectives, Sources of data, methods of data collection
 - Quantitative survey: basic concepts of sampling, questionnaire preparation, finding errors
 - Qualitative survey: Key Informant Interview (KII), Focus Group Discussion (FGD), Participatory Rapid Appraisal (PRA)
 - Qualitative/quantitative data analysis, content analysis, ethics of primary data collection
 :::
 
----
+
 
 ### UGC NET Syllabus
 

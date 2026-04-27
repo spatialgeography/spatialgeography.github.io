@@ -24,6 +24,6 @@
 | **Holland–Hansen** | T–S Diagram for water masses |
 | **Shepard** | Average slope of continental slope (4°17') |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Oceanography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Oceanography (NET)

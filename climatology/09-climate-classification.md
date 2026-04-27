@@ -8,7 +8,7 @@
 | **UGC NET** | Unit II — Köppen's scheme, Thornthwaite's scheme |
 :::
 
----
+
 
 ### Koeppen's Climate Classification
 
@@ -16,7 +16,7 @@
 - **Empirical Classification** based on:
   - Annual and monthly means of temperature
   - Annual and monthly means of precipitation
-  - Based on **five vegetation zones**
+  - Based on **five vegetation zones*
 
 #### Timeline of Revisions
 
@@ -90,11 +90,11 @@
 | **ET** | Tundra Climate |
 | **EF** | Perpetual Frost (Ice Cap) |
 
----
+
 
 ### Thornthwaite's Climate Classification
 
-- **C.W. Thornthwaite**
+- **C.W. Thornthwaite*
 - **1931** — Applied to North America; **1933** — Whole world classification
 - **1948** — Modified scheme
 - Complex and empirical in nature
@@ -131,7 +131,7 @@
 | E' | Tundra | 1–15 |
 | F' | Frost | 0 |
 
-> Thornthwaite gave **32 types of climates**
+> Thornthwaite gave **32 types of climates*
 
 #### 1948 Revised Scheme
 - Precipitation Effectiveness
@@ -150,7 +150,7 @@
 - **Tropical Hot Desert:** Bwh
 - **Arctic:** ET / EF
 
----
+
 
 ### Major Classification Systems Summary
 

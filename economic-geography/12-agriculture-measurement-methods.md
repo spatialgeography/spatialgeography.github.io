@@ -23,7 +23,7 @@
 - **Silviculture:** Refers to the growing of **fuel wood and crops together** on the same piece of land.
 :::
 
----
+
 
 ### Agricultural Productivity (NET Notes — Pulakesh Pradhan)
 
@@ -49,10 +49,10 @@
 | **Jasbir Singh** | 1972/76| Carrying capacity modification; Crop yield/concentration indices |
 
 #### Cropping Intensity
-> **Cropping Intensity = (Total Cropped Area / Net Sown Area) × 100**
-> Example: Rabi = 700 ha, Kharif = 500 ha, Net Sown Area = 1000 ha → (1200 / 1000) × 100 = **120%**
+> **Cropping Intensity = (Total Cropped Area / Net Sown Area) × 100*
+> Example: Rabi = 700 ha, Kharif = 500 ha, Net Sown Area = 1000 ha → (1200 / 1000) × 100 = **120%*
 
----
+
 
 ### Crop Combination — Detailed Methods (NET Notes)
 
@@ -63,7 +63,7 @@
 
 #### Method 2: Statistical Method — J.C. Weaver (1954)
 - Studied complex crop combinations in **Middle West (USA)** (1081 counties).
-> **Variance = Σd² / N; Standard Deviation = √(Σd²/n)**
+> **Variance = Σd² / N; Standard Deviation = √(Σd²/n)*
 > (d = difference between actual and percentage crop area; n = number of crops)
 - *Drawbacks:* Crops covering insignificant area may be of great regional importance; unwieldy for areas of high crop diversification.
 

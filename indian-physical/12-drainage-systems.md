@@ -18,14 +18,14 @@ India's river systems and water resources.
 * **Lakes**: Dal, Chilika, Wular, Sambhar, Vembanad — types and geographic significance.
 :::
 
----
+
 
 ### Drainage Systems & River Projects (NET Notes)
 
 - **Ganga River System:** Gangotri Glacier (Uttarakhand); Chambal, Betwa, Ken are tributaries of Yamuna
 - **River Linking:** Ken & Betwa in Bundelkhand
 - **Narmada-Son-Damodar:** Failed arm of triple junction
-- **Dams & Projects:**
+- **Dams & Projects:*
   - Mettur Dam (Stanley Reservoir) & Hogenakkal Falls on Cauvery
   - Nagarjuna Sagar & Srisailam on Krishna; Prakasam Barrage
   - Ghatghar Dam on Godavari

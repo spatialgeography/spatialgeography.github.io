@@ -24,7 +24,7 @@
 * **Measurement**: Coefficient of Variation, Lorenz Curve, Gini Coefficient, Principal Component Analysis of socio-economic variables. **Principal Component Analysis** is considered as the segregated set of relationship among the factors of an event.
 :::
 
----
+
 
 ### Regional Development — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -52,7 +52,7 @@
 3. Analysis of spatial consequences of development, especially ecological balance
 4. Development of spatial models of development
 
----
+
 
 ### Indicators and Measures — Detailed (NET Notes)
 
@@ -74,16 +74,16 @@
 
 #### Quantile Methods
 - Quartiles = 4, Deciles = 10, Octiles = 8, Sextiles = 6
-- **Asok Mitra** used the **octiles technique**
+- **Asok Mitra** used the **octiles technique*
 
 #### Z-Score Method
 - Score of each areal unit divided by the regional average to obtain **Z-score** for each indicator
 
----
+
 
 ### Regional Imbalance (NET Notes)
 
-- Main thrust of regional planning is to **remove areal disparity**
+- Main thrust of regional planning is to **remove areal disparity*
 - Classical economists: Labour would flow from high-wage region to low-wage region
 - **Raghu Ranjan** suggested a new method for measuring regional imbalance
 

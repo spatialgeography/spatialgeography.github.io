@@ -24,7 +24,7 @@
 * **Census of India**: History, methodology, enumeration process, data dissemination. Census 2011 highlights.
 :::
 
----
+
 
 ### Population Projection (NET Notes)
 

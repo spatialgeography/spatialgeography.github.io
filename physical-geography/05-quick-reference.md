@@ -9,7 +9,7 @@
 | *Kosmos* | Alexander von Humboldt | 1845 |
 | *Physical Geography* | Savindra Singh | - |
 
----
+
 
 ### Key Branches & Scope
 
@@ -18,7 +18,7 @@
 - **Oceanography:** Study of marine environments, ocean currents, tides, and ocean floor topography. (Key figure: Matthew Maury).
 - **Biogeography:** Study of the distribution of species and ecosystems in geographic space. (Key figure: Alfred Russel Wallace).
 
----
+
 
 ### Fundamental Concepts
 
@@ -29,5 +29,5 @@
 | **Plate Tectonics** | Wilson, Morgan, Le Pichon | Movement of lithospheric plates |
 | **Continental Drift** | Alfred Wegener (1912) | Movement of continents over time (Pangaea, Panthalassa) |
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

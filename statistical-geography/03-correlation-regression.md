@@ -23,7 +23,7 @@
   - *Residuals*: The difference between observed and predicted values. Mapping residuals (Spatial Regression) reveals spatial anomalies.
 :::
 
----
+
 
 ### Correlation Analysis — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -31,9 +31,9 @@
 
 > Method for measuring intensity or magnitude of **linear relationship** between two variables
 
-> Also called **Product Moment Correlation Coefficient**
+> Also called **Product Moment Correlation Coefficient*
 
-**Formula:**
+**Formula:*
 > r = Σ(x − x̄)(y − ȳ) / √[Σ(x − x̄)² × Σ(y − ȳ)²]
 
 | Value of r | Interpretation |
@@ -49,11 +49,11 @@
 
 > rs = 1 − [6ΣD² / n(n² − 1)]
 
----
+
 
 ### Regression Analysis — Detailed (NET Notes)
 
-> *"Regression is stepping back or returning to the average value"*
+> *"Regression is stepping back or returning to the average value"
 
 - Mathematical measure of **average relationship** between two or more variables in terms of original units of data
 

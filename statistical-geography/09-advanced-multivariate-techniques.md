@@ -20,7 +20,7 @@
 * **Time Series Analysis**: Analyzing sequence of data points over time to extract meaningful statistics. Components: Trend (long term), Cyclical, Seasonal, Irregular/Random variations. Used for climate data or population forecasting.
 :::
 
----
+
 
 ### Factor Analysis — Detailed (NET Notes — Pulakesh Pradhan)
 

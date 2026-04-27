@@ -10,7 +10,7 @@
 | *Pulse of Asia* | Ellsworth Huntington |
 | *Human Geography* | Jean Brunhes (1910) |
 
----
+
 
 ### Core Philosophies
 
@@ -21,7 +21,7 @@
 | **Probabilism** | O.H.K. Spate | Some outcomes are more probable than others, depending on the environment. |
 | **Stop-and-Go Determinism (Neo-Determinism)** | Griffith Taylor | Humans can alter the rate of development, but not its ultimate direction set by nature. |
 
----
+
 
 ### Approaches in Human Geography
 
@@ -30,5 +30,5 @@
 - **Humanistic Geography:** Focus on human experience, meaning, and values (Yi-Fu Tuan, Anne Buttimer).
 - **Radical Geography:** Marxist critique of spatial inequality and capitalism (David Harvey, Richard Peet).
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

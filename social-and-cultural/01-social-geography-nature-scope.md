@@ -21,7 +21,7 @@
 * **Approaches**: Positivist (spatial science), Humanist (lived experience of social groups), Radical (structural inequalities), Feminist (gendered spaces).
 :::
 
----
+
 
 ### Social Geography — Detailed Definitions (NET Notes — Pulakesh Pradhan)
 

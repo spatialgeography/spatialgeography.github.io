@@ -32,7 +32,7 @@
 * **Neo-Malthusian and Anti-Malthusian Views**: Modern debates on population and resources.
 :::
 
----
+
 
 ### Demographic Transition Models (NET Notes)
 

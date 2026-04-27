@@ -18,7 +18,7 @@ Challenges facing global agriculture.
 * **Organic Farming**: Principles, certification, and the growth of sustainable agriculture.
 :::
 
----
+
 
 ### Books and Further Readings
 Agricultural Geography provides the spatial framework for understanding food production and livelihoods. Continue with [Economic Geography](economic-geography.html) and [Indian Physical](indian-physical.html) for related content.

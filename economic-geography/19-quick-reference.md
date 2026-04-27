@@ -12,7 +12,7 @@
 | *The Economic Geography of the World* | C.G. Smith | 1969 |
 | *An Introduction to Economic Geography* | N.J.G. Pounds | 1961 |
 
----
+
 
 ### Theories and Models
 
@@ -27,7 +27,7 @@
 | **Core-Periphery Model** | John Friedmann | Stages of spatial organization |
 | **Rostow's Stages of Growth** | W.W. Rostow | Traditional society, Pre-conditions, Take-off, Drive to maturity, High mass consumption |
 
----
+
 
 ### Key Concepts
 
@@ -39,5 +39,5 @@
 | **Agglomeration Economies** | Benefits from spatial clustering of firms |
 | **Isotims & Isodapanes** | Weber: Lines of equal transport cost (Isotim); Lines of equal total transport cost (Isodapane) |
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

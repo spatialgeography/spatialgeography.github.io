@@ -8,9 +8,9 @@
 | **UGC NET** | Unit II — Composition and structure of the atmosphere |
 :::
 
----
 
-> **Monkhouse:** *"The atmosphere is a thin layer of gas held to the earth by gravitational attraction."*
+
+> **Monkhouse:** *"The atmosphere is a thin layer of gas held to the earth by gravitational attraction."
 
 - **CO₂** — 1752: first gas to be studied (0.03%)
 - **'Mephitic Air'** — 1772: Rutherford discovered Nitrogen gas (N₂)
@@ -30,11 +30,11 @@
 | Xenon (Xe) | — | 0.000009% |
 | Ozone (O₃) | 12 to 50 km; absorbs UV-B wavelength | 0.000001% |
 
-- **Other Trace Gases:**
+- **Other Trace Gases:*
   - **Methane (CH₄):** Derived from enteric fermentation in animals and decomposition.
   - **Nitrous Oxide (N₂O):** Derived from microbial activity in soil.
 - **Water Vapour** — varies from 0–4%; less above 2000 meters
-- **Dust Particles** — hygroscopic nuclei; Smoke + Fog = **Smog**
+- **Dust Particles** — hygroscopic nuclei; Smoke + Fog = **Smog*
 
 ### Atmospheric Layers by Gas
 
@@ -45,7 +45,7 @@
 | Helium Layer | 1100–3500 km |
 | Atomic Hydrogen Layer | 3500 km to outermost |
 
----
+
 
 ### Structure of the Atmosphere
 
@@ -78,7 +78,7 @@
 - Temperature: −90°C at 80 km → 120°C at 350 km
 
 #### Ionosphere (80–400 km)
-- **Aurora Borealis** and **Aurora Australis**
+- **Aurora Borealis** and **Aurora Australis*
 
 | Layer | Altitude | Function |
 |:---|:---|:---|

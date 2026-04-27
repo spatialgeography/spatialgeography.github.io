@@ -9,7 +9,7 @@
 | *Population Geography* | R.C. Chandna |
 | *An Essay on the Principle of Population* | Thomas Robert Malthus (1798) |
 
----
+
 
 ### Theories and Models
 
@@ -22,7 +22,7 @@
 | **Push and Pull Factors** | Everett Lee (1966) | Factors driving migration (push out) and attracting migration (pull in) |
 | **Optimum Population** | Edwin Cannan | Population size that yields highest per capita income |
 
----
+
 
 ### Key Terms
 
@@ -31,5 +31,5 @@
 - **Infant Mortality Rate (IMR):** Number of deaths of infants under 1 year per 1,000 live births.
 - **Sex Ratio:** Usually expressed as females per 1,000 males (in India) or males per 100 females (globally).
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

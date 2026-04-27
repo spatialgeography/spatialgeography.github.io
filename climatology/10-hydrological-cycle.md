@@ -8,9 +8,9 @@
 | **UGC NET** | Unit II — Hydrological cycle |
 :::
 
----
 
-**Evaporation → Transpiration → Condensation → Precipitation → Infiltration & Run-off**
+
+**Evaporation → Transpiration → Condensation → Precipitation → Infiltration & Run-off*
 
 - **Stomata** — process of water absorption through roots (transpiration)
 

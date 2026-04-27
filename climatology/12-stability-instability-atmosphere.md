@@ -8,7 +8,7 @@
 | **UGC NET** | Unit II — Stability and instability of the atmosphere |
 :::
 
----
+
 
 - **Stable Atmosphere** — air resists vertical displacement
 - **Unstable Atmosphere** — air parcel, once displaced, continues to move away from original position
@@ -26,7 +26,7 @@
 - **Neutral Stability:** ELR = DALR
 - **Vertical Change of Temperature (Descending order of lapse rate):** Superadiabatic > Adiabatic > Subadiabatic > Inversion
 
----
+
 
 ### Humidity
 
@@ -39,9 +39,9 @@
 - Measure of actual amount vs. maximum possible at current temperature
 - Formula:
 
-> **RH = (Actual water vapour content / Max. water vapour capacity) × 100**
+> **RH = (Actual water vapour content / Max. water vapour capacity) × 100*
 
-- Temperature increase → Relative Humidity **decreases**
+- Temperature increase → Relative Humidity **decreases*
 
 #### Specific Humidity
 - Weight of water vapour per unit of air

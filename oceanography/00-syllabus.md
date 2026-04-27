@@ -15,7 +15,7 @@
 - Sea-level changes
 :::
 
----
+
 
 ### UGC NET Syllabus
 
@@ -40,7 +40,7 @@
 - Hazards: Tsunami and Cyclone
 :::
 
----
+
 
 ### NET Oceanography — Detailed Syllabus (Pulakesh Pradhan)
 
@@ -56,7 +56,7 @@
 - Sea-Level Change
 :::
 
----
+
 
 ### Key Books & Theories (NET Notes)
 
@@ -67,7 +67,7 @@
 | Waves and Tides — *Canal Theory* | G.B. Airy |
 | Progressive Wave Theory | William Whewell |
 
----
+
 
 ### Key Facts at a Glance (NET Notes)
 
@@ -75,9 +75,9 @@
 - **Sequence:** Continent → Shelf → Slope → Rise → Abyssal Plain
 - **Strait** → Narrow strip of water joining two large sea bodies
 - **Archipelago** → A group of islands
-- **Dead Sea** → Called the *Salt Sea*
+- **Dead Sea** → Called the *Salt Sea
 - **Red Sea** → Known as *Erythraean Sea* [Ocean Desert]; faulted structure
-- **Submarine canyons** form due to **turbidity currents**
+- **Submarine canyons** form due to **turbidity currents*
 - **Suez Canal** connects Mediterranean Sea and Red Sea
 - **Hypsographic curve** explains ocean bottom topography
 - **1 fathom** = 2 metres = 6 feet = 1 nautical mile
@@ -86,7 +86,7 @@
 - **Ridge vs. Rise:** Ridges have central rift valleys; Rises have gentler topography
 - **Ocean size (ascending):** Arctic → Indian → Atlantic → Pacific
 
----
+
 
 ### NEP-2020 Programme Structure
 

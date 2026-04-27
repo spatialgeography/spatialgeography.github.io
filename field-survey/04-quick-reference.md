@@ -8,3 +8,6 @@
 | **Dumpy Level** | Determining relative elevations (Levelling). |
 | **Theodolite** | Measuring horizontal and vertical angles. |
 | **Clinometer** | Measuring angles of elevation or depression. |
+
+
+Notes compiled by Geography Team

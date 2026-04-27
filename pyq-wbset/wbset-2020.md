@@ -2,7 +2,7 @@
 
 **Subject Code:** 13 | **Maximum Marks:** 200 | **Time:** 2 Hours
 
----
+
 
 ## Instructions for Candidates
 
@@ -11,7 +11,7 @@
 3. Each Question has four alternative responses marked: **(A) (B) (C) (D)**. You have to darken the circle on the correct response against each question.
 4. There is **no negative marking** for incorrect answers.
 
----
+
 
 ## Section 1: Biogeography & Environment (Q1–Q8)
 
@@ -22,18 +22,18 @@
 - (C) Endangered plants
 - (D) Extinct animal only
 
----
+
 
 **2.** The following two lists state the name of Bird Sanctuaries and the States where they are situated. Match the Bird Sanctuary with their respective State.
 
-**List-I (Bird Sanctuary)**
+**List-I (Bird Sanctuary)*
 
 - (a) Sultanpur
 - (b) Bharatpur
 - (c) Nawabganj
 - (d) Ranganthithu
 
-**List-II (Name of States)**
+**List-II (Name of States)*
 
 - (i) Haryana
 - (ii) Rajasthan
@@ -47,7 +47,7 @@
 | (C) | (i) | (ii) | (iv) | (iii) |
 | (D) | (i) | (ii) | (iii) | (iv) |
 
----
+
 
 **3.** The terms 'Pedocals' and 'Pedalfers' were first proposed by
 
@@ -56,7 +56,7 @@
 - (C) Dakuchaev
 - (D) Neustreuev
 
----
+
 
 **4.** Which of the following leaf modifications occur in the desert areas to inhibit water loss?
 
@@ -72,7 +72,7 @@ Select the correct answer using the codes given below:
 - (C) 1, 2 and 4
 - (D) 1 and 4
 
----
+
 
 **5.** The luxuriant growth of natural vegetation in tropical rain forests is due to
 
@@ -88,7 +88,7 @@ Select the correct answer from the codes given below:
 - (C) 1, 2 and 3
 - (D) 2, 3 and 4
 
----
+
 
 **6.** Which of the following is not a greenhouse gas?
 
@@ -97,7 +97,7 @@ Select the correct answer from the codes given below:
 - (C) Carbon dioxide
 - (D) Water vapour
 
----
+
 
 **7.** Assertion (A): Soil management is fundamental to agricultural system.
 Reason (R): Managing the soil nutrients, water and air within soil system is fundamental to plants' growth.
@@ -107,7 +107,7 @@ Reason (R): Managing the soil nutrients, water and air within soil system is fun
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **8.** Which one of the following is the main source of CO pollution by human practices?
 
@@ -116,7 +116,7 @@ Reason (R): Managing the soil nutrients, water and air within soil system is fun
 - (C) Advanced Agricultural Practices
 - (D) Mining Activities
 
----
+
 
 ## Section 2: India — Physical Geography & Transport (Q9–Q13)
 
@@ -127,7 +127,7 @@ Reason (R): Managing the soil nutrients, water and air within soil system is fun
 - (C) India
 - (D) Thailand
 
----
+
 
 **10.** A lake created by meteorite impact in India is
 
@@ -136,7 +136,7 @@ Reason (R): Managing the soil nutrients, water and air within soil system is fun
 - (C) Tso Kar
 - (D) Loktak
 
----
+
 
 **11.** Between which of the following mountain ranges the valley of Kashmir is situated?
 
@@ -145,7 +145,7 @@ Reason (R): Managing the soil nutrients, water and air within soil system is fun
 - (C) The Ladakh and the Zaskar Ranges
 - (D) The Kirthar and the Sulaiman Ranges
 
----
+
 
 **12.** As per India Meteorological Department (IMD) which of the following statements is true?
 
@@ -161,7 +161,7 @@ Select the correct answer from the codes given below:
 - (C) 2, 3 and 4
 - (D) 1, 2 and 4
 
----
+
 
 **13.** Greta Thunberg, who delivered a sensational speech on a panel at the UN climate summit in New York on 23 September 2019 is a citizen of
 
@@ -170,7 +170,7 @@ Select the correct answer from the codes given below:
 - (C) Norway
 - (D) Finland
 
----
+
 
 ## Section 3: Climatology & Atmosphere (Q14–Q22)
 
@@ -181,7 +181,7 @@ Select the correct answer from the codes given below:
 - (C) pressure gradient force is balanced by Coriolis force and centrifugal acceleration acting together.
 - (D) divergence is equal to convergence.
 
----
+
 
 **15.** The ratio of the weight of water vapour in a parcel of the atmosphere to the total weight of moist air is
 
@@ -190,7 +190,7 @@ Select the correct answer from the codes given below:
 - (C) Relative humidity
 - (D) Mixing ratio
 
----
+
 
 **16.** The correct sequence of the cloud types with height from the ground level is
 
@@ -199,7 +199,7 @@ Select the correct answer from the codes given below:
 - (C) Stratocumulus, Altocumulus, Cumulus, Cirrocumulus
 - (D) Cumulus, Altocumulus, Cirrocumulus, Stratocumulus
 
----
+
 
 **17.** Images from which of the following Satellites does NOT provide information on weather elements?
 
@@ -208,7 +208,7 @@ Select the correct answer from the codes given below:
 - (C) METEOSAT
 - (D) NOAA
 
----
+
 
 **18.** Which of the following conditions are favourable for the formation of dew?
 
@@ -224,7 +224,7 @@ Select the correct answer from the codes given below:
 - (C) 1, 2, 3 and 4
 - (D) 2, 3 and 4
 
----
+
 
 **19.** Which among the following is/are the major factor/factors responsible for the monsoon type of climate in India?
 
@@ -240,7 +240,7 @@ Select the correct answer from the codes given below:
 - (C) 2, 3 and 4
 - (D) 1, 2, 3 and 4
 
----
+
 
 **20.** Assertion (A): Mackinder's theory of Heartland put forward a key formula "who rules Europe, commands the Heartland; who rules Heartland, commands the World Island; who rules the World Island command the world."
 Reason (R): Mackinder's formula offered Stalin's strategy for territorial expansion and international supremacy.
@@ -250,7 +250,7 @@ Reason (R): Mackinder's formula offered Stalin's strategy for territorial expans
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **21.** Form a group of three most closely-related words by selecting one from each of the three columns.
 
@@ -266,7 +266,7 @@ Reason (R): Mackinder's formula offered Stalin's strategy for territorial expans
 - (C) a-f-i; b-g-l; c-h-k; d-e-j
 - (D) a-h-i; b-g-j; c-f-k; d-e-l
 
----
+
 
 **22.** The most significant plate-driving force is considered to be
 
@@ -275,7 +275,7 @@ Reason (R): Mackinder's formula offered Stalin's strategy for territorial expans
 - (C) Basal drive
 - (D) Trench suction
 
----
+
 
 ## Section 4: Geomorphology (Q23–Q35)
 
@@ -286,7 +286,7 @@ Reason (R): Mackinder's formula offered Stalin's strategy for territorial expans
 - (C) Urbanisation
 - (D) Deforestation
 
----
+
 
 **24.** Which of the following is the most ideal conditions for the chemical weathering of rocks?
 
@@ -295,7 +295,7 @@ Reason (R): Mackinder's formula offered Stalin's strategy for territorial expans
 - (C) Hot and dry climate
 - (D) Cold and humid climate
 
----
+
 
 **25.** Which of the following features is the indication of a rejuvenation process in a river valley?
 
@@ -304,7 +304,7 @@ Reason (R): Mackinder's formula offered Stalin's strategy for territorial expans
 - (C) Alluvial fans
 - (D) Entrenched meanders
 
----
+
 
 **26.** Rock-walled steep depressions caused by the collapse of ground surface in Karst geomorphology is called as
 
@@ -313,7 +313,7 @@ Reason (R): Mackinder's formula offered Stalin's strategy for territorial expans
 - (C) Grykes
 - (D) Sinkholes
 
----
+
 
 **27.** Assertion (A): By far the most common and widespread topographic form in a Karst terrain is the sinkhole.
 Reason (R): Topographically, a sinkhole is a depression that varies in depth from less than a meter to few hundred meters.
@@ -323,7 +323,7 @@ Reason (R): Topographically, a sinkhole is a depression that varies in depth fro
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **28.** Arrange the following concepts in order in which they evolved. Select the correct answer from the codes given below.
 
@@ -339,7 +339,7 @@ Codes:
 - (C) (IV) (I) (II) (III)
 - (D) (I) (II) (IV) (III)
 
----
+
 
 **29.** When two meander necks do not come closer but a channel from one neck joins to other and the main flow turns on that channel is termed as
 
@@ -348,7 +348,7 @@ Codes:
 - (C) Chute cut off
 - (D) Non-neck cut off
 
----
+
 
 **30.** Superimposed profile is drawn to understand the
 
@@ -357,7 +357,7 @@ Codes:
 - (C) panoramic view.
 - (D) cyclic nature of landscape.
 
----
+
 
 **31.** In a periglacial environment, pingos form due to
 
@@ -366,7 +366,7 @@ Codes:
 - (C) Ice action
 - (D) Ice penetration from active zone
 
----
+
 
 **32.** Trunks of trees growing on the banks of natural water bodies are often seen to take U-shaped bends. This primarily occurs due to
 
@@ -375,7 +375,7 @@ Codes:
 - (C) Water-level fluctuations
 - (D) Creep of the bank materials
 
----
+
 
 **33.** Assertion (A): Portions of glacial troughs may exhibit remarkably flat floors.
 Reason (R): The flat floor in a glacial trough is produced by uniform glacial erosion.
@@ -385,7 +385,7 @@ Reason (R): The flat floor in a glacial trough is produced by uniform glacial er
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **34.** Transportation cost does not play a major role in the location of textile industry, because
 
@@ -394,7 +394,7 @@ Reason (R): The flat floor in a glacial trough is produced by uniform glacial er
 - (C) weight loss in cotton during manufacturing is very high.
 - (D) weight of cotton is more or less equal to the weight of the finished product.
 
----
+
 
 **35.** Which one of the following methods is considered as the segregated set of relationship among the factors of an event?
 
@@ -403,7 +403,7 @@ Reason (R): The flat floor in a glacial trough is produced by uniform glacial er
 - (C) Weighted Index
 - (D) Gravity Analysis
 
----
+
 
 ## Section 5: Biogeography & Statistics (Q36–Q41)
 
@@ -414,7 +414,7 @@ Reason (R): The flat floor in a glacial trough is produced by uniform glacial er
 - (C) Intersection Set
 - (D) Union Set
 
----
+
 
 **37.** Consider the following statements: Short duration leptokurtic storm hydrograph is produced at the outlet of a drainage basin when
 
@@ -430,7 +430,7 @@ Which of the above statements is correct?
 - (C) 1 and 3
 - (D) 2 and 3
 
----
+
 
 **38.** In a socio-economic survey when data is collected through a questionnaire in the form of a natural order like — high, medium and low, such data is classified as
 
@@ -439,7 +439,7 @@ Which of the above statements is correct?
 - (C) Interval Data
 - (D) Ratio Data
 
----
+
 
 **39.** Law of stream number confirms to the mathematical model of
 
@@ -448,7 +448,7 @@ Which of the above statements is correct?
 - (C) Positive Arithmatic Function
 - (D) Negative Arithmatic Function
 
----
+
 
 **40.** In articulating the idea of 'Possibilism' La Blache was influenced by the idea of
 
@@ -457,7 +457,7 @@ Which of the above statements is correct?
 - (C) Erdkunde of Ritter
 - (D) The Morphology of Landscape of Sauer
 
----
+
 
 **41.** Darwinism in Social Ecology was first applied by
 
@@ -466,7 +466,7 @@ Which of the above statements is correct?
 - (C) H. Spencer
 - (D) Carl O. Sauer
 
----
+
 
 ## Section 6: Geographical Thought & Philosophy (Q42–Q46)
 
@@ -477,7 +477,7 @@ Which of the above statements is correct?
 - (C) Game Theory
 - (D) Feminism
 
----
+
 
 **43.** *La Terre* is authored by whom of the following?
 
@@ -486,7 +486,7 @@ Which of the above statements is correct?
 - (C) Ritter
 - (D) Huxley
 
----
+
 
 **44.** Who used 'Grand Theory' for the first time?
 
@@ -495,7 +495,7 @@ Which of the above statements is correct?
 - (C) C. W. Mills
 - (D) T. Parsons
 
----
+
 
 **45.** Environmental Impact Assessment (EIA) was first introduced in which country?
 
@@ -504,7 +504,7 @@ Which of the above statements is correct?
 - (C) Norway
 - (D) U.S.A.
 
----
+
 
 **46.** Scholastic relationship under bivariate analysis is primarily a
 
@@ -513,7 +513,7 @@ Which of the above statements is correct?
 - (C) Linear relationship
 - (D) Non-linear relationship
 
----
+
 
 ## Section 7: Agriculture & Economic Geography (Q47–Q50)
 
@@ -524,7 +524,7 @@ Which of the above statements is correct?
 - (C) William J. Peters
 - (D) David Grigg
 
----
+
 
 **48.** Which of the following correctly describes the characteristics of deep ecology?
 
@@ -540,7 +540,7 @@ Select the correct answer from the codes given below:
 - (C) 2, 3 and 4
 - (D) 1, 2 and 4
 
----
+
 
 **49.** Field capacity with reference to soil-water-plant relationships refers to
 
@@ -549,18 +549,18 @@ Select the correct answer from the codes given below:
 - (C) Capillary, hygroscopic and confined water
 - (D) Capillary, hygroscopic, confined water and water vapour
 
----
+
 
 **50.** Match List-I with List-II.
 
-**List-I (Geologic Periods/Epochs)**
+**List-I (Geologic Periods/Epochs)*
 
 - (a) Triassic
 - (b) Jurassic
 - (c) Pleistocene
 - (d) Pliocene
 
-**List-II (Life Forms)**
+**List-II (Life Forms)*
 
 - (i) Origin of man
 - (ii) Rise of birds and flying reptiles
@@ -574,7 +574,7 @@ Select the correct answer from the codes given below:
 | (C) | (i) | (iv) | (iii) | (ii) |
 | (D) | (iii) | (iv) | (ii) | (i) |
 
----
+
 
 ## Section 8: Fluvial & Oceanography (Q51–Q60)
 
@@ -585,7 +585,7 @@ Select the correct answer from the codes given below:
 - (C) Yazoo stream
 - (D) Anastomosing channel
 
----
+
 
 **52.** Which of the following geological era is associated with the folding of the Himalayan mountain system?
 
@@ -594,18 +594,18 @@ Select the correct answer from the codes given below:
 - (C) Palaeozoic
 - (D) Azoic
 
----
+
 
 **53.** Match the following Pressure Belts with Latitudes:
 
-**Pressure Belts**
+**Pressure Belts*
 
 - (a) Equatorial Low Pressure Belt
 - (b) Subtropical High Pressure Belt
 - (c) Subpolar Low Pressure Belt
 - (d) Polar High Pressure Belt
 
-**Latitudes**
+**Latitudes*
 
 - (1) 25°–35° North and South
 - (2) 5°–5° North and South
@@ -619,7 +619,7 @@ Select the correct answer from the codes given below:
 | (C) | (3) | (4) | (2) | (1) |
 | (D) | (4) | (3) | (2) | (1) |
 
----
+
 
 **54.** In which of the following continents the range of temperatures ever recorded had been the minimum?
 
@@ -628,7 +628,7 @@ Select the correct answer from the codes given below:
 - (C) Australia
 - (D) Antarctica
 
----
+
 
 **55.** 'Fordism' is used to describe
 
@@ -637,7 +637,7 @@ Select the correct answer from the codes given below:
 - (C) Neither (A) nor (B)
 - (D) Both (A) and (B)
 
----
+
 
 **56.** The 'γ' value of a correlation coefficient varies between
 
@@ -646,7 +646,7 @@ Select the correct answer from the codes given below:
 - (C) −1.0 to 0.0
 - (D) 1.00 to 10.0
 
----
+
 
 **57.** Which one of the following pairs is incorrect?
 
@@ -655,7 +655,7 @@ Select the correct answer from the codes given below:
 - (C) Isohels – Wind Velocity
 - (D) Isohytes – Rainfall
 
----
+
 
 **58.** The Hill Areas Development Programme in India was initiated during
 
@@ -664,7 +664,7 @@ Select the correct answer from the codes given below:
 - (C) the Fourth 5 Year Plan Period.
 - (D) the Fifth 5 Year Plan Period.
 
----
+
 
 **59.** The growth centre programme to promote industrialisation of backward areas in India was introduced in which year?
 
@@ -673,7 +673,7 @@ Select the correct answer from the codes given below:
 - (C) 1988
 - (D) 1991
 
----
+
 
 **60.** The data of estimation of India's National Income is issued by
 
@@ -682,7 +682,7 @@ Select the correct answer from the codes given below:
 - (C) Central Statistical Organisation
 - (D) NITI Aayog
 
----
+
 
 ## Section 9: Indian Economy & Regional Development (Q61–Q70)
 
@@ -693,7 +693,7 @@ Select the correct answer from the codes given below:
 - (C) V. T. Stanberry Model
 - (D) A. R. Kuklinski Model
 
----
+
 
 **62.** Which one of the following is not the essential characteristics of post-Fordism?
 
@@ -702,7 +702,7 @@ Select the correct answer from the codes given below:
 - (C) Reliance on market linked production
 - (D) Reliance on share market
 
----
+
 
 **63.** The theory of Mobility Transition Model is conditioned by
 
@@ -711,7 +711,7 @@ Select the correct answer from the codes given below:
 - (C) population growth, level of urbanization and change of technology.
 - (D) import, export and capital flow.
 
----
+
 
 **64.** The abstract belief systems that pass over from generation to generation is called
 
@@ -720,7 +720,7 @@ Select the correct answer from the codes given below:
 - (C) Sociofact
 - (D) Cultural diffusion
 
----
+
 
 **65.** Which of the following characterises Mixed Farming?
 
@@ -729,7 +729,7 @@ Select the correct answer from the codes given below:
 - (C) Practice of growing different crops in succession in the same field.
 - (D) Practice of raising alternate crops successively for subsistence and marketing.
 
----
+
 
 **66.** Which of the following activities is performed quite close to the market as per Von Thunen's model of Agricultural Location?
 
@@ -738,7 +738,7 @@ Select the correct answer from the codes given below:
 - (C) Mixed farming
 - (D) Extensive stock raising
 
----
+
 
 **67.** The classic essay "The Tragedy of the Commons" was written by
 
@@ -747,7 +747,7 @@ Select the correct answer from the codes given below:
 - (C) David Smith
 - (D) Garrett Hardin
 
----
+
 
 **68.** The 'Multiple Nuclei Model' states that
 
@@ -756,7 +756,7 @@ Select the correct answer from the codes given below:
 - (C) wedge-shaped zones radiate outward from the central business district.
 - (D) cities develop several nodes of growth each with specialised use.
 
----
+
 
 **69.** Who introduced the idea of 'Garden City'?
 
@@ -765,7 +765,7 @@ Select the correct answer from the codes given below:
 - (C) Ebenezer Howard
 - (D) Frank Lloyd Wright
 
----
+
 
 **70.** Which among the following is odd?
 
@@ -774,7 +774,7 @@ Select the correct answer from the codes given below:
 - (C) Selective urban growth : Muller
 - (D) Central Place theory : Christaller
 
----
+
 
 ## Section 10: Settlement & Population Geography (Q71–Q81)
 
@@ -785,7 +785,7 @@ Select the correct answer from the codes given below:
 - (C) 10,000 to 19,999
 - (D) 5,000 to 9,999
 
----
+
 
 **72.** Which one of the following rural settlements has the best road network?
 
@@ -794,7 +794,7 @@ Select the correct answer from the codes given below:
 - (C) Transit village
 - (D) Cruciform village
 
----
+
 
 **73.** Which one is considered as the best combination as precondition of pre-industrial urban growth?
 
@@ -803,7 +803,7 @@ Select the correct answer from the codes given below:
 - (C) Population – Environment – Technology – Trade
 - (D) Population – Trade – Transport – Political Organization
 
----
+
 
 **74.** Growth of population through the successive stage of 'Demographic Transition Model' has the appearance of a
 
@@ -812,7 +812,7 @@ Select the correct answer from the codes given below:
 - (C) Sigmoid curve
 - (D) Parabolic curve
 
----
+
 
 **75.** 'Fecundity' is
 
@@ -821,7 +821,7 @@ Select the correct answer from the codes given below:
 - (C) Actual births taken place
 - (D) Inability to reproduce
 
----
+
 
 **76.** The Boserupian theory of population growth is most appropriate for which society?
 
@@ -830,7 +830,7 @@ Select the correct answer from the codes given below:
 - (C) Subsistence societies
 - (D) Bourgeoise society
 
----
+
 
 **77.** As per the United Nations, when did the world population reach the one billion mark for the first time?
 
@@ -839,7 +839,7 @@ Select the correct answer from the codes given below:
 - (C) 1857
 - (D) 1927
 
----
+
 
 **78.** For small distance migration, female migration overtakes male due to
 
@@ -848,7 +848,7 @@ Select the correct answer from the codes given below:
 - (C) economic structure of the society.
 - (D) patriarchal structure of the society.
 
----
+
 
 **79.** Which district of West Bengal among the following has the highest concentration of Sabaras?
 
@@ -857,7 +857,7 @@ Select the correct answer from the codes given below:
 - (C) Paschim Medinipur
 - (D) Jhargram
 
----
+
 
 **80.** Two-thirds of the world population live in
 
@@ -866,7 +866,7 @@ Select the correct answer from the codes given below:
 - (C) the areas between 20° and 60° North.
 - (D) the temperate areas of the world.
 
----
+
 
 **81.** The third stage of demographic transition is marked by
 
@@ -875,7 +875,7 @@ Select the correct answer from the codes given below:
 - (C) low birth and death rates.
 - (D) high natural increase of population.
 
----
+
 
 ## Section 11: Oceanography (Q82–Q86)
 
@@ -886,7 +886,7 @@ Select the correct answer from the codes given below:
 - (C) Summits of sea mounts
 - (D) Submarine canyons
 
----
+
 
 **83.** Which of the following types of tides have the highest amplitude given the other factors remaining the same?
 
@@ -895,7 +895,7 @@ Select the correct answer from the codes given below:
 - (C) Perigean spring tides
 - (D) Apogean spring tides
 
----
+
 
 **84.** The CaCO₃ compensation depth in seas is usually about
 
@@ -904,7 +904,7 @@ Select the correct answer from the codes given below:
 - (C) 5,000 m
 - (D) 5,500 m
 
----
+
 
 **85.** The average global rate of sea-level rise at present is about
 
@@ -913,7 +913,7 @@ Select the correct answer from the codes given below:
 - (C) 2.6 mm/yr
 - (D) 3.3 mm/yr
 
----
+
 
 **86.** Past records of sea-level changes are best deciphered from
 
@@ -922,7 +922,7 @@ Select the correct answer from the codes given below:
 - (C) Mangrove-fringed coasts
 - (D) Ice-fringed coasts
 
----
+
 
 ## Section 12: Political Geography & Geomorphology (Q87–Q93)
 
@@ -933,7 +933,7 @@ Select the correct answer from the codes given below:
 - (C) a buffer zone between two nations.
 - (D) a boundary area with rich natural resources.
 
----
+
 
 **88.** A continuous spiral motion of water as it flows along a river channel is termed as
 
@@ -942,7 +942,7 @@ Select the correct answer from the codes given below:
 - (C) Steady flow
 - (D) Base flow
 
----
+
 
 **89.** Residual Hums landscape feature is found in
 
@@ -951,7 +951,7 @@ Select the correct answer from the codes given below:
 - (C) Glacio-fluvial landscape
 - (D) Areas of marine transgression
 
----
+
 
 **90.** Shingles are the water-worn rounded stones, usually associated with
 
@@ -960,7 +960,7 @@ Select the correct answer from the codes given below:
 - (C) Aeolian process
 - (D) Marine process
 
----
+
 
 **91.** The time interval between two steady state or equilibrium conditions is called
 
@@ -969,7 +969,7 @@ Select the correct answer from the codes given below:
 - (C) Geosync time
 - (D) Alteration time
 
----
+
 
 **92.** Compared to true dip, the value of apparent dip of a sedimentary stratum is
 
@@ -978,7 +978,7 @@ Select the correct answer from the codes given below:
 - (C) always lower.
 - (D) different by 90° in strike direction.
 
----
+
 
 **93.** Lahars are best described as mass-movement features associated with
 
@@ -987,7 +987,7 @@ Select the correct answer from the codes given below:
 - (C) Valley sidewalls
 - (D) Landslide scars
 
----
+
 
 ## Section 13: Geographical Thought & Political Geography (Q94–Q100)
 
@@ -998,7 +998,7 @@ Select the correct answer from the codes given below:
 - (C) Kjellen
 - (D) Parker
 
----
+
 
 **95.** The 'Rimland Theory' was propounded by whom among the following?
 
@@ -1007,7 +1007,7 @@ Select the correct answer from the codes given below:
 - (C) Martin Glassner
 - (D) Nicholas Spykman
 
----
+
 
 **96.** Which of the following are basic elements in Peter Haggett's model for the Study of Spatial Systems?
 (I) Channels  (II) Diffusion  (III) Hierarchies  (IV) Movements  (V) Surfaces
@@ -1019,7 +1019,7 @@ Codes:
 - (C) (III) only
 - (D) (I), (II), (III), (IV) and (V)
 
----
+
 
 **97.** The term 'Geopiety' was coined by whom?
 
@@ -1028,7 +1028,7 @@ Codes:
 - (C) J. K. Wright
 - (D) Yi-Fu Tuan
 
----
+
 
 **98.** Arrange the following binaries and identify the correct option:
 
@@ -1045,7 +1045,7 @@ Codes:
 - (C) a–III, b–IV, c–V, d–II, e–I
 - (D) a–I, b–III, c–V, d–IV, e–II
 
----
+
 
 **99.** Empiricism is associated with whom?
 
@@ -1054,7 +1054,7 @@ Codes:
 - (C) August Comte
 - (D) Edmund Husserl
 
----
+
 
 **100.** S. B. Jones' view of states was based on the idea of
 
@@ -1063,6 +1063,6 @@ Codes:
 - (C) Deutsch, Gottman and Mackinder
 - (D) Ratzel, Hartshorne and Johnston
 
----
 
-*— End of Question Paper —*
+
+*— End of Question Paper —

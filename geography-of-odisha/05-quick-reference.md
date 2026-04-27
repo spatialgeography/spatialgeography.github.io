@@ -8,3 +8,6 @@
 | **Highest Peak** | Deomali (1672m) |
 | **Major River** | Mahanadi |
 | **Important Lakes** | Chilika (Brackish), Ansupa (Freshwater) |
+
+
+Notes compiled by Geography Team

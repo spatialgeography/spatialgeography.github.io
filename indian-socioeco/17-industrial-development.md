@@ -18,7 +18,7 @@ India's industrial geography and policy.
 * **Cottage & Small-Scale Industries**: MSME sector — khadi, handicrafts, and decentralized production.
 :::
 
----
+
 
 ### Industrial Development (NET Notes)
 

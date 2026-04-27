@@ -8,3 +8,6 @@
 | **Tropical Cyclones** | Saffir-Simpson Scale. |
 | **Tornadoes** | Fujita Scale. |
 | **Vulnerability & Resilience** | Sendai Framework for Disaster Risk Reduction. |
+
+
+Notes compiled by Geography Team

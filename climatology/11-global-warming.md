@@ -8,7 +8,7 @@
 | **UGC NET** | Unit II — Global warming |
 :::
 
----
+
 
 ### Global Warming
 
@@ -52,12 +52,12 @@
 - **Net Zero Target:** In **COP-26**, India pledged to achieve Net Zero by **2070**.
 
 
----
+
 
 ### Ozone Depletion
 
-- **Troposphere Ozone** — absorbs temperature → **Bad Ozone**
-- **Stratosphere Ozone** — acts as a filter against UV-B → **Good Ozone**
+- **Troposphere Ozone** — absorbs temperature → **Bad Ozone*
+- **Stratosphere Ozone** — acts as a filter against UV-B → **Good Ozone*
 - **Chapman Mechanism:** Cl + O₃ → ClO + O₂
 
 #### Causes of Ozone Depletion
@@ -66,7 +66,7 @@
 - Hydrocarbons
 
 #### Key Facts
-- Ozone hole found **above Antarctica**
+- Ozone hole found **above Antarctica*
 - 1% ozone lost → 2% more UV rays reach Earth
 - Ice Climbing effects on polar ozone
 

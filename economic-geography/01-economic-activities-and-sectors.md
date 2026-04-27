@@ -25,7 +25,7 @@
 * **Sectoral Shift**: Transition of economies from primary to secondary to tertiary dominance as they develop (Clark-Fisher model).
 :::
 
----
+
 
 ### Sectors of Economy — Detailed (NET Notes — Pulakesh Pradhan)
 

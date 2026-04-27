@@ -22,7 +22,7 @@
 * **Characteristics of an Ideal Planning Region**: Contiguous, viable resource base, social-cultural cohesion, administrative convenience, nodal center.
 :::
 
----
+
 
 ### Methodology and Techniques of Regional Planning (NET Notes — Pulakesh Pradhan)
 
@@ -48,15 +48,15 @@
 - Industrial location analysis
 - Economic base analysis
 - Regional multiplier analysis
-- **Input-output analysis** — developed by **W. Leontief**
+- **Input-output analysis** — developed by **W. Leontief*
 - Social accounting
-- **Social area analysis** — developed by **E. Shevky**
+- **Social area analysis** — developed by **E. Shevky*
 - Model building — Wilson gave a two-fold role
 - Gravity model, Flow analysis
-- Factor analysis — **Berry**
-- Weighted index number method — **Boudeville**
+- Factor analysis — **Berry*
+- Weighted index number method — **Boudeville*
 
----
+
 
 ### Regional Delineation Methods — Detailed (NET Notes)
 
@@ -69,11 +69,11 @@
 | **Principal Component Analysis** | Used to study regional disparities in India |
 
 #### Functional Delineation
-- **Flow and gravitational analysis** are techniques for actual delineation of **functional regions**
+- **Flow and gravitational analysis** are techniques for actual delineation of **functional regions*
 
 #### Breaking Point Theory
 - Determines the breaking point between two centres
-- Related to **Law of Retail Gravitation**
+- Related to **Law of Retail Gravitation*
 
 #### Law of Retail Trade Gravitation
 - Predicts the proportion of retail trade that two towns derive from an intermediate settlement

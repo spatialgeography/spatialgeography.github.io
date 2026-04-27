@@ -30,7 +30,7 @@ Energy flow is the passage of energy through the various trophic levels of an ec
 * **Significance**: Explains ecosystem productivity, trophic efficiency, and limits on food chain length.
 :::
 
----
+
 
 ### Trophic Levels & Energy Flow (NET Notes — Pulakesh Pradhan)
 

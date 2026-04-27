@@ -26,7 +26,7 @@
   - *Sovereignty*: Supreme authority over its territory, free from external control.
 :::
 
----
+
 
 ### State, Nation, and Territoriality (NET Notes)
 

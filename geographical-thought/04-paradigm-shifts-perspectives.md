@@ -9,11 +9,11 @@
 | **Kuhn (1962)** | **Pre-paradigm phase**: The initial phase in the development of a science when several schools of thought compete for dominance. |
 :::
 
----
+
 
 ### Quantitative Revolution
 
-> Began in **1950s and 1960s**; replaced idiographic approach; based on **nomothetic approach**
+> Began in **1950s and 1960s**; replaced idiographic approach; based on **nomothetic approach*
 
 - Laid basis of **geography as a spatial science** dealing with spatial analysis
 - Gave geography a **scientific vision** through statistical methodology
@@ -28,7 +28,7 @@
 - **Working (Empirical) hypothesis:** A hypothesis which is provisionally accepted as a basis of further research.
 
 #### Key Scholars
-- **Burton** — *"This school had set out to discover universals, to build models and to establish methods and theoretical base on which geographical realities could be created"*
+- **Burton** — *"This school had set out to discover universals, to build models and to establish methods and theoretical base on which geographical realities could be created"
 - **Schaefer** — Proposed nomothetic geography (laws and generalisation)
 - **Chorley & Haggett** — Models and location analysis
 
@@ -37,9 +37,9 @@
 - Rational analysis vs. intuitive perception
 - Cold scientific constructs vs. rich daily sensed experience from the real world
 - Constantly changing phenomena vs. direct discrete cases
-- **Nomothetic vs. Idiographic**
+- **Nomothetic vs. Idiographic*
 
----
+
 
 ### Behaviouralism in Geography
 
@@ -47,9 +47,9 @@
 - **Kirk** — coined the concept of behaviouralism in geography
 - **Mental Map** — Gould & White + Lynch
 - Human action influenced by **perceived environment** rather than real environment
-- Introduced concepts of *imageability*, *cognitive mapping*
+- Introduced concepts of *imageability*, *cognitive mapping
 
----
+
 
 ### Positivism
 - Logical positivism — objective, empirical, value-free science relying heavily on **hypothesis testing**.
@@ -59,7 +59,7 @@
 
 ### Humanism (1970s)
 - Reaction against positivism — focus on lived experience, place, meaning. Does **not** rely on positivist or Marxist methodology.
-- Key scholars: **Yi-Fu Tuan**, **Edward Relph**
+- Key scholars: **Yi-Fu Tuan**, **Edward Relph*
 - **Topophilia:** Affective ties between people and place.
 - **Phenomenology:** Differential perception or impression of a geographical event.
 - Philosophical roots in phenomenology and existentialism
@@ -67,7 +67,7 @@
 ### Radicalism / Marxism (1970s)
 - **Sequence:** Radicalism appeared as a sequel to **Behaviouralism** in the development of geographical thought.
 - Social justice, inequality, class structure, political economy
-- Key scholars: **David Harvey**, **Richard Peet**
+- Key scholars: **David Harvey**, **Richard Peet*
 - Spatial analysis of capitalism
 
 ### Empiricism
@@ -88,7 +88,7 @@
 - **Guiding Principle:** **Simultaneity**.
 - **Fallibilism:** The idea that knowledge is subject to scrutiny and no belief or theory is absolutely certain.
 - **Practical heterology:** Disorder, chaos, and difference.
-- Key scholars: **Soja**, **Dear**
+- Key scholars: **Soja**, **Dear*
 
 ### Philosophy and Guiding Principles Matching
 - **Modernism:** Sequential analysis

@@ -10,6 +10,6 @@
 | **Eratosthenes** | Early calculations of the Earth's circumference and tilt |
 | **Arno Peters** | Gall-Peters projection; equal-area map highlighting the true size of developing nations |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Cartography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Cartography (NET)

@@ -34,18 +34,18 @@ Ozone depletion refers to the thinning of the Earth's stratospheric ozone layer 
 * **Recovery**: Ozone layer expected to recover to 1980 levels by ~2050–2070 if compliance continues.
 :::
 
----
+
 
 ### Ozone Depletion — Detailed (NET Notes — Pulakesh Pradhan)
 
-- **Troposphere Ozone** → absorbs heat → **Bad Ozone**
-- **Stratosphere Ozone** → acts as UV-B filter → **Good Ozone**
+- **Troposphere Ozone** → absorbs heat → **Bad Ozone*
+- **Stratosphere Ozone** → acts as UV-B filter → **Good Ozone*
 
 #### Ozone Depleting Substances
 - CFC (Chlorofluorocarbons), Nitrogen Oxide (NOₓ), Hydrocarbons
 
 #### Key Facts
-- Ozone hole found **above Antarctica**
+- Ozone hole found **above Antarctica*
 - 1% ozone lost → 2% more UV-B rays reach Earth
 - **Chapman Mechanism:** Cl + O₃ → ClO + O₂
 

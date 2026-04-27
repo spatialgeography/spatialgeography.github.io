@@ -9,7 +9,7 @@
 | *How to Lie with Maps* | Mark Monmonier |
 | *Maps and Diagrams* | Monkhouse & Wilkinson |
 
----
+
 
 ### Key Map Projections
 
@@ -20,7 +20,7 @@
 | **Robinson Projection** | Compromise projection; neither equal-area nor conformal; visually pleasing for world maps. |
 | **Gnomonic Projection** | Azimuthal; all great circles are straight lines; used for plotting shortest routes. |
 
----
+
 
 ### Thematic Mapping Techniques
 
@@ -31,5 +31,5 @@
 | **Dot Map** | Uses dots to represent the spatial distribution and density of a discrete phenomenon. |
 | **Cartogram** | Scales areas based on data values (e.g., population size) rather than geographic area. |
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

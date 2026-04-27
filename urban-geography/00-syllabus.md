@@ -4,27 +4,27 @@
 
 ::: {.callout-note}
 #### Core I Paper XV — Urban Geography
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I:**
+**Unit I:*
 - Concept of Urban, Urbanization and Urbanism; Nature and scope of urban geography
 - Classification of towns and cities: Census vs. statutory towns, functional classification
 - Compact city, virtual city, network city, world class city, global city, smart city
 
-**Unit II:**
+**Unit II:*
 - Origin and evolution of urban settlements; Hierarchy of urban settlements; urban region
 - Slum: a unique character of Indian cities, ghettoization and gentrification
 - Urban public places; Peri-urban: concept, challenges and opportunities
 - Unequal cities; urban planning, policy and governance
 
-**Unit III:**
+**Unit III:*
 - Models of Internal Structure of the City (Burgess, Hoyt, Harris and Ullman)
 - Central Place theory of Christaller
 - Trends and patterns of urbanization in World and India
 - Urbanization: problems and opportunities; Recent urban changes
 :::
 
----
+
 
 ### UGC NET Syllabus
 

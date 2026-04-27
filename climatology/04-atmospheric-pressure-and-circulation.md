@@ -8,7 +8,7 @@
 | **UGC NET** | Unit II — Atmospheric pressure and general circulation |
 :::
 
----
+
 
 ### Distribution of Pressure
 
@@ -36,7 +36,7 @@
 - **Horse Latitude** — Sub-tropical high pressure zone
 - **Aleutian Low** — Sub-polar low in the Pacific
 
----
+
 
 ### General Circulation of Winds
 
@@ -46,7 +46,7 @@
   - Right deflection in Northern Hemisphere; Left in Southern Hemisphere
 - **Geostrophic Balance:** Maintained with the exact balance of the Coriolis force and the horizontal pressure gradient force. **Geostrophic Wind** is originated when the pressure gradient force is balanced by the Coriolis force acting in the **opposite direction**.
 - **Geostrophic Thermal Wind:** The speed of geostrophic thermal wind increases with height because each isobaric surface slopes more steeply than the one below it.
-- **1855** — W. Ferrel → **Ferrel's Law** / **Buys Ballot's Law**
+- **1855** — W. Ferrel → **Ferrel's Law** / **Buys Ballot's Law*
 - **Buys Ballot (1857):** '0' at Equator → Maximum at Poles; 30° lat = 50% deflection; 60° lat = 86.7% deflection
 
 #### Tricellular Theory
@@ -59,7 +59,7 @@
 
 - **Eddy Theory** — circulation as a result of eddies
 
----
+
 
 ### Planetary Winds
 
@@ -69,7 +69,7 @@
 - **Easterlies:** NH → NE Trade; SH → SE Trade
 
 #### ITCZ (Inter-Tropical Convergence Zone)
-- Also called **Equatorial Trough**
+- Also called **Equatorial Trough*
 
 #### Westerlies
 - From sub-tropical high → sub-polar low

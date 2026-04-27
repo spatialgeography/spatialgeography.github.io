@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Coastal landforms |
 :::
 
----
+
 
 ### 1. Beach Zones
 - **Shoreline:** Line between low and high tide.

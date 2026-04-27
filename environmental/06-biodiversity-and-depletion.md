@@ -43,12 +43,12 @@ Biodiversity — the variety of life at genetic, species, and ecosystem levels �
 * **Sixth Mass Extinction**: Anthropocene biodiversity crisis — current extinction rates 100–1000x background rates.
 :::
 
----
+
 
 ### World Biodiversity Statistics (NET Notes — Pulakesh Pradhan)
 
-- India has **10 bio-geographic regions** contributing **7–8% of world biodiversity**
-- **'Biodiversity Hotspot'** — concept given by **Norman Myers**
+- India has **10 bio-geographic regions** contributing **7–8% of world biodiversity*
+- **'Biodiversity Hotspot'** — concept given by **Norman Myers*
 
 #### India's Biodiversity Profile
 

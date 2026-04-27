@@ -15,7 +15,7 @@
 | 1955 | **Nova Hypothesis** | F. Hoyle | Supernova explosion |
 | — | **Big Bang Theory** | Edwin Hubble | Expansion of the universe (Stephen Hawking) |
 
----
+
 
 ### Age of the Earth
 

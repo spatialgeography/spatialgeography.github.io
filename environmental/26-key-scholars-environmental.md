@@ -12,6 +12,6 @@
 | **Norman Myers** | 'Biodiversity Hotspot' concept |
 | **A.F. Lamprey** | Divided Savanna biome into 5 categories |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Environment & Bio-Geography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Environment & Bio-Geography (NET)

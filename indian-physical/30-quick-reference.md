@@ -8,3 +8,6 @@
 | **Peninsular Plateau** | Oldest landmass, part of Gondwanaland. |
 | **Indian Monsoon Mechanism** | Thermal concept (Halley), Dynamic concept (Flohn), Jet Stream (Yin). |
 | **Drainage Systems** | Himalayan (Antecedent) vs Peninsular (Superimposed). |
+
+
+Notes compiled by Geography Team

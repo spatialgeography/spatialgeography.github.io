@@ -24,7 +24,7 @@
 * **Regional Variations**: High growth in Sub-Saharan Africa, South Asia; low/negative growth in Europe, Japan.
 :::
 
----
+
 
 ### Population Distribution, Density & Growth (NET Notes)
 
@@ -42,7 +42,7 @@
 - **Physiological Density:** Total Population / Cultivated Land
 - **Agricultural Density:** Rural Population / Cultivated Land
 - **Economic Density (George):** ED = NK/SK (N=inhabitants, K'=per capita requirement, S=area, K=resource produced)
-- **Scholars:**
+- **Scholars:*
   - **G.T. Trewartha:** Arithmetic, Nutritional, Agricultural
   - **Vincent:** Comparative density (population correlated to land weighted by productivity)
 

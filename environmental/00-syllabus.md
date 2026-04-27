@@ -4,9 +4,9 @@
 
 ::: {.callout-note}
 #### Core I Paper V — Environmental Geography and Biogeography
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I — Environment & Ecosystem**
+**Unit I — Environment & Ecosystem*
 
 - Environment: Concept, Types, Characteristics and Principles
 - Environmental Controls and Concept of Tolerance
@@ -15,7 +15,7 @@
 - Bio-geo-chemical Cycles (Nitrogen, Carbon, Oxygen)
 - Concept and Types of Biomes (Equatorial, Subtropical, Temperate and Polar)
 
-**Unit II — Biogeography**
+**Unit II — Biogeography*
 
 - Introduction to Biogeography: Nature, Scope, Development
 - Ecological Succession: Succession, Change and Equilibrium
@@ -23,7 +23,7 @@
 - World Distribution Patterns of Biota: Biogeographical Regions
 - Distribution of World's Biodiversity Hotspots: Critical, Endangered, Threatened, Relatively Stable/Intact
 
-**Unit III — Pedology (Soil Geography)**
+**Unit III — Pedology (Soil Geography)*
 
 - Soil Colour, Soil Texture and Soil Structure
 - Soil Horizons
@@ -33,14 +33,14 @@
   - (b) By Climate: Mollisols, Ardisols, Gelisols
   - (c) By Parent Material: Vertisols, Andisols
 
-**Unit IV — Practical**
+**Unit IV — Practical*
 
 1. Project Report on any environmental problem of global/national/local significance
 2. Seminar paper on biodiversity hotspots of India (distribution, biotic characteristics, major threats, solutions)
 3. Report and Viva-Voce
 :::
 
----
+
 
 ### UGC NET Syllabus
 
@@ -63,7 +63,7 @@
 - **National Programmes and Policies**: Legal Framework, Environmental Policy, International Treaties, International Programmes and Policies (Brundtland Commission, Kyoto Protocol, Agenda 21, Sustainable Development Goals, Paris Agreement)
 :::
 
----
+
 
 ### NET Environmental Geography — Detailed Syllabus (Pulakesh Pradhan)
 
@@ -78,7 +78,7 @@
 - Ozone Depletion
 :::
 
----
+
 
 ### Most Important Topics for Exam (NET Notes)
 

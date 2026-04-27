@@ -12,7 +12,7 @@
 | *Space, Place, and Gender* | Doreen Massey |
 | *The Production of Space* | Henri Lefebvre |
 
----
+
 
 ### Key Concepts & Propounders
 
@@ -27,7 +27,7 @@
 | **Placelessness** | Edward Relph | Landscapes that lack unique character (e.g., strip malls, chains) |
 | **Mental Maps** | Peter Gould, Rodney White, Kevin Lynch | Cognitive representation of spatial environments |
 
----
+
 
 ### Dimensions of Culture
 
@@ -37,5 +37,5 @@
 - **Acculturation:** Adoption of cultural traits by one group under the influence of another.
 - **Assimilation:** Process by which a minority integrates completely into a dominant culture.
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

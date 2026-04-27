@@ -2,7 +2,7 @@
 
 **Subject Code:** 13 | **Maximum Marks:** 200 | **Time:** 2 Hours
 
----
+
 
 ## Instructions for Candidates
 
@@ -11,7 +11,7 @@
 3. Each Question has four alternative responses marked: **(A) (B) (C) (D)**. You have to darken the circle on the correct response against each question.
 4. There is **no negative marking** for incorrect answers.
 
----
+
 
 ## Section 1: Economic Geography & Transport (Q1–Q2)
 
@@ -22,7 +22,7 @@
 - (C) Transferability
 - (D) Distance between two points
 
----
+
 
 **2.** Inclusive growth is the agenda of economic development in the future, but the strategy of inclusive growth does not focus on:
 
@@ -31,7 +31,7 @@
 - (C) diversification of livelihood for tribal population
 - (D) enhancement of educational opportunities
 
----
+
 
 ## Section 2: India — Environment & Resources (Q3–Q10)
 
@@ -44,7 +44,7 @@ Reason (R): The crisis may easily be managed with the judicious use of water in 
 - (C) (A) is conditionally true and (R) is the most effective reasoning to the problem of (A)
 - (D) Both (A) and (R) are false
 
----
+
 
 **4.** Name the forest in which teak and sal are the most dominant species:
 
@@ -53,7 +53,7 @@ Reason (R): The crisis may easily be managed with the judicious use of water in 
 - (C) Boreal Forest
 - (D) Temperate Forest
 
----
+
 
 **5.** Which of the following can be considered as a direct impact of global warming?
 
@@ -62,7 +62,7 @@ Reason (R): The crisis may easily be managed with the judicious use of water in 
 - (C) Coral Bleaching
 - (D) Volcanic Eruption
 
----
+
 
 **6.** The following are the possible causes for monsoon delay in India:
 (1) El Nino, (2) Tibetan anticyclone, (3) Presence of Westerly Jet Stream south of the Himalaya during summer, (4) Shifting of ITCZ
@@ -72,7 +72,7 @@ Reason (R): The crisis may easily be managed with the judicious use of water in 
 - (C) 1, 2 and 3 are true
 - (D) 1 and 4 are true
 
----
+
 
 **7.** Assertion (A): Flood is the most destructive of natural hazards in the Ganga-Brahmaputra plains.
 Reason (R): Due to population pressure, more people tend to live in flood prone areas.
@@ -82,7 +82,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) (A) is true but (R) is false
 - (D) (A) is false but (R) is correct
 
----
+
 
 **8.** Plants behaving as xerophyte at one season and as hydrophyte at another are known as:
 
@@ -91,7 +91,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Tropophytes
 - (D) Heliotropophytes
 
----
+
 
 **9.** Although hydroelectric power has led to economic progress around the world, it has created serious ecologic problems. Which one of the following statements is NOT correct?
 
@@ -100,7 +100,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) The resettlement of displaced persons is generally not a serious issue as there are many options.
 - (D) The use of rivers for navigation and fisheries becomes difficult once the water is dammed to generate electricity.
 
----
+
 
 **10.** UNCLOS stands for:
 
@@ -109,7 +109,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) United Nations Convention on the Law of the Sea
 - (D) United Nations Convention on the Land over the Sea
 
----
+
 
 ## Section 3: Biogeography & Ecology (Q11–Q15)
 
@@ -120,18 +120,18 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Competition → Reaction → Invasion → Stabilisation → Nudation
 - (D) Reaction → Invasion → Nudation → Competition → Stabilisation
 
----
+
 
 **12.** The following two lists state the temperature conditions and associated vegetation classes. Match the two lists.
 
-**List-I (Temperature)**
+**List-I (Temperature)*
 
 - (a) Megatherms
 - (b) Mesotherms
 - (c) Microtherms
 - (d) Hekistotherms
 
-**List-II (Vegetation Types)**
+**List-II (Vegetation Types)*
 
 - (i) Tropical Deciduous
 - (ii) Tropical Rainforest
@@ -145,7 +145,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 | (C) | (ii) | (i) | (iv) | (iii) |
 | (D) | (iv) | (ii) | (iii) | (i) |
 
----
+
 
 **13.** Shape and spread of statistical data under univariate analysis is better judged through:
 
@@ -154,7 +154,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Hypothesis Testing
 - (D) Skewness and Kurtosis
 
----
+
 
 **14.** Pelagic oozes cover about:
 
@@ -163,7 +163,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) 50% of the world ocean floor area
 - (D) 60% of the world ocean floor area
 
----
+
 
 **15.** Maximum crop diversity is conventionally found in which of the following regions?
 
@@ -172,7 +172,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Plateau Area
 - (D) Peri-urban Area
 
----
+
 
 ## Section 4: Climatology & Atmosphere (Q16–Q26)
 
@@ -183,7 +183,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Surface inversion of temperature
 - (D) Isothermal change of temperature
 
----
+
 
 **17.** 'Doppler Radar' is used for the purpose of:
 
@@ -192,7 +192,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Long range weather forecasting
 - (D) Nowcasting
 
----
+
 
 **18.** Geographically the most extensive fogs in India during winter are mainly:
 
@@ -201,7 +201,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Frontal fogs
 - (D) Hill fogs
 
----
+
 
 **19.** The temperature characteristics at a warm occluded front can be described as:
 
@@ -210,7 +210,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) The air behind the cold front is warmer than the cool air it is overtaking.
 - (D) The air in front of the cold front is cooler than the cold air overtaking it.
 
----
+
 
 **20.** First nuclear energy plant in India was established in:
 
@@ -219,7 +219,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Kaiga
 - (D) Kalpakkam
 
----
+
 
 **21.** In order of decreasing area of EEZs, which one of the following sequences is correct?
 
@@ -228,7 +228,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Russia, Australia, USA, France
 - (D) USA, Australia, Russia, France
 
----
+
 
 **22.** Water waves are termed 'shallow' when:
 
@@ -237,7 +237,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Water depth is less than 1/5th of wavelength
 - (D) Wave depth is less than 1/4th of wavelength
 
----
+
 
 **23.** In oceans, the Rule of Constant Proportions relates to:
 
@@ -246,7 +246,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Salinity
 - (D) Oxygen isotope ratio
 
----
+
 
 **24.** Potential density of seawater is primarily dependent on:
 
@@ -255,7 +255,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Mixing of warm and cold currents at a given locality
 - (D) Pressure of air and water columns
 
----
+
 
 **25.** In an El Niño year, the Western Pacific warm pool moves towards the east and this modifies the:
 
@@ -264,7 +264,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Ferrel Circulation
 - (D) Langmuir Circulation
 
----
+
 
 **26.** At 25°C air is saturated with 20 g of water vapour per kg of air. If the air contains 15 g of water vapour per kg at the same temperature, the relative humidity is:
 
@@ -273,7 +273,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) 60%
 - (D) 75%
 
----
+
 
 ## Section 5: Settlement & Urban Geography (Q27–Q30)
 
@@ -284,7 +284,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) A high density, low population based settlement at the outer core of urban unit
 - (D) A high density, high population based settlement beyond suburbs
 
----
+
 
 **28.** Who among the following took the first leadership to spread Quantitative Techniques in Geography outside USA?
 
@@ -293,7 +293,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) W. Bunge
 - (D) J. Q. Stewart
 
----
+
 
 **29.** Population potential of an area as an extension of social physics is propounded by:
 
@@ -302,7 +302,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) B. Berry
 - (D) J. Q. Stewart
 
----
+
 
 **30.** If the basic–non-basic ratio is equal to 1 (one) in an urban unit, it indicates:
 
@@ -311,7 +311,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Stagnation of economy
 - (D) High growth of economy
 
----
+
 
 ## Section 6: Population Geography (Q31–Q35)
 
@@ -331,7 +331,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 | (C) | (iv) | (ii) | (i) | (iii) |
 | (D) | (iv) | (i) | (ii) | (iii) |
 
----
+
 
 **32.** Zero population growth occurs in a country when:
 
@@ -340,7 +340,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) in-migration is equal to out-migration
 - (D) in-migration is equal to deaths
 
----
+
 
 **33.** Which of the following is a marginal sea, in true sense, in the Indian Ocean?
 
@@ -349,7 +349,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Bay of Bengal
 - (D) Andaman Sea
 
----
+
 
 **34.** Who proposed the term 'Tricontinentalism' in relation to Post-colonialism?
 
@@ -358,7 +358,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Gayatri Chakravorty
 - (D) Robert Young
 
----
+
 
 **35.** In his theory of Social Ecology, Kropotkin developed the idea of social interaction within the social groups under the principle of:
 
@@ -367,7 +367,7 @@ Reason (R): Due to population pressure, more people tend to live in flood prone 
 - (C) Dominance
 - (D) Mutual aid
 
----
+
 
 ## Section 7: Geographical Thought & Philosophy (Q36–Q45)
 
@@ -379,7 +379,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **37.** What percentage of data of a normal distribution approximately lies between (+) and (−) one standard deviation?
 
@@ -388,7 +388,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) 33
 - (D) 23
 
----
+
 
 **38.** Match the geomorphic features with the geomorphic processes.
 
@@ -407,7 +407,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 | (C) | (iv) | (iii) | (i) | (ii) |
 | (D) | (iv) | (v) | (iii) | (i) |
 
----
+
 
 **39.** Which among the following is not a stage of social development as per Comte's proposition?
 
@@ -416,7 +416,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) Positive
 - (D) Postmodern
 
----
+
 
 **40.** As per Kuhn's model of disciplinary development, the first 'Paradigm Phase' is immediately preceded by which phase?
 
@@ -425,7 +425,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) Professionalisation
 - (D) Revolution
 
----
+
 
 **41.** If variability of rainfall is to be measured, which of the following techniques will be used?
 
@@ -434,18 +434,18 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) Coefficient of Variation
 - (D) Coefficient of Multiple Correlation
 
----
+
 
 **42.** Match List-I with List-II:
 
-**List-I**
+**List-I*
 
 - (a) χ² test
 - (b) Coefficient of Variation
 - (c) t-test
 - (d) Rank correlation
 
-**List-II**
+**List-II*
 
 - (i) consistency of the variables
 - (ii) test of significance
@@ -459,7 +459,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 | (C) | (ii) | (iii) | (i) | (iv) |
 | (D) | (ii) | (iv) | (iii) | (i) |
 
----
+
 
 **43.** p-value ≤ 0.05 indicates:
 
@@ -468,7 +468,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) a strong evidence against alternative hypothesis
 - (D) a weak evidence against alternative hypothesis
 
----
+
 
 **44.** Wider dispersion can be best represented by:
 
@@ -477,7 +477,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) Factorial Ecology
 - (D) Coefficient of Variation
 
----
+
 
 **45.** Concept of 'Locational Triangle' for the location of industries was introduced by which of the following scholars?
 
@@ -486,7 +486,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) Weber
 - (D) Smith
 
----
+
 
 ## Section 8: Industrial & Economic Geography (Q46–Q47)
 
@@ -506,7 +506,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 | (C) | (iv) | (ii) | (i) | (iii) |
 | (D) | (iii) | (i) | (ii) | (iv) |
 
----
+
 
 **47.** Which of the following organisations prepares Indian Topographical maps?
 
@@ -515,7 +515,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) TTK, Madras
 - (D) Ministry of Defence, GOI
 
----
+
 
 ## Section 9: Geomorphology (Q48–Q64)
 
@@ -526,7 +526,7 @@ Reason (R): Humboldt considered regions merely as tools to study the unity of di
 - (C) Paternoster lake, Tarn, Moraine-dammed lake, Kettle lake
 - (D) Kettle lake, Tarn, Paternoster lake, Moraine-dammed lake
 
----
+
 
 **49.** Assertion (A): Coasts tend to become sandy to muddy as tidal range changes from micro to macro.
 Reason (R): In tropical coasts, mangrove vegetation is conducive of deposition of fine sediments.
@@ -536,7 +536,7 @@ Reason (R): In tropical coasts, mangrove vegetation is conducive of deposition o
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **50.** What is the spatial resolution of AWiFS sensor?
 
@@ -545,7 +545,7 @@ Reason (R): In tropical coasts, mangrove vegetation is conducive of deposition o
 - (C) 56 m
 - (D) 188 m
 
----
+
 
 **51.** Which among the following DEMs is available free from the Internet and is contributed by India?
 
@@ -554,7 +554,7 @@ Reason (R): In tropical coasts, mangrove vegetation is conducive of deposition o
 - (C) ALOS DEM
 - (D) ASTER DEM
 
----
+
 
 **52.** The Universal Transverse Mercator zone number of West Bengal is:
 
@@ -563,7 +563,7 @@ Reason (R): In tropical coasts, mangrove vegetation is conducive of deposition o
 - (C) 45
 - (D) 46
 
----
+
 
 **53.** Consider the following statements: 'Water spout' is a weather element associated with:
 
@@ -578,7 +578,7 @@ Which of the above statements are correct?
 - (C) 2 and 3
 - (D) 1, 2 and 3
 
----
+
 
 **54.** Consider the following statements — Blocking anticyclone is associated with:
 
@@ -593,7 +593,7 @@ Which of the statements are correct?
 - (C) 2 and 3
 - (D) 1, 2 and 3
 
----
+
 
 **55.** Assertion (A): ITCZ moves northward during summer in the northern hemisphere.
 Reason (R): Low pressure system is developed over the continental landmass.
@@ -603,7 +603,7 @@ Reason (R): Low pressure system is developed over the continental landmass.
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **56.** Dendrochronology is useful to study the paleoclimatic trends of which of the following epochs?
 
@@ -612,7 +612,7 @@ Reason (R): Low pressure system is developed over the continental landmass.
 - (C) Pleistocene
 - (D) Holocene
 
----
+
 
 **57.** Among the following values of hypsometric integral, which one denotes maximum erosion of a drainage basin area down to its base level?
 
@@ -621,7 +621,7 @@ Reason (R): Low pressure system is developed over the continental landmass.
 - (C) 0.51
 - (D) 0.91
 
----
+
 
 **58.** Tertiary period had five epochs. Select the correct order in which these epochs appear in the Geological time scale from ancient to recent.
 
@@ -630,7 +630,7 @@ Reason (R): Low pressure system is developed over the continental landmass.
 - (C) Paleocene – Eocene – Oligocene – Miocene – Pliocene
 - (D) Oligocene – Paleocene – Miocene – Eocene – Pliocene
 
----
+
 
 **59.** Assertion (A): In arid and semi-arid region sheet flood is an important land forming process.
 Reason (R): Arid and semi-arid region experience high intensity short duration rainfall.
@@ -640,7 +640,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **60.** Formation of potholes in river beds is an example of:
 
@@ -649,7 +649,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Plucking
 - (D) Corrasion
 
----
+
 
 **61.** Which among the following features is a product of volcanic eruption?
 
@@ -658,7 +658,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Laccolith
 - (D) Ladang
 
----
+
 
 **62.** Which of the following statements best describes the movement along a normal fault?
 
@@ -667,7 +667,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Hanging wall moves angular relative to the foot wall.
 - (D) Hanging wall moves upward relative to the foot wall.
 
----
+
 
 **63.** Higher elevation of the mid oceanic ridge relative to the flanking sea-floor is best explained by:
 
@@ -676,7 +676,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Positive gravity anomaly
 - (D) Negative gravity anomaly
 
----
+
 
 **64.** Among the planation surfaces, the deep weathering process is best linked to:
 
@@ -685,7 +685,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Panplains
 - (D) Etchplains
 
----
+
 
 ## Section 10: Regional Geography & Theory (Q65–Q80)
 
@@ -696,7 +696,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) 1, 3, 6, 12, 24…
 - (D) 1, 3, 9, 27, 81…
 
----
+
 
 **66.** Which one of the following is suitable in understanding crop specialization as well as crop diversity?
 
@@ -705,7 +705,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Cropping Efficiency
 - (D) Crop Yield
 
----
+
 
 **67.** Which of the following pairs is incorrectly matched?
 
@@ -714,7 +714,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Meena : Rajasthan
 - (D) Munda : Jharkhand
 
----
+
 
 **68.** 'Ethnoburb' is used to refer to residential patterns of Asian migrants to the cities of:
 
@@ -723,7 +723,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Australia, Canada, New Zealand and USA
 - (D) Australia, New Zealand, South Africa and USA
 
----
+
 
 **69.** The origin of the conceptual interplay between "place-work-folk", a key concept in social geography, is found in the works of:
 
@@ -732,7 +732,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Friedrich Ratzel
 - (D) Frederic le Play
 
----
+
 
 **70.** Cultivation of fuel wood with crop is known as:
 
@@ -741,7 +741,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Arboriculture
 - (D) Pomiculture
 
----
+
 
 **71.** In the Weberian Theory of industrial location, the term 'agglomeration' is best described by:
 
@@ -750,7 +750,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) clustering of productive activities and people for mutual advantage
 - (D) aggregation of market forces
 
----
+
 
 **72.** The great sociologist who held the view that "education doesn't bring about social change; rather the social change results into an educational change" was:
 
@@ -759,7 +759,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Durkheim
 - (D) Dewey
 
----
+
 
 **73.** Clustering of rural settlements in an area can be determined by using:
 
@@ -768,7 +768,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Cluster Analysis
 - (D) Rank-size Rule
 
----
+
 
 **74.** The term 'ecumene' is applied to mean:
 
@@ -777,7 +777,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) The uninhabited areas of the world.
 - (D) The areas deserted by people.
 
----
+
 
 **75.** E. Bylund's theory has to do with which of the following aspects of rural settlement?
 
@@ -786,7 +786,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Planning
 - (D) Ecology
 
----
+
 
 **76.** Who among the following proposed the multiple nuclei model of city growth?
 
@@ -795,7 +795,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) E. W. Burgess
 - (D) Von Thünen
 
----
+
 
 **77.** What are the underlying characteristics of WTO?
 
@@ -804,7 +804,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) It helps in development of the less developed countries.
 - (D) It resolves disputes among world trade blocks.
 
----
+
 
 **78.** Identify the correct statement with reference to the first phase of globalisation in the Nineteenth Century:
 
@@ -813,7 +813,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Washington DC was the centre of political power.
 - (D) There was an intricate connection between the eastern economies.
 
----
+
 
 **79.** Which among the following locational factors is most important in the case of 'footloose industries'?
 
@@ -822,7 +822,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Market
 - (D) Labour
 
----
+
 
 **80.** One needs to find out how much area is eroded or accreted in an administrative unit by a river using bankline polygons of different years in GIS. The procedure one would follow is called:
 
@@ -831,7 +831,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Layer-level analysis
 - (D) Kriging analysis
 
----
+
 
 ## Section 11: Remote Sensing & GIS (Q81–Q85)
 
@@ -842,7 +842,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) 20,200 km
 - (D) 36,200 km
 
----
+
 
 **82.** The cultural logic of late capitalism is often used to explain the nature of:
 
@@ -851,7 +851,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Postmodernism
 - (D) Cultural Turn
 
----
+
 
 **83.** In a standard FCC, vegetation appears red because:
 
@@ -860,7 +860,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Defence-related restrictions prevent disclosure of actual colours.
 - (D) NIR band is shown in red.
 
----
+
 
 **84.** The flow analysis and gravitational analysis are two well known methods for delineation of:
 
@@ -869,7 +869,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Functional Region
 - (D) Social Region
 
----
+
 
 **85.** The Great Andaman group of islands in the north is separated from the Nicobar group in the south by the:
 
@@ -878,7 +878,7 @@ Reason (R): Arid and semi-arid region experience high intensity short duration r
 - (C) Twelve Degree Channel
 - (D) Ten Degree Channel
 
----
+
 
 ## Section 12: India — Physical & Economic Geography (Q86–Q100)
 
@@ -890,7 +890,7 @@ Reason (R): The rivers have taken the weakest part of the Himalayas at its synta
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **87.** Assertion (A): Urban agglomerations and million plus cities in India are growing very rapidly.
 Reason (R): Small and satellite towns are not developed in a planned way to reduce the growth of the big cities.
@@ -900,7 +900,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) (R) is true but (A) is not correct.
 - (D) Both (R) and (A) are true and (R) is the correct explanation for (A).
 
----
+
 
 **88.** The river Cauvery flows through the states of:
 
@@ -909,7 +909,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Telangana, Tamil Nadu, and Karnataka
 - (D) Andhra Pradesh, Karnataka, and Tamil Nadu
 
----
+
 
 **89.** Which of the following regions was proposed by John Friedman to explain the Core Periphery Model?
 
@@ -918,7 +918,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Resource Frontier Region
 - (D) It includes (A), (B) and (C)
 
----
+
 
 **90.** Which of the following countries is not included among the ten members of ASEAN?
 
@@ -927,7 +927,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Vietnam
 - (D) Philippines
 
----
+
 
 **91.** The Beaufort scale is related to:
 
@@ -936,7 +936,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Humidity
 - (D) Rainfall
 
----
+
 
 **92.** Which one of the following landforms is not associated with wind erosion?
 
@@ -945,7 +945,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Mesa
 - (D) Seif
 
----
+
 
 **93.** In satellite images, radiometric resolution is related to:
 
@@ -954,7 +954,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Number of bands
 - (D) Number of colour values
 
----
+
 
 **94.** Which of the following group of rivers originates from the mountains of Himachal Pradesh?
 
@@ -963,7 +963,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Satluj, Beas, and Ravi
 - (D) Chenab, Beas, and Jhelum
 
----
+
 
 **95.** Social development process is primarily directed towards one among the following, identify it.
 
@@ -972,7 +972,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Integrated women and child development
 - (D) Integrated rural development
 
----
+
 
 **96.** Match the following:
 
@@ -990,7 +990,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 | (C) | (ii) | (iii) | (i) | (iv) |
 | (D) | (i) | (iii) | (ii) | (iv) |
 
----
+
 
 **97.** Who heads the National Commission on Population in India?
 
@@ -999,7 +999,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Chief Justice of Supreme Court
 - (D) Registrar General of India
 
----
+
 
 **98.** Which of the following coastal areas is known for mining of 'Rare Earth'?
 
@@ -1008,7 +1008,7 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Andhra coast
 - (D) Odisha coast
 
----
+
 
 **99.** The relationship among power structure, the environment and economic inequalities is termed as:
 
@@ -1017,18 +1017,18 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 - (C) Equality of opportunity
 - (D) Authoritative biopower
 
----
+
 
 **100.** Match List-I with List-II:
 
-**List-I (Climatic type)**
+**List-I (Climatic type)*
 
 - (a) Tropical Monsoon
 - (b) Mediterranean
 - (c) Tropical Hot Desert
 - (d) Arctic
 
-**List-II (Symbol after Köppen)**
+**List-II (Symbol after Köppen)*
 
 - (i) Csa / Csb
 - (ii) Am
@@ -1042,6 +1042,6 @@ Reason (R): Small and satellite towns are not developed in a planned way to redu
 | (C) | (iv) | (ii) | (i) | (iii) |
 | (D) | (ii) | (i) | (iv) | (iii) |
 
----
 
-*— End of Question Paper —*
+
+*— End of Question Paper —

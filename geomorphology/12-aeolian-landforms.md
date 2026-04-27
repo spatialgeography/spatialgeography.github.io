@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Aeolian landforms |
 :::
 
----
+
 
 ### 1. Types of Desert Surface
 - **Erg:** Sandy desert (Sahara).
@@ -35,7 +35,7 @@
 | **Parabolic** | U-shaped with horns pointing upwind (found in coastal areas). |
 | **Star Dune** | Star-shaped with multiple arms. |
 
----
+
 
 ### 4. Loess
 - **Loess:** Fine, wind-blown silt deposited far from the desert source.

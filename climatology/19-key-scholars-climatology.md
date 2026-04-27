@@ -21,6 +21,6 @@
 | **Admiral Beaufort** | **Beaufort scale**: relates to the **Velocity of Winds**. |
 | R.K. Pachauri | Crop yield impact of global warming |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Climatology (NET)*
+
+Notes compiled by Pulakesh Pradhan — Climatology (NET)

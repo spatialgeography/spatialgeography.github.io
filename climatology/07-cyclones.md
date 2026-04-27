@@ -8,15 +8,15 @@
 | **UGC NET** | Unit II — Temperate and tropical cyclones |
 :::
 
----
+
 
 ### Temperate Cyclone
 
-- Also called **Extratropical Cyclones / Wave Cyclone**
+- Also called **Extratropical Cyclones / Wave Cyclone*
 - Latitude: 35°–65° N/S
 - **Shape and Size:** Radius — 400 to 800 km
 - **Wind velocity:** 40–60 km/h
-- Moves **west to east**
+- Moves **west to east*
 
 #### Theories of Origin
 
@@ -42,12 +42,12 @@
 - North Pacific Region
 - China Sea
 
----
+
 
 ### Tropical Cyclone
 
 - **Diameter:** 80–300 km (some 50 km or less)
-- **High wind speed**; sea temperature must be **27°C or more**
+- **High wind speed**; sea temperature must be **27°C or more*
 - They mostly occur in late summer and autumn. They do *not* occur beneath the jet stream.
 - **No cyclones occur along the equator** because the Coriolis force is zero.
 - **Eye of the cyclone** — centre of extreme low pressure in spite of descending wind. At the eye, adiabatic warming of descending airmass accentuates high temperature. Note that some cyclones may not develop an eye.
@@ -66,7 +66,7 @@
 - **Pressure:** 950 mb
 - **Wind speed:** 120–200 km/h
 - **Eye** = 8–50 km
-- **Saffir-Simpson Hurricane Damage Scale (1–5)**
+- **Saffir-Simpson Hurricane Damage Scale (1–5)*
 
 #### Tornadoes (Twisters)
 - In USA; associated with thunderstorms

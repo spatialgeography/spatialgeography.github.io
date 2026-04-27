@@ -7,15 +7,15 @@
 | **UGC NET** | Spatial distribution of social groups in India |
 :::
 
----
+
 
 ### Race (NET Notes — Pulakesh Pradhan)
 
 > **Race** — the similarities of genetic patterns among aggregates of individuals of human populations
 
 #### Two Types of Genes
-- **Dominant genes**
-- **Recessive genes**
+- **Dominant genes*
+- **Recessive genes*
 
 #### Two Major Classification Systems
 
@@ -39,7 +39,7 @@
 | **Deniker** | 29 races based on hair form, skin colour, nose shape |
 | **Houghton** | 3 main racial stocks and 23 subgroups |
 
----
+
 
 ### Major Racial Types
 
@@ -69,7 +69,7 @@
 - Abundant body hair
 - Light and wavy hair
 - Thin lips
-- **Three subgroups:**
+- **Three subgroups:*
   1. Nordic
   2. Alpine
   3. Mediterranean
@@ -91,7 +91,7 @@
 - Broad nose
 - Full lips
 - Long head
-- **Blood groups: 'A' and 'O'**
+- **Blood groups: 'A' and 'O'*
 - Examples in India: **Bhil** of Deccan Plateau; **Oraon** of Chotanagpur Plateau
 
 #### 7. Papuan Melanesians

@@ -21,11 +21,11 @@
 * **Resource Development Regions of India**: Delineated based on homogeneity of physical and economic resources (e.g., Damodar Valley, Western Ghats) for targeted planning.
 :::
 
----
+
 
 ### Sustainable Development (NET Notes — Pulakesh Pradhan)
 
-> **Brundtland Commission (1987):** *"Development that meets the needs of the present without compromising the ability of future generations to meet their own needs"*
+> **Brundtland Commission (1987):** *"Development that meets the needs of the present without compromising the ability of future generations to meet their own needs"
 
 #### Triple Bottom Line (3 Ps)
 - **People** (Social sustainability)

@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Fluvial landforms and drainage systems |
 :::
 
----
+
 
 ### 1. Drainage Patterns and Stream Types
 
@@ -40,7 +40,7 @@
 - **Channel Pattern Alteration:** A river's channel pattern may alter from **braided to meandering** due to a **decrease in rainfall** in its catchment area.
 - **Horton's Law of Stream Number:** Confirms to the mathematical model of a **Negative Exponential Function**.
 
----
+
 
 ### 2. River Rejuvenation
 
@@ -50,7 +50,7 @@ Rejuvenation occurs when a river's erosive power is restored.
 - **Eustatic:** Due to sea-level fall.
 - **Topography:** Knickpoints (waterfalls), valley-in-valley, and river terraces.
 
----
+
 
 ### 3. Waterfalls
 
@@ -61,7 +61,7 @@ Rejuvenation occurs when a river's erosive power is restored.
 | **Hundru Falls** | Knickpoint fall | Jharkhand, India |
 | **Victoria Falls** | Zambezi river | Africa |
 
----
+
 
 ### 4. Deltas (Herodotus)
 

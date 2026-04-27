@@ -26,7 +26,7 @@
   - *Authigenic*: Formed in-situ — manganese nodules, phosphorite deposits
 :::
 
----
+
 
 ### Ocean Deposits — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -35,14 +35,14 @@
 
 #### Classification by Source
 
-**(A) Lithogenous / Terrigenous Material:**
+**(A) Lithogenous / Terrigenous Material:*
 - **Blue Mud** — deeper ocean; 14.5 million sq. km
 - **Red Mud** — calcium carbonate 6–61%; off river mouths
 - **Green Mud** — glauconite; 100–900 fathoms
 
 **(B) Products of Volcanism:** Sub-aerial and sub-marine
 
-**(C) Organic Remains:**
+**(C) Organic Remains:*
 - **Pelagic Calcareous:** Pteropod Ooze, Globigerina Ooze
 - **Pelagic Siliceous:** Radiolarian Ooze, Diatom Ooze
 
@@ -52,13 +52,13 @@
 
 **(F) Extra-Terrestrial:** Meteoric dust, cosmic spherules
 
----
+
 
 ### Coral Reefs — Detailed (NET Notes)
 
-- **Masses of limestone and dolomite**; confined between **25°N to 25°S**
+- **Masses of limestone and dolomite**; confined between **25°N to 25°S*
 - Built by **coral polyps**; **Zooxanthellae** give colour
-- Western coast of continents — **no coral reefs**
+- Western coast of continents — **no coral reefs*
 
 #### Conditions for Growth
 

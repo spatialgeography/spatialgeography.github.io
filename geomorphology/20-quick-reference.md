@@ -13,7 +13,7 @@
 | *Principles of Geomorphology* | W.D. Thornbury |
 | *Water, Earth and Man* | Chorley (1969) |
 
----
+
 
 ### Theories and Propounders
 
@@ -30,7 +30,7 @@
 | **Big Bang Theory** | Edwin Hubble |
 | **Strahler Stream Order** | Arthur Strahler |
 
----
+
 
 ### Important Terms
 
@@ -41,6 +41,9 @@
 - **Tsunami:** Harbour waves.
 - **Zwischengebirge:** Kober's median mass in mountain building.
 
----
 
-*Notes compiled by Pulakesh Pradhan — Geomorphology (NET)*
+
+Notes compiled by Pulakesh Pradhan — Geomorphology (NET)
+
+
+Notes compiled by Geography Team

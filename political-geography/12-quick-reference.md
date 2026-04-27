@@ -9,7 +9,7 @@
 | *Democratic Ideals and Reality* | H.J. Mackinder (1919) |
 | *The Geography of the Peace* | Nicholas Spykman (1944) |
 
----
+
 
 ### Theories and Models
 
@@ -21,7 +21,7 @@
 | **Geostrategic Realms** | Saul B. Cohen | Divided the world into Maritime and Continental realms, and Shatterbelts. |
 | **Unified Field Theory** | S.B. Jones | Links political idea to political area (Idea -> Decision -> Movement -> Field -> Area). |
 
----
+
 
 ### Key Concepts
 
@@ -32,5 +32,5 @@
 - **Boundary:** A precise, invisible line marking the extent of a state's territory.
 - **Gerrymandering:** Redrawing electoral district boundaries to give a political party an advantage.
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

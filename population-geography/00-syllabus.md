@@ -4,9 +4,9 @@
 
 ::: {.callout-note}
 #### Core I Paper III — Population Geography
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-*The detailed unit-wise NEP syllabus for Population Geography covers:*
+*The detailed unit-wise NEP syllabus for Population Geography covers:
 
 - Nature, scope, and recent trends in population geography
 - Patterns of world distribution, growth, and density of population
@@ -16,7 +16,7 @@
 - Population-resource regions
 :::
 
----
+
 
 ### UGC NET Syllabus
 
@@ -41,7 +41,7 @@
 - Population Policies in Developed and Developing Countries
 :::
 
----
+
 
 ### NET Population Geography — Important Topics & Traditions
 

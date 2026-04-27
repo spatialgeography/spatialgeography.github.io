@@ -2,7 +2,7 @@
 
 **Subject Code:** 13 | **Maximum Marks:** 200 | **Time:** 2 Hours
 
----
+
 
 ## Instructions for Candidates
 
@@ -12,7 +12,7 @@
 4. Each Question has four alternative responses marked: **(A) (B) (C) (D)**. You have to darken the circle on the correct response against each question.
 5. There is **no negative marking** for incorrect answers.
 
----
+
 
 ## Section 1: Geomorphology (Q1–Q10)
 
@@ -23,7 +23,7 @@
 - (C) Overturned fold
 - (D) Recumbent fold
 
----
+
 
 **2.** Which among the following is not a hotspot?
 
@@ -32,7 +32,7 @@
 - (C) Réunion Island
 - (D) Cocos Island
 
----
+
 
 **3.** Conservative plate boundaries are located
 
@@ -41,7 +41,7 @@
 - (C) between two constructive plate boundaries
 - (D) along continental faults like San Andreas
 
----
+
 
 **4.** The Wilson cycle is a model that describes
 
@@ -50,18 +50,18 @@
 - (C) the stages of opening and closing of ocean basins
 - (D) the stages of formation and destruction of plates
 
----
+
 
 **5.** The following two lists show the factors and geomorphic processes. Match the factors with corresponding processes they control.
 
-**List-I (Factors)**
+**List-I (Factors)*
 
 - (a) Topographic Gradient
 - (b) Distance from water divide
 - (c) Geomorphic Threshold
 - (d) Closed system environment
 
-**List-II (Geomorphic Processes)**
+**List-II (Geomorphic Processes)*
 
 - (i) Toposequence
 - (ii) Movement of water and soil
@@ -77,7 +77,7 @@ Select the correct option:
 | (C) | (i) | (iii) | (iv) | (ii) |
 | (D) | (ii) | (i) | (iv) | (iii) |
 
----
+
 
 **6.** 'Exfoliation dome' is developed mainly due to
 
@@ -86,7 +86,7 @@ Select the correct option:
 - (C) thermal gradient stress
 - (D) salt-crystal growth stress
 
----
+
 
 **7.** In a river terrace, a continuous stratum of pebbles within layers of sands usually indicates that at the time of its deposition
 
@@ -95,7 +95,7 @@ Select the correct option:
 - (C) the river was accelerating
 - (D) sudden uplift of the riverbed or floodplain occurred
 
----
+
 
 **8.** Assertion (A): Sinuosity of an alluvial river decreases if slope increases due to tectonic movement.
 Reason (R): Channel slope usually increases downstream of an uplifting anticlinal axis.
@@ -105,7 +105,7 @@ Reason (R): Channel slope usually increases downstream of an uplifting anticlina
 - (C) (A) is true but (R) is false.
 - (D) (A) is false but (R) is true.
 
----
+
 
 **9.** Assertion (A): Rate of erosion is less in the old stage of normal cycle of erosion.
 Reason (R): Entropy is maximised on the peneplain.
@@ -115,7 +115,7 @@ Reason (R): Entropy is maximised on the peneplain.
 - (C) (A) is correct but (R) is not correct.
 - (D) (A) is not correct but (R) is correct.
 
----
+
 
 **10.** Which of the following is a product of two phases of erosion?
 
@@ -124,7 +124,7 @@ Reason (R): Entropy is maximised on the peneplain.
 - (C) Etch-surface
 - (D) Exhumed surface
 
----
+
 
 ## Section 2: Climatology & Atmosphere (Q11–Q20)
 
@@ -135,7 +135,7 @@ Reason (R): Entropy is maximised on the peneplain.
 - (C) SW Westerly wind
 - (D) Upper air jet stream
 
----
+
 
 **12.** Isobars at 4 mb interval are drawn for an area starting at 992 mb. Ground distance between these isobars starting from 992 mb are — 35 km, 28 km, 22 km, 18 km, 24 km, 30 km, 38 km. Between which two isobars will pressure gradient be the maximum?
 
@@ -144,7 +144,7 @@ Reason (R): Entropy is maximised on the peneplain.
 - (C) 1012 – 1016 mb
 - (D) 1016 – 1020 mb
 
----
+
 
 **13.** Cloudburst is defined by IMD as rainfall of
 
@@ -153,7 +153,7 @@ Reason (R): Entropy is maximised on the peneplain.
 - (C) ≥ 5 cm / minute
 - (D) ≥ 2 cm / minute
 
----
+
 
 **14.** 'ENSO' is a periodic fluctuation of
 
@@ -162,7 +162,7 @@ Reason (R): Entropy is maximised on the peneplain.
 - (C) 3 – 8 years
 - (D) 4 – 9 years
 
----
+
 
 **15.** Dish-pan experiment relates to the formation of
 
@@ -171,18 +171,18 @@ Reason (R): Entropy is maximised on the peneplain.
 - (C) Rossby waves
 - (D) Easterly jet streams
 
----
+
 
 **16.** Following lists show some climatic phenomena and associated features. Find the correct match.
 
-**List-I (Climatic phenomena)**
+**List-I (Climatic phenomena)*
 
 - (a) ENSO Events
 - (b) Thunderstorm
 - (c) Frontal instability
 - (d) Atmospheric stability
 
-**List-II (Associated Features)**
+**List-II (Associated Features)*
 
 - (i) Equatorial region
 - (ii) Baroclinic condition
@@ -196,7 +196,7 @@ Reason (R): Entropy is maximised on the peneplain.
 | (C) | (iii) | (i) | (ii) | (iv) |
 | (D) | (ii) | (iii) | (iv) | (i) |
 
----
+
 
 **17.** Assertion (A): Eye of a cyclone has low pressure in spite of descending wind.
 Reason (R): Descending wind is warmed up by adiabatic warming.
@@ -206,17 +206,17 @@ Reason (R): Descending wind is warmed up by adiabatic warming.
 - (C) (A) is correct but (R) is false.
 - (D) (A) is not correct but (R) is correct.
 
----
+
 
 **18.** Indian Ocean Dipole refers to (i) ________ surface temperature anomaly and affects (ii) ________ of countries that surround Indian Ocean Basin.
-*(a) Sea, (b) Land, (c) Canopy, (d) Ice cover, (e) Rainfall, (f) Vegetation*
+*(a) Sea, (b) Land, (c) Canopy, (d) Ice cover, (e) Rainfall, (f) Vegetation
 
 - (A) (i) — (b), (ii) — (e)
 - (B) (i) — (c), (ii) — (f)
 - (C) (i) — (a), (ii) — (d)
 - (D) (i) — (a), (ii) — (e)
 
----
+
 
 **19.** Which of the following is not considered as evidence in establishing climate change?
 
@@ -225,7 +225,7 @@ Reason (R): Descending wind is warmed up by adiabatic warming.
 - (C) Lacustrine varves
 - (D) Radioactive isotope dating
 
----
+
 
 **20.** Rainfall distribution at global-scale in the recent decades is altered due to
 
@@ -234,7 +234,7 @@ Reason (R): Descending wind is warmed up by adiabatic warming.
 - (C) alteration of Polar cell of general wind circulation
 - (D) alteration of entire global circulation patterns
 
----
+
 
 ## Section 3: Oceanography (Q21–Q30)
 
@@ -245,7 +245,7 @@ Reason (R): Descending wind is warmed up by adiabatic warming.
 - (C) Transform faults.
 - (D) Mantle inhomogeneity below the oceanic crust.
 
----
+
 
 **22.** Some of European coasts record sea-level fall. It is because of
 
@@ -254,7 +254,7 @@ Reason (R): Descending wind is warmed up by adiabatic warming.
 - (C) expansion of ocean basin
 - (D) upliftment of coastal land along convergent plate margin
 
----
+
 
 **23.** In oceans, CaCO₃ compensation depth relates to
 
@@ -263,7 +263,7 @@ Reason (R): Descending wind is warmed up by adiabatic warming.
 - (C) 'T – S' gradient of water masses
 - (D) Water depth of > 2,000 m
 
----
+
 
 **24.** Assertion (A): Two samples of ocean water can have the same density at different combinations of temperature and salinity.
 Reason (R): Temperature and salinity of ocean water varies with depth.
@@ -273,7 +273,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) (A) is correct but (R) is false.
 - (D) (A) is false but (R) is correct.
 
----
+
 
 **25.** Thermohaline circulation of ocean water is driven by which of the following factors?
 
@@ -287,7 +287,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) (2) and (3)
 - (D) (3) and (4)
 
----
+
 
 **26.** The positions inside the ocean, which experience no fluctuation of water level due to tide, are known as
 
@@ -296,7 +296,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Diurnal tidal locations
 - (D) Semi-diurnal tidal locations
 
----
+
 
 **27.** In an estuary, tidal wavelength is primarily determined by the estuary's
 
@@ -305,7 +305,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Average depth
 - (D) Shape
 
----
+
 
 **28.** Which of the following changes are observed as a wave approaches a coast?
 
@@ -314,7 +314,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Wave-velocity reduces and wave-height increases.
 - (D) Wave-length increases and wave-height reduces.
 
----
+
 
 **29.** Which of the following two statements are true for a tsunami?
 
@@ -328,7 +328,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) (1) and (2)
 - (D) (3) and (4)
 
----
+
 
 **30.** Rip-cell circulations along the coasts are developed
 
@@ -337,7 +337,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) by the combination of shore-normal and long-shore currents
 - (D) by the incident wave propagation
 
----
+
 
 ## Section 4: Biogeography & Environment (Q31–Q40)
 
@@ -348,7 +348,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Energy flow efficiency
 - (D) Ecological efficiency
 
----
+
 
 **32.** Which type of structure and function of living system is maintained by its chemical, physical and organic activities?
 
@@ -357,7 +357,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Ecostatic
 - (D) Biostatic
 
----
+
 
 **33.** Plants growing in marshes are called
 
@@ -366,7 +366,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Heliophytes
 - (D) Hemophytes
 
----
+
 
 **34.** Sustenance of ecosystem with abundance of marine life in apparently nutrient-free and clear water of the coral reefs is known as
 
@@ -375,7 +375,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Darwin's Paradox
 - (D) Cousteau's Principle
 
----
+
 
 **35.** Consider the following statements regarding flow of matter and choose the correct option:
 
@@ -388,7 +388,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) (2) and (3) are correct.
 - (D) (1), (2) and (3) are correct.
 
----
+
 
 **36.** Principles of managing water and air pollution rest on
 
@@ -397,17 +397,17 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Dilution and Concentration
 - (D) Dilution, Washing and Distribution
 
----
+
 
 **37.** Following lists show the techniques and types of waste-water treatment. Choose the correct match.
 
-**List-I (Types of Treatment)**
+**List-I (Types of Treatment)*
 
 - (a) Primary treatment
 - (b) Secondary treatment
 - (c) Tertiary treatment
 
-**List-II (Technique)**
+**List-II (Technique)*
 
 - (i) Comminutor
 - (ii) Activated sludge
@@ -420,7 +420,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 | (C) | (iii) | (ii) | (i) |
 | (D) | (i) | (iii) | (ii) |
 
----
+
 
 **38.** Presence of Arsenic traces in human body is an example of
 
@@ -429,7 +429,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Bio-remediation
 - (D) Bio-accumulation
 
----
+
 
 **39.** Which of the following is not an enacted act for legal and regulatory framework in India?
 
@@ -438,7 +438,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) Forest (Clearance) Act, 1980
 - (D) National Green Tribunal Act, 2010
 
----
+
 
 **40.** In COP-26, India has pledged to achieve Net Zero by
 
@@ -447,7 +447,7 @@ Reason (R): Temperature and salinity of ocean water varies with depth.
 - (C) 2060
 - (D) 2070
 
----
+
 
 ## Section 5: Population & Settlement Geography (Q41–Q50)
 
@@ -459,7 +459,7 @@ Reason (R): It took over two million years of human pre-history and history for 
 - (C) (A) is true, but (R) is false.
 - (D) (A) is false, but (R) is correct.
 
----
+
 
 **42.** Identify the incorrect one from the following statements regarding Demographic Transition:
 
@@ -468,7 +468,7 @@ Reason (R): It took over two million years of human pre-history and history for 
 - (C) Low population growth characterises both high stationary and low stationary stage.
 - (D) The gap between birth and death rates narrows down in the late expanding stage.
 
----
+
 
 **43.** Which of the following statements are correct?
 
@@ -481,7 +481,7 @@ Reason (R): It took over two million years of human pre-history and history for 
 - (C) (c) and (d)
 - (D) (a) and (d)
 
----
+
 
 **44.** In which of the following indices does the average number of daughters replace a given cohort of women (their mothers)?
 
@@ -490,7 +490,7 @@ Reason (R): It took over two million years of human pre-history and history for 
 - (C) Gross Reproduction Rate
 - (D) Total Fertility Rate
 
----
+
 
 **45.** Rural wage equals rural marginal product of labour while urban wage is exogenously determined — This is a key proposition made by
 
@@ -499,7 +499,7 @@ Reason (R): It took over two million years of human pre-history and history for 
 - (C) Arthur Lewis
 - (D) J. R. Harris and M. Todaro
 
----
+
 
 **46.** Which of the following statements made on the meaning of rural-urban fringe is correct?
 
@@ -508,18 +508,18 @@ Reason (R): It took over two million years of human pre-history and history for 
 - (C) A concentric area between the city and its suburbs.
 - (D) A part of the rural-urban continuum where certain elements of urban structure are found to occur.
 
----
+
 
 **47.** Match the following and choose the correct answer from the codes given below.
 
-**List-I (Pattern of Settlement)**
+**List-I (Pattern of Settlement)*
 
 - (a) Star-shaped
 - (b) Nucleated
 - (c) Linear
 - (d) Dispersed
 
-**List-II (Associated Factor)**
+**List-II (Associated Factor)*
 
 - (i) Intensive cropping
 - (ii) Convergence of a number of roads
@@ -533,7 +533,7 @@ Reason (R): It took over two million years of human pre-history and history for 
 | (C) | (iv) | (ii) | (i) | (iii) |
 | (D) | (iii) | (i) | (iv) | (ii) |
 
----
+
 
 **48.** Read the following statements and choose the correct answer:
 
@@ -546,7 +546,7 @@ Reason (R): It took over two million years of human pre-history and history for 
 - (C) Only 1 is correct
 - (D) All the three (1–3) are correct
 
----
+
 
 **49.** Which of the following are the main characteristics of a 'Global City'?
 
@@ -560,7 +560,7 @@ Reason (R): It took over two million years of human pre-history and history for 
 - (C) 1, 2 and 3
 - (D) 1 and 4
 
----
+
 
 **50.** Assertion (A): Land use changes in rural-urban fringe are most prominent.
 Reason (R): Land acquisition is very easy in the rural-urban fringe.
@@ -570,7 +570,7 @@ Reason (R): Land acquisition is very easy in the rural-urban fringe.
 - (C) (A) is true, but (R) is false.
 - (D) (A) is false, but (R) is correct.
 
----
+
 
 ## Section 6: Economic Geography & Regional Development (Q51–Q60)
 
@@ -588,7 +588,7 @@ Select the correct answer:
 - (C) 1 and 4
 - (D) 1, 2 and 3
 
----
+
 
 **52.** The quaternary sector of the economy is NOT characterised by
 
@@ -597,7 +597,7 @@ Select the correct answer:
 - (C) expansion of the knowledge economy
 - (D) expansion of 'blue-collar' job opportunities
 
----
+
 
 **53.** Which one of the following statements concerning Von Thunen's model is correct?
 
@@ -606,7 +606,7 @@ Select the correct answer:
 - (C) Spatial variation in the level of soil fertility was the main concern of the Von Thunen's model.
 - (D) On the basis of distance from the market, Von Thunen recognised eight concentric zones of agricultural land use.
 
----
+
 
 **54.** Which of the following relations for measuring Crop Diversification (CD) was devised by Bhatia?
 
@@ -615,7 +615,7 @@ Select the correct answer:
 - (C) CD = Percentage of total harvested area under 'n' crops / Number of 'n' crops
 - (D) CD = Gross cropped area / Number of crops cultivated
 
----
+
 
 **55.** Which of the following features of globalisation have an adverse effect upon less-developed countries?
 
@@ -624,7 +624,7 @@ Select the correct answer:
 - (C) Free trade agreements
 - (D) Re-cycling or re-using to reduce environmental impacts
 
----
+
 
 **56.** The Four Asian Tigers experiencing rapid economic growth since the 1960's as industrial regions are
 
@@ -633,7 +633,7 @@ Select the correct answer:
 - (C) China, Singapore, Hong Kong, Japan
 - (D) Singapore, Hong Kong, North Korea, Taiwan
 
----
+
 
 **57.** The Gravity Model is used for travel demand forecasting and does NOT imply —
 
@@ -642,7 +642,7 @@ Select the correct answer:
 - (C) The 'friction factor' represents reluctance of persons to make certain trips.
 - (D) It is assumed that there is no balance between productions and attractions.
 
----
+
 
 **58.** Following are some characteristics of regional economic integration. Select the correct option:
 
@@ -656,7 +656,7 @@ Select the correct answer:
 - (C) 1 and 3
 - (D) 1, 3 and 4
 
----
+
 
 **59.** The Gangetic Plain as an agro-climatic region is divided into the following subregions:
 
@@ -672,7 +672,7 @@ Select the correct answer:
 - (C) only 3
 - (D) 2 and 4
 
----
+
 
 **60.** Dependency theories seek to explain the distorted character of development in
 
@@ -681,7 +681,7 @@ Select the correct answer:
 - (C) Backward regions
 - (D) Regions with a high dependency ratio
 
----
+
 
 ## Section 7: Cultural & Political Geography (Q61–Q70)
 
@@ -693,7 +693,7 @@ Reason (R): Culture is accumulated and transferred from one generation to anothe
 - (C) (A) is true, but (R) is false.
 - (D) (A) is false, but (R) is true.
 
----
+
 
 **62.** Development of a new form of cultural trait by the fusion of two or more distinct parental elements results in
 
@@ -702,7 +702,7 @@ Reason (R): Culture is accumulated and transferred from one generation to anothe
 - (C) Syncretism
 - (D) Integration
 
----
+
 
 **63.** According to the Ministry of Tourism, India, majority of the tourist arrivals for medical purposes are from
 
@@ -711,7 +711,7 @@ Reason (R): Culture is accumulated and transferred from one generation to anothe
 - (C) Pakistan and Sri Lanka
 - (D) Pakistan and Myanmar
 
----
+
 
 **64.** Cultural ecology refers to
 
@@ -720,7 +720,7 @@ Reason (R): Culture is accumulated and transferred from one generation to anothe
 - (C) the study of human response to the physical and economic environments
 - (D) the analysis of human modification of the earth's landscapes
 
----
+
 
 **65.** According to Census of India, 2011, in which of the following religious categories, the proportion of scheduled caste population is the highest?
 
@@ -729,7 +729,7 @@ Reason (R): Culture is accumulated and transferred from one generation to anothe
 - (C) Hinduism
 - (D) Christianity
 
----
+
 
 **66.** Assertion (A): Majority of the tribal population in India is concentrated in areas not having intensive cultivation.
 Reason (R): Shifting cultivation is practised by the tribal population.
@@ -739,7 +739,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) (A) is true, but (R) is false.
 - (D) (A) is false, but (R) is correct.
 
----
+
 
 **67.** Which of the following statements are true?
 
@@ -752,7 +752,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) (c) and (d) are correct
 - (D) only (a) is correct
 
----
+
 
 **68.** A zone of varying width separating states in which neither state exercises political control is a
 
@@ -761,7 +761,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Frontier
 - (D) Line of Actual Control
 
----
+
 
 **69.** ___________ boundaries result when a smaller state is absorbed by a larger one or when former boundaries between states are abandoned and redrawn.
 
@@ -770,7 +770,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Antecedent
 - (D) Relict
 
----
+
 
 **70.** The Montreal Protocol was primarily established to
 
@@ -779,7 +779,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Protect wetlands
 - (D) Facilitate carbon trade
 
----
+
 
 ## Section 8: Geographical Thought & Philosophy (Q71–Q80)
 
@@ -794,7 +794,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) (c) and (d) are correct
 - (D) Only (a) is correct
 
----
+
 
 **72.** Name the Arab geographer who used trigonometry to calculate the Earth's radius by measuring the height of a hill.
 
@@ -803,7 +803,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Al Masudi
 - (D) Ibn Batuta
 
----
+
 
 **73.** The organisation that was set up in 1956 for publishing thematic maps of India was called
 
@@ -812,18 +812,18 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) National Thematic Mapping Organisation
 - (D) National Atlas and Thematic Mapping Organisation
 
----
+
 
 **74.** Match the following:
 
-**List-I (Author)**
+**List-I (Author)*
 
 - (a) Immanuel Kant
 - (b) Richard Hartshorne
 - (c) Richard Kuhn
 - (d) Yi-Fu Tuan
 
-**List-II (Book)**
+**List-II (Book)*
 
 - (i) Nature of Geography
 - (ii) Physische Geographie
@@ -837,7 +837,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 | (C) | iv | ii | iii | i |
 | (D) | i | iv | ii | iii |
 
----
+
 
 **75.** Who amongst the following is NOT a feminist geographer?
 
@@ -846,7 +846,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Susan Manson
 - (D) Gillian Rose
 
----
+
 
 **76.** Which of the following geographic traditions concentrates on the study of phenomena from the perspectives of geometric elements like — point, line and area?
 
@@ -855,18 +855,18 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Spatial analysis tradition
 - (D) Man-land tradition
 
----
+
 
 **77.** The following two lists state the concepts in geography and one of the most important contributors to the development of that concept. Match the two lists:
 
-**List-I (Concept)**
+**List-I (Concept)*
 
 - (a) Humanistic Geography
 - (b) Social space
 - (c) Post-Modernism
 - (d) Radicalism in Geography
 
-**List-II (Contributor)**
+**List-II (Contributor)*
 
 - (i) Michael Foucault
 - (ii) Chombart de Lauwe
@@ -880,7 +880,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 | (C) | (ii) | (i) | (iii) | (iv) |
 | (D) | (iv) | (ii) | (i) | (iii) |
 
----
+
 
 **78.** Which of the following represents a model constructed through inductive approach on the basis of observed regularities?
 
@@ -889,7 +889,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Normative Model
 - (D) Predictive Model
 
----
+
 
 **79.** Spatiality, volatility and pluralism are the basic tenets of
 
@@ -898,18 +898,18 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Structuralism
 - (D) Modernism
 
----
+
 
 **80.** Following lists show the philosophies and associated guiding principles. Match them:
 
-**List-I (Philosophies)**
+**List-I (Philosophies)*
 
 - (a) Postmodernism
 - (b) Modernism
 - (c) Structuralism
 - (d) Post-structuralism
 
-**List-II (Principles)**
+**List-II (Principles)*
 
 - (i) Code of production
 - (ii) Simultaneity
@@ -923,7 +923,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 | (C) | (iii) | (iv) | (i) | (ii) |
 | (D) | (iii) | (i) | (ii) | (iv) |
 
----
+
 
 ## Section 9: Remote Sensing, GIS & Statistics (Q81–Q90)
 
@@ -934,7 +934,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Topographic Position Index
 - (D) Slope
 
----
+
 
 **82.** Which statistical procedure uses an orthogonal transformation that converts a set of correlated variables to a set of uncorrelated variables?
 
@@ -943,7 +943,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Fast Fourier Transformation
 - (D) Principal Component Analysis
 
----
+
 
 **83.** Flow map is NOT suitable for representing which of the following data?
 
@@ -952,7 +952,7 @@ Reason (R): Shifting cultivation is practised by the tribal population.
 - (C) Number of persons gathering in market per week.
 - (D) Volume of water discharged through river segments per annum.
 
----
+
 
 **84.** Assertion (A): ANOVA is preferred over 't' test where comparison between two or more population means are involved.
 Reason (R): Probability of committing Type I error accumulates when numbers of comparisons in 't' test increases.
@@ -962,7 +962,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) (A) is correct, but (R) is not correct.
 - (D) (A) is not correct, but (R) is correct.
 
----
+
 
 **85.** Among the following values of hypsometric integral, which one denotes minimum erosion of a drainage basin area?
 
@@ -971,7 +971,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) 0.51
 - (D) 0.92
 
----
+
 
 **86.** The Semi-interquartile range is preferred to the standard deviation as a measure of dispersion, when
 
@@ -980,7 +980,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) the sample size is small
 - (D) the distribution is highly skewed
 
----
+
 
 **87.** One nautical mile measures the arc-length distance along the great-circle against which of the following angular distances at the centre of earth?
 
@@ -989,7 +989,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) 3'
 - (D) 3"
 
----
+
 
 **88.** In a standard FCC of winter season, laterite duricrusts are represented in
 
@@ -998,7 +998,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) Grey
 - (D) Brown
 
----
+
 
 **89.** In which of the spatial operators will the output layer have more area than the individual input layers?
 
@@ -1007,7 +1007,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) Identity
 - (D) Clip
 
----
+
 
 **90.** Which one of the following is a widely used and effective machine learning algorithm based on the idea of bagging?
 
@@ -1016,7 +1016,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) Decision tree
 - (D) Random forest
 
----
+
 
 ## Section 10: India — Physical & Economic Geography (Q91–Q100)
 
@@ -1027,7 +1027,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) Chattisgarh
 - (D) Madhya Pradesh
 
----
+
 
 **92.** Mawsynram of Meghalaya, the wettest place of India, typically gets average annual rainfall of
 
@@ -1036,18 +1036,18 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) 800–1,000 cm
 - (D) > 1,000 cm
 
----
+
 
 **93.** Match the river basins with percent of India's land area drained by them:
 
-**River basins**
+**River basins*
 
 - (a) Kaveri
 - (b) Pennar
 - (c) Subarnarekha
 - (d) Tapi
 
-**Percent of India's land area drained**
+**Percent of India's land area drained*
 
 - (i) 0.9
 - (ii) 1.7
@@ -1062,7 +1062,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 | (C) | (v) | (i) | (ii) | (iii) |
 | (D) | (ii) | (i) | (iv) | (iii) |
 
----
+
 
 **94.** Which of the following statements about Jharkhand is correct?
 
@@ -1071,7 +1071,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) It is the leading producer of mica in India.
 - (D) It has the largest share of bauxite production in India.
 
----
+
 
 **95.** Which of the following biosphere reserves in India is a part of UNESCO's world network of biosphere reserves?
 
@@ -1080,7 +1080,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) Seshachalam
 - (D) Panna
 
----
+
 
 **96.** Which one of the following is not included in the 'North-Eastern Region' of India as defined by the Ministry of Development of North Eastern Region (DoNER)?
 
@@ -1089,7 +1089,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) Assam
 - (D) Manipur
 
----
+
 
 **97.** Which of the following is the correct rank order (highest to lowest) of Indian states in terms of area?
 
@@ -1098,7 +1098,7 @@ Reason (R): Probability of committing Type I error accumulates when numbers of c
 - (C) Madhya Pradesh, Rajasthan, Maharashtra, Uttar Pradesh
 - (D) Rajasthan, Madhya Pradesh, Uttar Pradesh, Maharashtra
 
----
+
 
 **98.** Assertion (A): The winter rainfall in Tamil Nadu coast is mostly caused by the North-East Monsoon.
 Reason (R): Tamil Nadu coast lies on the leeward side of the South-West Monsoon.
@@ -1108,7 +1108,7 @@ Reason (R): Tamil Nadu coast lies on the leeward side of the South-West Monsoon.
 - (C) (A) is correct but (R) is not correct.
 - (D) (A) is not correct but (R) is correct.
 
----
+
 
 **99.** Consider the following statements about the National Waterways (NW) of India:
 
@@ -1124,7 +1124,7 @@ Which of the above statements are correct?
 - (C) 2, 3 and 4
 - (D) 1, 2, 3 and 4
 
----
+
 
 **100.** The Palghat Gap in the Western Ghats connects
 
@@ -1133,6 +1133,6 @@ Which of the above statements are correct?
 - (C) Karnataka and Tamil Nadu
 - (D) Kerala and Karnataka
 
----
 
-*— End of Question Paper —*
+
+*— End of Question Paper —

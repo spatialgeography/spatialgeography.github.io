@@ -10,7 +10,7 @@
 | *The Climates of the Continents* | W.G. Kendrew |
 | *Atmosphere, Weather and Climate* | Roger G. Barry & Richard J. Chorley |
 
----
+
 
 ### Classifications and Theories
 
@@ -22,7 +22,7 @@
 | **Polar Front Theory** | V. Bjerknes & J. Bjerknes | Genesis of temperate cyclones |
 | **Air Mass Concept** | Tor Bergeron | Large body of air with uniform T and humidity |
 
----
+
 
 ### Important Concepts
 
@@ -33,5 +33,5 @@
 - **El Niño & La Niña:** ENSO cycle affecting global weather patterns.
 - **Rossby Waves:** Large-scale meanders in high-altitude winds (jet streams).
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

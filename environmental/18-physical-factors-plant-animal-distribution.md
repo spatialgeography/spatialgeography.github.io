@@ -18,7 +18,7 @@ The global distribution of flora and fauna is governed by a complex interplay of
 ### Key Physical Factors
 * **Climate**:
   - *Temperature*: Determines latitudinal zonation — tropical, temperate, polar distributions.
-    - **Vegetation Classes (by Temperature):**
+    - **Vegetation Classes (by Temperature):*
       - **Megatherms:** Tropical Rainforest (high temperature year-round).
       - **Mesotherms:** Tropical Deciduous (alternating warm/cool).
       - **Microtherms:** Mixed coniferous (low temperature).
@@ -40,7 +40,7 @@ The global distribution of flora and fauna is governed by a complex interplay of
   - Mountains, oceans, and deserts act as barriers to dispersal
   - Land bridges and river valleys serve as corridors (e.g., Bering Land Bridge, Isthmus of Panama)
 * **Continental Drift**: Historical plate movements explain disjunct distributions and endemism.
-* **Bird Sanctuaries:**
+* **Bird Sanctuaries:*
   - **Sultanpur:** Haryana
   - **Bharatpur:** Rajasthan
   - **Nawabganj:** Uttar Pradesh
@@ -48,7 +48,7 @@ The global distribution of flora and fauna is governed by a complex interplay of
 * **Green Data Book:** Contains a list of **rare plant species** growing in protected areas like botanical gardens.
 :::
 
----
+
 
 ### Types of Plants — Ecological Classification (NET Notes)
 

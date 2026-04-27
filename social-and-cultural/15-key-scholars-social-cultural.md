@@ -13,6 +13,6 @@
 | **D.M. Smith** | Welfare Geography |
 | **R.C. Chandra** | Religion Geography (India) |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Social & Cultural Geography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Social & Cultural Geography (NET)

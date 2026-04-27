@@ -28,7 +28,7 @@
 * **Desalination Processes:** Common methods include **Reverse osmosis**, **Electrolysis**, and **Freeze separation**.
 :::
 
----
+
 
 ### Temperature of Oceans — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -58,11 +58,11 @@
 | 1000 fathoms | 36.5°F |
 | 2200 fathoms | 35.2°F |
 
----
+
 
 ### Salinity of Oceans — Detailed (NET Notes)
 
-- Varies from **34 to 37.5‰**
+- Varies from **34 to 37.5‰*
 - Methods: **Titration** (constancy of composition), **Hydrometer** (sample)
 
 #### Chemical Composition (Dittmar, 1884 — Challenger Expedition)
@@ -88,11 +88,11 @@
 | **Baltic Sea** | 3–15 (lowest) |
 | **Hudson Bay** | 3–15 |
 
----
+
 
 ### Density of Sea Water — Detailed (NET Notes)
 
-- **Pure water** has maximum density at **4°C**
+- **Pure water** has maximum density at **4°C*
 
 #### Controlling Factors
 

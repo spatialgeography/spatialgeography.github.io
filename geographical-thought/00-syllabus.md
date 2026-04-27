@@ -4,7 +4,7 @@
 
 ::: {.callout-note}
 #### Core I Paper X — Evolution of Geographical Thought
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
 **Unit I** — Geographical concepts of ancient and medieval period: Contributions of Greek, Roman, Indian and Arab scholars
 
@@ -13,7 +13,7 @@
 **Unit III** — Dichotomy and dualism in Geography: Environmental Determinism and Possibilism, Systematic and Regional Geography, Ideographic and Nomothetic, Physical and Human Geography; Recent Trends: Quantitative Revolution, Behaviouralism and Radicalism
 :::
 
----
+
 
 ### UGC NET Syllabus
 

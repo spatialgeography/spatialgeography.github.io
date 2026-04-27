@@ -34,7 +34,7 @@ Biogeographical regions are large areas of the Earth's surface characterized by 
 * **Antarctic** — Southern tip of South America, subantarctic islands
 :::
 
----
+
 
 ### World Distribution of Plants (Floristic Kingdoms) (NET Notes)
 
@@ -47,7 +47,7 @@ Biogeographical regions are large areas of the Earth's surface characterized by 
 5. **Neotropical Region:** South America (except south). Separated by **Gondwanaland** spreading.
 6. **Boreal Region:** **Most extensive kingdom** (N. America, Europe, N. Asia, Arctic).
 
----
+
 
 ### World Distribution of Animals (Zoogeographical Regions) (NET Notes)
 

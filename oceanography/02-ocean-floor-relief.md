@@ -32,11 +32,11 @@
   - **Marginal Sea:** The **Andaman Sea** is considered a marginal sea, in true sense, in the Indian Ocean.
 :::
 
----
+
 
 ### Bottom Relief — Atlantic Ocean (NET Notes — Pulakesh Pradhan)
 
-- **Area:** 82 million sq. km (*S-shape*); **1/6 of total world area**
+- **Area:** 82 million sq. km (*S-shape*); **1/6 of total world area*
 - 25.7% area less than 2000 m depth
 
 #### Continental Shelf
@@ -58,7 +58,7 @@
 | North-East Atlantic (Iberian) Basin | ~5000 m avg depth |
 | Cape Verde, Guinea, Cape, Argentina, Agulhas Basins | Various locations |
 
----
+
 
 ### Bottom Relief — Indian Ocean (NET Notes)
 
@@ -72,7 +72,7 @@
 
 #### Basins (10): Oman, Arabian, Somali, Mauritius, Natal, Agulhas, Atlantic–Indian–Antarctic, Andaman, Cocos–Keeling, Eastern Indian–Antarctica
 
----
+
 
 ### Bottom Relief — Pacific Ocean (NET Notes)
 

@@ -14,7 +14,7 @@ Formed from the cooling and solidification of magma/lava.
 - **Lopolith:** Saucer-shaped.
 - **Sill:** Horizontal sheet. **Dyke:** Vertical sheet.
 
----
+
 
 ### 2. Sedimentary Rocks
 Formed by the accumulation and lithification of sediments. They cover 3/4 of the Earth's surface but only 5% of its volume.
@@ -23,7 +23,7 @@ Formed by the accumulation and lithification of sediments. They cover 3/4 of the
 - **Calcareous:** Lime-based (Limestone, Chalk).
 - **Carbonaceous:** Carbon-rich (Coal).
 
----
+
 
 ### 3. Metamorphic Rocks
 Formed by the transformation of existing rocks under high temperature and pressure.

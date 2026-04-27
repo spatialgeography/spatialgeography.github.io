@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Endogenetic forces (V/E/F/F) |
 :::
 
----
+
 
 ### 1. Volcanicity
 
@@ -26,7 +26,7 @@
 - **Extrusive:** Ash cones, Composite cones (Strato), Calderas, Lava Plateaus (Deccan). **Lapilli** is a fragmented product specifically associated with volcanic eruptions. The **Rajmahal Hills**, formed by the eruption of basalts from the Kerguelen Hotspot about 100 million years ago, are partly connected to it by the 90-E ridge. **Cocos Island** is notably NOT a hotspot (unlike Easter, Tristan da Cunha, or Réunion).
 - **Intrusive:** Batholiths (largest), Laccoliths (dome), Lopoliths (saucer), Phacoliths (wave), Sills (horizontal), Dykes (vertical).
 
----
+
 
 ### 2. Earthquakes
 
@@ -44,7 +44,7 @@
 - **Tsunami:** Harbour waves caused by sub-marine quakes.
 - **Seismic Gap:** Region of low activity prone to future major quakes (e.g., Central Gap in Himalayas).
 
----
+
 
 ### 3. Folds
 
@@ -62,7 +62,7 @@ Rock strata under horizontal compression.
 | **Plunge Fold** | When the axis of the fold is tilted and forms an angle between the axis and the horizontal plane. |
 | **Plunging Syncline** | Two cuestas converging in the direction of plunge with dipslopes facing each other. |
 
----
+
 
 ### 4. Faults
 

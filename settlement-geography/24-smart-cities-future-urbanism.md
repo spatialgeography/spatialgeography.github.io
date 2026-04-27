@@ -17,7 +17,7 @@
 * **Urban Resilience**: Climate-adaptive cities, disaster preparedness, and infrastructure redundancy.
 :::
 
----
+
 
 ### Books and Further Readings
 Settlement Geography provides the framework for understanding how people organize themselves in space. Continue with [Population Geography](population-geography.html) and [Regional Development](regional-development.html) for complementary perspectives.

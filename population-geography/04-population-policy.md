@@ -23,7 +23,7 @@
 * **Population and Development**: Relationship between population growth, economic development, and sustainable resource use.
 :::
 
----
+
 
 ### Population Policy & Electoral Reforms (NET Notes)
 

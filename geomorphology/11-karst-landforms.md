@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Karst landforms |
 :::
 
----
+
 
 Karst topography develops in regions with soluble rocks like **Limestone, Dolomite, or Chalk**.
 

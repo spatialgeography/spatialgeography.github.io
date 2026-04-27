@@ -28,7 +28,7 @@
 * **Seapower Theory (A.T. Mahan)**: Emphasized control of the seas and strategic chokepoints.
 :::
 
----
+
 
 ### Geopolitical Theories — Detailed Concepts (NET Notes)
 
@@ -43,13 +43,13 @@
 
 - **1904 Model:** *The Geographical Pivot of History*. 4 religious regions = 2/3 world pop coinciding with Five Seas.
 - **1919 Model:** *Democratic Ideals and Reality*. Replaced 'Pivot area' with 'Heartland' due to German rise & Russian communism.
-  - **Dictum:** *"Who rules East Europe commands the Heartland; Who rules the Heartland commands the World-Island; Who rules the World-Island commands the World."*
+  - **Dictum:** *"Who rules East Europe commands the Heartland; Who rules the Heartland commands the World-Island; Who rules the World-Island commands the World."
 - **1943 Model:** *The Round World and the Winning of the Peace*. Introduced **'Lenaland'** and **'Mainland'**.
 
 #### 3. Rimland Theory — Nicholas Spykman (1944)
 - *Geography of the Peace*. Opposed land-based power.
 - **Rimland:** Inner crescent of **amphibian states** (land + sea). Sections: European coastland, Arabian Middle-East, Asiatic monsoon land.
-- **Dictum:** *"Who controls the Rimland rules Eurasia; Who rules Eurasia controls the destinies of the World."*
+- **Dictum:** *"Who controls the Rimland rules Eurasia; Who rules Eurasia controls the destinies of the World."
 
 #### 4. Geopolitik — Karl Haushofer & Rudolf Kjellén
 - **Rudolf Kjellén:** Coined **'Geopolitik'** (*Den Staat als Lebensform*). State as a biological organism.

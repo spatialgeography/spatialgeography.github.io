@@ -29,7 +29,7 @@
 | Middle America | Pacific | 6,669 m |
 | Bartholomew Deep | Pacific (Peru–Chile) | 7,973.5 m (longest trench) |
 
----
+
 
 ### Mid-Oceanic Ridge (NET Notes)
 
@@ -37,7 +37,7 @@
 - Mid-Atlantic Ridge — rift valley 10 km wide, walls 3 km high
 - **Islands along Mid-Atlantic Ridge** — highly prone to volcanic activity
 
----
+
 
 ### Key Seas of the World (NET Notes)
 

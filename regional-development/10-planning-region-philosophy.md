@@ -8,7 +8,7 @@
 | **UGC NET** | Concept of planning region; Conceptual and theoretical framework |
 :::
 
----
+
 
 ### Planning Region — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -39,15 +39,15 @@
 - **Micro planning** — smallest planning region
 - **Meso planning** — combination of at least two micro regions
 - **Macro planning** — large region with broad planning scope
-- **Damodar Valley Basin** in India is an example of **meso planning**
+- **Damodar Valley Basin** in India is an example of **meso planning*
 
----
+
 
 ### Philosophical Base of Regional Planning (NET Notes)
 
 #### Origin
-- Regional planning derives much of its philosophy from **Geography**
-- Geography is recognised as an **environmental science**
+- Regional planning derives much of its philosophy from **Geography*
+- Geography is recognised as an **environmental science*
 - Philosophy is based on the **totality of space** and unity of space-content
 - Also based on **horizontal unity of space** and spatial interaction
 
@@ -63,14 +63,14 @@
 - **Folk** — people and demographic characteristics
 - **Work** — economic activities and livelihood
 
----
+
 
 ### Benton MacKaye and Planning Thought (NET Notes)
 
 - **Benton MacKaye (1928)** — regarded as founder of Regional Planning
-- Also associated with *New Exploration: A Philosophy of Regional Planning*
+- Also associated with *New Exploration: A Philosophy of Regional Planning
 
-> *"Every deliberate action must start in the mind, the realm of thought. It must be conceived and rehearsed in the realm of thought before it can take place in the physical."*
+> *"Every deliberate action must start in the mind, the realm of thought. It must be conceived and rehearsed in the realm of thought before it can take place in the physical."
 
 #### Four Pillars of Planning
 1. **Perception** — perceiving the order to be created
@@ -79,13 +79,13 @@
 4. **Execution** — implementing strategy and objectives
 
 #### Chief Objective
-- Cultivation of **habitability in all regions of human occupancy**
+- Cultivation of **habitability in all regions of human occupancy*
 
 #### Twin Objectives of Regional Planning
-1. **Cultivating habitability**
-2. **Community building**
+1. **Cultivating habitability*
+2. **Community building*
 
----
+
 
 ### Need and Principles of Regional Planning (NET Notes)
 

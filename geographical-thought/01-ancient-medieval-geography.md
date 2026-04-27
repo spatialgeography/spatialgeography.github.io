@@ -8,7 +8,7 @@
 | **UGC NET** | Ancient and medieval period; Greek, Roman, Arab, Chinese and Indian Scholars |
 :::
 
----
+
 
 ### Scholars by School — Quick List
 
@@ -18,7 +18,7 @@
 - **Arab Scholars:** Ibn Hawqal, Al-Battani, Al-Masudi, Ibn Sina, Al-Idrisi, Ibn Battuta, Al-Biruni, Al-Balkhi, Al-Khwarizmi
 - **Chinese Scholars:** Zhang Heng, Confucius, Laotze, I Ching, Chang Chien, Huan Tsang, Chou Ta Kuan, Zheng He. The **Song Dynasty** is notably credited with the first use of the magnetic compass.
 
----
+
 
 ### Greek Scholars — Golden Period
 
@@ -28,19 +28,19 @@
 - Algebra principles borrowed from Mesopotamians & Sumerians
 - Invented the first phonetic alphabets
 - Established port 'Carthage' on the Mediterranean Sea
-- **Sumerians** divided the circle into **360 degrees**
+- **Sumerians** divided the circle into **360 degrees*
 
 #### Homer (900–701 BCE)
-- Works: *Odyssey* and *Iliad*
+- Works: *Odyssey* and *Iliad
 - Named winds from four directions:
   - **Boreas** (North), **Eurus** (East), **Notus** (South), **Zephyrus** (West)
 
 #### Thales of Miletus (600–500 BCE)
-- One of the legendary **Seven Wise Men (Sophoi)**
-- Believed Earth was a **flat disk floating on vast water**
+- One of the legendary **Seven Wise Men (Sophoi)*
+- Believed Earth was a **flat disk floating on vast water*
 - First to state measurement of earth and location of things on its surface
 - Established mathematical traditions
-- **Six Theorems of Geometry:**
+- **Six Theorems of Geometry:*
   1. Circle divided into equal parts by its diameter
   2. Angles in a triangle opposite two equal sides are equal
   3. Opposite angles formed by intersecting straight lines are equal
@@ -48,45 +48,45 @@
   5. Sides of similar triangles are proportional
   6. A triangle is determined if its base and two base angles are given
 
-#### Anaximander (610–546 BCE) — *Cosmologist*
+#### Anaximander (610–546 BCE) — *Cosmologist
 - Invented **Gnomon** (Babylonian instrument at Sparta): a vertical pole measuring positions of sun and celestial bodies
 - Produced a **world map to scale** — connected by Milesian school
 
-#### Hecataeus (600–480 BCE) — *Miletus*
+#### Hecataeus (600–480 BCE) — *Miletus
 - **Ges-periodos** or *'Description of the Earth'*:
   - Part 1: Geographical information about Europe
   - Part 2: Dealing with Libya
-- **First to give two approaches in Geography:**
+- **First to give two approaches in Geography:*
   1. Nomothetic Approach
   2. Idiographic Approach
 - Two-part map: Northern (Europe) & Southern (Asia) parts
 
 #### Herodotus (484–420 BCE)
-- **Father of History** and **Father of Ethnography**
-- *"History must be treated geographically and geography must be treated historically"*
+- **Father of History** and **Father of Ethnography*
+- *"History must be treated geographically and geography must be treated historically"
 - Famously quoted: **"Egypt is the gift of the Nile"**.
-- First to state: **Wind moves from cold to hot places**
+- First to state: **Wind moves from cold to hot places*
 - Calculated Earth's age at **440 million years** from sediment
   - 1 foot = 880 years; 158 km = 440 million years
 
 #### Plato (428–348 BCE)
 - **Master of Deductive Reasoning** (general to particular)
 - Earth is **spherical** and located at the center of the universe
-- Works: *Theaetetus*, *Letters*, *Critias*, *Menexenus*
+- Works: *Theaetetus*, *Letters*, *Critias*, *Menexenus
 
 #### Aristotle (384–322 BCE)
-- **Pioneer of Inductive Reasoning**
-- **First teleologist**
+- **Pioneer of Inductive Reasoning*
+- **First teleologist*
 - Described **Torrid Zone** (near equator) and **Frigid Zone** (polar) as uninhabitable
 - People of Earth lived between these two zones
 
 #### Eratosthenes (276–194 BCE)
-- **Father of Geography**
+- **Father of Geography*
 - Coined the word **'Geography'** — *'ge'* (Earth) + *'graphy'* (describe)
-- Defined geography as *'Study of Earth as the home of man'*
-- Measured **Earth's circumference**
-- Book: ***Geographica***
-- Created a **world map with correct distances**
+- Defined geography as *'Study of Earth as the home of man'
+- Measured **Earth's circumference*
+- Book: ***Geographica**
+- Created a **world map with correct distances*
 - Proposed **Five Climatic Zones**: 1 Torrid, 2 Temperate, 2 Frigid
 - **Father of Geodesy** — measured different latitudes and longitudes
 
@@ -94,7 +94,7 @@
 - Work: ***On Airs, Waters, Places*** — study of man–nature relationship
 
 #### Hipparchus (190–127 BCE)
-- **Founder of Trigonometry**
+- **Founder of Trigonometry*
 - **First to divide circle into 360°** (based on Assyrian mathematics)
 - Discovered the precession of equinoxes
 - Calculated length of the year to within 6.5 minutes
@@ -108,9 +108,9 @@
 #### Posidonius (135–51 BCE)
 - Calculated Earth's circumference (smaller than Eratosthenes' estimate)
 - Tried to calculate Earth's diameter through influence of the moon
-- **Father of Oceanography**
+- **Father of Oceanography*
 
----
+
 
 ### Roman Scholars
 
@@ -121,7 +121,7 @@
 - Laid foundation of **Chronological Paradigm** in geography
 
 #### Ptolemy (100–170 AD)
-- *"Geography was a science of the art of map-making"*
+- *"Geography was a science of the art of map-making"
 - Work: ***The Almagest*** — study of movement of celestial bodies
 - ***Guide to Geography*** — 8 volumes on map projections
   - Volumes 2–7: Latitude and Longitude
@@ -129,7 +129,7 @@
 - Accepted uninhabitable zone concept
 - Improved map-making through adoption of projections
 
----
+
 
 ### Indian Scholars (Ancient)
 
@@ -145,13 +145,13 @@
 | Brahmagupta | Mathematics, astronomy |
 | Bhaskaracharya | Advanced mathematics, astronomy |
 
----
+
 
 ### Arab Scholars (800–1400 AD)
 
 - **Baghdad** — centre of Arab geographers
 - Adopted and translated Greek concepts
-- *Almagest* (Ptolemy) → translated to Arabic by **Al-Khwarizmi**
+- *Almagest* (Ptolemy) → translated to Arabic by **Al-Khwarizmi*
 - *Suryasiddhanta* (Aryabhata) → translated to Arabic (landmark for Arabic astronomy)
 - Idea of 7 planets from Greeks: Moon, Mercury, Venus, Sun, Mars, Jupiter, Saturn
 
@@ -175,7 +175,7 @@
 | **Ibn Battuta** | 1304–1368 | Extensive travels across Asia, Africa, Europe |
 | **Ibn Khaldun** | 1332–1406 | Social geography, philosophy of history |
 
----
+
 
 ### Social & Philosophical Foundations
 - **Auguste Comte:** Proposed that all societies pass through three developmental stages: **Theological → Metaphysical → Positive**.

@@ -8,11 +8,11 @@
 | **UGC NET** | Unit II — Monsoons and jet streams |
 :::
 
----
+
 
 ### Monsoon
 
-- *'Mausin'* (Arabic) / *'Mansin'* (Malayan) = **Season**
+- *'Mausin'* (Arabic) / *'Mansin'* (Malayan) = **Season*
 
 #### Theories of Monsoon Origin
 
@@ -46,7 +46,7 @@
 | **ICSU** | International Council of Scientific Unions | — |
 | **IMMC** | International Monex Management Centres, Kuala Lumpur | — |
 
----
+
 
 ### Jet Stream
 
@@ -67,8 +67,8 @@
 | **Local / Regional Jet** | — | Due to thermal and dynamic changes |
 
 #### Rossby Waves
-- Discovered by **C.J. Rossby in 1937**
-- **Index Cycle:**
+- Discovered by **C.J. Rossby in 1937*
+- **Index Cycle:*
   1. High Zonal Index
   2. Jet stream transforms into wavy path
   3. Shifts towards equator

@@ -1,7 +1,7 @@
 ### Physiographic divisions
 
 
----
+
 
 ### Physiographic Divisions (NET Notes — Pulakesh Pradhan)
 

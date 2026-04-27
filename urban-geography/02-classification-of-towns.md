@@ -17,7 +17,7 @@
 ### Key Concepts
 * **Statutory Town**: Places with a municipality, corporation, cantonment board or notified town area committee.
 * **Census Town**: Places satisfying 3 criteria: Pop > 5,000; > 75% male main working population in non-agricultural pursuits; Density > 400 persons/sq.km.
-* **Census Town Classes:**
+* **Census Town Classes:*
   - **Class-I:** 100,000 and above
   - **Class-II:** 50,000 to 99,999
   - **Class-III:** 20,000 to 49,999

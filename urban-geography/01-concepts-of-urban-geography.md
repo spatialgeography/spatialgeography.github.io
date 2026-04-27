@@ -19,7 +19,7 @@
 * **Urbanization**: The demographic process (structural shift) whereby a growing percentage of a population lives in urban areas. Linked to industrialization and economic development.
 * **Urbanism**: A way of life, attitudes, values, and patterns of behavior characteristic of city dwellers (Louis Wirth).
 * **Urban Economic Momentum:** If the **Basic-to-non-basic ratio** is equal to **1**, it generally indicates **Urban stagnation** (equilibrium between wealth creation and local services).
-* **Key Urban Development Theories:**
+* **Key Urban Development Theories:*
   - *Gordon Childe:* Viewed the neolithic village as the foundation of urban life.
   - *Henri Pirenne:* Urban development centers around production of agricultural surplus.
   - *Lewis Mumford:* Viewed urban growth as an organic process rooted in human social needs. He proposed that the first towns originated from 'cities of the dead' (necropolises) rather than living settlements.

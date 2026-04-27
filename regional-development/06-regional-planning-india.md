@@ -19,7 +19,7 @@
 * **NITI Aayog**: Replaced Planning Commission. Focus on 'cooperative federalism', bottom-up approach, think-tank role.
 * **Multi-Level Planning**: Central → State → District → Block → Gram Panchayat (73rd/74th Constitutional Amendments).
 * **District Planning**: Constitution of District Planning Committees (DPCs) to integrate rural and urban plans.
-* **Planning Milestones:**
+* **Planning Milestones:*
   - **Second Five Year Plan:** Based on the **P. C. Mahalanobis Model**, which emphasized heavy industrialization.
   - **National Income Estimation:** The data for the estimation of India's National Income is issued by the **Central Statistical Organisation (CSO)**.
 * **Target Area/Group Planning**: Addressed specific geographic disadvantages.
@@ -27,7 +27,7 @@
   - *Groups*: Tribal Sub Plan (TSP), Special Component Plan for Scheduled Castes.
 :::
 
----
+
 
 ### Planning in India — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -59,7 +59,7 @@
 | **6th FYP** | Poverty eradication |
 | **8th Plan** | 15 agro-climatic regions by Planning Commission |
 
----
+
 
 ### Regionalisation of India (NET Notes)
 

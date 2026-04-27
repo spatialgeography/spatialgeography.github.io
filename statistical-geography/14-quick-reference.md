@@ -8,7 +8,7 @@
 | *Quantitative Geography* | J.P. Cole & C.A.M. King |
 | *Statistical Methods and the Geographer* | S. Gregory |
 
----
+
 
 ### Key Tests and Techniques
 
@@ -23,7 +23,7 @@
 | **Lorenz Curve** | Graphical representation of inequality (e.g., land ownership). |
 | **Gini Coefficient** | Numerical measure of inequality derived from Lorenz Curve. |
 
----
+
 
 ### Descriptive Statistics
 
@@ -34,5 +34,5 @@
 - **Skewness:** Measure of asymmetry in a distribution.
 - **Kurtosis:** Measure of the "peakedness" of a distribution.
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

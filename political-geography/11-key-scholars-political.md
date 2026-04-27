@@ -18,6 +18,6 @@
 | **John Stuart Mill** | British | Definition of Nation |
 | **Louis XIV** | French | *"I am the state"* |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Political Geography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Political Geography (NET)

@@ -8,3 +8,6 @@
 | **Deep Learning** | Feature extraction from satellite imagery (CNNs). |
 | **Spatial Data Mining** | Finding patterns in large spatial datasets. |
 | **Geo-Semantics** | Knowledge graphs and spatial reasoning. |
+
+
+Notes compiled by Geography Team

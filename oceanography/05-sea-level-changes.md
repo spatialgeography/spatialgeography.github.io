@@ -26,12 +26,12 @@
 * **Impacts**: Coastal flooding, erosion, saltwater intrusion, loss of wetlands, island submergence.
 * **Emergent and Submergent Coastlines**: Raised beaches, marine terraces (emergent); rias, fjords, drowned valleys (submergent).
 * **Coral Reefs as Indicators**: Reef growth tracks sea-level changes — Darwin's subsidence theory.
-* **Maritime Law:**
+* **Maritime Law:*
   - **UNCLOS:** Stands for **United Nations Convention on the Law of the Sea**.
   - **EEZ (Exclusive Economic Zone):** In order of decreasing area of EEZs, the sequence is **USA > France > Australia > Russia**.
 :::
 
----
+
 
 ### Sea Level Changes — Detailed (NET Notes — Pulakesh Pradhan)
 

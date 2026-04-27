@@ -18,7 +18,7 @@ The backbone of India's economy.
 * **Allied Activities**: Animal husbandry, fisheries, sericulture, and horticulture.
 :::
 
----
+
 
 ### Agriculture, Food Security & Reforms (NET Notes)
 

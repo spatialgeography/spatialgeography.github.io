@@ -9,7 +9,7 @@
 | *Geography of India* | Majid Husain |
 | *Spate's India and Pakistan* | O.H.K. Spate & A.T.A. Learmonth |
 
----
+
 
 ### Key Classifications
 
@@ -21,7 +21,7 @@
 | **Agricultural Regions** | Randhawa, P. Sengupta |
 | **Soil Classification** | ICAR (8 Major groups) |
 
----
+
 
 ### Key Facts
 
@@ -31,5 +31,5 @@
 - **Highest Peak:** K2 (Godwin-Austen) in PoK; Kanchenjunga (Sikkim) in India.
 - **Largest State:** Rajasthan (Area), Uttar Pradesh (Population).
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

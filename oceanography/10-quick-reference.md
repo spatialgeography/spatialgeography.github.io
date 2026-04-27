@@ -8,7 +8,7 @@
 | *Physical Geography of the Sea* | Matthew Fontaine Maury (Father of Oceanography) |
 | *Oceanography* | Paul R. Pinet |
 
----
+
 
 ### Theories and Models
 
@@ -22,7 +22,7 @@
 | **Stationary Wave Theory** | R.A. Harris (1904) | Tides caused by stationary waves in ocean basins |
 | **Progressive Wave Theory** | William Whewell (1833) | Tidal wave originates in Southern Ocean and travels northwards |
 
----
+
 
 ### Key Oceanographic Terms
 
@@ -33,5 +33,5 @@
 - **Gyre:** Large system of circular ocean currents formed by global wind patterns.
 - **Thermohaline Circulation:** Deep-ocean currents driven by differences in water density (Global Conveyor Belt).
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

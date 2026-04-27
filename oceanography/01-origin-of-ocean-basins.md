@@ -22,7 +22,7 @@
 * **Passive vs. Active Continental Margins**: Atlantic-type (stable, wide shelves) vs. Pacific-type (subduction, narrow shelves, trenches).
 :::
 
----
+
 
 ### Origin of Ocean Basins — Detailed (NET Notes — Pulakesh Pradhan)
 
@@ -46,7 +46,7 @@
 | Northern | 60.7% | 43% |
 | Southern | 80.9% | 57% |
 
----
+
 
 ### Depth of the Ocean (NET Notes)
 
@@ -64,11 +64,11 @@
 | **Deeps (Trenches)** | Below 6000 m | 1.2% of sea bottom; 57 total (Pacific 32, Atlantic 19, Indian 6) |
 
 #### Challenger Expedition (1872–76)
-- By **Royal Society of London**, vessel **HMS Challenger**
-- Prompted by **Charles Wyville Thomson**
-- Ocean deposits study by **Sir John Murray & Prof. Alphonse Renard**
+- By **Royal Society of London**, vessel **HMS Challenger*
+- Prompted by **Charles Wyville Thomson*
+- Ocean deposits study by **Sir John Murray & Prof. Alphonse Renard*
 
----
+
 
 ### Submarine Canyons (NET Notes)
 

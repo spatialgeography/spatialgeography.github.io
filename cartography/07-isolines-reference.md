@@ -4,7 +4,7 @@
 
 > A contour line is a curve along which a function has a constant value. Contour lines often have names beginning with **iso**, meaning equal.
 
----
+
 
 #### Pressure and Atmosphere
 
@@ -14,7 +14,7 @@
 | **Isallobar** | Line of equal pressure change during a specific time interval |
 | **Isobaric** | Constant pressure |
 
----
+
 
 #### Temperature
 
@@ -26,7 +26,7 @@
 | **Isothere** | Equal mean summer temperature |
 | **Isohel** | Equal or constant solar radiation |
 
----
+
 
 #### Rainfall and Humidity
 
@@ -38,7 +38,7 @@
 | **Isochalaz** | Line of constant frequency of hail storms |
 | **Isobront** | Line through places where thunderstorm activity occurred simultaneously |
 
----
+
 
 #### Wind and Movement
 
@@ -47,7 +47,7 @@
 | **Isotach** | Line joining points with constant wind speed |
 | **Isopectic** | Equal dates of the formation of winter |
 
----
+
 
 #### Elevation and Depth
 
@@ -58,7 +58,7 @@
 | **Isobathytherm** | Line of equal depth of water with equal temperature |
 | **Isopaches** | Equal thickness |
 
----
+
 
 #### Ocean and Water
 
@@ -67,7 +67,7 @@
 | **Isohalines** | Lines joining equal ocean salinity |
 | **Isoplat** | Acid precipitation indicated on a map |
 
----
+
 
 #### Magnetism
 
@@ -75,7 +75,7 @@
 |:---|:---|
 | **Isogonic line** | Line of constant magnetic declination |
 
----
+
 
 #### Economics and Transport
 
@@ -86,7 +86,7 @@
 | **Isodapane** | Equivalent costs of travel time |
 | **Isoquant** | Curve of equal production quantity for alternative combinations |
 
----
+
 
 #### Biology
 
@@ -94,7 +94,7 @@
 |:---|:---|
 | **Isoflor** | Areas of comparable biological diversity |
 
----
+
 
 #### General
 

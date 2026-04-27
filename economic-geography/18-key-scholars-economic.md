@@ -21,6 +21,6 @@
 | **Randhawa (1958)** | Agro-climatic region attempts |
 | **Planning Commission India (1989)** | 15 Agro-Climatic Regions of India |
 
----
 
-*Notes compiled by Pulakesh Pradhan — Economic Geography (NET)*
+
+Notes compiled by Pulakesh Pradhan — Economic Geography (NET)

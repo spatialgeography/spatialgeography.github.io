@@ -8,7 +8,7 @@
 | **UGC NET** | Unit I — Earth's interior and Isostasy |
 :::
 
----
+
 
 ### 1. Interior of the Earth
 
@@ -28,7 +28,7 @@
 4. **Gutenberg Discontinuity:** Between Mantle and Core.
 5. **Core:** Nife (Nickel + Iron); Outer core is liquid, Inner core is solid.
 
----
+
 
 ### 2. Isostasy
 

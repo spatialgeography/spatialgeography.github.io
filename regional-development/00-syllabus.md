@@ -4,21 +4,21 @@
 
 ::: {.callout-note}
 #### Core I Paper XI — Regional Planning and Development
-**(4 Credit, Theory: 45hrs, Practical: 30hrs)**
+**(4 Credit, Theory: 45hrs, Practical: 30hrs)*
 
-**Unit I:**
+**Unit I:*
 - Concept of Region, Types of regions: Formal, Functional and Planning Region
 - Need for Regional Planning, Characteristics of an Ideal Planning Region
 - Delineation of Formal and Functional regions
 - Planning Regions; Approaches and Methods
 
-**Unit II:**
+**Unit II:*
 - Theories and Models for Regional Planning
 - Growth Pole Model of Perroux; Myrdal, Hirschman, Rostow
 - Export Base Model, Core-Periphery Model
 - Modified Growth Foci approach of R.P. Mishra
 
-**Unit III:**
+**Unit III:*
 - Regional Disparity and Imbalances in India
 - Strategies for balanced regional development in India through Policies and Programmes in FYPs
 - Concept and characteristics of city master plan, NCR Planning
@@ -28,7 +28,7 @@
 - Participatory planning
 :::
 
----
+
 
 ### UGC NET Syllabus
 
@@ -47,7 +47,7 @@
 - Regional Development and Social Movements in India
 :::
 
----
+
 
 ### NET Regional Planning — Detailed Syllabus (Pulakesh Pradhan)
 
@@ -63,7 +63,7 @@
 - Indicators of development
 :::
 
----
+
 
 ### Important Topics for NET
 

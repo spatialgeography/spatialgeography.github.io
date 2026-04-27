@@ -8,7 +8,7 @@
 | *Readings in Urban Geography* | Mayer & Kohn |
 | *The Morphology of Rural Settlements* | R.L. Singh |
 
----
+
 
 ### Concepts and Models
 
@@ -21,7 +21,7 @@
 | **Hamleted Settlement** | - | Small, dispersed clusters of houses. |
 | **Nucleated Settlement** | - | Houses clustered around a central point (e.g., well, temple). |
 
----
+
 
 ### Key Terms
 
@@ -31,5 +31,5 @@
 - **Satellite Town:** Smaller town near a large city, partly independent.
 - **Dormitory Town:** Residential town where people commute to a nearby city for work.
 
----
-*Notes compiled by Geography Team*
+
+Notes compiled by Geography Team

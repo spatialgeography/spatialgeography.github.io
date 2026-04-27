@@ -7,7 +7,7 @@
 | **UGC NET** | Unit II — ENSO events |
 :::
 
----
+
 
 ### El Niño
 - A **warm surface current** flowing south to north between 36°S and 3°S latitude; 180 km from Peruvian Coast

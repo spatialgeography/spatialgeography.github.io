@@ -1,7 +1,7 @@
 ## Geography in India
 
 - British School had more influence on Indian geography
-- **James & Martin (1972)** — *"The new geography was transmitted from Great Britain"*
+- **James & Martin (1972)** — *"The new geography was transmitted from Great Britain"
 
 ### Key Institutions (Timeline)
 

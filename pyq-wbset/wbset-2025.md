@@ -4,7 +4,7 @@
 
 > **Instructions:** 100 multiple-choice questions. All questions are compulsory. Each question carries **2 marks**. No negative marking.
 
----
+
 
 ## Questions 1–10: Geomorphology
 
@@ -15,7 +15,7 @@
 - (C) northward plunging anticline
 - (D) northward plunging syncline
 
----
+
 
 **2.** A large-scale sheet of rock, pushed over other rock mass along low angle fault plane and displaced from its original location is structurally known as
 
@@ -24,7 +24,7 @@
 - (C) En-echelon faulting
 - (D) Nappe
 
----
+
 
 **3.** According to Wood's slope evolution model, the retreat of the free face in the initial stage results in
 
@@ -33,7 +33,7 @@
 - (C) the development of a lower waxing slope
 - (D) the development of summital concavity
 
----
+
 
 **4.** Which of the following largely regulates the alternation of oxidation state from ferrous oxides to ferric oxides?
 
@@ -42,7 +42,7 @@
 - (C) Cation exchange capacity
 - (D) Base exchange capacity
 
----
+
 
 **5.** The correct arrangement of mass movement types in order of increasing dryness of materials is
 
@@ -51,7 +51,7 @@
 - (C) Mudflow, Creep, Solifluction, Rockslide
 - (D) Creep, Mudflow, Rockslide, Solifluction
 
----
+
 
 **6.** Assertion (A): High concentration of suspended sediment increases transportational capacity of the stream.
 Reason (R): Viscosity increases by the high concentration of suspended sediment load which reduces turbulence and energy dissipation.
@@ -63,18 +63,18 @@ Select the correct option:
 - (C) (A) is correct but (R) is false
 - (D) (A) is false but (R) is correct
 
----
+
 
 **7.** Study the following diagram and identify the different types of geomorphic equilibria:
 
-*(Diagram shows: line **a** above Equilibrium state 2; line **b** between Equilibrium state 1 and a Threshold; line **c** below the Threshold)*
+*(Diagram shows: line **a** above Equilibrium state 2; line **b** between Equilibrium state 1 and a Threshold; line **c** below the Threshold)
 
 - (A) a. Unstable equilibrium, b. Metastable equilibrium, c. Dynamic equilibrium
 - (B) a. Metastable equilibrium, b. Dynamic equilibrium, c. Unstable equilibrium
 - (C) a. Dynamic equilibrium, b. Unstable equilibrium, c. Metastable equilibrium
 - (D) a. Dynamic equilibrium, b. Metastable equilibrium, c. Unstable equilibrium
 
----
+
 
 **8.** Assertion (A): Impoundment of a river decreases its downstream entrainment capacity.
 Reason (R): Water velocity drops in a reservoir.
@@ -86,7 +86,7 @@ Select the correct option:
 - (C) (A) is true but (R) is false
 - (D) (A) is false but (R) is true
 
----
+
 
 **9.** Match the following lists:
 
@@ -105,7 +105,7 @@ Codes:
 - (C) (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)
 - (D) (a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)
 
----
+
 
 **10.** Match the given erosional surfaces with their propounders:
 
@@ -123,7 +123,7 @@ Codes:
 - (C) (a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)
 - (D) (a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)
 
----
+
 
 ## Questions 11–20: Climatology & Atmosphere
 
@@ -134,7 +134,7 @@ Codes:
 - (C) Lithium chloride based hygrometer
 - (D) Hair hygrograph
 
----
+
 
 **12.** Following are some of the greenhouse gases:
 (i) CH₄ (Methane), (ii) CO₂ (Carbon dioxide), (iii) CFC-11 (Chlorofluorocarbon-11), (iv) N₂O (Nitrous oxide)
@@ -146,7 +146,7 @@ Choose the appropriate order based on their Global Warming Potential (GWP):
 - (C) (ii), (i), (iv), (iii)
 - (D) (ii), (i), (iii), (iv)
 
----
+
 
 **13.** Go through the following characteristics and identify the appropriate atmospheric layer:
 (i) Effective lid on convection, (ii) Isothermal, (iii) Height varies latitudinally, (iv) Average temperature ranges from -70°C to -85°C, (v) Average pressure is 100 mb
@@ -156,7 +156,7 @@ Choose the appropriate order based on their Global Warming Potential (GWP):
 - (C) Mesopause
 - (D) Tropopause
 
----
+
 
 **14.** Assertion (A): The speed of geostrophic thermal wind increases with height.
 Reason (R): Each isobaric surface slopes more steeply than the one below it.
@@ -168,7 +168,7 @@ Select the correct option:
 - (C) Both (A) and (R) are true and (R) is the correct explanation of (A)
 - (D) Both (A) and (R) are true but (R) is not the correct explanation of (A)
 
----
+
 
 **15.** Which of the following are considered to be the criticism of Thornthwaite Climate Classification?
 (i) Limited climatic variables — ignores prevailing wind, air pressure, airmass
@@ -181,7 +181,7 @@ Select the correct option:
 - (C) (ii) and (iii) only
 - (D) (ii), (iii) and (iv) only
 
----
+
 
 **16.** Match the following columns:
 
@@ -199,7 +199,7 @@ Codes:
 - (C) (a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)
 - (D) (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)
 
----
+
 
 **17.** Identify the false statement from the following:
 
@@ -208,7 +208,7 @@ Codes:
 - (C) Dry adiabatic lapse rate is constant
 - (D) Saturated adiabatic lapse rate is high under high temperature
 
----
+
 
 **18.** Which among the following types of climate change causing agents are susceptible to anthropogenic alteration?
 
@@ -217,7 +217,7 @@ Codes:
 - (C) Internal radiative forcing agents
 - (D) Astronomical forcing agents
 
----
+
 
 **19.** Averaged over a year, approximately __________ W of solar energy reaches every m² of earth.
 
@@ -226,7 +226,7 @@ Codes:
 - (C) 306
 - (D) 342
 
----
+
 
 **20.** Dish-pan experiment relates to the formation of __________.
 
@@ -235,7 +235,7 @@ Codes:
 - (C) Rossby Waves
 - (D) Easterly Jet Streams
 
----
+
 
 ## Questions 21–30: Oceanography
 
@@ -246,7 +246,7 @@ Codes:
 - (C) Age difference
 - (D) Density difference
 
----
+
 
 **22.** The morphology of a slow-spreading mid-oceanic ridge axis is characterised by
 
@@ -255,7 +255,7 @@ Codes:
 - (C) axial graben with not more than 100–200 m depth, having en-echelon faults and moderately continuous central volcanoes
 - (D) no axial valley, active thrust faults and continuous shield volcanoes
 
----
+
 
 **23.** The Swatch of No Ground is a submarine canyon extending offshore from the mouth or delta of the
 
@@ -264,7 +264,7 @@ Codes:
 - (C) Ganga river
 - (D) Hudson river
 
----
+
 
 **24.** Select the correct statement:
 
@@ -273,7 +273,7 @@ Codes:
 - (C) Pycnocline is a halocline; it can never be a thermocline
 - (D) Pycnocline is a thermocline; it can never be a halocline
 
----
+
 
 **25.** Assertion (A): Calcareous oozes are found in lower latitudes and up to a depth of 4500 m.
 Reason (R): Organisms with carbonate shells predominate in warm, shallow water and calcium carbonate dissolves very slowly below the depth of 4500 m.
@@ -285,7 +285,7 @@ Select the correct option:
 - (C) (A) is true but (R) is false
 - (D) (A) is false but (R) is true
 
----
+
 
 **26.** Match the following lists:
 
@@ -300,7 +300,7 @@ Select the correct option:
 - (C) (a)–(iii)–(3)–(III); (b)–(ii)–(2)–(II); (c)–(i)–(1)–(I)
 - (D) (a)–(ii)–(3)–(III); (b)–(i)–(2)–(III); (c)–(i)–(2)–(II)
 
----
+
 
 **27.** Read the statements about rotating tide and select the correct option:
 (i) Tidal amplitude increases away from amphidromic point.
@@ -311,7 +311,7 @@ Select the correct option:
 - (C) (i) is correct but (ii) is false
 - (D) (i) is false but (ii) is correct
 
----
+
 
 **28.** A wave approaching the coastline indicates transformation of wave parameters in which manner?
 
@@ -320,7 +320,7 @@ Select the correct option:
 - (C) Wave height increases, celerity increases, wave length decreases
 - (D) Wave height decreases, celerity decreases, wave length increases
 
----
+
 
 **29.** According to Forchammer's principle, potassium constitutes ________% of dissolved salt in seawater.
 
@@ -329,7 +329,7 @@ Select the correct option:
 - (C) 1·0
 - (D) 1·1
 
----
+
 
 **30.** Which among the following processes is not used for desalination of ocean water?
 
@@ -338,7 +338,7 @@ Select the correct option:
 - (C) Electrolysis
 - (D) Freeze separation
 
----
+
 
 ## Questions 31–40: Biogeography & Environment
 
@@ -358,7 +358,7 @@ Codes:
 - (C) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)
 - (D) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)
 
----
+
 
 **32.** In which one of the following biogeochemical cycles is the rate of turnover slowest with respect to residence time in lithosphere?
 
@@ -367,7 +367,7 @@ Codes:
 - (C) Nitrogen
 - (D) Sulphur
 
----
+
 
 **33.** Which of the following pollutants is not included in National Air Quality Index (AQI) in India but is considered to calculate National Ambient Air Quality Standards (NAAQS) in India?
 
@@ -376,7 +376,7 @@ Codes:
 - (C) Ammonia
 - (D) Arsenic
 
----
+
 
 **34.** Match List-I with List-II and select the correct option:
 
@@ -394,7 +394,7 @@ Codes:
 - (C) (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)
 - (D) (a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)
 
----
+
 
 **35.** Assertion (A): In a stable climate, forests generally sequester more carbon than grasslands.
 Reason (R): Forests store most of their carbon in above-ground woody biomass.
@@ -406,7 +406,7 @@ Select the correct option:
 - (C) (A) is false but (R) is true
 - (D) Both (A) and (R) are false
 
----
+
 
 **36.** Assertion (A): Satellite remote sensing is useful for land degradation monitoring.
 Reason (R): INSAT & GNSS satellites provide regular and precise location as well as data.
@@ -418,7 +418,7 @@ Select the correct option:
 - (C) (A) is false but (R) is true
 - (D) Both (A) and (R) are false
 
----
+
 
 **37.** Assertion (A): Urban Heat Island (UHI) refers to any area being significantly warmer than surrounding rural regions.
 Reason (R): Urban modelling for city planning is effective in countering UHI effect.
@@ -430,7 +430,7 @@ Select the correct option:
 - (C) (A) is false but (R) is true
 - (D) Both (A) and (R) are false
 
----
+
 
 **38.** Statement (i): Dam construction and submersion lead to loss of arable farmland and forest.
 Statement (ii): These losses are borne disproportionately by people living in the command areas.
@@ -442,7 +442,7 @@ Select the correct option:
 - (C) (i) is true but (ii) is false
 - (D) (i) is false but (ii) is true
 
----
+
 
 **39.** Match List-I with List-II and select the correct option:
 
@@ -461,7 +461,7 @@ Codes:
 - (C) (a)-(v), (b)-(i), (c)-(ii), (d)-(iii)
 - (D) (a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)
 
----
+
 
 **40.** Norcondam Island relates to which of the following?
 
@@ -470,7 +470,7 @@ Codes:
 - (C) Exposed Seamount
 - (D) Hotspot
 
----
+
 
 ## Questions 41–50: Population & Settlement Geography
 
@@ -490,7 +490,7 @@ Codes:
 - (C) (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)
 - (D) (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)
 
----
+
 
 **42.** What does DALY stand for?
 
@@ -499,7 +499,7 @@ Codes:
 - (C) Disability Adjusted Life Years
 - (D) Death Adjusted Life Years
 
----
+
 
 **43.** Assertion (A): Scandinavian countries have a regressive age-sex population structure.
 Reason (R): The population growth rate is negative in these countries.
@@ -511,7 +511,7 @@ Select the correct option:
 - (C) (A) is true but (R) is false
 - (D) (A) is false but (R) is true
 
----
+
 
 **44.** Match List-I with List-II and select the correct code:
 
@@ -529,7 +529,7 @@ Codes:
 - (C) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)
 - (D) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)
 
----
+
 
 **45.** Read the following statements and choose the correct option:
 (i) Compact settlements occur in the alluvial plains of the tropical areas.
@@ -541,7 +541,7 @@ Codes:
 - (C) (i) is correct, but (ii) is incorrect
 - (D) (i) and (iii) are incorrect
 
----
+
 
 **46.** Which of the following are the suitable measures to address the problem of traffic congestion in an urban area?
 (i) Absence of parking space for private vehicles
@@ -556,7 +556,7 @@ Codes:
 - (C) (ii), (iii), (iv) only
 - (D) (i), (ii), (iii) only
 
----
+
 
 **47.** Consider the following statements and select the correct option:
 (i) Gordon Childe argued that merchants were the primary catalysts for urban revival in Europe.
@@ -569,7 +569,7 @@ Codes:
 - (C) (iii) only
 - (D) (iv) only
 
----
+
 
 **48.** Assertion (A): The rank-size rule accurately predicts the population of every city in a country without any deviation.
 Reason (R): The rank-size rule is based on the observation that in some countries, the population of a city is approximately inversely proportional to its rank in the urban hierarchy.
@@ -581,7 +581,7 @@ Select the correct option:
 - (C) (A) is correct, but (R) is false
 - (D) (A) is false, but (R) is correct
 
----
+
 
 **49.** Match List-I with List-II and select the correct option:
 
@@ -599,7 +599,7 @@ Codes:
 - (C) (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)
 - (D) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)
 
----
+
 
 **50.** Who put forward the theory that the first towns originated from 'cities of the dead' and not from settlements?
 
@@ -608,7 +608,7 @@ Codes:
 - (C) Lewis Mumford
 - (D) John Friedman
 
----
+
 
 ## Questions 51–60: Economic Geography & Regional Development
 
@@ -619,7 +619,7 @@ Codes:
 - (C) Diversification of energy sources investing more in renewable energy technologies
 - (D) Promotion of international collaboration to address global energy crisis
 
----
+
 
 **52.** Which one of the following denotes the meaning of agricultural productivity?
 
@@ -628,7 +628,7 @@ Codes:
 - (C) Crop output per unit of area
 - (D) Total agricultural production of an area
 
----
+
 
 **53.** Match List-I with List-II and select the correct option:
 
@@ -646,7 +646,7 @@ Codes:
 - (C) (a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)
 - (D) (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)
 
----
+
 
 **54.** Which one of the following is a negative impact of globalization on the manufacturing sector in the less developed countries?
 
@@ -655,7 +655,7 @@ Codes:
 - (C) Low wage to workers has led to labour exploitation
 - (D) Access to global markets has enhanced quantum of exports
 
----
+
 
 **55.** Which of the following statements is correct?
 (i) World Trade Organization was formed in 2005 to replace United Nations Conference on Trade and Development.
@@ -668,7 +668,7 @@ Codes:
 - (C) (iii) and (iv) only
 - (D) (iv) only
 
----
+
 
 **56.** Consider the following:
 (a) Three main principles of Edward Ullman's spatial interaction are complementarity, transferability and intervening opportunities.
@@ -683,7 +683,7 @@ Which of the statement(s) is/are false?
 - (C) (c) only
 - (D) (b) only
 
----
+
 
 **57.** Assertion (A): According to Hirschman, investing in a leading sector can create a 'trickle-down' effect to less developed regions.
 Reason (R): The trickle-down effect occurs because surplus labour from under-developed areas migrate to the leading sector.
@@ -695,7 +695,7 @@ Select the correct option:
 - (C) (A) is true, but (R) is false
 - (D) (A) is false, but (R) is true
 
----
+
 
 **58.** Boundary of functional regions are typically determined by
 
@@ -704,7 +704,7 @@ Select the correct option:
 - (C) extent of central activity
 - (D) physical features like rivers and mountains
 
----
+
 
 **59.** Assertion (A): Regional imbalances in India are primarily caused by uneven development due to historical, geographical and economical factors.
 Reason (R): Unequal investment in states by the central government.
@@ -716,7 +716,7 @@ Choose the correct option:
 - (C) (A) is true, but (R) is false
 - (D) (A) is false, but (R) is true
 
----
+
 
 **60.** Which of the following is NOT a benefit of intra-regional cooperation?
 
@@ -725,7 +725,7 @@ Choose the correct option:
 - (C) Limited access to resources
 - (D) Improved infrastructure and connectivity
 
----
+
 
 ## Questions 61–70: Cultural & Political Geography
 
@@ -738,7 +738,7 @@ Choose the correct option:
 - (C) Both (i) and (ii) are correct
 - (D) Neither (i) nor (ii) is correct
 
----
+
 
 **62.** Match List-I with List-II:
 
@@ -756,7 +756,7 @@ Codes:
 - (C) (a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)
 - (D) (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)
 
----
+
 
 **63.** Assertion (A): Maladaptation in cultural ecology can lead to environmental degradation.
 Reason (R): Practices like overgrazing can cause desertification, harming both the environment and the society relying on it.
@@ -768,7 +768,7 @@ Choose the correct option:
 - (C) (A) is true, but (R) is false
 - (D) (A) is false, but (R) is true
 
----
+
 
 **64.** Which among these is not a cultural complex related to agricultural activities?
 
@@ -777,7 +777,7 @@ Choose the correct option:
 - (C) Preparation of rice pudding
 - (D) Preparation of rice pudding for Pongal & Bhogi
 
----
+
 
 **65.** Which organization is known for recognising and protecting World Heritage Sites?
 
@@ -786,7 +786,7 @@ Choose the correct option:
 - (C) United Nations Educational Scientific and Cultural Organisation (UNESCO)
 - (D) World Wide Fund for Nature (WWF)
 
----
+
 
 **66.** Which of the following statement(s) is/are not true?
 (i) Scheduled tribes in India are largely concentrated in the hilly and forested tracts of India.
@@ -801,7 +801,7 @@ Codes:
 - (C) (iii) and (iv) only
 - (D) (iv) only
 
----
+
 
 **67.** How does the concept of cumulative disadvantage relate to social exclusion?
 
@@ -810,7 +810,7 @@ Codes:
 - (C) It explains equal distribution of resources among the marginalized
 - (D) It highlights the role of social inclusion in reducing poverty
 
----
+
 
 **68.** Assertion (A): Mackinder's Heartland Theory ignores the role of technology in geopolitics.
 Reason (R): The theory was developed before air power and nuclear weapons existed.
@@ -822,7 +822,7 @@ Choose the correct option:
 - (C) (A) is correct, but (R) is false
 - (D) (A) is false, but (R) is correct
 
----
+
 
 **69.** Which among the following states of India share international boundaries with three countries?
 
@@ -831,7 +831,7 @@ Choose the correct option:
 - (C) Sikkim, West Bengal and Arunachal Pradesh
 - (D) Sikkim, West Bengal and Bihar
 
----
+
 
 **70.** Subsequent boundaries are those which follow
 
@@ -840,7 +840,7 @@ Choose the correct option:
 - (C) demarcation based on pre-existing cultural difference
 - (D) demarcation based on settlement and modification by human activity and cultural traits
 
----
+
 
 ## Questions 71–80: Geographical Thought & Philosophy
 
@@ -851,7 +851,7 @@ Choose the correct option:
 - (C) Geography became more ideographic in approach after the QR
 - (D) QR did not have any visible impact on geography in India
 
----
+
 
 **72.** Match the names of the scholars in List-I with their fields of contribution in List-II:
 
@@ -869,7 +869,7 @@ Codes:
 - (C) (a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)
 - (D) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)
 
----
+
 
 **73.** Positivism as a philosophical approach relies on
 
@@ -878,7 +878,7 @@ Codes:
 - (C) formal construction of theories capable of empirical verification
 - (D) rejection of laws and generalization in geographical research
 
----
+
 
 **74.** The hypothesis which is 'provisionally accepted as a basis of further research' is known as
 
@@ -887,7 +887,7 @@ Codes:
 - (C) Statistical hypothesis
 - (D) Null hypothesis
 
----
+
 
 **75.** Match List-I with List-II and select the correct option:
 
@@ -905,7 +905,7 @@ Codes:
 - (C) (a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)
 - (D) (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)
 
----
+
 
 **76.** According to Masterman (1970), which of the following types of paradigm represents broadest area of consensus and total global view of the discipline?
 
@@ -914,7 +914,7 @@ Codes:
 - (C) Construct paradigm
 - (D) Artefact paradigm
 
----
+
 
 **77.** Find out the incorrect statement from the following:
 
@@ -923,7 +923,7 @@ Codes:
 - (C) Humanistic geography is inspired by the philosophy of existentialism
 - (D) The concept of Topophilia is associated with humanistic geography
 
----
+
 
 **78.** Which of the following statement(s) is/are true?
 (a) Feminist geography primarily studies how gender influences spatial patterns and human interactions with environments
@@ -938,7 +938,7 @@ Find out the correct option:
 - (C) (a) and (d) only
 - (D) (a) and (c) only
 
----
+
 
 **79.** Assertion (A): Darwinism influenced environmental determinism in geographical thought by suggesting that natural environments shape human societies.
 Reason (R): Darwin's Theory of Natural Selection proposed that human societies evolve independently of environmental factors.
@@ -950,7 +950,7 @@ Select the correct option:
 - (C) (A) is correct, but (R) is false
 - (D) (A) is false, but (R) is correct
 
----
+
 
 **80.** Which of the following statements about the concept of 'region' in Geography is correct?
 
@@ -959,7 +959,7 @@ Select the correct option:
 - (C) Nodal regions lack a central point
 - (D) Perceptual regions are defined by governmental boundaries
 
----
+
 
 ## Questions 81–90: Remote Sensing & GIS
 
@@ -972,9 +972,9 @@ Select the correct option:
 | (c) MODIS | (iii) Thermal Infrared |
 | (d) ASTER | (iv) Visible |
 
-*(Note: Exact text for Q81–88 from this section to be verified with original PDF if figures/diagrams are referenced)*
+*(Note: Exact text for Q81–88 from this section to be verified with original PDF if figures/diagrams are referenced)
 
----
+
 
 **89.** The spectral range of the 10-bit SWIR band of LISS-3 sensor on Resourcesat-2 satellite is __________ μm
 
@@ -983,7 +983,7 @@ Select the correct option:
 - (C) 1.61 – 1.93
 - (D) 1.72 – 1.96
 
----
+
 
 **90.** The SAR-based earth imaging satellite launched in 2020 by India is called
 
@@ -992,7 +992,7 @@ Select the correct option:
 - (C) RISAT-2BR1
 - (D) Scat Sat-1
 
----
+
 
 ## Questions 91–100: India — Physical & Economic Geography
 
@@ -1006,7 +1006,7 @@ Choose the correct option:
 - (C) (A) is true, (R) is false
 - (D) Both (A) and (R) are false
 
----
+
 
 **92.** Desert Development Programme (DDP) in India was started by
 
@@ -1015,7 +1015,7 @@ Choose the correct option:
 - (C) Ministry of Environment, Forest and Climate Change
 - (D) National Commission on Agriculture
 
----
+
 
 **93.** Assertion (A): Globalization has increased income inequality in India.
 Reason (R): Urban areas have benefited more from global trade and investment opportunities than rural areas.
@@ -1027,7 +1027,7 @@ Choose the correct option:
 - (C) (A) is true, but (R) is false
 - (D) (A) is false, but (R) is true
 
----
+
 
 **94.** Select the most appropriate statement. The Indian Sundarban Region is
 
@@ -1036,7 +1036,7 @@ Choose the correct option:
 - (C) eroding in the southern sea-facing section and accreting in the northern interior section.
 - (D) accreting in both the southern sea-facing and northern interior sections.
 
----
+
 
 **95.** Match the List-I with List-II:
 
@@ -1055,7 +1055,7 @@ Codes:
 - (C) (a)-(iii), (b)-(ii), (c)-(iv), (d)-(v)
 - (D) (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)
 
----
+
 
 **96.** Arrange the following in chronological order and choose the correct answer from codes given:
 (i) Northward movement of Indian plate
@@ -1070,7 +1070,7 @@ Codes:
 - (C) (iii), (i), (ii), (iv)
 - (D) (i), (iii), (ii), (iv)
 
----
+
 
 **97.** Which of the following options shows the correct ascending order of the states in terms of population size (as per 2011 census)?
 
@@ -1079,7 +1079,7 @@ Codes:
 - (C) Rajasthan—Gujarat—Assam—Karnataka
 - (D) West Bengal—Bihar—Maharashtra—Uttar Pradesh
 
----
+
 
 **98.** Which of the following statements is correct?
 
@@ -1088,7 +1088,7 @@ Codes:
 - (C) India's cultural diversity is the result of the long-continued nature-culture interaction taking place in different ecological settings of the country
 - (D) All the river valleys of India have been experiencing same type of environmental problems irrespective of their location and size
 
----
+
 
 **99.** The Brahmaputra Basin covers parts of the following countries:
 
@@ -1097,7 +1097,7 @@ Codes:
 - (C) China, India, Bhutan, Bangladesh and Myanmar
 - (D) China, India, Bhutan and Bangladesh
 
----
+
 
 **100.** The correct ranking of the states with largest Manganese reserves is
 
@@ -1106,6 +1106,6 @@ Codes:
 - (C) Odisha, Madhya Pradesh, Maharashtra, Karnataka
 - (D) Odisha, Maharashtra, Karnataka, Madhya Pradesh
 
----
 
-*— End of Question Paper —*
+
+*— End of Question Paper —
