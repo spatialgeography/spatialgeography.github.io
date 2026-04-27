@@ -8,34 +8,34 @@ toc-depth: 3
 
 ## 2025 Paper
 
-{{< include pyq/wbset-2025.md >}}
+{{< include pyq-wbset/wbset-2025.md >}}
 
 ---
 
 ## 2024 Paper
 
-{{< include pyq/wbset-2024.md >}}
+{{< include pyq-wbset/wbset-2024.md >}}
 
 ---
 
 ## 2023 Paper
 
-{{< include pyq/wbset-2023.md >}}
+{{< include pyq-wbset/wbset-2023.md >}}
 
 ---
 
 ## 2022 Paper
 
-{{< include pyq/wbset-2022.md >}}
+{{< include pyq-wbset/wbset-2022.md >}}
 
 ---
 
 ## 2021 Paper
 
-{{< include pyq/wbset-2021.md >}}
+{{< include pyq-wbset/wbset-2021.md >}}
 
 ---
 
 ## 2020 Paper
 
-{{< include pyq/wbset-2020.md >}}
+{{< include pyq-wbset/wbset-2020.md >}}

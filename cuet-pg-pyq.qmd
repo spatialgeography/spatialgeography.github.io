@@ -1,0 +1,10 @@
+---
+title: "CUET-PG Geography Previous Year Questions"
+subtitle: "Practice papers for CUET-PG (Geography) entrance exams"
+author: "Geography Team"
+toc: true
+---
+
+## CUET-PG 2024 Paper
+
+{{< include pyq-cuet-pg/cuet-pg-2024.md >}}

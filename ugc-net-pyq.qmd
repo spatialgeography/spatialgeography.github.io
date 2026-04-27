@@ -198,6 +198,11 @@ To crack the UGC NET Geography exam, it is vital to understand the weightage of 
 
 ## Actual Question Papers for Practice
 
+### June 2024
+{{< include pyq-ugc-net/ugc-net-2024-june.md >}}
+
+---
+
 * [West Bengal SET Geography (Paper-II)](wb-set-pyq.html)
 
 ---

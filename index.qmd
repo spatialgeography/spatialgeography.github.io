@@ -11,6 +11,9 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 * [Theories, Models, Books & Concepts](theories-models-concepts.html)
 * [UGC NET Previous Year Questions](ugc-net-pyq.html)
 * [West Bengal SET Previous Year Questions](wb-set-pyq.html)
+* [PGT Geography PYQs](pgt-pyq.html)
+* [CUET-PG Geography PYQs](cuet-pg-pyq.html)
+* [Assistant Professor Geography PYQs](assistant-professor-pyq.html)
 * [Geography Model Test Series](model-test-series.html)
 
 ---

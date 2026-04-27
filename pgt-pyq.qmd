@@ -1,0 +1,10 @@
+---
+title: "PGT Geography Previous Year Questions"
+subtitle: "Practice papers for Post Graduate Teacher (Geography) exams"
+author: "Geography Team"
+toc: true
+---
+
+## PGT 2023 Paper
+
+{{< include pyq-pgt/pgt-2023.md >}}
