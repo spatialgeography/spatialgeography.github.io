@@ -46,4 +46,12 @@ These topics are part of the UGC NET syllabus only.
 
 {{< include population-geography/08-population-composition.md >}}
 
+{{< include population-geography/09-settlement-geography.md >}}
+
+---
+
+## Quick Reference
+
+{{< include population-geography/10-key-scholars-population.md >}}
+
 ---

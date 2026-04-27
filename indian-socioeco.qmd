@@ -17,3 +17,9 @@ Welcome to the **Indian Socio-Economic Geography** module.
 {{< include geography-of-india/10-globalisation-impact.md >}}
 
 ---
+
+## Quick Reference
+
+{{< include indian-socioeco/26-key-scholars-indian-socioeco.md >}}
+
+---

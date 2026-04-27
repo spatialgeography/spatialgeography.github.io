@@ -80,4 +80,6 @@ These topics are part of the UGC NET syllabus only.
 
 {{< include geomorphology/20-quick-reference.md >}}
 
+{{< include geomorphology/21-key-scholars-geomorphology.md >}}
+
 ---

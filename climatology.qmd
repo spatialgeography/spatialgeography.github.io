@@ -68,6 +68,6 @@ These topics are part of the UGC NET syllabus only.
 
 ## Quick Reference
 
-{{< include climatology/18-conferences-and-scholars.md >}}
+{{< include climatology/19-key-scholars-climatology.md >}}
 
 ---

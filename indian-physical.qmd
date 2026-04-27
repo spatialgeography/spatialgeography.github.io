@@ -17,3 +17,9 @@ Welcome to the **Indian Physical Geography** module.
 {{< include geography-of-india/08-natural-disasters.md >}}
 
 ---
+
+## Quick Reference
+
+{{< include indian-physical/29-key-scholars-indian-physical.md >}}
+
+---
