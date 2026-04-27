@@ -24,3 +24,12 @@
 * **Census of India**: History, methodology, enumeration process, data dissemination. Census 2011 highlights.
 :::
 
+---
+
+### Population Projection (NET Notes)
+
+- **Quetelet (1835):** Propounded population projection method.
+- **Arithmetic Method:** $P_p = P_t + \frac{n(P_1 - P_2)}{N}$
+- **Geometric Method:** $P_p = P_1(1 + r)^n$
+- **Growth Component Method:** Considers fertility, mortality, and migration separately (more practical).
+- **Economic Method:** Studies how birth/death/migration are affected by economic factors.

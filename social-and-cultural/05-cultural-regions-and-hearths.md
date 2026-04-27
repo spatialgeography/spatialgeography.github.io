@@ -22,3 +22,16 @@
   - *Relocation Diffusion*: Physical movement of people carrying the culture.
 * **Cultural Convergence**: Cultures becoming more alike due to globalization and technology.
 :::
+
+---
+
+### Cultural Diffusion — Detailed (NET Notes — Pulakesh Pradhan)
+
+- **Expansion diffusion** — idea spreads from a source outward; source retains the trait
+  - *Contagious diffusion* — spreads through direct contact
+  - *Hierarchical diffusion* — spreads from large to small centres
+- **Relocation diffusion** — idea carried by people who migrate; source may lose the trait
+
+#### Cultural Hearth
+- The place of origin of a major cultural innovation
+- Major cultural hearths: Mesopotamia, Nile Valley, Indus Valley, Huang He, Mesoamerica

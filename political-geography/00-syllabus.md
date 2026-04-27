@@ -40,3 +40,32 @@
 - Regional Organisations of Cooperation (SAARC, ASEAN, OPEC, EU)
 - Neopolitics of World Natural Resources
 :::
+
+---
+
+### NET Political Geography — Detailed Syllabus (Pulakesh Pradhan)
+
+::: {.callout-important}
+#### Syllabus Topics
+- Definition and Scope of Political Geography
+- Geopolitics
+- Global Strategic Views (Heartland, Rimland)
+- Concept of Nation, State, and Nation-State
+- Boundaries and Frontiers
+- Politics of World Resources
+- Geography of Federalism
+:::
+
+---
+
+### Most Important Topics for Exam (NET Notes)
+
+::: {.callout-tip}
+#### High-Yield Topics
+- Heartland Theory
+- Rimland Theory
+- Geopolitics
+- State, Nation, Nation-State
+- World Political Geography
+- Types of Boundary
+:::

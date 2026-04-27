@@ -40,3 +40,71 @@
   - **Rip-cell circulations:** Developed along the coasts by the combination of **shore-normal** and **long-shore** currents.
 :::
 
+---
+
+### Tides & Tidal Waves — Detailed (NET Notes — Pulakesh Pradhan)
+
+- **Pliny** — tides developed due to combined action of sun and moon
+- **Isaac Newton (1687)** — first rational explanation: Gravitational attraction
+- **Ratio of tidal forces:** Moon : Sun = **11 : 5**
+
+#### Key Tidal Concepts
+
+| Term | Description |
+|:---|:---|
+| **Syzygy** | Sun–Moon–Earth in line → Spring Tides |
+| **Quadrature** | Moon at right angle → Neap Tides |
+| **Perigee** | Moon nearest to Earth → tides 20% above average |
+| **Apogee** | Moon farthest → tides 20% below average |
+
+#### Types of Tides
+
+| Type | Interval |
+|:---|:---|
+| **Semi-diurnal** | 12½ hours — two high, two low per day |
+| **Diurnal** | 24¾ hours — one high, one low per day |
+| **Spring Tides** | Once a fortnight (syzygy) |
+| **Neap Tides** | Once a fortnight (quadrature) |
+
+#### Theories of Tides
+
+| Theory | Scholar | Year |
+|:---|:---|:---|
+| **Equilibrium Theory** | Isaac Newton | 1687 |
+| **Progressive Wave Theory** | William Whewell | 1833 |
+| **Dynamical Theory** | Laplace | 1755 |
+| **Stationary Wave Theory** | Dr. R.A. Harris | — |
+
+---
+
+### Ocean Currents — Detailed (NET Notes)
+
+- **Alexander Von Humboldt (1816)** — identified controls of ocean currents
+
+#### Pacific Ocean Currents
+
+| Current | Type |
+|:---|:---|
+| **Kuroshio / Japan Current** | Warm |
+| **Peruvian (Humboldt) Current** | Cold |
+| California Current | Cold |
+| Oyashio / Kuril Current | Cold |
+| East Australian Current | Warm |
+
+#### Indian Ocean Currents
+
+| Current | Type |
+|:---|:---|
+| **Monsoon Current** | Warm |
+| Mozambique & Agulhas Current | Warm |
+| West Australian Current | Cold |
+
+#### Atlantic Ocean Currents
+
+| Current | Type |
+|:---|:---|
+| **Gulf Stream** | Warm |
+| Brazil Current | Warm |
+| **Labrador Current** | Cold |
+| **Benguela Current** | Cold |
+

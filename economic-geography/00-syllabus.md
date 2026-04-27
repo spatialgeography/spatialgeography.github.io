@@ -52,3 +52,33 @@
 - World Industrial Regions, Impact of Globalisation on manufacturing sector
 - Tourism Industry, ICT and Knowledge Production Industries
 :::
+
+---
+
+### NET Economic Geography — Detailed Syllabus (Pulakesh Pradhan)
+
+::: {.callout-important}
+#### Syllabus Topics (10 Questions = 20 Marks)
+- **EG:** Location of economic activities and spatial organisation; Classification of economies; Sectors of Economy; Natural resources (Renewable/Non-renewable)
+- **AG:** Delimitation of agricultural region; Measurement of productivity/efficiency; Crop combinations/diversification; Van Thünen's Model; Agricultural system of the world
+- **IG:** Classification of industries; Weber's and Lösch's approaches; Resource-based and footloose industries
+- **TG:** Models of transport; Accessibility and connectivity; Inter-regional and intra-regional comparative cost advantage
+:::
+
+---
+
+### Important Topics Index (NET Notes)
+
+::: {.callout-tip}
+#### High-Yield Topics
+- Agricultural Productivity & Efficiency
+- Crop Combination & Diversification
+- Van Thünen Model & Whittlesey's Regions
+- Weber's Theory & Lösch Theory
+- Classification of Industries (Footloose)
+- Models of Transport & Network Analysis
+- Accessibility, Connectivity, Comparative Cost Advantage
+- Inland / Water / Air Ways in India
+- Sectors and Types of Economy
+- Agro-Climatic Regions & Sustainable Development (Triple Bottom Line)
+:::

@@ -27,3 +27,90 @@
 * **Heat and Salt Budget**: Ocean as a heat reservoir — role in climate regulation.
 * **Desalination Processes:** Common methods include **Reverse osmosis**, **Electrolysis**, and **Freeze separation**.
 :::
+
+---
+
+### Temperature of Oceans — Detailed (NET Notes — Pulakesh Pradhan)
+
+- **M.F. Maury** — Founder of 'Scientific Marine Meteorology'
+- **Pettersson–Nansen water bottle** — for water sampling
+- **Pyrheliometer** — measurement of solar insolation
+
+#### Processes of Heat Transfer
+1. Convection, 2. Absorption, 3. Kinetic energy → heat, 4. Chemical processes, 5. Condensation of water vapour
+
+#### Insolation at Different Latitudes (Blair)
+
+| Latitude | Insolation |
+|:---|:---|
+| Equator (0°) | 100% |
+| 33°N/S | 88% |
+| 50°N/S | 68% |
+| 70° | 47% |
+| Poles | 12% |
+
+#### Vertical Temperature Distribution
+
+| Depth | Temperature |
+|:---|:---|
+| 100 fathoms | 60.7°F |
+| 500 fathoms | 40.1°F |
+| 1000 fathoms | 36.5°F |
+| 2200 fathoms | 35.2°F |
+
+---
+
+### Salinity of Oceans — Detailed (NET Notes)
+
+- Varies from **34 to 37.5‰**
+- Methods: **Titration** (constancy of composition), **Hydrometer** (sample)
+
+#### Chemical Composition (Dittmar, 1884 — Challenger Expedition)
+
+| Salt | Amount (‰) | Percentage |
+|:---|:---|:---|
+| Sodium Chloride | 27.2 | 77.8% |
+| Magnesium Chloride | 3.80 | 10.9% |
+| Magnesium Sulphate | 1.65 | 4.7% |
+| Calcium Sulphate | 1.2 | 3.6% |
+| Potassium Sulphate | 0.86 | 2.5% |
+
+#### Controls of Salinity
+- Evaporation, Precipitation, River water, Atmospheric pressure, Movement of sea water, Periodic variation
+
+#### Salinity by Ocean / Sea
+
+| Ocean / Sea | Salinity (‰) |
+|:---|:---|
+| **Red Sea** | 37–41 (highest) |
+| **Mediterranean Sea** | 37–39 |
+| **Atlantic Ocean** | 35.67 |
+| **Baltic Sea** | 3–15 (lowest) |
+| **Hudson Bay** | 3–15 |
+
+---
+
+### Density of Sea Water — Detailed (NET Notes)
+
+- **Pure water** has maximum density at **4°C**
+
+#### Controlling Factors
+
+| Factor | Details |
+|:---|:---|
+| **Temperature** | Varies from −2°C to 30°C |
+| **Salinity** | Average density at 35‰ = 1.028 |
+| **Atmospheric Pressure** | Measured in decibars |
+
+- **Holland–Hansen** — T–S Diagram to delineate water masses
+
+#### Water Masses
+
+| Water Mass | Type |
+|:---|:---|
+| Equatorial Water Mass | Surface |
+| Antarctic Circumpolar | Surface |
+| Sub-Antarctic / Sub-Arctic | Intermediate |
+| Central Water Mass | Due to sub-tropical convergence |
+| Antarctic Bottom Water | Bottom |
+| North Atlantic Deep Bottom Water | Deep |

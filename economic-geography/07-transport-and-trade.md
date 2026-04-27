@@ -38,3 +38,41 @@
   - *WTO Equal Treatment Rule:* Ensures the same trade benefits for all members.
 * **Globalisation Impacts:** Negative impacts can include the exploitation of labour due to low wages in developing nations.
 :::
+
+---
+
+### Accessibility and Connectivity (NET Notes — Pulakesh Pradhan)
+
+- **Accessibility** — ease with which any place can be reached from other places
+- **Connectivity** — number of direct links between nodes in a network
+
+#### Network Analysis Measures
+
+| Measure | Formula | Description |
+|:---|:---|:---|
+| **Beta Index (β)** | β = e/v | Edges (e) / Vertices (v); degree of connectivity |
+| **Gamma Index (γ)** | γ = e / 3(v−2) | Actual edges / Maximum possible edges |
+| **Alpha Index (α)** | α = (e−v+1) / (2v−5) | Ratio of circuits to maximum circuits |
+| **Eta Index (η)** | η = L/e | Total network length (L) / number of edges |
+| **Cyclomatic Number (μ)** | μ = e−v+G | Number of independent circuits |
+| **Pi Index (π)** | π = L/d | Total length / diameter of network |
+
+- **Detour Index** — degree to which actual route exceeds straight-line distance
+
+---
+
+### Comparative Cost Advantage (NET Notes)
+
+> **David Ricardo** — Theory of **Comparative Advantage**
+> A country should specialise in producing goods in which it has lower *relative* cost
+
+#### Heckscher–Ohlin Theory
+- Countries export goods that use their abundant factors intensively
+- Countries import goods that use their scarce factors intensively
+
+#### Inter-Regional vs. Intra-Regional Trade
+
+| Type | Description |
+|:---|:---|
+| **Inter-regional** | Trade between different regions / countries |
+| **Intra-regional** | Trade within a region or country |

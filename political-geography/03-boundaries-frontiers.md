@@ -25,3 +25,26 @@
 * **Morphological Classification**: Geometric (straight lines), Physiographic (rivers, mountains — e.g., Rio Grande).
 * **Buffer Zone/State**: Weak, independent state located between two major, rival powers (e.g., historical Nepal between British India and China/Tibet).
 :::
+
+---
+
+### Boundaries and Frontiers (NET Notes)
+
+#### Key Distinction
+- **Frontier:** Geographical, Integrating factor, Area.
+- **Boundary:** Political, Separating factor, Line.
+
+#### Types of Frontiers (Area)
+1. **Natural / Physical:** Mountains, rivers, deserts.
+2. **Ethnic / Anthropological:** Based on ethnicity/culture.
+3. **Geometrical / Astronomical:** Latitudes/longitudes.
+4. **Political:** Defined by agreement.
+
+#### Boundary Classification
+- **Evolutionary Process:** Arbitrary, Evolutionary, Arbitration.
+- **By Origin (Jones, 1945 — 4-stage model):**
+  1. **Allocation:** Political decision.
+  2. **Delimitation:** Drawn on map.
+  3. **Demarcation:** Marked on ground.
+  4. **Administration:** Enforced and managed.
+- **By Nature:** Antecedent (before settlement), Subsequent (after settlement), Superimposed (external power), Relic (historical), Consequent (cultural divide).

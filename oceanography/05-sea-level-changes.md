@@ -31,3 +31,27 @@
   - **EEZ (Exclusive Economic Zone):** In order of decreasing area of EEZs, the sequence is **USA > France > Australia > Russia**.
 :::
 
+---
+
+### Sea Level Changes — Detailed (NET Notes — Pulakesh Pradhan)
+
+#### Types of Sea Level Change
+
+| Type | Description |
+|:---|:---|
+| **Eustatic** | Change caused by change in volume of water in ocean store |
+| **Isostatic** | Local change caused by change in level of land relative to sea |
+| **Emergence** | Impact of a relative **fall** in sea level |
+| **Submergence** | Impact of a **rise** in relative sea level |
+
+#### Causes of Sea Level Rise
+
+| Cause | Rate |
+|:---|:---|
+| Thermal expansion | 1.2–1.6 mm/yr |
+| Glacial / ice cap melting | 0.4 mm/yr (1961–1990); 1.0 mm/yr since 2001 |
+
+#### Effects
+- Coastal flooding, storm surge, **coastal erosion** (70% of worldwide beaches being eroded)
+- Current average: **3 mm/yr** sea level rise
+

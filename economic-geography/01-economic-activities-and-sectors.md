@@ -24,3 +24,15 @@
 * **Mentifact:** Refers to the abstract belief systems (ideas, values, beliefs) that pass over from generation to generation within a culture.
 * **Sectoral Shift**: Transition of economies from primary to secondary to tertiary dominance as they develop (Clark-Fisher model).
 :::
+
+---
+
+### Sectors of Economy — Detailed (NET Notes — Pulakesh Pradhan)
+
+| Sector | Activities | Examples |
+|:---|:---|:---|
+| **Primary** | Extraction of natural resources | Agriculture, mining, fishing, forestry |
+| **Secondary** | Manufacturing / processing | Iron & steel, textiles, food processing |
+| **Tertiary** | Services | Trade, transport, banking, education |
+| **Quaternary** | Knowledge and information | IT, R&D, consulting |
+| **Quinary** | Highest decision making | Top government, CEO level decisions |

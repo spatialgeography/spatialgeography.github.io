@@ -23,6 +23,7 @@
 
 ### Measurement of Humidity
 - **Specific Humidity:** The ratio of the weight of water vapour in a parcel of the atmosphere to the total weight of moist air.
+- **Relative Humidity (RH):** $\frac{\text{Actual water vapour content}}{\text{Water vapour capacity (saturation)}} \times 100$. (e.g., at 25°C, if capacity is 20g and content is 15g, $RH = (15/20) \times 100 = 75\%$).
 - **Lithium chloride-based hygrometer:** A technique for measuring atmospheric moisture based on electrical resistance.
 
 ### Dew Formation

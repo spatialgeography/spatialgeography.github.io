@@ -39,3 +39,47 @@
 - Data Representation on Maps (Pie diagrams, Bar diagrams, Line Graph)
 - Thematic maps: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps
 :::
+
+---
+
+### NET Statistics for Geography — Detailed Syllabus (Pulakesh Pradhan)
+
+::: {.callout-important}
+#### Syllabus Topics
+- Data sources and types of data
+- Statistical diagrams
+- Study of frequency distribution and cumulative frequency
+- Measures of central tendency
+- Selection of class interval for mapping
+- Measures of dispersion and concentration
+- Standard deviation
+- Lorenz curve
+- Methods of measuring association among different attributes
+- Simple and multiple correlation
+- Regression
+
+> **Exam:** 5 Questions = 10 Marks
+:::
+
+---
+
+### Important Topics for NET
+
+::: {.callout-tip}
+#### High-Yield Topics
+- Source of data
+- Types of data
+- Statistical diagrams — Histogram, Ogive, Circle
+- Mean, Median, Mode
+- Mean Deviation, Standard Deviation
+- Coefficient of Variation
+- Quartile Deviation, Range
+- Nearest Neighbour Analysis (NNI) & Rn value
+- Lorenz Curve
+- Correlation Coefficient
+- Regression Analysis
+- Normal Distribution
+- Factor Analysis
+- Chi-square, Z-Test, T-Test, F-Test
+- Types of scale (Nominal, Ordinal, Interval, Ratio)
+:::

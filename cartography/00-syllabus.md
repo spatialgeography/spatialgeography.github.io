@@ -37,3 +37,36 @@
 - Data Representation on Maps
 - Thematic maps: Choropleth, Isarithmic, Dasymetric, Chorochromatic, Flow Maps
 :::
+
+---
+
+### NET Cartography — Detailed Syllabus (Pulakesh Pradhan)
+
+::: {.callout-important}
+#### Syllabus Topics (50 marks section — 10 Marks)
+- Map as a tool in Geographical Studies
+- Types of maps
+- Techniques for the study of spatial patterns of distribution
+- Single purpose and composite purpose maps
+- Choropleth, Isopleth and chorochromatic map
+- Pie diagram
+- Mapping of location specific data
+- Accessibility and flow maps
+:::
+
+---
+
+### Important Topics for NET
+
+::: {.callout-tip}
+#### High-Yield Topics
+- Thematic Map, R.F of Map
+- Scales of Map — Small, Medium, Large
+- Map Enlargement / Reduction
+- Flow Map, Choropleth Map, Choroschematic Map, Chorochromatic Map
+- Star Diagram, Scatter Diagram, Bar Diagram
+- Hythergraph, Triangular Diagram
+- Toposheet (SOI interval), Dot Map (Multiple), Sphere Diagram
+- Contours, Hachures
+- Isobars, Isochrones, Isobaths, Isogonic, Isopaches, Isoneph, Isopleth
+:::

@@ -1,5 +1,10 @@
 ## Natural Vegetation
 
+---
+
+### Vegetation Facts (NET Notes)
+- Forest cover in India — 24.39% (ISFR)
+
 
 India's diverse flora.
 

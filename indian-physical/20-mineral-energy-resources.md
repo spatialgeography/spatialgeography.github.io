@@ -19,6 +19,19 @@ India's natural resource endowment.
 
 ---
 
-### Books and Further Readings
-Indian Physical Geography forms the essential base for understanding India's human and economic landscape. Continue with [Indian SocioEco](indian-socioeco.html) and [Climatology](climatology.html) for related topics.
+### Mineral & Energy Resources (NET Notes)
 
+#### Iron Ore
+- Mainly found in igneous and metamorphic rocks of Peninsular India
+- **Chotanagpur Belt** includes Jharkhand, Chhattisgarh, Odisha, Bihar, West Bengal (93% of iron ore and 84% of coal)
+- **Top States:** 1. Odisha (51.26%), 2. Chhattisgarh, 3. Karnataka, 4. Goa (20%), 5. Jharkhand (25%)
+
+#### Energy Resources: Petroleum and Mineral Oil
+- Petroleum obtained from sedimentary rocks (90-95% hydrocarbons)
+- India has 27 basins
+- **Onshore:** Brahmaputra Valley (oldest), Barmer (Rajasthan - leading), Gujarat (Ankleshwar)
+- **Offshore:** Mumbai High (discovered 1974 in Miocene rock), Aliabet Island, Krishna-Godavari Basin
+
+#### Nuclear Power Plants
+- **East Coast:** Haripur, Kovada, Kalpakkam, Kudankulam
+- **West Coast:** Kaiga, Jaitapur, Tarapur, Mithi Virdi, Kakrapara

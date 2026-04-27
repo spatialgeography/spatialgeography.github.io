@@ -18,3 +18,18 @@ Demographic characteristics and trends.
 * **Tribal Population**: Scheduled Tribes — distribution, development, and rights (PESA, FRA).
 :::
 
+---
+
+### Population Dynamics & Policies (NET Notes)
+
+#### Demographics
+- **Growth Rate:** 1971-81 (24.66%), 1981-91 (23.86%), 1991-2001 (21.34%), 2001-2011 (17.64%)
+- **Demographic Transition:** Slow (1901-21), Steady (1921-51), Rapid (1951-81), Slowdown (1981-2011)
+- **Town Criteria:** Min population 5000, 75% non-agricultural, density >400/sq km
+
+#### Population Policies
+- **1952:** Official population policy introduced
+- **3rd Five Year Plan (1965):** Sterilization adopted; independent family planning department
+- **5th Five Year Plan (1976):** National Population Policy announced
+- **2000:** New National Population Policy (objectives: TFR 2.1, IMR 30)
+- **Sharda Act 1929:** Minimum age of marriage (Boys 21, Girls 18)

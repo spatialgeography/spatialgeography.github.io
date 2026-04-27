@@ -31,3 +31,17 @@
 * **Ethnic, Linguistic, and Religious Composition**: Diversity indices, spatial patterns, geopolitical implications.
 :::
 
+---
+
+### Population Composition & Pyramids (NET Notes)
+
+#### Population Pyramids (3 Types)
+- **Expansive:** Wide base, narrow top (Developing countries: India, Africa)
+- **Constrictive:** Narrower base than middle; declining birth rate, ageing (European countries)
+- **Stationary:** Equal % in all age groups; stable (Developed nations)
+
+#### Population Dynamics Measures
+- **Crude Birth Rate (CBR) / Crude Death Rate (CDR):** Per 1000 population per year.
+- **Natural Growth Rate:** CBR − CDR
+- **Total Fertility Rate (TFR):** Average children a woman would have in lifetime.
+- **Dependency Ratio:** Non-working age (0–14 + 65+) / working age (15–64).

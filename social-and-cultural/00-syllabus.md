@@ -46,3 +46,18 @@
 - Theories of tribal groups
 - Dwelling places as cultural expressions
 :::
+
+---
+
+### NET Social & Cultural Geography — Detailed Syllabus (Pulakesh Pradhan)
+
+::: {.callout-important}
+#### Syllabus Topics
+- Definition and scope of Social & Cultural Geography
+- Culture, cultural landscape and cultural regions
+- Race — classification and distribution
+- Language families and linguistic geography
+- Religion and religious geography
+- Tribes of India — state-wise distribution
+- Social inequality and regional disparities
+:::

@@ -23,3 +23,15 @@
 * **Boserupian Theory:** The theory of population growth proposed by **Ester Boserup** (population growth drives agricultural intensity) is most appropriate for **subsistence societies**.
 :::
 
+---
+
+### Population Resource Regions (NET Notes)
+
+#### Malthusian Theory (1798)
+- First systematic study of population–resource relationship.
+- Population grows geometrically, food supply grows arithmetically.
+- **Preventive checks:** Celibacy, late marriage, moral restraint
+- **Positive checks:** War, famine, disease
+
+#### Optimum Population Theory
+- Optimum level of population for a given area where **per capita income is maximised**.

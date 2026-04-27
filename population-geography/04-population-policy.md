@@ -23,3 +23,17 @@
 * **Population and Development**: Relationship between population growth, economic development, and sustainable resource use.
 :::
 
+---
+
+### Population Policy & Electoral Reforms (NET Notes)
+
+#### India's Population Policy
+- **1952:** National Family Planning Programme (First country to launch official family planning)
+- **1976:** National Population Policy (Emergency period; coercive sterilisation)
+- **2000:** National Population Policy 2000 (TFR target of 2.1 by 2010)
+
+#### Electoral Reforms in India
+- **61st Amendment Act (1988):** Voting age reduced from 21 to 18 years
+- **EVMs introduced:** 1989 (experimental 1988 in Rajasthan, MP, Delhi)
+- **EPIC (1993):** Elector's Photo Identity Card
+- **Goa (1999):** First general election completely using EVMs

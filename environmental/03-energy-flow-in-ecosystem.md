@@ -30,3 +30,22 @@ Energy flow is the passage of energy through the various trophic levels of an ec
 * **Significance**: Explains ecosystem productivity, trophic efficiency, and limits on food chain length.
 :::
 
+---
+
+### Trophic Levels & Energy Flow (NET Notes — Pulakesh Pradhan)
+
+> *'Trophe'* = Nutrient
+> **Energy decreases** from first to last trophic level
+
+#### Trophic Levels
+
+| Level | Organism | Food Source |
+|:---|:---|:---|
+| **1st TL** | Producers | Own food (plants, algae) |
+| **2nd TL** | Herbivores | Eat producers |
+| **3rd TL** | Carnivores | Eat secondary consumers |
+| **4th TL** | Carnivores | Eat other carnivores |
+
+- **A. Raymond Lindeman (1942)** — gave the concept of Trophic Level
+- **August Thienemann (1926)** — coined 'producer' & 'consumer'
+

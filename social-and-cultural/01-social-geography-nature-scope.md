@@ -20,3 +20,22 @@
 * **Scope**: Includes studies of caste, tribe, religion, language, gender, poverty, health, education, housing, and social segregation.
 * **Approaches**: Positivist (spatial science), Humanist (lived experience of social groups), Radical (structural inequalities), Feminist (gendered spaces).
 :::
+
+---
+
+### Social Geography — Detailed Definitions (NET Notes — Pulakesh Pradhan)
+
+| Scholar | Definition |
+|:---|:---|
+| **Buttimer (1969)** | *"Social Geography is the study of the spatial patterns and functional relations of social groups in the context of their social environment"* |
+| **Jones (1975)** | *"Social geography is concerned with the ways in which social relations constitute, and are constituted by, the spatial organisation"* |
+
+#### Social Inequality in Geography
+- **Gender inequality** — spatial variation in status of women
+- **Racial segregation** — spatial separation based on race
+- **Caste system** — India's social hierarchy affecting spatial patterns
+
+#### Welfare Geography
+- Focus on well-being and quality of life
+- Key themes: health, education, poverty, housing
+- **D.M. Smith** — key contributor to Welfare Geography

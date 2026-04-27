@@ -48,3 +48,28 @@ The global distribution of flora and fauna is governed by a complex interplay of
 * **Green Data Book:** Contains a list of **rare plant species** growing in protected areas like botanical gardens.
 :::
 
+---
+
+### Types of Plants — Ecological Classification (NET Notes)
+
+| Plant Type | Adaptation |
+|:---|:---|
+| **Hydrophytes** | Adopted to aquatic environment (e.g., lotus) |
+| **Mesophytes** | Adopted to average water and temp; well-developed root system |
+| **Xerophytes** | Adopted to dry habitat |
+| **Cryptophytes** | Survive unfavourable/hostile conditions |
+| **Cryptozoic animals** | Live beneath stones, logs, dead branches |
+
+#### Vegetation Zones (by Temperature)
+
+| Zone | Temperature |
+|:---|:---|
+| **Megathermal** | Equatorial — high temperature year round |
+| **Xenophytic** | Dry / arid zone |
+| **Mesothermal** | 18°C to −3°C |
+| **Microthermal** | Coldest month below −3°C |
+| **Hekistothermal** | Tundra — lichens and mosses |
+
+#### Life Forms
+- **Christen Raunkiær (1934)** — first gave the concept of life forms.
+

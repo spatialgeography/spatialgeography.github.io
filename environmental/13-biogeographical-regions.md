@@ -34,3 +34,34 @@ Biogeographical regions are large areas of the Earth's surface characterized by 
 * **Antarctic** — Southern tip of South America, subantarctic islands
 :::
 
+---
+
+### World Distribution of Plants (Floristic Kingdoms) (NET Notes)
+
+> **Floristic Kingdom** — a larger group of plants occupying almost the same environmental conditions
+
+1. **Australian Region:** 600 species; **Eucalyptus** dominant (75% mass).
+2. **Cape Region:** Southern tip of Africa; **cryptophytes** (survive unfavourable conditions); Laplia, Erica, Freesia.
+3. **Antarctic Region:** Patagonia to New Zealand; **Tussock grass**, Gymnosperms (NZ).
+4. **Palaeotropical Region:** Africa, SW/S/SE Asia, S/M China.
+5. **Neotropical Region:** South America (except south). Separated by **Gondwanaland** spreading.
+6. **Boreal Region:** **Most extensive kingdom** (N. America, Europe, N. Asia, Arctic).
+
+---
+
+### World Distribution of Animals (Zoogeographical Regions) (NET Notes)
+
+> Development of animal zones in higher latitudes due to **dispersal and migration**.
+> **A.R. Wallace** — defined **6 Faunal Regions**.
+
+#### Wallace's Faunal Regions
+
+| No. | Region | Area |
+|:---|:---|:---|
+| 1 | **Palaearctic** | Europe and North Asia |
+| 2 | **Nearctic** | North America & Greenland |
+| 3 | **Oriental** | North & South-East Asia & W. Africa |
+| 4 | **Ethiopian** | Whole Africa, Sahara and beyond |
+| 5 | **Australian** | Australia + New Zealand |
+| 6 | **Neotropical** | South America |
+

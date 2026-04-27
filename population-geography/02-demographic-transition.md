@@ -32,3 +32,18 @@
 * **Neo-Malthusian and Anti-Malthusian Views**: Modern debates on population and resources.
 :::
 
+---
+
+### Demographic Transition Models (NET Notes)
+
+#### Evolution of the Model
+- **Landry (1909):** First attempt at a demographic model
+- **W.S. Thompson (1929):** 3-category model; originator
+- **Frank Notestein (1945):** Comprehensive model (3 stages: High Growth, Transitional Growth, Incipient Decline)
+- **C.P. Blacker (1947):** 5-stage model (High Stationary, Early Expanding, Late Expanding, Low Stationary, Declining)
+- **Coale & Hoover (1958):** Role of modernisation and development
+
+#### W.S. Thompson's 3 Hypotheses
+1. Decline in **mortality comes before** decline in fertility
+2. Fertility **eventually declines** to match mortality
+3. Socio-economic transformation of a society takes place **simultaneously** with its demographic transformation

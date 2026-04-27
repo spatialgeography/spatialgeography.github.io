@@ -31,3 +31,18 @@
 * **Cultural Ecology**: The relationship between a culture group and its natural environment (study of human adaptations).
   - *Maladaptation:* Occurs when a cultural practice leads to environmental degradation (e.g., overgrazing leading to desertification).
 :::
+
+---
+
+### Cultural Geography — Key Concepts (NET Notes — Pulakesh Pradhan)
+
+#### Culture
+- Shared beliefs, values, norms, language, art, religion, and customs of a group
+- **Carl O. Sauer** — founder of Cultural Geography; *The Morphology of Landscape* (1925)
+- **Cultural Landscape** — modification of natural landscape by a cultural group over time
+
+#### Cultural Region
+- An area where a group of related cultural traits occurs
+- **Formal cultural region** — homogenous core area
+- **Functional cultural region** — organised around a focal point (node)
+- **Vernacular cultural region** — people's perception of belonging to an area

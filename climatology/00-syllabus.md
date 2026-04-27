@@ -48,3 +48,19 @@
 - Meteorological Hazards and Disasters (Cyclones, Thunderstorms, Tornadoes, Hailstorms, Heat and Cold Waves, Drought and Cloudburst, GLOF)
 - Climate Change: Evidences and Causes of Climatic Change in the Past, Human Impact on Global Climate
 :::
+
+---
+
+### NEP-2020 Programme Structure
+
+::: {.callout-note}
+#### UG Geography (Major) — Course Structure Under NEP-2020
+
+| Semester | Course Name | Credit | Marks |
+|:---|:---|:---|:---|
+| V | Climatology and Oceanography | 4 | 100 |
+
+**Multidisciplinary Courses:** Climatology (3 credits, 100 marks)
+
+**Evaluation (With Practical):** Semester End Theory 50 + Sessional 10 + Mid-Semester 10 + Practical End 20 + Practical Mid 10 = **100 marks**
+:::

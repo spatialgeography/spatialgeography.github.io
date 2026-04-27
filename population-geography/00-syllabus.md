@@ -40,3 +40,25 @@
 - Population Composition and Characteristics (age, sex, rural-urban, occupational structure, educational levels)
 - Population Policies in Developed and Developing Countries
 :::
+
+---
+
+### NET Population Geography — Important Topics & Traditions
+
+::: {.callout-tip}
+#### High-Yield Topics
+- World Population Distribution
+- Growth + Density of Population
+- Population Policy
+- Migration
+- Demographic Transition
+- Population Resource Region
+- Nature, Scope of Settlement Geography
+- Subject matter and Recent Trends
+:::
+
+#### Four Traditions of Geography (William D. Pattison)
+1. Spatial / Locational Tradition
+2. Areal / Regional Tradition
+3. Man–Land Tradition
+4. Earth Science Tradition

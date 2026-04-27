@@ -34,3 +34,27 @@ Ozone depletion refers to the thinning of the Earth's stratospheric ozone layer 
 * **Recovery**: Ozone layer expected to recover to 1980 levels by ~2050–2070 if compliance continues.
 :::
 
+---
+
+### Ozone Depletion — Detailed (NET Notes — Pulakesh Pradhan)
+
+- **Troposphere Ozone** → absorbs heat → **Bad Ozone**
+- **Stratosphere Ozone** → acts as UV-B filter → **Good Ozone**
+
+#### Ozone Depleting Substances
+- CFC (Chlorofluorocarbons), Nitrogen Oxide (NOₓ), Hydrocarbons
+
+#### Key Facts
+- Ozone hole found **above Antarctica**
+- 1% ozone lost → 2% more UV-B rays reach Earth
+- **Chapman Mechanism:** Cl + O₃ → ClO + O₂
+
+#### Conferences on Ozone
+
+| Conference | Year | Outcome |
+|:---|:---|:---|
+| Vienna Conference | 1985 | First conference to discuss ozone depletion |
+| Montreal Protocol | 1987 | CFC reduction step by step |
+| Helsinki Conference | 1989 | Strengthened Montreal Protocol |
+| Saving the Ozone Layer Conference | 1989 | British Govt + UNEP; final withdrawal of all ozone-depleting gases |
+

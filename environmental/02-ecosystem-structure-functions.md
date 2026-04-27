@@ -37,3 +37,26 @@ An ecosystem is a functional unit of nature where living organisms interact with
   - Pyramid of Energy (always upright)
 :::
 
+---
+
+### Ecosystem — Detailed Concepts (NET Notes — Pulakesh Pradhan)
+
+> **Ecosystem** = functional unit of environment (producer–consumer–decomposer relationship)
+
+#### Key Definitions
+
+| Term | Definition |
+|:---|:---|
+| **Environment** | Everything in a region |
+| **Habitat** | Area where an organism lives |
+| **Biosphere** | Region on Earth that supports life = Lithosphere + Hydrosphere + Atmosphere |
+| **Ecology** | From Greek *Oikos* (home) + *logos* (study) |
+| **Biome** | A large naturally occurring community of flora & fauna |
+| **Ecotone** | Transition zone between two biomes (e.g., mangrove) |
+| **Edge Effect / Edge Species** | Species found at the ecotone zone |
+| **Ecological Niche** | Unique functional role of a species in its habitat; no two species share the same niche |
+| **Vermin** | Species that increase rapidly |
+
+#### Ecological Hierarchy
+> Individual → Population → Community → Ecosystem → Biome → Biosphere
+

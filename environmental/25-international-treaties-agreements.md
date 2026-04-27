@@ -28,3 +28,16 @@ International environmental governance has evolved through landmark summits, tre
 * **COP (Conference of Parties)**: Annual meetings under UNFCCC. Recent sequence: Bonn (2017), Katowice (2018), Madrid (2019), Glasgow (2021), Sharm el-Sheikh (2022), Dubai (2023).
 * **Political Ecology:** The relationship among **power structure**, the **environment**, and **economic inequalities**.
 :::
+
+---
+
+### Environmental Policies & Treaties (NET Notes — Pulakesh Pradhan)
+
+| Year | Conference / Protocol | Key Outcome |
+|:---|:---|:---|
+| **1972** | **Stockholm Conference** | First global conference on human environment; UNEP established |
+| **1987** | **Montreal Protocol** (16 Sept.) | Protection of ozone layer; reduction of CFCs; initially signed by 46, now 200 countries |
+| **1992** | **Rio Earth Summit (UNCED)** | Agenda 21; Convention on Biological Diversity |
+| **1997** | **Kyoto Protocol** | Reduction of greenhouse gas emissions; 141 countries signed |
+| **2002** | **Johannesburg Summit (WSSD)** | World Summit on Sustainable Development |
+| **2015** | **Paris Agreement** | Limit global warming to 1.5–2°C above pre-industrial levels |

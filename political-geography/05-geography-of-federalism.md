@@ -21,3 +21,20 @@
 * **Local Self-Government**: Decentralization to grassroots level. In India: 73rd (Panchayati Raj) and 74th (Municipalities) Amendments creating a three-tier system.
 * **Centripetal vs. Centrifugal Forces**: Hartshorne's concept. Centripetal forces bind a state together (nationalism, institutions, transport network); Centrifugal forces pull it apart (ethnic conflict, regionalism, physical barriers).
 :::
+
+---
+
+### Geography of Federalism (NET Notes)
+
+> **Neumann (1955):** *"Federalism is seen as one of the devices to curb the evil use of power by dividing it among a number of competing power units."*
+
+#### Key Features of Federal State
+- Division of powers between central and state/provincial governments
+- Written constitution
+- Independent judiciary
+- Dual citizenship (in some cases)
+
+#### Types of Political Organisation
+- **Unitary State:** All power at centre (France, UK, Japan).
+- **Federal State:** Powers divided between centre and regions (USA, India, Germany).
+- **Confederation:** Loose union; member states retain sovereignty (EU partially).

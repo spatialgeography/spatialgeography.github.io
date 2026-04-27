@@ -18,3 +18,23 @@
 * **World Systems Theory (Immanuel Wallerstein)**: Global capitalist system divided into Core, Semi-periphery, and Periphery. Exploitative trade relations.
 * **Global Economic Blocks**: EU, NAFTA, ASEAN, MERCOSUR. Their role in shaping global regional development, creating core regions of prosperity while sometimes marginalizing non-members.
 :::
+
+---
+
+### Other Development Theories (NET Notes — Pulakesh Pradhan)
+
+| Theory | Scholar |
+|:---|:---|
+| **Dependency Theory** | Gunder Frank |
+| **Metropolis-Satellite Model** | Gunder Frank |
+| **Trickle Down Theory** | Hirschman |
+| **Balanced Development Theory** | Nurkse, Rosenstein-Rodan, Marshall Plan |
+| **Deliberate Imbalance Theory** | Nurkse and Rosenstein |
+| **Vicious Circle Theory** | Nurkse |
+
+#### Mixed Economy
+- Coexistence of public sector along with private sector
+
+#### Russian Model of Development
+- Focus on heavy industries at the beginning
+- India adopted this emphasis in some planning phases

@@ -27,3 +27,36 @@
   6. Livestock ranching (animals can walk to market)
 * **Relevance Today**: Modified by modern transport (refrigeration, highways) and global markets, but core concept of *distance decay* remains valid.
 :::
+
+---
+
+### Van Thünen's Model — Detailed (NET Notes — Pulakesh Pradhan)
+
+> **Johann Heinrich von Thünen (1826)** — *Der Isolierte Staat* (The Isolated State)
+
+- First model of agricultural land use
+- Single central city surrounded by uniform plain with equal fertile soil
+- **Distance from market** determines what is grown where
+
+#### Concentric Zones (from city outward)
+
+| Zone | Land Use | Reason |
+|:---|:---|:---|
+| Zone 1 | Horticulture & Dairy | Highly perishable; must be close |
+| Zone 2 | Forestry (firewood/timber) | Heavy; high transport cost |
+| Zone 3 | Crop Farming (Intensive) | Labour intensive; moderate distance |
+| Zone 4 | Crop Farming (Extensive) | Less intensive; farther from city |
+| Zone 5 | Livestock Ranching | Extensive; least perishable |
+| Zone 6 | Wilderness | No economic use |
+
+#### Assumptions
+- Uniform fertile soil and climate
+- Single central market
+- Uniform transport cost in all directions
+- Isolated state (no external markets)
+- Farmers seek maximum profit
+
+#### Modifications
+- Two cities → zones distort
+- River → zones extend along navigable route
+- Second smaller city → creates secondary pattern

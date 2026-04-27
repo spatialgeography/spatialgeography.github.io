@@ -62,3 +62,43 @@
 - **Environmental Hazards and Disasters**: Global Warming, Urban Heat Island, Atmospheric Pollution, Water Pollution, Land Degradation
 - **National Programmes and Policies**: Legal Framework, Environmental Policy, International Treaties, International Programmes and Policies (Brundtland Commission, Kyoto Protocol, Agenda 21, Sustainable Development Goals, Paris Agreement)
 :::
+
+---
+
+### NET Environmental Geography — Detailed Syllabus (Pulakesh Pradhan)
+
+::: {.callout-important}
+#### Syllabus Topics (5 Questions = 10 Marks)
+- Physical factors influencing world distribution of plants and animals
+- Forms and function of ecosystem
+- Forest, grassland, mountain and marine ecosystem
+- Bio-diversity and its implications through natural and man-induced causes
+- Conservation and management of ecosystem
+- Environmental hazards and problems of pollution
+- Ozone Depletion
+:::
+
+---
+
+### Most Important Topics for Exam (NET Notes)
+
+::: {.callout-tip}
+#### High-Yield Topics
+1. Types of forest — Selva / plants important
+2. Ecosystem — marine, components
+3. Soil formation — saline
+4. Region and forest
+5. No. of flora and fauna in forests — names
+6. Synecology & Ecology
+7. Important Environmental Days
+8. Tsunami, earthquake, flood
+9. Laws and Acts — Millennium Ecosystem Assessment, Conferences
+10. Biosphere, National Park, Sanctuary
+11. Types of plants — xerophyte, mesophyte, heliothermal, evergreen, coniferous
+12. Distribution of Grassland / Plants — vegetation belts
+13. Ecological Pyramid, Food Chain and Food Web
+14. Bio-diversity & Carbon Sink
+15. Biome, Rainforest
+16. Bio-geographic Region
+17. Emitters and Emitter Products
+:::

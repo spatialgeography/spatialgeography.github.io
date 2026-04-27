@@ -32,3 +32,47 @@ A biome is a large-scale biotic community characterized by dominant vegetation t
 * **Mountain Ecosystems**: Altitudinal zonation, alpine meadows, fragile ecology — climate change vulnerability.
 :::
 
+---
+
+### Biomes — Detailed Classification (NET Notes — Pulakesh Pradhan)
+
+> **I.G. Simmons (1982):** *"The most extensive ecosystem unit which it is convenient to designate is called Biome"*
+
+#### 1. Tropical Evergreen Forest (Selva)
+- **High rainfall + high temperature** throughout the year
+- **Latitude:** 10°N to 10°S
+- **Regions:** Amazon Basin, Congo Basin, Indo-Malaysian region
+- **6000–7000 species** of plants; **20,000 species** of flowering plants (70% of total tropical evergreen)
+- **Vertical Strata:** 1st (Dominant: 20-60m), 2nd (Codominant: 25-30m), 3rd (15-20m), 4th (Herbaceous: 5m), 5th (Ground).
+
+#### 2. Monsoon Deciduous Forest
+- **Regions:** Neotropics (West Indies), Indo-Malaysian Zone, Eastern Africa & Northern Australia
+- **Rainfall:** 150 cm; **Main trees:** Sal, Teak, Bamboo (Jhum cultivation practiced).
+
+#### 3. Savanna Biome (Aw Climate)
+- Dominant **xeromorphic herbaceous plants** (African elephant grass).
+- **Regions:** Llanos (Colombia/Venezuela), South-Central Brazil, Guiana.
+- **Animals:** Marsupials (South America). No competition among animals here.
+- **A.F. Lamprey** divided savanna biome into **5 categories**.
+
+#### 4. Mediterranean Biome
+- Also called **Sclerophyll ecosystem / biome** (Dry summer, wet winter).
+- **Latitude:** 30° to 40°/45°N.
+- **Local Names:** Maquis (S. Europe), Chaparral (California), Fynbos (S. Africa), Mallee Scrub (Australia).
+
+#### 5. Temperate Grassland Biome
+- Located in **interior of continents** (Climax community species).
+- **Regional Names:** Steppes (Eurasia), Prairies (N. America), Pampas (S. America), Downs (Australia), Canterbury (New Zealand), Veld (Africa).
+- **'Dust Bowl'** — extensive cultivation of semi-arid prairie regions of Great Plains, USA.
+
+#### 6. Taiga / Boreal Forest (Temperate Coniferous)
+- **Siberian type of climate**; Temperature below 0°C for 6+ months.
+- **Regions:** Sub-arctic N. America, Scandinavia to Russian Siberia. Hardwood/broad-leaved deciduous trees; Caribou & moose.
+
+#### 7. Tundra Biome
+- Mean annual temp < 0°C; Lithosols (lichens and mosses).
+- **Tribes:** Eskimos, Samoyeds.
+
+#### 8. Marine Biome
+- **2/3 of the total area** of biomes. Up to 200 metres = **Photic Zone**.
+

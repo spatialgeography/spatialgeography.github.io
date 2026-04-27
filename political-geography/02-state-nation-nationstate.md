@@ -25,3 +25,19 @@
   - *Government*: Administrative structure.
   - *Sovereignty*: Supreme authority over its territory, free from external control.
 :::
+
+---
+
+### State, Nation, and Territoriality (NET Notes)
+
+#### Definitions & Etymology
+- **State:** Political entity with fixed territory. From Latin *'status'*. "I am the state" — Louis XIV. Four elements: Territory, Population, Government, Sovereignty.
+- **Nation:** Socio-cultural entity. From Latin *'nasci'* (to be born). Implies common ancestry.
+  - **Hartshorne (1950):** Kinship of belonging together, in-groups vs outsiders.
+  - **John Stuart Mill:** Mankind united by common sympathies.
+- **Nation-State:** Boundaries of state coincide with cultural boundaries of nation.
+- **Nationalism:** Desire of groups to achieve self-government.
+
+#### Territoriality
+- From **Robert Ardrey's** *The Territorial Imperative* (1966).
+- An area of space defended as an exclusive preserve; extended from animal behavior to human political geography.

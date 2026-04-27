@@ -20,3 +20,22 @@
 * **Strategies**: 3Rs (Reduce, Reuse, Recycle), substitution (finding alternatives), improving technological efficiency, afforestation, watershed management.
 * **Resource Development Regions of India**: Delineated based on homogeneity of physical and economic resources (e.g., Damodar Valley, Western Ghats) for targeted planning.
 :::
+
+---
+
+### Sustainable Development (NET Notes — Pulakesh Pradhan)
+
+> **Brundtland Commission (1987):** *"Development that meets the needs of the present without compromising the ability of future generations to meet their own needs"*
+
+#### Triple Bottom Line (3 Ps)
+- **People** (Social sustainability)
+- **Planet** (Environmental sustainability)
+- **Profit** (Economic sustainability)
+
+#### Renewable Resources
+- Can be replenished naturally
+- Examples: Solar energy, wind, water (hydro), biomass, tidal energy
+
+#### Non-Renewable Resources
+- Finite; cannot be replenished within human timescales
+- Examples: Coal, petroleum, natural gas, minerals, nuclear fuels

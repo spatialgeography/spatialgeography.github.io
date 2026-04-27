@@ -19,3 +19,12 @@
 * **Cluster Analysis**: Grouping a set of objects such that objects in the same group (cluster) are more similar to each other than to those in other groups. Used in regionalization (e.g., grouping districts based on socio-economic similarity).
 * **Time Series Analysis**: Analyzing sequence of data points over time to extract meaningful statistics. Components: Trend (long term), Cyclical, Seasonal, Irregular/Random variations. Used for climate data or population forecasting.
 :::
+
+---
+
+### Factor Analysis — Detailed (NET Notes — Pulakesh Pradhan)
+
+> A process in which values of observed data are expressed as functions of a number of possible causes to find the most important ones
+
+- Reduces large number of variables to fewer underlying factors
+- Used to identify spatial patterns of development, soil properties, urban structure, etc.

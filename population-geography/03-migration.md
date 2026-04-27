@@ -30,3 +30,39 @@
 * **Refugee and Displacement**: UNHCR data, internally displaced persons (IDPs), climate refugees.
 :::
 
+---
+
+### Migration Theories & Models (NET Notes)
+
+#### 1. Ravenstein's Laws of Migration (1885)
+- Short distance moves; long distance for industry/commerce
+- Agricultural to industrial areas
+- Most migration is rural to urban, proceeds step by stage
+- Females more migratory over short distances; males dominate international
+- Major cause is economic
+- Each stream produces a counter-stream
+
+#### 2. Push–Pull Theory — E.S. Lee (1966)
+- **Push:** Reasons to move OUT
+- **Pull:** Reasons to move INTO
+- **Intervening Obstacles:** Barriers between origin and destination
+- Volume is related to diversity of territory and difficulty of surmounting obstacles
+
+#### 3. Gravity Model — W.J. Reilly (1929)
+- Formula: $M_{ij} = k \cdot \frac{P_i \cdot P_j}{d_{ij}^2}$
+- Proportional to population size, inversely proportional to distance squared.
+- Derived from 'Law of Retail Gravitation' and Social Physics.
+
+#### 4. Intervening Opportunities — Stouffer (1940)
+- **No relation** between mobility and distance; depends on intervening opportunities.
+- Formula: $y = \frac{V_x}{x} k$
+
+#### 5. Zelinsky's Migration Transition Model
+- Linked to Demographic Transition:
+  - Stage 2: Rural to Urban
+  - Stage 3: Urban to Urban
+  - Stage 4: Urban agglomeration / Counter-urbanisation
+
+#### Internal Migration in India (Stream-wise)
+- **Streams:** Rural-Rural (64.21%), Rural-Urban (17.67%), Urban-Urban (11.70%), Urban-Rural (6.97%)
+- **Scale:** Intra-state (88.18%), Inter-state (11.82%)

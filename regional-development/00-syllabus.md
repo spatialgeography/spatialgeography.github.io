@@ -46,3 +46,39 @@
 - Regional planning in India
 - Regional Development and Social Movements in India
 :::
+
+---
+
+### NET Regional Planning — Detailed Syllabus (Pulakesh Pradhan)
+
+::: {.callout-important}
+#### Syllabus Topics
+- Regional concept in Geography and its application in planning
+- Concept of planning region
+- Regional hierarchy
+- Types of region and methods of regional delineation
+- Planning region: conceptual and theoretical framework of regional planning
+- Regional imbalances
+- Concept of development
+- Indicators of development
+:::
+
+---
+
+### Important Topics for NET
+
+::: {.callout-tip}
+#### High-Yield Topics
+- Regional concept in Geography
+- Planning region
+- Regional hierarchy
+- Types of region
+- Methods of regional delineation
+- Growth Pole theory
+- Core-Periphery model
+- Cumulative causation theory
+- Five Year Plans in India
+- Regionalisation schemes of India
+- Surveys for planning
+- Indicators and measures of regional disparities
+:::

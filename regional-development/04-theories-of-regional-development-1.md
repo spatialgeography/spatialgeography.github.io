@@ -23,3 +23,49 @@
   - *Polarization Effects* (similar to backwash) vs. *Trickle-down Effects* (similar to spread).
 * **Inclusive Growth:** Refers to growth that emphasizes **Poverty reduction and employment**, ensuring that the benefits of development reach all sections of society.
 :::
+
+---
+
+### Theories of Regional Development — Framework (NET Notes — Pulakesh Pradhan)
+
+#### Broad Groups
+
+**Regional Economic Convergence:**
+
+- **Export Base Theory** — demand side — **Douglas C. North, Tiebout**
+- **Exogenous Growth Theory** — supply side — **Harrod & Domar, Neoclassical, Solow & Swan**
+
+**Regional Economic Divergence:**
+
+- **Cumulative Causation Theory** — **Myrdal, Kaldor, Dixon**
+- **Growth Pole Theory** — **Perroux, Boudeville, Hirschman, Friedmann**
+
+**Structuralist:** Stage/Sector theories, Profit production, Industrial restructuring, Flexible specialization, Marxist theory
+
+**Political Institutions:** Growth machine theory, New Institutional Economics
+
+**Emerging Neoclassical:** Endogenous growth theories, New economic theories
+
+**Integrated Approach:** Combination of multiple explanatory frameworks
+
+---
+
+### Growth and Convergence Theories (NET Notes)
+
+#### Harrod-Domar Model
+- Supply-side / investment-based growth theory
+- **First Five Year Plan of India** based on **Harrod-Domar**
+
+#### Neo-Classical Growth Model
+- Associated with **Solow & Swan**
+- Self-equilibrating tendency in economy
+- Convergence hypothesis linked to **Ohlin** and **Samuelson**
+
+#### Export Base Theory
+- **Douglas C. North**
+- Emphasises role of **exogenous** forces in regional growth
+
+#### Investment Multiplier
+- **John Maynard Keynes**
+- Coefficient relating increase in investment to increase in income
+- Formula: K = ΔY / ΔI
