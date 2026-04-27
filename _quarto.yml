@@ -3,7 +3,8 @@ project:
   pre-render: python update_date.py
   output-dir: _site
   resources:
-    - "img/"
+    - "attachments/img/"
+    - "attachments/pdf/"
   render:
     - "*.qmd"
 

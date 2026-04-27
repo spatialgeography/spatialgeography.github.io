@@ -2,7 +2,7 @@
 
 **Derwent Whittlesey** proposed a comprehensive classification of the world's agricultural regions based on five functional and structural criteria.
 
-![Whittlesey's Classification of Agricultural Regions](img/Whittlesey.png)
+![Whittlesey's Classification of Agricultural Regions](attachments/img/Whittlesey.png)
 
 ### Five Criteria for Classification
 

@@ -9,8 +9,8 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 ## Previous Year Questions & Reference
 * [Geography in News](geography-in-news.html)
 * [Theories, Models, Books & Concepts](theories-models-concepts.html)
-* [UGC NET Previous Year Questions](ugc-net-pyq.html)
-* [West Bengal SET Previous Year Questions](wb-set-pyq.html)
+* [UGC NET  PYQs](ugc-net-pyq.html)
+* [West Bengal SET  PYQs](wb-set-pyq.html)
 * [PGT Geography PYQs](pgt-pyq.html)
 * [CUET-PG Geography PYQs](cuet-pg-pyq.html)
 * [Assistant Professor Geography PYQs](assistant-professor-pyq.html)
@@ -24,11 +24,10 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 * [Geomorphology](geomorphology.html)
 
 ### Unit II: Climatology
-* [Climatology (Detailed Course)](climatology.html)
-* [Climatology and Oceanography](climatology-and-oceanography.html)
+* [Climatology](climatology.html)
 
 ### Unit III: Oceanography
-* [Oceanography (Detailed Course)](oceanography.html)
+* [Oceanography](oceanography.html)
 
 ### Unit IV: Geography of Environment
 * [Environmental Geography and Biogeography](environmental.html)
