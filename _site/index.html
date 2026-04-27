@@ -302,16 +302,9 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="model-test-series.html">Geography Model Test Series</a></li>
 </ul>
 <hr>
-<section id="supplementary-resources" class="level3">
-<h3 class="anchored" data-anchor-id="supplementary-resources">Supplementary Resources</h3>
-<ul>
-<li><a href="reading-materials.html">Reading Materials &amp; Methodology</a></li>
-</ul>
-<hr>
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=zoRyOwVabxYy8pKXTEHm298M6YYDT9dmnyf3mucKRt4&amp;cl=ffffff&amp;w=a"></script>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -449,7 +442,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/spatialgeography\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
