@@ -21,4 +21,15 @@
   - *Universalizing*: Seek converts, widespread (Christianity, Islam, Buddhism).
   - *Ethnic*: Tied to a specific culture/location (Hinduism, Judaism).
 * **Languages**: Indo-European (largest), Sino-Tibetan, Niger-Congo, Afro-Asiatic. Language as the core carrier of culture and identity.
+* **World Linguistic Families — Key Branches/Groups**:
+
+| Linguistic Family | Key Branches/Groups | Example Languages |
+|:---|:---|:---|
+| **Indo-European** | Latin (Romance), Germanic, Indo-Aryan, Slavic | English, Hindi, Spanish, Russian |
+| **Sino-Tibetan** | Chinese, Thai, Tibeto-Burman | Mandarin, Thai, Burmese |
+| **Semito-Hamitic (Afro-Asiatic)** | Semitic, Egyptian, Berber, Cushitic | Arabic, Hebrew, Amharic |
+| **African (Niger-Congo)** | Bantu, Khoisan | Swahili, Zulu, !Kung |
+| **Dravidian** | Tamil, Telugu, Kannada, Malayalam | South Indian languages |
+| **Austric** | Austroasiatic, Austronesian | Khmer, Malay, Santali |
+
 :::

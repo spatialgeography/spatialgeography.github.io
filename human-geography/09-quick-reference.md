@@ -25,10 +25,23 @@
 
 ### Approaches in Human Geography
 
+- **Areal Differentiation:** (Hartshorne, 1939) Study of how areas differ from one another in terms of physical and human characteristics. A core approach in Human Geography.
+- **Spatial Organisation:** Understanding how features are arranged in space — patterns, networks, hierarchies.
 - **Quantitative Revolution:** (1950s) Introduction of statistical models and spatial analysis (Haggett, Chorley).
 - **Behavioural Geography:** Focus on cognitive processes, mental maps, and decision making (Kirk, Wolpert).
 - **Humanistic Geography:** Focus on human experience, meaning, and values (Yi-Fu Tuan, Anne Buttimer).
 - **Radical Geography:** Marxist critique of spatial inequality and capitalism (David Harvey, Richard Peet).
+
+
+
+### Spatial Concepts
+
+| Concept | Definition |
+|:---|:---|
+| **Pattern** | A set of specific points and their relative locations (spatial arrangement of features) |
+| **Network** | A system of interconnected lines/routes (e.g., roads, rivers, railways) |
+| **Area** | A bounded two-dimensional surface on the Earth |
+| **Hierarchy** | A graded arrangement of features by size, importance, or function |
 
 
 Notes compiled by Geography Team

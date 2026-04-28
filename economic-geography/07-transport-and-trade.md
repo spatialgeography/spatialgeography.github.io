@@ -36,7 +36,27 @@
   - *T. Hägerstrand:* Spatial Interaction Model
 * **Global Trade Patterns**: Shift from North-North dominance to increasing South-South and intra-regional trade. Role of WTO, regional trade blocs (EU, NAFTA/USMCA, ASEAN, MERCOSUR).
   - *WTO Equal Treatment Rule:* Ensures the same trade benefits for all members.
+  - *WTO Headquarters:* **Geneva**, Switzerland.
+* **Trade Key Terms**:
+  - **Dumping**: The practice of selling a product in a foreign market at a price lower than its domestic price — considered an unfair trade practice.
+  - **Balance of Trade**: The difference between the total value of a country's exports and imports over a period.
+  - **Free Trade**: Exchange of goods and services between countries without tariff or non-tariff barriers.
+  - **Bilateral Trade**: Trade between two countries. **Multilateral Trade**: Trade among many countries simultaneously.
+* **Regional Trade Blocs (HQ)**:
+  - **ASEAN** — Jakarta | **EU** — Brussels | **OPEC** — Vienna | **LAIA** — Montevideo
 * **Globalisation Impacts:** Negative impacts can include the exploitation of labour due to low wages in developing nations.
+* **Port Classification**:
+  - **Port of Call**: Ports where ships stop for refueling, supplies, or transshipment (e.g., **Aden, Singapore**).
+  - **Oil Port**: e.g., Maracaibo | **Ferry Port**: e.g., Dover | **Naval Port**: e.g., Karwar | **Inland Port**: e.g., Memphis.
+* **Trans-Continental Railways — Terminals**:
+  - **Trans-Siberian**: St. Petersburg – Vladivostok
+  - **Trans-Canadian**: Halifax – Vancouver
+  - **Trans-Australian**: Perth – Sydney
+  - **Union and Pacific**: New York – San Francisco
+* **Busiest Ocean Routes**: The **North Atlantic Route** is the busiest ocean route in the world.
+* **Suez and Panama Canals**:
+  - Suez Canal (opened **1869**): Connects Mediterranean Sea and Red Sea.
+  - Panama Canal (opened **1914**): Connects Atlantic Ocean and Pacific Ocean; has a **lock system**.
 :::
 
 

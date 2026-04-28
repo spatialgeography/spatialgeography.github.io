@@ -23,7 +23,10 @@
   - **Second Five Year Plan:** Based on the **P. C. Mahalanobis Model**, which emphasized heavy industrialization.
   - **National Income Estimation:** The data for the estimation of India's National Income is issued by the **Central Statistical Organisation (CSO)**.
 * **Target Area/Group Planning**: Addressed specific geographic disadvantages.
-  - *Area*: Drought Prone Area Prog (DPAP), Hill Area Development Prog (HADP), Command Area Development (CAD).
+  - *Area*: Drought Prone Area Prog (DPAP), Hill Area Development Prog (HADP — initiated in **5th Five Year Plan**), Command Area Development (CAD).
+  - **National Rural Employment Programme (NREP)**: First implemented in the **6th Five Year Plan**.
+  - **Rashtriya Sam Vikas Yojana (RSVY)**: Initiated in **2004-05** to reduce regional imbalances and accelerate development of backward districts.
+  - **Aspirational Districts Programme (2018)**: Assessed under **5 broad socio-economic themes** — Health & Nutrition, Education, Agriculture & Water Resources, Financial Inclusion & Skill Development, and Basic Infrastructure.
   - *Groups*: Tribal Sub Plan (TSP), Special Component Plan for Scheduled Castes.
 :::
 

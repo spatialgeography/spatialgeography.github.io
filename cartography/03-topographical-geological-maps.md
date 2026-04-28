@@ -20,6 +20,10 @@
   - *Strike*: The direction of the line formed by the intersection of a rock surface with a horizontal plane.
   - *Dip*: The acute angle that a rock surface makes with a horizontal plane (magnitude and direction).
 * **Slope Analysis**: Techniques like Wentworth's or Smith's method to derive quantitative slope data from contour lines on topomaps.
+* **Contouring**: In contouring, the existence of a **statistical surface** is assumed (a continuous surface that can be represented by values at points).
+* **Map Sheet Hierarchy (SOI)** — ascending order of area covered (smaller to larger):
+  - **Inch Sheet** (1:63,360) → **Quadrant Sheet** (quarter of a degree sheet) → **Degree Sheet** (1° × 1°) → **Million Sheet** (1:1,000,000, 4° × 4°).
+* **Invisible Features on Maps**: Features like **boundaries** (political, administrative) are intangible/invisible on the ground but shown on maps, unlike villages, towns, or rivers.
 :::
 
 

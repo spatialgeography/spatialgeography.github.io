@@ -68,6 +68,8 @@ A biome is a large-scale biotic community characterized by dominant vegetation t
 #### 6. Taiga / Boreal Forest (Temperate Coniferous)
 - **Siberian type of climate**; Temperature below 0°C for 6+ months.
 - **Regions:** Sub-arctic N. America, Scandinavia to Russian Siberia. Hardwood/broad-leaved deciduous trees; Caribou & moose.
+- **Coniferous Tree Examples:** Spruce, Fir, Pine, Larch, Cedar. **Mahogany** is NOT a coniferous tree — it is a tropical hardwood.
+- **Chernozem Soils (Black Earth):** Rich, fertile grassland soils ideal for wheat cultivation — found in Ukraine, Russia's steppe region, and Canadian prairies.
 
 #### 7. Tundra Biome
 - Mean annual temp < 0°C; Lithosols (lichens and mosses).

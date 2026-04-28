@@ -21,6 +21,15 @@ The geography of villages and agricultural communities.
   - **Nucleated pattern:** Typically associated with regions of **intensive cropping**.
   - **Hamlet Settlements:** Form through historical farming practices and are community oriented, with less extensive transport networks. They generally do *not* decline due to government intervention through investments in rural areas.
   - **Cruciform Village:** A rural settlement pattern that develops at the junction of two roads, providing the **best road network** among rural types.
+* **Settlement Types by Spacing (CUET PG)**:
+
+| Type | Characteristic |
+|:---|:---|
+| **Clustered (Compact)** | Closely built-up area with houses near each other |
+| **Semi-clustered** | A large village with segregation between parts/communities |
+| **Hamleted** | Units of the village are separated physically from each other |
+| **Dispersed** | Isolated huts or very small settlements, widely spread out |
+
 - **Nearest Neighbour Analysis:** Used to measure the degree of **clustering** or **dispersion** in a settlement pattern.
 - **E. Bylund:** Proposed a model for the **expansion of rural settlements** based on a physical-geographic approach.
 * **Settlement Patterns in India**: Compact villages (Punjab), dispersed (hills), semi-clustered (Gujarat).

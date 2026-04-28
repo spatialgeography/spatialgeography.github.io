@@ -51,6 +51,21 @@
 
 
 
+### Climograph
+
+- A graphical representation of climatic conditions at a specific place.
+- **Axes**: Relative Humidity on the **Y-axis** and Dry Bulb Temperature on the **X-axis**.
+- **Corners and Climatic Conditions**:
+
+| Corner | Position | Climatic Condition |
+|:---|:---|:---|
+| **N.W.** | High humidity, Low temp | **Raw** (cold and damp) |
+| **N.E.** | High humidity, High temp | **Muggy** (hot and humid) |
+| **S.W.** | Low humidity, Low temp | **Keen** (cold and dry) |
+| **S.E.** | Low humidity, High temp | **Scorching** (hot and dry) |
+
+
+
 ### Triangulation Graph (NET Notes)
 
 - Data is represented in a three-sided triangular graph

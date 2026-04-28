@@ -15,6 +15,7 @@
 ::: {.callout-note}
 ### Key Concepts
 * **Fertility Measures**: Crude Birth Rate (CBR), General Fertility Rate (GFR), Age-Specific Fertility Rate (ASFR), Total Fertility Rate (TFR), Gross/Net Reproduction Rate (GRR/NRR).
+  - **CBR Formula:** CBR = (Bᵢ / P) × 1000, where Bᵢ = number of live births in a year, P = mid-year population.
 * **Fecundity:** The biological **capacity to reproduce** (the potential to bear children), as opposed to **fertility**, which is the actual reproductive performance.
 * **Net Reproduction Rate (NRR):** The number of daughters that would be born to a female if she passed through her lifetime conforming to the age-specific fertility and mortality rates.
 * **Determinants of Fertility**: Age at marriage, education (especially female), contraceptive use, economic development, cultural and religious factors, government policies.

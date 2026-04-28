@@ -101,7 +101,17 @@
 
 
 
-#### 5. ANOVA — Detailed Assumptions
+#### 5. Poisson Distribution
+
+- A **discrete** probability distribution expressing the probability of a given number of events occurring in a fixed interval.
+- **Formula:** $f(x) = \frac{e^{-m} \cdot m^x}{x!}$, where $m$ = mean number of events, $x$ = actual number of events.
+- Used for rare events (e.g., number of accidents, disease occurrences in a region).
+- Mean = Variance = $m$.
+- Named after **Siméon Denis Poisson** (1837).
+
+
+
+#### 6. ANOVA — Detailed Assumptions
 1. Independence of samples
 2. Normal population
 3. Same population variance

@@ -13,6 +13,17 @@ Categorizing human settlements.
 * **Dispersed vs. Nucleated**: Isolated farmsteads vs. compact village forms.
 * **Linear, Circular, Star-shaped**: Settlement plan forms and their geographic determinants.
 * **Hamlet, Village, Town, City, Metropolis, Megalopolis**: Hierarchical classification by size and function.
-* **Functional Classification**: Administrative, industrial, commercial, mining, transport, and educational towns.
+* **Functional Classification of Towns**:
+
+| Town Type | Function | Examples |
+|:---|:---|:---|
+| **Administrative** | Seat of government / capital | Canberra, Chandigarh, New Delhi |
+| **Educational** | Centers of learning / universities | Roorkee, Oxford, Cambridge |
+| **Religious** | Pilgrimage / holy city | Jerusalem, Varanasi, Mecca |
+| **Industrial** | Manufacturing hubs | Jamshedpur, Pittsburgh, Bhilai |
+| **Mining** | Mineral extraction centers | Dhanbad, Raniganj |
+| **Transport** | Railway junctions / port cities | Mughal Sarai, Kandla |
+| **Commercial** | Trade and finance centers | Mumbai, Singapore |
+
 :::
 

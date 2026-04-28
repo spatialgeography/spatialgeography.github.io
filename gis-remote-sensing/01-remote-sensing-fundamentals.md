@@ -33,6 +33,18 @@
   - **CartoDEM:** This digital elevation model has its origin in **India**.
   - **INSAT (Indian National Satellite):** Series of multipurpose geostationary satellites used for **Meteorology**, telecommunications, and broadcasting.
   - **EOS-01:** An Indian SAR-based (Synthetic Aperture Radar) earth imaging satellite launched in 2020.
+* **Focal Plane**: The area in the camera body where the film (or sensor) is held flat during an exposure. It lies at the focal length distance behind the lens.
+* **GPS (Global Positioning System) — Three Segments**:
+  - **Space Segment**: Constellation of satellites orbiting the Earth (24+ satellites in 6 orbital planes).
+  - **Control Segment**: Ground stations that track GPS satellites and upload updated navigational data.
+  - **User Segment**: GPS receivers used by individuals/organizations to determine position.
+* **Mid-Infrared (MIR) Waveband**: Can be used to **discriminate among clouds, snow, and ice** — snow and ice have high absorption in MIR while clouds reflect differently, enabling differentiation.
+* **Aerial Photo Interpretation — Key Elements**:
+  - **Tone/Colour**: Railway lines appear as dark thin lines; concrete highways appear in a bright tone.
+  - **Texture**: Helps identify areas with vegetative cover, crops, pastures, etc.
+  - **Shape**: Aids in visualising relief dimensions.
+  - **Pattern**: Drainage network patterns give definite indications of underlying rock type, structure, and soil characteristics.
+  - **Shadow, Size, Site, Association**: Other fundamental elements used in visual interpretation.
 * **Image Processing & ML:*
   - **Random Forest:** A widely used and effective machine learning algorithm based on the idea of **bagging**.
   - **FCC Representation:** In a standard FCC of the winter season, **laterite duricrusts** are typically represented in **Brown**.
