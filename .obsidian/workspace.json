@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "environmental/ecosystem-their-management-and-conservation.md",
+                "file": "climatology/01-atmosphere-composition-structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ecosystem-their-management-and-conservation"
+              "title": "Backlinks for 01-atmosphere-composition-structure"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,20 +184,20 @@
   },
   "active": "524f691a449c7fcf",
   "lastOpenFiles": [
-    "_site/search.json",
-    "_site/styles.css",
-    "_site/attachments/pdf/NEP-2020 Geography (U.G).pdf",
-    "_site/attachments/pdf",
+    "site_libs/quarto-html/tabsets/tabsets.js",
+    "site_libs/quarto-html/axe/axe-check.js",
+    "site_libs/quarto-html/tippy.umd.min.js",
+    "site_libs/quarto-html/tippy.css",
+    "site_libs/quarto-html/tabsets",
+    "site_libs/quarto-html/quarto.js",
+    "site_libs/quarto-html/quarto-syntax-highlighting-68c8bffd90dad8f2b55c52d7b6410dc0.css",
+    "site_libs/quarto-html/popper.min.js",
+    "site_libs/quarto-html/anchor.min.js",
+    "site_libs/quarto-html/axe",
+    "site_libs/quarto-html",
     "_site/attachments/img/research_data.gif",
     "_site/attachments/img/isostasy-models.png",
     "_site/attachments/img/Whittlesey.png",
-    "_site/attachments/img",
-    "_site/attachments",
-    "_site/site_libs/quarto-html/tabsets/tabsets.js",
-    "_site/site_libs/quarto-html/axe/axe-check.js",
-    "_site/site_libs/quarto-search/quarto-search.js",
-    "_site/site_libs/quarto-search/fuse.min.js",
-    "_site/site_libs/quarto-search/autocomplete.umd.js",
     "attachments/img/Whittlesey.png",
     "attachments/img/research_data.gif",
     "attachments/img/isostasy-models.png",
