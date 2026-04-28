@@ -111,7 +111,7 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 * [UGC NET  PYQs](ugc-net-pyq.html)
 * [West Bengal SET  PYQs](wb-set-pyq.html)
 * [PGT Geography PYQs](pgt-pyq.html)
-* [CUET-PG Geography PYQs](cuet-pg-pyq.html)
+* [CUET-PG Geography PYQs](cuet-pg-pyq.html) <sup>**<span style="color:red">NEW</span>**</sup>
 * [Assistant Professor Geography PYQs](assistant-professor-pyq.html)
 * [Geography Model Test Series](model-test-series.html)
 
