@@ -1,0 +1,36 @@
+---
+title: Indian Physical
+---
+
+# Indian Physical Index
+
+* [[01-physiographic-divisions]]
+* [[02-climate-and-regional-variations]]
+* [[03-vegetation-types-and-regions]]
+* [[04-major-soil-types]]
+* [[05-coastal-and-marine-resources]]
+* [[06-water-resources-and-irrigation]]
+* [[07-climatic-regions]]
+* [[08-major-industries-and-industrial-regions]]
+* [[09-biotic-and]]
+* [[10-course-content]]
+* [[11-drainage-system-and-watersheds]]
+* [[12-drainage-systems]]
+* [[13-energy-crisis]]
+* [[14-floods-and-droughts]]
+* [[15-forest-and-wild-life-resources-and-their-conservation]]
+* [[16-ground-water]]
+* [[17-indian-climate]]
+* [[18-land-surface-and]]
+* [[19-mechanism-of-indian-monsoons-and-rainfall-patterns]]
+* [[20-mineral-energy-resources]]
+* [[21-minerals]]
+* [[22-natural-vegetation]]
+* [[23-physiographic-regions]]
+* [[24-soil-types-and-their-distributions]]
+* [[25-soils-of-india]]
+* [[26-space-relationship-of-india-with-neighbouring-countries]]
+* [[27-structure-and-relief]]
+* [[28-tropical-cyclones-and-western-disturbances]]
+* [[29-key-scholars-indian-physical]]
+* [[30-quick-reference]]
