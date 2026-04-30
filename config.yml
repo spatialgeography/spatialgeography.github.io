@@ -1,0 +1,50 @@
+select_origin: directory
+files_origin: ./
+nodes_origin: null
+links_origin: null
+nodes_online: null
+links_online: null
+images_origin: null
+export_target: ./
+history: true
+focus_max: 2
+record_types:
+  undefined:
+    fill: "#858585"
+    stroke: "#858585"
+link_types:
+  undefined:
+    stroke: simple
+    color: "#e1e1e1"
+references_as_nodes: false
+references_type_label: references
+record_filters: []
+graph_background_color: "#ffffff"
+graph_highlight_color: "#ff6a6a"
+graph_highlight_on_hover: true
+graph_text_size: 10
+graph_arrows: true
+node_size_method: degree
+node_size: 10
+node_size_max: 20
+node_size_min: 2
+attraction_force: 200
+attraction_distance_max: 250
+attraction_vertical: 0
+attraction_horizontal: 0
+views: {}
+record_metas: []
+generate_id: always
+link_context: tooltip
+hide_id_from_record_header: false
+title: null
+author: null
+description: null
+keywords: []
+link_symbol: null
+csl: null
+bibliography: null
+csl_locale: null
+css_custom: null
+devtools: false
+lang: en
