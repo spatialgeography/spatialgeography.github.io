@@ -5,6 +5,7 @@ project:
   resources:
     - "attachments/img/"
     - "attachments/pdf/"
+    - "cosmoscope.html"
   render:
     - "*.qmd"
 
@@ -19,7 +20,7 @@ website:
       This content is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
     center: |
       &copy; 2026 <a href="https://pulakeshpradhan.github.io/">Pulakesh Pradhan</a><br>
-      Last Updated: April 28, 2026
+      Last Updated: April 30, 2026
 
     right: |
       [<i class="bi bi-youtube"></i> YouTube](https://www.youtube.com/@SpatialGeography)
