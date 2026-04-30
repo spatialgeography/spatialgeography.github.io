@@ -5,7 +5,7 @@ project:
   resources:
     - "attachments/img/"
     - "attachments/pdf/"
-    - "cosmoscope.html"
+    - "knowledgegraph.html"
   render:
     - "*.qmd"
 

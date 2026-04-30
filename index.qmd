@@ -9,7 +9,7 @@ Welcome to **Geography OpenCourseWare** — a curated, open-access platform desi
 ## Quick Reference
 * [Geography in News](geography-in-news.html)
 * [Theories, Models, Books & Concepts](theories-models-concepts.html) <sup>**<span style="color:red">NEW</span>**</sup>
-* [Interactive Knowledge Graph](cosmoscope.html) <sup>graph</sup>
+* [Interactive Knowledge Graph](knowledgegraph.html) <sup>graph</sup>
 
 ---
 
