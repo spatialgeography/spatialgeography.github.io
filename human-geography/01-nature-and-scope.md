@@ -1,4 +1,4 @@
-## Nature, Scope, and Concepts of Human Geography
+## Nature, Scope, and Concepts of Human
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

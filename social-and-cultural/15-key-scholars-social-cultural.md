@@ -1,4 +1,4 @@
-## Key Scholars — Social & Cultural Geography
+## Key Scholars — Social & Cultural
 
 ### Contributors and Their Contributions (NET Notes — Pulakesh Pradhan)
 

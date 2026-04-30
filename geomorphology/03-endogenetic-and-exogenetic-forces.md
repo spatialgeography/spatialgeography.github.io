@@ -1,4 +1,4 @@
-## Endogenetic Forces: Volcanoes, Earthquakes, Folds, and Faults
+## Endogenetic Forces: Volcanoes, Earthquakes, Folds, and
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

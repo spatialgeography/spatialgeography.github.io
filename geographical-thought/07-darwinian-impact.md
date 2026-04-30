@@ -1,4 +1,4 @@
-## Impact of Darwinian Theory on Geographical Thought
+## Impact of Darwinian Theory on Geographical
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

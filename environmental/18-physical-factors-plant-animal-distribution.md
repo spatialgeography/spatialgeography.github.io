@@ -1,4 +1,4 @@
-## Physical Factors Influencing World Distribution of Plants and Animals
+## Physical Factors Influencing World Distribution of
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

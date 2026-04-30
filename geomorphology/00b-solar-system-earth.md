@@ -1,4 +1,4 @@
-## Solar System and Earth as a Planet
+## Solar System and Earth as a
 
 ### The Solar System
 

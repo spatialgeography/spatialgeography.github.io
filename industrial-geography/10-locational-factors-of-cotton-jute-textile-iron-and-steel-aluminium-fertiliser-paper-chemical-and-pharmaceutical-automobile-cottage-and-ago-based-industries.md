@@ -1,3 +1,3 @@
-### Locational factors of cotton, jute, textile, iron and steel, aluminium, fertiliser, paper, chemical and pharmaceutical, automobile, cottage and ago-based industries
+### Locational factors of cotton, jute, textile
 
 Content for Locational factors of cotton, jute, textile, iron and steel, aluminium, fertiliser, paper, chemical and pharmaceutical, automobile, cottage and ago-based industries coming soon.

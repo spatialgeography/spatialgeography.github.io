@@ -1,4 +1,4 @@
-## Internal Morphology of Cities and Urban Models
+## Internal Morphology of Cities and Urban
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

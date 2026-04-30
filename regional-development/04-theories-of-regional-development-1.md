@@ -1,4 +1,4 @@
-## Theories of Regional Development: Perroux, Myrdal, Hirschman
+## Theories of Regional Development: Perroux, Myrdal
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

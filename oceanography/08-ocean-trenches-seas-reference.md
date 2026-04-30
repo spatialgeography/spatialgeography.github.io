@@ -1,4 +1,4 @@
-## Ocean Trenches, Seas and Ridges — Reference
+## Ocean Trenches, Seas and Ridges —
 
 ### Complete Ocean Trenches Reference (NET Notes — Pulakesh Pradhan)
 

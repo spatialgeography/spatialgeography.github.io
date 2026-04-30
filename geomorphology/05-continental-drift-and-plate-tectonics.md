@@ -1,4 +1,4 @@
-## Continental Drift, Plate Tectonics, and Sea Floor Spreading
+## Continental Drift, Plate Tectonics, and Sea
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

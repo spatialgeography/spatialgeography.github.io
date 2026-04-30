@@ -1,4 +1,4 @@
-## Water Resources and Major Irrigation Projects in India
+## Water Resources and Major Irrigation Projects
 
 India has developed numerous multi-purpose projects to manage its water resources for irrigation, power generation, and flood control.
 

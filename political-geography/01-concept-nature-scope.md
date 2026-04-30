@@ -1,4 +1,4 @@
-## Concept, Nature, and Scope of Political Geography
+## Concept, Nature, and Scope of Political
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

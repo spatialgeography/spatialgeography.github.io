@@ -1,4 +1,4 @@
-## Regional Development and Social Movements in India
+## Regional Development and Social Movements in
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

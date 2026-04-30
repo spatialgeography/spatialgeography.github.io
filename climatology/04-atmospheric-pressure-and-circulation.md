@@ -1,4 +1,4 @@
-## Atmospheric Pressure, General Circulation and Planetary Winds
+## Atmospheric Pressure, General Circulation and Planetary
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

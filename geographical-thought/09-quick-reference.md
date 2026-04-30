@@ -1,4 +1,4 @@
-## Key Books, Authors & Models — Quick Reference
+## Key Books, Authors & Models —
 
 | Book / Concept | Author |
 |:---|:---|

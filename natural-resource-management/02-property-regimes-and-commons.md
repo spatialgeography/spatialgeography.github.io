@@ -1,4 +1,4 @@
-## Property Regimes and The Tragedy of the Commons
+## Property Regimes and The Tragedy of
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage

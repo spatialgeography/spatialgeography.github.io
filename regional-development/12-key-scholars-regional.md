@@ -1,4 +1,4 @@
-## Key Scholars — Regional Planning & Development
+## Key Scholars — Regional Planning &
 
 ### Contributors and Their Contributions (NET Notes — Pulakesh Pradhan)
 

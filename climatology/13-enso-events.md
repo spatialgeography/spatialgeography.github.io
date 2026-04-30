@@ -1,4 +1,4 @@
-## El Niño, La Niña & Southern Oscillation (ENSO)
+## El Niño, La Niña & Southern
 
 ::: {.callout-warning}
 #### 📘 Syllabus Coverage
